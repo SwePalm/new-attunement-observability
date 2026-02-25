@@ -49,6 +49,18 @@ output/YYYY-MM/
 ## 📊 Progress Tracking
 The `PROGRESS.md` file in the current month's folder ensures resumability and strict sequential processing across all 22 themes. It tracks which themes are Pending `[ ]`, In Progress `[/]`, or Completed `[x]`.
 
+## 🗓 Monthly Operating Procedure
+Recommended monthly cadence (run date target: the 25th of each month):
+
+1. Run the orchestrator for all 22 themes (Steps `00` to `05`).
+2. Review quality across generated scenarios and evaluations.
+3. If needed, regenerate weak themes before synthesis.
+4. Run `outlook-generator` manually in `debug` mode first.
+5. Review the debug Outlook for readability and grounding.
+6. Run `outlook-generator` in `production` mode for final publication output.
+
+`outlook-generator` is intentionally kept outside orchestrator so final synthesis happens after quality review.
+
 ## ⚙️ Feature Flags
 - `USE_DEEP_RESEARCH`: Set to `true` for production monthly runs. When set to `false`, `evidence-layer` may run in mock/development mode.
 
