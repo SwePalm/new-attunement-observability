@@ -1,0 +1,24 @@
+# Progress Tracker - 2026-02
+
+- [x] Agency
+- [ ] Trust
+- [ ] Perception
+- [ ] Memory
+- [ ] Identity
+- [ ] Authority
+- [ ] Creativity
+- [ ] Labor
+- [ ] Governance
+- [ ] Truth
+- [ ] Desire
+- [ ] Dependency
+- [ ] Autonomy
+- [ ] Coordination
+- [ ] Intelligence
+- [ ] Power
+- [ ] Responsibility
+- [ ] Alignment
+- [ ] Learning
+- [ ] Security
+- [ ] Belonging
+- [ ] Meaning
