@@ -1,8 +1,8 @@
 Structural Question:
-Will legal and institutional accountability for AI agents in high-impact workflows mature fast enough in the next 24 months to allow scaled delegation without systemic trust collapse?
+Will legal and institutional accountability for AI agents in high-impact workflows mature fast enough in the next 24 months to support scaled delegation without trust breakdown?
 
 Why It Matters:
-Agency is shifting from recommendation to delegated action, where systems do not just advise but execute tasks across procurement, operations, customer service, and personal workflows. When execution moves faster than governance, a single design flaw can become a distributed institutional failure rather than an isolated product bug. The next 6-24 months will determine whether accountability is embedded as a precondition for deployment or retrofitted after public harm, with major consequences for adoption velocity and legitimacy.
+AI systems are moving from recommendation to action across customer service, operations, compliance, and public administration. In this transition, failures are no longer only model-quality failures; they become governance failures about who authorized the action, who can intervene, and who is accountable for harm. The next 6–24 months are a structural hinge: institutions that operationalize accountability architecture early will scale safely, while those that optimize for speed alone will face legal, political, and legitimacy shocks.
 
 Volatility Level:
 high
