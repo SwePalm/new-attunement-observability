@@ -51,7 +51,7 @@ Provide a short 2-4 sentence note that explains this document was synthesized fr
 Provide a concise 150-220 word summary for decision-makers.
 
 Requirements:
-- Write this section last, after completing Sections 1-5.
+- Write this section last, after completing Sections 1-6.
 - Synthesize the core movements, pressure points, and near-term decision stakes.
 - Keep language plain and high-signal.
 - No bullet list; one compact prose block.
@@ -111,6 +111,7 @@ Describe:
 
 Remain grounded in scenario evidence.
 Keep readability high for non-specialist readers: short paragraphs, plain language, and concrete collision examples.
+Include at least one concrete operational example sentence that makes a tension observable in practice (without adding narrative story prose).
 
 Do not dramatize.
 Do not predict collapse.
@@ -139,11 +140,31 @@ Use clear subheadings for readability:
 
 ---
 
-## 5. Questions Worth Asking
+## 5. What Would Change This Direction?
+
+Add a short contingency section before the final questions section.
+
+Purpose:
+- Keep the outlook contingent and intellectually honest.
+- Clarify what developments could materially shift the near-term trajectory.
+
+Address briefly:
+- What could weaken accountability hardening?
+- What could reduce governance fragmentation?
+- What could absorb or reduce meaning pressure?
+
+Constraints:
+- No prediction claims.
+- No collapse framing.
+- Keep 0-5 year discipline.
+
+---
+
+## 6. Questions Worth Asking
 
 End with thoughtful, open questions:
 
-- What should institutions be watching?
+- What should organisations be watching?
 - What trade-offs are becoming visible?
 - What assumptions deserve scrutiny?
 - What human values risk being sidelined?
@@ -184,6 +205,8 @@ This document should feel like a calm, serious reflection on what is taking shap
 - `Reading Note` is present and brief.
 - `Executive Summary` is present and written after the body is complete.
 - Section 2 uses 5 aggregated lenses (one subsection per lens).
+- Section 3 includes at least one concrete operational example sentence.
+- A contingency section is included before final questions.
 - At least 4 of the 5 movements are clearly recurrent across the corpus.
 - Any movement that appears in fewer scenarios is justified as an early but consequential shift.
 - Section 4 stays within 0–5 years and avoids distant anchors.

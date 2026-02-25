@@ -89,6 +89,7 @@ Over time, this normalization can be positive when it creates predictable rights
 The five movements reinforce one another, but they do not produce harmony. They produce managed tension. The key near-term question is whether organisations can keep that tension governable.
 
 A first pressure chain runs from delegation expansion to intervention bottlenecks. As more workflows are delegated, more edge cases appear. As edge cases rise, demand for accountable intervention increases. But intervention capacity does not scale automatically. It depends on training, authority design, staffing, and cross-team coordination. If those lag, formal recourse can exist while practical recourse weakens.
+When exception queues double while intervention staffing remains flat, correction quality typically degrades even if compliance reporting cadence remains stable.
 
 A second pressure chain runs from fragmentation to defensive overhead. Overlapping obligations can make organisations spend disproportionate effort proving control rather than improving outcomes. This creates a paradox: accountability artifacts increase while lived responsiveness declines. Users then experience a system that looks compliant but feels unhelpful.
 
@@ -148,7 +149,17 @@ Key decisions include:
 
 These decisions are practical and immediate. They do not require distant projections. They require disciplined operating choices in the present window.
 
-## 5. Questions Worth Asking
+## 5. What Would Change This Direction?
+
+Several developments could materially shift the current trajectory within the same 0-5 year window.
+
+Accountability hardening could weaken if organisations face sustained cost pressure that pushes them to treat intervention functions as optional overhead rather than core operating capacity. It could also weaken if incident transparency declines and feedback loops become slower, making control failures harder to detect early.
+
+Fragmentation could reduce if evidence standards, incident taxonomies, and audit expectations become more interoperable across regulators, procurement frameworks, and counterparties. Even partial convergence in these areas would lower defensive complexity and free capacity for outcome improvement.
+
+Meaning pressure could ease if organisations redesign frontline experience for recognitional fairness, not only procedural consistency. In practice, that means clearer contestability, more intelligible explanations, and stronger human participation in high-impact exceptions. If people can see where their voice matters, efficiency gains are less likely to be interpreted as social displacement.
+
+## 6. Questions Worth Asking
 
 ### Organisations
 - Are our escalation pathways genuinely usable during stress conditions, or primarily compliant in documentation?
