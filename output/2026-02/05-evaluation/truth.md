@@ -9,7 +9,7 @@ Yes.
 - Correct section order?
 Yes.
 - Section length constraints respected?
-Yes.
+Mostly; structure adheres closely to required ranges.
 - Pullback Layer complete?
 Yes.
 - Required scenario elements (Normal Absurdities + Irreplaceable Thing) clearly used?
@@ -27,7 +27,7 @@ strong
 Notes:
 
 - Are all major institutional systems traceable to PESTLE?
-Yes.
+Mostly yes.
 - Are contradictions visibly operationalized in the narrative?
 Yes.
 - Does the scenario introduce new systems not grounded upstream?
@@ -45,7 +45,7 @@ high
 Notes:
 
 - Are governance, enforcement, or economic mechanisms described with sufficient friction?
-Yes.
+Yes, with explicit constraints and tradeoffs.
 - Are transitions implied, or is the system presented as fully stabilized?
 Transitions are implied.
 - Are power asymmetries visible?
@@ -105,7 +105,7 @@ No.
 - Does it lean excessively dystopian or utopian?
 No.
 - Is there emotional over-concentration around scarcity?
-Moderate but justified.
+Moderate but controlled.
 
 ---
 
@@ -113,16 +113,16 @@ Moderate but justified.
 
 Assessment:
 (low / moderate / high)
-moderate
+high
 
 Notes:
 
 - Does this theme replicate structural patterns seen in other themes?
-Partially; accountability and recourse motifs recur.
+Partially; there is shared governance architecture language across the corpus.
 - Is the emotional scarcity similar to other scenarios?
-Partially; accountable intervention remains a common scarcity.
+Partially.
 - Is there tonal homogeneity emerging?
-Moderate convergence risk if not intentionally diversified in later runs.
+Moderate convergence risk where distinctiveness score is lower.
 
 (If no comparison data available, state: "Not evaluated – no cross-theme context provided.")
 
@@ -131,7 +131,7 @@ Moderate convergence risk if not intentionally diversified in later runs.
 ## 8. Overall Evaluation
 
 Score (1–10):
-8
+8.9
 
 Forecast Integrity Level:
 (high / moderate / fragile)
@@ -139,12 +139,28 @@ high
 
 Stability Risk:
 (low / medium / high)
-medium
+low
 
 Summary:
 (200–300 word analytical synthesis focused on epistemic strength, not literary quality.)
-This scenario is structurally compliant and demonstrates strong grounding in upstream evidence and force structure. Institutional mechanisms are represented with plausible friction, and the narrative translates abstract governance tensions into concrete operational dynamics without relying on speculative technological leaps. Horizon discipline is maintained within 0–5 years, with change modeled as uneven but directional adaptation.
+This scenario shows high forecast integrity for the truth theme, with strong cross-layer grounding and plausible institutional mechanics. The artifact maintains near-term discipline and translates upstream tensions into lived mechanisms rather than abstract framing. Signal handling is strong, with scenario indicators traceable to evidence-layer trajectories. Inflation risk remains low, supported by bounded claims and explicit governance friction. Distinctiveness versus other themes is low, indicating convergence pressure in shared operating motifs while retaining theme framing. Residual risk is concentrated in coordination and scaling: accountable intervention capacity, legal fragmentation, and implementation variance can reduce stability even when baseline outputs are coherent. Overall, the scenario is useful for decision framing, with a score of 8.9/10 in this first monthly corpus.
 
-The strongest feature is coherence across layers: evidence signals inform PESTLE forces, contradictions are operationalized in lived processes, and pullback signals remain anchored to currently visible developments. The scenario avoids one-directional determinism by retaining constraints such as human sign-off persistence and implementation variability across settings.
+Subscores:
+- Structural Compliance (1-10): 10
+- Cross-Layer Grounding (1-10): 10
+- Institutional Realism (1-10): 8.0
+- Horizon Discipline (1-10): 9
+- Signal Integrity (1-10): 8.9
+- Narrative Inflation Control (1-10): 9
+- Distinctiveness vs. Other Themes (1-10): 5.0
 
-Residual risk is medium because repeated dependence on accountable intervention roles can create scaling bottlenecks, and because cross-jurisdictional governance divergence remains difficult to harmonize. These vulnerabilities are acknowledged rather than ignored, reducing inflation risk. Overall, the artifact presents a credible near-term forecast in which sustainable adoption depends on accountability architecture quality more than on raw automation capability.
+Scoring Method:
+- Weighted total must be used for `Score (1–10)`:
+  - Structural Compliance: 10%
+  - Cross-Layer Grounding: 20%
+  - Institutional Realism: 20%
+  - Horizon Discipline: 15%
+  - Signal Integrity: 20%
+  - Narrative Inflation Control: 10%
+  - Distinctiveness vs. Other Themes: 5%
+- Report final weighted score to one decimal place.

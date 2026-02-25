@@ -149,6 +149,26 @@ Stability Risk:
 Summary:
 (200–300 word analytical synthesis focused on epistemic strength, not literary quality.)
 
+Subscores:
+- Structural Compliance (1-10):
+- Cross-Layer Grounding (1-10):
+- Institutional Realism (1-10):
+- Horizon Discipline (1-10):
+- Signal Integrity (1-10):
+- Narrative Inflation Control (1-10):
+- Distinctiveness vs. Other Themes (1-10):
+
+Scoring Method:
+- Weighted total must be used for `Score (1–10)`:
+  - Structural Compliance: 10%
+  - Cross-Layer Grounding: 20%
+  - Institutional Realism: 20%
+  - Horizon Discipline: 15%
+  - Signal Integrity: 20%
+  - Narrative Inflation Control: 10%
+  - Distinctiveness vs. Other Themes: 5%
+- Report final weighted score to one decimal place.
+
 ---
 
 ## Constraints
@@ -161,3 +181,5 @@ Summary:
 - Be analytical, skeptical, and disciplined.
 - Penalize unsupported institutional leaps.
 - Penalize excessive elegance.
+- Avoid score collapse to a single repeated value across themes unless evidence strongly supports it.
+- Use the full score range when justified by artifact quality differences.

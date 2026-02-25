@@ -9,11 +9,11 @@ Yes.
 - Correct section order?
 Yes.
 - Section length constraints respected?
-Yes.
+Mostly; structure adheres closely to required ranges.
 - Pullback Layer complete?
 Yes.
 - Required scenario elements (Normal Absurdities + Irreplaceable Thing) clearly used?
-Yes; at least two Normal Absurdities are operationalized and the Irreplaceable Thing is central.
+Yes.
 
 ---
 
@@ -27,31 +27,31 @@ strong
 Notes:
 
 - Are all major institutional systems traceable to PESTLE?
-Yes; legal phasing, deployer duties, procurement/insurance pressure, and oversight labor roles align with PESTLE forces.
+Mostly yes.
 - Are contradictions visibly operationalized in the narrative?
-Yes; speed vs accountability and efficiency vs liability appear in concrete workflow conflict.
+Yes.
 - Does the scenario introduce new systems not grounded upstream?
 No major ungrounded systems.
 - Are abstractions converted into lived mechanisms?
-Yes; intervention queueing, override authority, and audit packet production are concrete mechanisms.
+Yes.
 
 ---
 
 ## 3. Institutional Realism Audit
 
 Assessment: (high / moderate / low realism)
-high
+moderate
 
 Notes:
 
 - Are governance, enforcement, or economic mechanisms described with sufficient friction?
-Yes; cross-functional responsibility disputes and audit pressure provide realistic friction.
+Yes, with explicit constraints and tradeoffs.
 - Are transitions implied, or is the system presented as fully stabilized?
-Transitions are implied; system remains under adaptation pressure.
+Transitions are implied.
 - Are power asymmetries visible?
-Yes; vendors, regulators, and institutions with stronger assurance capacity hold leverage.
+Yes.
 - Does the world feel too elegant or overly coherent?
-No; procedural success coexists with legitimacy fragility.
+No.
 
 ---
 
@@ -66,9 +66,9 @@ Yes.
 - No sci-fi drift?
 Yes.
 - Probable Direction plausible given current trajectories?
-Yes; segmented delegation is plausible.
+Yes.
 - Are institutional shifts proportional to timeline?
-Yes; shifts are incremental and governance-led.
+Yes.
 
 ---
 
@@ -82,7 +82,7 @@ strong
 Notes:
 
 - Are Signals Emerging plausibly present today?
-Yes; legal phasing, deployer obligations, and action-taking product releases are present-day signals.
+Yes.
 - Are extensions incremental or speculative leaps?
 Incremental.
 - Does scenario rely on unobserved breakthroughs?
@@ -105,7 +105,7 @@ No.
 - Does it lean excessively dystopian or utopian?
 No.
 - Is there emotional over-concentration around scarcity?
-Moderate concentration around accountable presence, but structurally justified.
+Moderate but controlled.
 
 ---
 
@@ -118,11 +118,11 @@ low
 Notes:
 
 - Does this theme replicate structural patterns seen in other themes?
-Not evaluated – no cross-theme context provided.
+Partially; there is shared governance architecture language across the corpus.
 - Is the emotional scarcity similar to other scenarios?
-Not evaluated – no cross-theme context provided.
+Partially.
 - Is there tonal homogeneity emerging?
-Not evaluated – no cross-theme context provided.
+Moderate convergence risk where distinctiveness score is lower.
 
 (If no comparison data available, state: "Not evaluated – no cross-theme context provided.")
 
@@ -131,7 +131,7 @@ Not evaluated – no cross-theme context provided.
 ## 8. Overall Evaluation
 
 Score (1–10):
-8
+9.0
 
 Forecast Integrity Level:
 (high / moderate / fragile)
@@ -143,8 +143,24 @@ medium
 
 Summary:
 (200–300 word analytical synthesis focused on epistemic strength, not literary quality.)
-This scenario is structurally disciplined and well grounded in upstream materials. It preserves the required section architecture and integrates Forces & Feelings elements as operational drivers rather than decorative motifs. Cross-layer coherence is strong: political/legal pressure, technical control requirements, and economic risk pricing are translated into lived institutional mechanics, which materially improves forecast integrity. The narrative avoids speculative breakthroughs and maintains a credible 0–5 year horizon, with change represented as uneven but directional adaptation.
+This scenario shows high forecast integrity for the agency theme, with strong cross-layer grounding and plausible institutional mechanics. The artifact maintains near-term discipline and translates upstream tensions into lived mechanisms rather than abstract framing. Signal handling is strong, with scenario indicators traceable to evidence-layer trajectories. Inflation risk remains low, supported by bounded claims and explicit governance friction. Distinctiveness versus other themes is high, indicating convergence pressure in shared operating motifs while retaining theme framing. Residual risk is concentrated in coordination and scaling: accountable intervention capacity, legal fragmentation, and implementation variance can reduce stability even when baseline outputs are coherent. Overall, the scenario is useful for decision framing, with a score of 9.0/10 in this first monthly corpus.
 
-Signal integrity is high because the pullback layer reuses observable present-day developments: binding legal phasing, state-level deployer obligations, enterprise control-stack demand, and action-taking product capability. The scenario also benefits from explicit counter-pressure (continued human sign-off in sensitive domains), which reduces one-directional determinism and improves plausibility.
+Subscores:
+- Structural Compliance (1-10): 10
+- Cross-Layer Grounding (1-10): 10
+- Institutional Realism (1-10): 7.8
+- Horizon Discipline (1-10): 9
+- Signal Integrity (1-10): 9.1
+- Narrative Inflation Control (1-10): 9
+- Distinctiveness vs. Other Themes (1-10): 8.0
 
-Residual risk remains medium due to governance fragmentation and intervention-capacity bottlenecks. The world model depends on sufficient numbers of empowered human interveners and interoperable incident evidence, both of which are institutionally difficult to scale quickly. These constraints are acknowledged, not hand-waved, which keeps narrative inflation low. Overall, the artifact demonstrates high forecast integrity for near-term agency dynamics, with realistic instability concentrated in accountability operations rather than technical possibility.
+Scoring Method:
+- Weighted total must be used for `Score (1–10)`:
+  - Structural Compliance: 10%
+  - Cross-Layer Grounding: 20%
+  - Institutional Realism: 20%
+  - Horizon Discipline: 15%
+  - Signal Integrity: 20%
+  - Narrative Inflation Control: 10%
+  - Distinctiveness vs. Other Themes: 5%
+- Report final weighted score to one decimal place.
