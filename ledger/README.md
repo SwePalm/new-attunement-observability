@@ -13,20 +13,20 @@ them against reality. Nothing is ever rewritten or deleted.
 - Source: <URL, Mon YYYY that motivated the claim>
 - Status: open | confirmed | decayed | falsified | expired
 - Grades:
-  - YYYY-MM: <grade> — <one sentence> (source: URL, Mon YYYY)
+ - YYYY-MM: <grade>, <one sentence> (source: URL, Mon YYYY)
 ```
 
 Rules:
 
 - IDs are sequential within theme and month, never reused.
 - `Status` mirrors the latest grade; `open` claims live under "Open claims",
-  anything else under "Resolved claims".
+ anything else under "Resolved claims".
 - A grade other than `open` requires a source.
 - Only `evidence-sweep` adds claims; only `signal-grading` adds grades.
 
 ## Seeded claims (2026-02)
 
-Claims tagged `Source: none — seeded from pre-ledger 2026-02 run (method v1,
+Claims tagged `Source: none, seeded from pre-ledger 2026-02 run (method v1,
 ungrounded)` were extracted from the February 2026 run's Horizon
 Classification bullets. That run performed no real research, so treat these
 as low-confidence statements of model priors. Grading them is still

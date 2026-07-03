@@ -35,7 +35,7 @@ Notes:
 
 - Friction is central: formation costs ninety minutes of two salaries; the union committee gets evidence rights, not veto rights; coverage is explicitly minoritarian.
 - Power asymmetries visible (organized vs. unorganized cohort split; announcement rewards vs. delayed audit).
-- The world is transitional, not stabilized — the deferred-cost force arrives on a lag the quarterly cycle "does not see."
+- The world is transitional, not stabilized, the deferred-cost force arrives on a lag the quarterly cycle "does not see."
 - Mild risk: the insurer's first-rung clause functioning smoothly may understate employer resistance to funding formation; arbitration history is gestured at but not shown.
 
 ## 4. Horizon Discipline Check
@@ -44,7 +44,7 @@ Pass/Fail: Pass
 Notes:
 
 - All mechanisms extend documented 2026 practice at observed velocity; no capability leaps assumed (agents still fail ~1 in 3 production attempts, and the scenario relies on that floor).
-- CAL-002 applied (statutory response discounted for the whole window); CAL-001 applied reflexively — the scenario names its own four falsifiable ledger claims as its audit.
+- CAL-002 applied (statutory response discounted for the whole window); CAL-001 applied reflexively, the scenario names its own four falsifiable ledger claims as its audit.
 - No distant-year anchors; "decade's end" bounds at 0–5 years from the 2026 evidence base.
 
 ## 5. Signal Integrity Check
@@ -64,7 +64,7 @@ Assessment: low
 Notes:
 
 - The scenario resists both collapse and triumph: aggregate employment holds, the harm is redistributive and slow.
-- The epistemic ambiguity of AI attribution — the corpus's genuine finding — is preserved in-world rather than resolved by authorial fiat (the attribution guess runs three-to-one, not unanimously).
+- The epistemic ambiguity of AI attribution, the corpus's genuine finding, is preserved in-world rather than resolved by authorial fiat (the attribution guess runs three-to-one, not unanimously).
 - Emotional weight on apprenticeship is proportionate to the documented 35–67% entry-level contraction.
 - Residual risk: Ruth and Dele's relationship idealizes formation slightly; the counterweight (friends credentialing supervision unsupervised) keeps it honest.
 
@@ -74,7 +74,7 @@ Assessment: moderate
 
 Notes:
 
-- Shares the private-ordering-fills-statutory-vacuum spine with governance (CAL-003 pattern) — the outlook must consolidate this once, not five times.
+- Shares the private-ordering-fills-statutory-vacuum spine with governance (CAL-003 pattern), the outlook must consolidate this once, not five times.
 - Distinct in mechanism (bargaining vs. insurance/procurement) and in scarcity: the first rung (formation) vs. governance's credible commitment. Emotional registers differ (generational rupture vs. institutional exhaustion).
 
 ## 8. Overall Evaluation
@@ -86,7 +86,7 @@ Forecast Integrity Level: high
 Stability Risk: low
 
 Summary:
-This is the corpus's strongest artifact on evidence-to-question fit: the structural question (substitution vs. narrative, and who audits it) is exactly what the H1-2026 data cannot yet answer, and the scenario honors that inability instead of resolving it — the in-world characters themselves handicap the attribution. Grounding is dense and multi-sourced: layoff scale, entry-level contraction, senior-skill inflation, ROI non-correlation, and bargaining provisions are all cited sweep items, and the boldest inventions (first-rung clauses, formation-time-is-work-time) sit one increment beyond documented union contracts. The reflexive move of naming the four ledger claims (labor-2026-07-01 through -04) as the scenario's own audit is epistemically exemplary — the artifact tells its readers how it will be falsified and when. Calibration heuristics are load-bearing: CAL-001's falsifiability lesson shapes the pullback layer, CAL-002 disciplines the statutory-response assumptions, CAL-003's private-ordering insight is embodied in bargaining-as-labor-law. Weaknesses: moderate convergence with governance on the statutory-vacuum spine (a synthesis burden, not a defect of this file); a mildly idealized formation relationship; and employer resistance to funding apprenticeship is under-dramatized given how contested such clauses would be. The generational-transfer framing (adjustment as intra-cohort redistribution rather than mass unemployment) is the analysis most likely to be either vindicated or embarrassed by the 2027 grading — which is what a good scenario claim should be.
+This is the corpus's strongest artifact on evidence-to-question fit: the structural question (substitution vs. narrative, and who audits it) is exactly what the H1-2026 data cannot yet answer, and the scenario honors that inability instead of resolving it, the in-world characters themselves handicap the attribution. Grounding is dense and multi-sourced: layoff scale, entry-level contraction, senior-skill inflation, ROI non-correlation, and bargaining provisions are all cited sweep items, and the boldest inventions (first-rung clauses, formation-time-is-work-time) sit one increment beyond documented union contracts. The reflexive move of naming the four ledger claims (labor-2026-07-01 through -04) as the scenario's own audit is epistemically exemplary, the artifact tells its readers how it will be falsified and when. Calibration heuristics are load-bearing: CAL-001's falsifiability lesson shapes the pullback layer, CAL-002 disciplines the statutory-response assumptions, CAL-003's private-ordering insight is embodied in bargaining-as-labor-law. Weaknesses: moderate convergence with governance on the statutory-vacuum spine (a synthesis burden, not a defect of this file); a mildly idealized formation relationship; and employer resistance to funding apprenticeship is under-dramatized given how contested such clauses would be. The generational-transfer framing (adjustment as intra-cohort redistribution rather than mass unemployment) is the analysis most likely to be either vindicated or embarrassed by the 2027 grading, which is what a good scenario claim should be.
 
 Subscores:
 - Structural Compliance (1-10): 9

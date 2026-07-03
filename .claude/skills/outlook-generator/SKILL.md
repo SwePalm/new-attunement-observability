@@ -1,181 +1,99 @@
 ---
 name: outlook-generator
-description: Generate "The Outlook", a 3-4k word human-centered structural diagnosis grounded in this month's graded ledger, 22 evidence sweeps, and 4-6 deep-dive scenarios. Includes the scorecard and month-over-month delta. Manual, after human review.
+description: Generate "The Outlook", a forward-looking, human-centered narrative essay on where human-AI systems are heading, grounded in this month's evidence sweeps and deep-dive scenarios. Storytelling-first. The accountability material lives in delta-report, not here. Manual, after human review.
 ---
 
 # outlook-generator
 
 ## Purpose
 
-Generate "The Outlook" — a readable but extensive structural diagnosis of
-near-term (0–5 year) system dynamics, grounded in the month's corpus.
+Generate "The Outlook": a readable, forward-looking essay on the near-term
+(0-5 year) direction of human-AI systems, grounded in the month's corpus.
 
-This is not a forecast.
-This is not a framework.
-This is not a solution document.
+This is not a forecast, not a framework, not a policy document, and NOT a
+self-audit. The accountability record (how past claims graded, what changed,
+what the pipeline learned) belongs in the separate `delta-report` skill. Keep
+this document a story.
 
-It exposes patterns already taking shape, explains why they persist, and —
-new in method v2 — reports honestly on how last month's claims fared.
+The voice is calm, serious, human-centered, and accessible to a thoughtful
+general reader. It should read like a good essay, not a filled-in form.
 
-The tone must be accessible, grounded, and human-centered.
+## Style rules (hard)
 
----
+- NO em-dashes (the "long dash" character) anywhere. Use commas, periods,
+  colons, or parentheses. This applies to every artifact the pipeline
+  produces; it is enforced here because the outlook is the reader-facing one.
+- No numbered schema sections, no lens labels, no bracketed theme-tag lines.
+  Let the themes appear as evidence inside the prose, not as a checklist.
+- No inevitability language ("unstoppable", "inevitable", "will certainly").
+- No probability tables, no scores, no methodology talk.
+- Ground every structural claim in a dated development from the sweeps, but
+  weave the citation into the sentence rather than footnoting it.
 
 ## Inputs
 
-You will be given:
-
-- `scenario_outputs` (this month's 4–6 deep-dive scenarios)
-- `sweeps` (all 22 evidence sweeps)
-- `grading_reports` (output/YYYY-MM/01-grading/, with scorecards)
+- `scenario_outputs` (this month's deep-dive scenarios)
+- `sweeps` (all theme evidence sweeps, for breadth)
 - `selection` (SELECTION.md)
-- `previous_outlook` (last month's outlook, if any)
-- `mode` (`production` or `debug`)
+- `mode` (`debug` or `production`)
 
----
+## Length
 
-## Output Contract (strict)
+- `debug`: 1,000-1,500 words (a tight, complete draft for review)
+- `production`: 3,000-4,000 words (fuller development of the same structure)
 
-Length:
-- `production`: 3,000–4,000 words
-- `debug`: 1,200–1,800 words
+## Structure (narrative, not schema)
 
-Respond with a well-structured markdown document using exactly the following
-section headings and no additional commentary outside those sections.
+Write a flowing essay. The following are movements of the piece, not headings
+to stamp in mechanically. In production, each expands; in debug, each is brief.
 
----
+1. **Standfirst.** Title, month, draft status, and one italic line pointing the
+   reader to the Delta Report for the accountability record.
 
-# The Outlook
+2. **The opening.** State the single most important thing taking shape this
+   month, as a plain-spoken observation a person would care about. Do not bury
+   it under structure. One to three short paragraphs.
 
-(Optional subtitle, one line)
+3. **The human stakes (the heart).** Carry the month's movement through the
+   concrete things it makes scarce or abundant for real people. The deep-dive
+   scenarios each surface one "irreplaceable thing"; use those as the essay's
+   spine. Give each a short vivid paragraph grounded in that theme's evidence.
+   Aim for a unifying thread across them, not a list.
 
-## Reading Note
+4. **Why it keeps happening.** In flowing prose (not five labeled lenses),
+   explain why the movement persists now: why it pays off, why power reinforces
+   it, why people accept it, why the technology allows it, why it becomes
+   normal. Synthesize; do not enumerate.
 
-Short 2–4 sentence note: synthesized from this month's graded ledger,
-evidence sweeps, and deep-dive scenarios; a near-term structural reading,
-not a prediction or policy prescription.
+5. **Where it strains.** The tensions, fragilities, and collisions, with at
+   least one concrete, observable example. Expose pressure; do not predict
+   collapse or dramatize.
 
-## Executive Summary
+6. **What is still open.** Forward-looking and honest about contingency: what
+   looks hard to reverse, what remains genuinely undecided, where the near-term
+   intervention windows are, and which choices in the next 24 months matter.
+   Keep it prose, not a claim list (the gradeable claims live in the ledger and
+   the Delta Report).
 
-Concise 150–220 word summary for decision-makers.
-Write this section last. One compact prose block, no bullets.
-
-## The Scorecard
-
-Report how the observatory's own past claims fared this month:
-
-- Totals across themes: confirmed / decayed / falsified / expired / still open.
-- 2–4 sentences on the most instructive grades — where reality outran the
-  ledger, and where the ledger outran reality.
-- Name the single most surprising grade and what it suggests.
-- If a calibration heuristic was added or retired, state it in one plain sentence.
-
-Honesty rule: falsified and expired claims must be reported as plainly as
-confirmed ones. The scorecard is the credibility of the whole document.
-
-## What Changed Since Last Month
-
-3–6 short paragraphs or bullets drawn from the sweeps' Delta sections and
-the grading surprises:
-
-- Which themes moved and why they were selected for deep dives.
-- Which prior movements strengthened, stalled, or reversed
-  (reference previous_outlook when available).
-- What is genuinely new versus continuation.
-
-If there is no previous outlook, state that this is the first outlook under
-method v2 and describe the starting baseline instead.
-
-## 1. What Is Taking Shape
-
-Identify 5 recurring structural movements visible across the corpus
-(sweeps provide breadth across all 22 themes; scenarios provide depth on
-the selected ones).
-
-For each movement:
-
-- Provide a short, resonant name.
-- Explain in accessible language what is shifting, starting with the movement itself.
-- Ground the description in patterns visible across several themes, citing
-  at least one dated development from the sweeps per movement.
-- Prioritize movements that recur across the corpus, but allow 1–2 early-stage
-  movements when structurally consequential.
-- Append supporting themes at the end as a compact reference line in parentheses.
-- Avoid technical jargon and inevitability language.
-- Remain within a 0–5 year horizon.
-
-## 2. Why It Makes Sense That This Is Happening
-
-Aggregated explanation through five complementary lenses (not
-movement-by-movement repetition), with natural language headings, e.g.:
-
-- Why this keeps paying off
-- Why power structures reinforce it
-- Why people accept or desire it
-- Why the technology now allows it
-- Why it becomes normal over time
-
-Each lens: grounded in near-term realities, no deterministic language,
-nothing beyond five years.
-
-## 3. Where Tensions Are Building
-
-- How the movements reinforce one another.
-- Where contradictions or fragilities are emerging (the sweeps'
-  Counter-Signals and Contradictions sections are primary material here).
-- Which movements may collide.
-- What institutional stress is becoming visible.
-
-Short paragraphs, plain language. Include at least one concrete operational
-example sentence. Do not dramatize. Do not predict collapse. Expose pressure.
-
-## 4. The Next Few Years
-
-Within a strict 0–5 year window, with subheadings:
-
-- Hard to reverse
-- Still contingent
-- Intervention windows
-- 24-month decision points
-
-No distant year anchors. No 2035/2040 projections.
-
-## 5. What Would Change This Direction?
-
-Short contingency section: what developments could materially shift the
-near-term trajectory described above. Keep it honest, non-predictive,
-0–5 year disciplined.
-
-## 6. Questions Worth Asking
-
-Open questions grouped by audience:
-
-- Organisations
-- Regulators
-- Public and communities
-
-Do not provide answers. Do not prescribe policy. Do not moralize.
-
----
+7. **Questions worth sitting with.** A short closing set of open questions,
+   grouped by who they are for (builders, rule-makers, the public). No answers,
+   no prescriptions, no moralizing.
 
 ## Constraints
 
-- Respect mode length.
-- 0–5 year horizon only.
-- No inevitability language ("unstoppable", "inevitable", "will certainly").
-- No scoring or probability tables outside The Scorecard section.
-- No academic tone.
-- No mention of internal methodology beyond what The Scorecard requires.
-- No references to prompts or models.
-- Accessible but serious voice; human-centered framing at all times.
+- 0-5 year horizon only; no distant-year anchors.
+- Forward-looking: do not re-litigate the past baseline (that is the Delta
+  Report's job).
+- Human-centered framing throughout.
+- The essay must stand on its own without the reader having seen any prior
+  month or any internal method detail.
 
 ## Quality checks before finalizing
 
-- The Scorecard reports real totals from the grading reports and includes
-  at least one non-confirmed grade discussed plainly.
-- What Changed references the previous outlook when one exists.
-- Exactly 5 movements in Section 1, each citing at least one dated development.
-- Section 2 uses 5 aggregated lenses.
-- Section 3 includes at least one concrete operational example sentence.
-- Section 4 stays within 0–5 years.
-- Executive Summary written last.
+- Zero em-dashes.
+- Reads as a continuous essay, not a schema.
+- The deep-dive stakes appear as a coherent spine with a unifying thread.
+- Every structural movement is grounded in at least one dated development.
+- No scorecard, no "what changed" audit, no claim tables (those are the Delta
+  Report).
+- Ends on open questions, grouped by audience.

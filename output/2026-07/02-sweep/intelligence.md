@@ -7,23 +7,23 @@ Confirmed Developments:
 - Release cadence compressed: Claude Opus 4.7 (16 Apr), GPT-5.5 (23 Apr), and DeepSeek V4 (24 Apr 2026) launched within eight days, with new records on software engineering and autonomous research workflows (source: https://zengineer.blog/blog/tech/ai-agentic-weekly-research-20260517-en/, May 2026) (source: https://jobsecuritymeter.com/guides/frontier-ai-models-2026, 2026)
 
 Emerging Signals:
-- Humanity's Last Exam improved 30% in one year — the hardest broad academic benchmark is eroding on schedule (source: https://hai.stanford.edu/ai-index/2026-ai-index-report/technical-performance, 2026)
+- Humanity's Last Exam improved 30% in one year, the hardest broad academic benchmark is eroding on schedule (source: https://hai.stanford.edu/ai-index/2026-ai-index-report/technical-performance, 2026)
 - Compositional-reasoning probes still expose systematic failures in frontier models, suggesting capability is jagged rather than general (source: https://arxiv.org/pdf/2605.07268, May 2026)
 
 Counter-Signals:
-- Production reliability lags benchmark performance badly: frontier models fail roughly one in three production attempts and are getting harder to audit — the benchmark-to-deployment gap is the operative intelligence measure (source: https://venturebeat.com/security/frontier-models-are-failing-one-in-three-production-attempts-and-getting-harder-to-audit, 2026)
+- Production reliability lags benchmark performance badly: frontier models fail roughly one in three production attempts and are getting harder to audit, the benchmark-to-deployment gap is the operative intelligence measure (source: https://venturebeat.com/security/frontier-models-are-failing-one-in-three-production-attempts-and-getting-harder-to-audit, 2026)
 
 Regulatory Shifts:
-- None specific — capability thresholds in law (frontier-model definitions in state statutes) remain static while measured capability moves quarterly.
+- None specific, capability thresholds in law (frontier-model definitions in state statutes) remain static while measured capability moves quarterly.
 
 Capital Movements:
 - Capability race is capitalized at unprecedented scale: hyperscalers plan ~$700B in 2026 datacenter capex (Amazon ~$200B, Google $175–185B) (source: https://www.ropesgray.com/en/insights/viewpoints/102mvfl/data-center-investment-in-2026-ai-demand-power-constraints-and-private-equity, 2026) (source: https://www.technerdo.com/blog/data-center-boom-ai-infrastructure-2026, 2026)
 
 Technical Changes:
-- Evaluation itself is the moving frontier: with MMLU saturated (>88% across all frontier models), differentiation shifted to HLE, agentic suites, and domain-specific evals — capability claims increasingly depend on who controls the benchmark (source: https://kili-technology.com/blog/ai-benchmarks-guide-the-top-evaluations-in-2026-and-why-theyre-not-enough, 2026)
+- Evaluation itself is the moving frontier: with MMLU saturated (>88% across all frontier models), differentiation shifted to HLE, agentic suites, and domain-specific evals, capability claims increasingly depend on who controls the benchmark (source: https://kili-technology.com/blog/ai-benchmarks-guide-the-top-evaluations-in-2026-and-why-theyre-not-enough, 2026)
 
 Contradictions:
-- Models solve 93% of professional security challenges while failing a third of routine production tasks — peak capability and floor reliability are diverging.
+- Models solve 93% of professional security challenges while failing a third of routine production tasks, peak capability and floor reliability are diverging.
 - The industry spends hundreds of billions on capability and comparatively nothing on the measurement infrastructure that would tell buyers what they bought.
 
 Ledger Candidates:

@@ -24,21 +24,21 @@ Score each theme 0–5 on each dimension and sum:
 - Evidence delta: weight of new Confirmed Developments and Delta bullets.
 - Contradiction density: counter-signals plus contradictions in the sweep.
 - Staleness: months since last deep dive (5 if never deep-dived under
-  method v2).
+ method v2).
 
 ## Coverage rule
 
 Every theme must be deep-dived at least once per 5 months. A theme reaching
 month 5 without a dive is selected regardless of score.
 
-## Output — output/YYYY-MM/SELECTION.md
+## Output, output/YYYY-MM/SELECTION.md
 
 ```text
 Selected Themes (4-6):
-- <theme> — score N — one-line rationale citing specific sweep or grading items
+- <theme>, score N, one-line rationale citing specific sweep or grading items
 
 Not Selected:
-- <theme> — score N — one-line reason
+- <theme>, score N, one-line reason
 
 Coverage Status:
 | theme | months since last deep dive |
@@ -48,5 +48,5 @@ Coverage Status:
 
 - Minimum 4 themes, maximum 6.
 - Rationale must cite actual evidence items (claim IDs, sweep bullets),
-  not general impressions.
+ not general impressions.
 - Deterministic: the same inputs must produce the same selection.

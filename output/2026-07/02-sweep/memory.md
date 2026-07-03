@@ -10,19 +10,19 @@ Emerging Signals:
 - Memory is stratifying into architecture (short-term context, session memory, persistent long-term), with vendors differentiating on control: user-editable versus automatic (source: https://www.dume.ai/blog/top-10-ai-assistants-with-memory-in-2026, 2026)
 
 Counter-Signals:
-- Actual memory capacity remains shallow: ChatGPT's persistent store is roughly 1,200–1,400 words of compressed summary — the "AI that knows you" is currently a paragraph-scale model, far from total recall narratives (source: https://lumichats.com/blog/chatgpt-memory-vs-claude-memory-vs-gemini-personal-intelligence-2026-which-ai-actually-knows-you, 2026)
+- Actual memory capacity remains shallow: ChatGPT's persistent store is roughly 1,200–1,400 words of compressed summary, the "AI that knows you" is currently a paragraph-scale model, far from total recall narratives (source: https://lumichats.com/blog/chatgpt-memory-vs-claude-memory-vs-gemini-personal-intelligence-2026-which-ai-actually-knows-you, 2026)
 
 Regulatory Shifts:
-- None specific — persistent AI memory profiles sit under general data-protection law with no dedicated framework; deletion/purge behavior is vendor policy, not statute.
+- None specific, persistent AI memory profiles sit under general data-protection law with no dedicated framework; deletion/purge behavior is vendor policy, not statute.
 
 Capital Movements:
 - None verified this sweep.
 
 Technical Changes:
-- Memory and context are diverging as engineering layers: million-token context windows (temporary attention) versus curated persistent stores (durable awareness), with retrieval quality — not storage — the differentiator (source: https://evermind.ai/blogs/10-best-ai-assistants-with-long-term-memory-in-2026, 2026)
+- Memory and context are diverging as engineering layers: million-token context windows (temporary attention) versus curated persistent stores (durable awareness), with retrieval quality, not storage, the differentiator (source: https://evermind.ai/blogs/10-best-ai-assistants-with-long-term-memory-in-2026, 2026)
 
 Contradictions:
-- Memory is the feature that makes assistants genuinely useful and the feature that makes leaving them costly — utility and lock-in are the same mechanism.
+- Memory is the feature that makes assistants genuinely useful and the feature that makes leaving them costly, utility and lock-in are the same mechanism.
 - Institutions are building audit trails of what their AI systems did while individuals get no equivalent record of what AI systems remember about them.
 
 Ledger Candidates:

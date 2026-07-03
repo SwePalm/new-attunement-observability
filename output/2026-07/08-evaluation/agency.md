@@ -35,7 +35,7 @@ Notes:
 
 - Friction is honest and central: reclaiming a choice costs forty minutes; auditing is "faintly embarrassing" and most never do it; the steering is lawful and invisible.
 - Power asymmetry is explicit (drivers vs. driven; defaults concentrate power; the literate minority vs. the served majority).
-- No stabilized utopia — the system is genuinely good, which the scenario names as the source of the danger rather than resolving it.
+- No stabilized utopia, the system is genuinely good, which the scenario names as the source of the danger rather than resolving it.
 - Realism strength: correctly identifies that the agent's manipulation-immunity is a real gain, avoiding a one-sided declinist frame.
 
 ## 4. Horizon Discipline Check
@@ -75,7 +75,7 @@ Assessment: moderate
 
 Notes:
 
-- Shares the literacy-divide/protection-inequality pattern (CAL-003) with governance, labor, security, and creativity — the fifth instance, so the outlook MUST treat private-ordering-plus-unequal-protection as one cross-corpus movement, not five findings.
+- Shares the literacy-divide/protection-inequality pattern (CAL-003) with governance, labor, security, and creativity, the fifth instance, so the outlook MUST treat private-ordering-plus-unequal-protection as one cross-corpus movement, not five findings.
 - Distinct scarcity (authorship of one's choices) and distinct mechanism (delegation/preference-modeling) preserve differentiation; the "choosing as self-formation" psychology is unique to agency and links to the autonomy thread rather than duplicating it.
 
 ## 8. Overall Evaluation
@@ -87,7 +87,7 @@ Forecast Integrity Level: high
 Stability Risk: low
 
 Summary:
-Agency is the corpus's highest-credibility theme — its specific February seeds graded 3/4 confirmed including one ahead-of-horizon — and this deep dive uses that standing well, delivering a subtle and well-grounded thesis: that transacting agents relocate not autonomy but authorship, and do so most invisibly precisely because the technology is genuinely beneficial. The analysis correctly refuses the declinist frame (agents really do defeat manipulation and tedium) and locates the risk in the distribution of a real dividend by literacy, which both grounds it in evidence (the 37–40% containment gap, memory-based preference modeling, the upstream shift of persuasion) and differentiates its scarcity (authorship) from the rest of the corpus. Calibration use is strong and includes a reflexive CAL-001 acknowledgment. Horizon discipline is excellent. The primary epistemic burden is convergence: this is the fifth scenario resolving through private ordering and unequal protection, and while agency's authorship-scarcity and self-formation psychology are genuinely distinct, the outlook synthesis now unambiguously must consolidate this into a single named movement with five theme-specific faces rather than presenting it five times — a corpus-level obligation this evaluation flags explicitly. Secondary weakness: the driver/driven binary slightly simplifies a spectrum. The ledger claims (agency-2026-07-01/02/03) give concrete 18-month tests, and the theme's demonstrated prior calibration makes its forward claims among the corpus's most trustworthy.
+Agency is the corpus's highest-credibility theme, its specific February seeds graded 3/4 confirmed including one ahead-of-horizon, and this deep dive uses that standing well, delivering a subtle and well-grounded thesis: that transacting agents relocate not autonomy but authorship, and do so most invisibly precisely because the technology is genuinely beneficial. The analysis correctly refuses the declinist frame (agents really do defeat manipulation and tedium) and locates the risk in the distribution of a real dividend by literacy, which both grounds it in evidence (the 37–40% containment gap, memory-based preference modeling, the upstream shift of persuasion) and differentiates its scarcity (authorship) from the rest of the corpus. Calibration use is strong and includes a reflexive CAL-001 acknowledgment. Horizon discipline is excellent. The primary epistemic burden is convergence: this is the fifth scenario resolving through private ordering and unequal protection, and while agency's authorship-scarcity and self-formation psychology are genuinely distinct, the outlook synthesis now unambiguously must consolidate this into a single named movement with five theme-specific faces rather than presenting it five times, a corpus-level obligation this evaluation flags explicitly. Secondary weakness: the driver/driven binary slightly simplifies a spectrum. The ledger claims (agency-2026-07-01/02/03) give concrete 18-month tests, and the theme's demonstrated prior calibration makes its forward claims among the corpus's most trustworthy.
 
 Subscores:
 - Structural Compliance (1-10): 9

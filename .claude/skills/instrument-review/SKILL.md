@@ -26,16 +26,16 @@ same skill. Manual invocation only. Never part of the monthly loop.
 - last 3 months of SELECTION.md files and scenario-eval subscores
 - current skills in .claude/skills/
 
-## Output — proposals/YYYY-MM-instrument-review.md
+## Output, proposals/YYYY-MM-instrument-review.md
 
 For each proposed change (0–5 maximum):
 
 - Target skill and the exact text to change, as a before/after diff block.
 - Evidence: the calibration heuristic IDs and graded claim IDs motivating it.
 - Expected effect: which measurable signal should improve (grading accuracy,
-  citation-gate failure rate, eval subscores, selection quality).
+ citation-gate failure rate, eval subscores, selection quality).
 - Drift risk: what this change could bias, and how a future review would
-  detect that.
+ detect that.
 
 End with a recommendation: merge all / merge some / merge none.
 "Merge none" is a legitimate and common outcome.
@@ -46,5 +46,5 @@ End with a recommendation: merge all / merge some / merge none.
 - A change without >= 2 supporting graded instances is not proposable.
 - Removing a constraint requires stronger evidence than adding one.
 - If a human merges any proposal: bump METHOD_VERSION in CLAUDE.md and note
-  in the proposal file that scorecard comparability resets at the version
-  boundary.
+ in the proposal file that scorecard comparability resets at the version
+ boundary.

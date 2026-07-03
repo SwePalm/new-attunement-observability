@@ -1,6 +1,6 @@
 ---
 name: evidence-sweep
-description: Real, cited research scan for one theme — what changed since last month — plus new falsifiable ledger claims. Runs for all 22 themes as Phase B.
+description: Real, cited research scan for one theme, what changed since last month, plus new falsifiable ledger claims. Runs for all 22 themes as Phase B.
 ---
 
 # evidence-sweep
@@ -13,7 +13,7 @@ gradeable claims. Replaces the v1 `evidence-layer`.
 
 There is no mock mode in production. Mock output is allowed only when
 explicitly invoked with `mock=true` during development, and mock files must
-carry a `MOCK — not evidence` first line.
+carry a `MOCK, not evidence` first line.
 
 ## Input
 
@@ -26,20 +26,20 @@ current_month: YYYY-MM
 ## Research protocol (required)
 
 1. Derive 3–5 sub-questions from the theme's open ledger claims and the
-   latest grading surprises.
+ latest grading surprises.
 2. Search primary sources first (regulator docs, filings, standards bodies,
-   peer-reviewed research, official announcements); use secondary analysis
-   only to fill gaps.
+ peer-reviewed research, official announcements); use secondary analysis
+ only to fill gaps.
 3. Collect 6–12 sources. Every Confirmed bullet needs 2 independent sources.
 4. Apply active calibration heuristics as added skepticism, not as facts.
 5. If evidence is weak for a subsection, write `None`. Never fabricate
-   sources, links, dates, or institutions.
+ sources, links, dates, or institutions.
 
-## Output format (strict) — output/YYYY-MM/02-sweep/<theme>.md
+## Output format (strict), output/YYYY-MM/02-sweep/<theme>.md
 
 THE CITATION GATE IS HARD: every bullet under Confirmed Developments,
 Regulatory Shifts, Capital Movements, and Technical Changes must end with
-`(source: URL, Mon YYYY)` — Confirmed bullets with two. Emerging Signals
+`(source: URL, Mon YYYY)`, Confirmed bullets with two. Emerging Signals
 and Counter-Signals need at least one source each. A file violating this
 is invalid and must be regenerated, not patched.
 
@@ -70,7 +70,7 @@ Contradictions:
 
 Ledger Candidates:
 - 2-4 NEW forward-looking claims. Each names a specific actor, an observable
-  expected event, and a resolve-by month, gradeable by a future run.
+ expected event, and a resolve-by month, gradeable by a future run.
 ```
 
 ## Ledger append

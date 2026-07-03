@@ -43,7 +43,7 @@ Notes:
 Pass/Fail: Pass
 Notes:
 
-- All mechanisms extend documented 2026 practice (gateways, kill switches, insurance conditions, marketplace risk); no capability leap assumed — the scenario relies on symmetric present-day capability.
+- All mechanisms extend documented 2026 practice (gateways, kill switches, insurance conditions, marketplace risk); no capability leap assumed, the scenario relies on symmetric present-day capability.
 - CAL-002 applied (statutory security duties arrive late if at all); CAL-003 (private ordering) embodied in insurance-as-standard.
 - No distant anchors; bounded to the 0–5 year window from the 2026 evidence.
 
@@ -75,7 +75,7 @@ Assessment: moderate
 
 Notes:
 
-- Shares the protection-inequality-via-private-ordering spine with governance and labor (CAL-003) — a synthesis consolidation point for the outlook.
+- Shares the protection-inequality-via-private-ordering spine with governance and labor (CAL-003), a synthesis consolidation point for the outlook.
 - Distinct scarcity (the undo/reversibility) and distinct mechanism (containment/insurance) preserve differentiation; the machine-speed tempo frame is unique to this theme.
 
 ## 8. Overall Evaluation
@@ -87,7 +87,7 @@ Forecast Integrity Level: high
 Stability Risk: low
 
 Summary:
-The artifact's strength is a genuinely novel and well-grounded structural insight: that autonomous offense breaks the review-before-action premise of human security culture, forcing a shift from prevention to reversibility as the operative form of safety. This is not asserted but derived from cited evidence — the GTG-1002 tempo, the controls gap, the symmetric-capability counter-signal — and the "undo" scarcity gives the scenario a concrete, pursuable center rather than an abstract dread. Horizon discipline is excellent: the scenario deliberately relies on the documented fact that defensive capability matches offensive capability, so its drama is organizational and distributional, not speculative. Calibration is load-bearing (CAL-002 on deferred security statute, CAL-003 on insurance-as-regulator). The main epistemic weaknesses: a moderate convergence with governance and labor on the private-ordering/protection-inequality spine, which the outlook must consolidate; a single-logic risk in elevating reversibility to "the whole of safety," slightly discounting still-relevant preventive controls; and a forensic tidiness in tracing the incident to one poisoned skill that reads cleaner than machine-speed reality usually allows. Distinctiveness is otherwise well preserved through the tempo frame and the reversibility scarcity, and the ledger claims (security-2026-07-01/02/03) give the thesis concrete 18-month tests, particularly whether containment adoption crosses 60% and whether a second autonomous campaign is documented.
+The artifact's strength is a genuinely novel and well-grounded structural insight: that autonomous offense breaks the review-before-action premise of human security culture, forcing a shift from prevention to reversibility as the operative form of safety. This is not asserted but derived from cited evidence, the GTG-1002 tempo, the controls gap, the symmetric-capability counter-signal, and the "undo" scarcity gives the scenario a concrete, pursuable center rather than an abstract dread. Horizon discipline is excellent: the scenario deliberately relies on the documented fact that defensive capability matches offensive capability, so its drama is organizational and distributional, not speculative. Calibration is load-bearing (CAL-002 on deferred security statute, CAL-003 on insurance-as-regulator). The main epistemic weaknesses: a moderate convergence with governance and labor on the private-ordering/protection-inequality spine, which the outlook must consolidate; a single-logic risk in elevating reversibility to "the whole of safety," slightly discounting still-relevant preventive controls; and a forensic tidiness in tracing the incident to one poisoned skill that reads cleaner than machine-speed reality usually allows. Distinctiveness is otherwise well preserved through the tempo frame and the reversibility scarcity, and the ledger claims (security-2026-07-01/02/03) give the thesis concrete 18-month tests, particularly whether containment adoption crosses 60% and whether a second autonomous campaign is documented.
 
 Subscores:
 - Structural Compliance (1-10): 9

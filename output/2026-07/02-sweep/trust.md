@@ -1,6 +1,6 @@
 Delta Since Last Month:
 - First sweep under method v2 (baseline: ungrounded 2026-02 v1 run).
-- Largest structural change vs. the February narrative: EU high-risk AI obligations were deferred, not tightened — enterprise and insurance-market mechanisms are now hardening faster than statute.
+- Largest structural change vs. the February narrative: EU high-risk AI obligations were deferred, not tightened, enterprise and insurance-market mechanisms are now hardening faster than statute.
 - A dedicated AI-agent liability insurance market has emerged, with default AI exclusions spreading in standard commercial policies at the same time.
 - Trust polarization is now measurable by income and by usage: familiarity with AI increases trust, while lower-income respondents expect to be left behind.
 

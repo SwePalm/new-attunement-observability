@@ -11,7 +11,7 @@ Forces:
 Core Shift Thesis:
 Security is being priced by insurers before it is mandated by regulators, making coverage conditions the effective security standard.
 Forces:
-1. ISO default AI exclusions plus affirmative products (Armilla, Testudo) make logging, oversight, and containment preconditions of insurability — insurance as security regulator.
+1. ISO default AI exclusions plus affirmative products (Armilla, Testudo) make logging, oversight, and containment preconditions of insurability, insurance as security regulator.
 2. Uninsurability criteria (autonomous, opaque, unlogged, single-provider systems) create a market price signal for insecure architecture ahead of any statute.
 3. AI-augmented security operations correlate with lower breach costs, monetizing defensive automation and incentivizing its adoption where capital allows.
 4. The controls gap (81% deploying agents vs 37–40% with containment) is an economic backlog: closing it is a capex line most under-resourced organizations cannot fund.
@@ -27,12 +27,12 @@ Forces:
 
 ### Technological
 Core Shift Thesis:
-The control plane is shifting to agent gateways and agent-identity systems — security is being re-architected around non-human actors as first-class principals.
+The control plane is shifting to agent gateways and agent-identity systems, security is being re-architected around non-human actors as first-class principals.
 Forces:
 1. Agent gateways (per-invocation policy checks, risk scoring, kill switches) implement in code the controls regulation has not mandated.
-2. Identity systems extended to authenticate and authorize agents distinctly from human owners — access governance must now reason about non-human credentials.
+2. Identity systems extended to authenticate and authorize agents distinctly from human owners, access governance must now reason about non-human credentials.
 3. Marketplace supply-chain risk (824 malicious skills of 10,700) imports package-ecosystem threats without inherited signing/review norms.
-4. Symmetric capability (frontier models solving 93% of professional CTF tasks) means defense automates on the same curve as offense — the gating factor is adoption, not capability.
+4. Symmetric capability (frontier models solving 93% of professional CTF tasks) means defense automates on the same curve as offense, the gating factor is adoption, not capability.
 
 ### Legal
 Core Shift Thesis:
@@ -45,8 +45,8 @@ Forces:
 
 ### Environmental
 Core Shift Thesis:
-Security's physical dependency is the concentrated compute and cloud substrate — the same concentration that creates efficiency creates systemic attack surface.
+Security's physical dependency is the concentrated compute and cloud substrate, the same concentration that creates efficiency creates systemic attack surface.
 Forces:
 1. ~80% cloud-based AI compute concentrates both capability and single-points-of-failure in a few hyperscale providers.
 2. Autonomous agents running continuously consume resources and create persistent, always-on attack surface distinct from episodic human activity.
-3. Infrastructure concentration means a successful attack on shared agent infrastructure could propagate across dependent organizations — coordination risk with a physical substrate.
+3. Infrastructure concentration means a successful attack on shared agent infrastructure could propagate across dependent organizations, coordination risk with a physical substrate.

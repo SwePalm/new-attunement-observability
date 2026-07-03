@@ -1,6 +1,6 @@
 Delta Since Last Month:
 - First sweep under method v2 (baseline: ungrounded 2026-02 v1 run, though agency's seeds were uniquely specific and scored 3/4 confirmed).
-- Biggest new development: agents gained the ability to spend money — payment networks and dedicated machine-payment protocols went live in H1 2026, moving delegation from "acting" to "transacting".
+- Biggest new development: agents gained the ability to spend money, payment networks and dedicated machine-payment protocols went live in H1 2026, moving delegation from "acting" to "transacting".
 - Liability allocation formalized ahead of schedule via insurance markets (graded confirmed early in agency-2026-02-04).
 
 Confirmed Developments:
@@ -18,7 +18,7 @@ Regulatory Shifts:
 - EU omnibus deferral (Jun 2026) pushed the strongest statutory constraints on high-risk agent deployment to Dec 2027 / Aug 2028, leaving agent-transaction governance to card networks and contracts in the interim (source: https://www.gibsondunn.com/eu-ai-act-omnibus-agreement-postponed-high-risk-deadlines-and-other-key-changes/, Jun 2026)
 
 Capital Movements:
-- Affirmative AI-agent liability insurance products are scaling while ISO makes AI exclusions the CGL default — liability pricing for delegated agency is becoming a market function (source: https://www.theactuary.com/2026/06/25/price-proof-insurance-policies-ai-enabled-world, Jun 2026)
+- Affirmative AI-agent liability insurance products are scaling while ISO makes AI exclusions the CGL default, liability pricing for delegated agency is becoming a market function (source: https://www.theactuary.com/2026/06/25/price-proof-insurance-policies-ai-enabled-world, Jun 2026)
 
 Technical Changes:
 - A four-layer protocol stack (MCP for tools, A2A for agent coordination, ACP/UCP/MPP for commerce) is becoming the default architecture for delegated agent action (source: https://zylos.ai/research/2026-03-26-agent-interoperability-protocols-mcp-a2a-acp-convergence/, Mar 2026)

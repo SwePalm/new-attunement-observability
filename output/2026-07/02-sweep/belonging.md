@@ -1,6 +1,6 @@
 Delta Since Last Month:
 - First sweep under method v2 (baseline: ungrounded 2026-02 v1 run).
-- AI companionship crossed from niche to majority behavior among US teens, and the first companion-specific legislation arrived — belonging is now a measured, regulated domain.
+- AI companionship crossed from niche to majority behavior among US teens, and the first companion-specific legislation arrived, belonging is now a measured, regulated domain.
 
 Confirmed Developments:
 - A national Common Sense Media survey found roughly 3 in 4 US teens have used AI companions, about half use them regularly, and 1 in 5 spend as much or more time with AI companions as with human friends (source: https://www.commonsensemedia.org/press-releases/nearly-3-in-4-teens-have-used-ai-companions-new-national-survey-finds, 2025) (source: https://www.apa.org/monitor/2026/01-02/trends-digital-ai-relationships-emotional-connection, Jan 2026)
@@ -20,7 +20,7 @@ Capital Movements:
 - None
 
 Technical Changes:
-- Persistent memory (assistant-side, launched across major platforms H1 2026) makes companion relationships cumulative — the technical substrate of parasocial continuity (source: https://www.shareuhack.com/en/posts/claude-memory-feature-guide-2026, Mar 2026)
+- Persistent memory (assistant-side, launched across major platforms H1 2026) makes companion relationships cumulative, the technical substrate of parasocial continuity (source: https://www.shareuhack.com/en/posts/claude-memory-feature-guide-2026, Mar 2026)
 
 Contradictions:
 - The same product is a loneliness treatment at moderate dose and a loneliness amplifier at high dose, and platforms monetize the high-dose users.

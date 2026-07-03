@@ -3,7 +3,7 @@
 A monthly foresight loop across 22 Human–AI themes that treats deep research
 as **re-search**: every run grades the previous runs' claims against reality
 before making new ones. The project transforms abstract philosophical
-questions into grounded, institutional near-future scenarios — and keeps a
+questions into grounded, institutional near-future scenarios, and keeps a
 public score of how its own claims fare.
 
 ## 🚀 Mission
@@ -16,26 +16,26 @@ compounding memory (the signals ledger) and an honest monthly scorecard.
 Agent skills for Claude Code, orchestrated as a phased monthly loop.
 
 - **Entry point**: `CLAUDE.md` (learning contract, invariants, loop definition)
-- **Skills**: `.claude/skills/` — `orchestrator` is the only monthly entry skill
+- **Skills**: `.claude/skills/`, `orchestrator` is the only monthly entry skill
 - **Themes**: `themes/THEMES.md` (22 themes)
-- **Memory**: `ledger/` — append-only per-theme claims + bounded `CALIBRATION.md`
+- **Memory**: `ledger/`, append-only per-theme claims + bounded `CALIBRATION.md`
 - **Output**: `output/YYYY-MM/`
-- **Method changes**: `proposals/` — quarterly `instrument-review`, human-merged
+- **Method changes**: `proposals/`, quarterly `instrument-review`, human-merged
 
 ## 🔄 The monthly loop
 
-1. **Grade** (`signal-grading`) — research every open ledger claim; grade it
-   confirmed / decayed / falsified / expired / open, with sources. Distill
-   recurring errors into bounded calibration heuristics.
-2. **Sweep** (`evidence-sweep`) — real, cited research across all 22 themes.
-   Hard citation gate: no URL + date, no claim. Each sweep logs 2–4 new
-   falsifiable claims to the ledger.
-3. **Select** (`theme-selection`) — rank themes by evidence delta; pick 4–6
-   for deep dives. Every theme is covered at least once per 5 months.
-4. **Deep-dive** (selected themes only) — structural-question → exploration →
-   PESTLE → forces-feelings → scenario → epistemic eval.
-5. **Outlook** (`outlook-generator`, manual after human review) — the monthly
-   essay, opening with the scorecard and what changed since last month.
+1. **Grade** (`signal-grading`), research every open ledger claim; grade it
+ confirmed / decayed / falsified / expired / open, with sources. Distill
+ recurring errors into bounded calibration heuristics.
+2. **Sweep** (`evidence-sweep`), real, cited research across all 22 themes.
+ Hard citation gate: no URL + date, no claim. Each sweep logs 2–4 new
+ falsifiable claims to the ledger.
+3. **Select** (`theme-selection`), rank themes by evidence delta; pick 4–6
+ for deep dives. Every theme is covered at least once per 5 months.
+4. **Deep-dive** (selected themes only), structural-question → exploration →
+ PESTLE → forces-feelings → scenario → epistemic eval.
+5. **Outlook** (`outlook-generator`, manual after human review), the monthly
+ essay, opening with the scorecard and what changed since last month.
 
 ## 🧠 The learning contract
 

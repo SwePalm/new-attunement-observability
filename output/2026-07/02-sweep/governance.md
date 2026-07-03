@@ -22,7 +22,7 @@ Technical Changes:
 - None
 
 Contradictions:
-- The EU built the world's most comprehensive AI law and then deferred its core obligations under competitiveness pressure — signaling that even enacted statutes are negotiable, which undermines the deterrent value of every future deadline (CAL-002).
+- The EU built the world's most comprehensive AI law and then deferred its core obligations under competitiveness pressure, signaling that even enacted statutes are negotiable, which undermines the deterrent value of every future deadline (CAL-002).
 - The US federal government demands a national framework while blocking the only operative frameworks (state laws) and proposing none with binding force.
 
 Ledger Candidates:

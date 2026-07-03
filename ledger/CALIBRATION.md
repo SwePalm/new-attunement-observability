@@ -5,7 +5,7 @@ Written only by `signal-grading`. Read by `evidence-sweep`,
 
 Hard bounds: max 10 active heuristics; each must cite >= 2 graded claim IDs;
 each has an expiry and is retired unless re-confirmed by new grades.
-This file never modifies skills — `instrument-review` is the human-gated
+This file never modifies skills, `instrument-review` is the human-gated
 path for method changes.
 
 Heuristic format:
@@ -33,7 +33,7 @@ Heuristic format:
 - Expires: 2026-10 (extend +3 months on re-confirmation)
 
 ### CAL-003
-- Heuristic: The pipeline underweights non-state hardening mechanisms. Private ordering — insurance exclusions and products, procurement gates, collective bargaining — moved faster than statute in 2026 and was largely absent from the v1 corpus. Expect market and contractual mechanisms to lead regulation, not follow it.
+- Heuristic: The pipeline underweights non-state hardening mechanisms. Private ordering, insurance exclusions and products, procurement gates, collective bargaining, moved faster than statute in 2026 and was largely absent from the v1 corpus. Expect market and contractual mechanisms to lead regulation, not follow it.
 - Evidence: agency-2026-02-04 (confirmed ahead of 12–36 month horizon), labor-2026-02-02 (confirmed via union contracts, channel unanticipated by v1)
 - Logged: 2026-07
 - Expires: 2026-10 (extend +3 months on re-confirmation)

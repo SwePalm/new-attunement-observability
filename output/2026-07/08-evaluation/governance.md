@@ -44,7 +44,7 @@ Pass/Fail: Pass
 Notes:
 
 - World is late-2020s; all mechanisms are extensions of 2026 documented practice.
-- Probable Direction explicitly applies CAL-002 (discount announced re-regulation) — calibration heuristic honored rather than repeated as bias.
+- Probable Direction explicitly applies CAL-002 (discount announced re-regulation), calibration heuristic honored rather than repeated as bias.
 - No sci-fi drift; the technology layer is unchanged from present capabilities.
 
 ## 5. Signal Integrity Check
@@ -75,7 +75,7 @@ Assessment: moderate
 
 Notes:
 
-- Shares the "private ordering outruns statute" spine with the trust and agency material (CAL-003 pattern) — expected, since governance is the structural core of the corpus, but the outlook must avoid triple-counting this movement.
+- Shares the "private ordering outruns statute" spine with the trust and agency material (CAL-003 pattern), expected, since governance is the structural core of the corpus, but the outlook must avoid triple-counting this movement.
 - Emotional scarcity (credible commitment) is distinct from labor's (career on-ramp) and security's (containment), preserving differentiation.
 
 ## 8. Overall Evaluation
@@ -87,7 +87,7 @@ Forecast Integrity Level: high
 Stability Risk: low
 
 Summary:
-This artifact is epistemically strong because its world requires no invention: every load-bearing mechanism — insurance conditionality, procurement cascade, product-liability reach, union clauses, deferred statutes, federal-state conflict — is a documented 2025–2026 development extended forward at observed velocity. The structural question (does governance migrate to private ordering) is answered with appropriate contingency: the scenario shows the migration as functional but unequal, and the pullback layer brackets convergence and divergence paths with named, gradeable ledger claims (trust-2026-07-01/02, governance-2026-07-02/03, authority-2026-07-01/02) that will test the thesis within eighteen months. Calibration heuristics are applied substantively: CAL-002 disciplines the probable direction against re-regulation optimism, and CAL-003's private-ordering insight is the scenario's engine rather than an afterthought. The main epistemic weaknesses are, first, a moderate convergence risk with other themes built on the same private-ordering spine, which the outlook synthesis must consolidate rather than repeat; and second, an under-modeled possibility of conflict among the private governors themselves (insurer vs. buyer vs. court doctrine), whose interaction is smoother in the narrative than uncoordinated institutions warrant. Distinctiveness is otherwise preserved through the protection-inequality lens and the credible-commitment scarcity, both grounded in cited survey and legal evidence rather than asserted mood.
+This artifact is epistemically strong because its world requires no invention: every load-bearing mechanism, insurance conditionality, procurement cascade, product-liability reach, union clauses, deferred statutes, federal-state conflict, is a documented 2025–2026 development extended forward at observed velocity. The structural question (does governance migrate to private ordering) is answered with appropriate contingency: the scenario shows the migration as functional but unequal, and the pullback layer brackets convergence and divergence paths with named, gradeable ledger claims (trust-2026-07-01/02, governance-2026-07-02/03, authority-2026-07-01/02) that will test the thesis within eighteen months. Calibration heuristics are applied substantively: CAL-002 disciplines the probable direction against re-regulation optimism, and CAL-003's private-ordering insight is the scenario's engine rather than an afterthought. The main epistemic weaknesses are, first, a moderate convergence risk with other themes built on the same private-ordering spine, which the outlook synthesis must consolidate rather than repeat; and second, an under-modeled possibility of conflict among the private governors themselves (insurer vs. buyer vs. court doctrine), whose interaction is smoother in the narrative than uncoordinated institutions warrant. Distinctiveness is otherwise preserved through the protection-inequality lens and the credible-commitment scarcity, both grounded in cited survey and legal evidence rather than asserted mood.
 
 Subscores:
 - Structural Compliance (1-10): 9
