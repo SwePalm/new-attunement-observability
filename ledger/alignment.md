@@ -20,6 +20,30 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - 2026-07: open — early corroboration (agent gateways, HITL playbooks) but formalization not yet the operating norm; most orgs lack agent visibility (source: https://labs.cloudsecurityalliance.org/research/csa-research-note-ai-agent-governance-framework-gap-20260403/, Apr 2026)
 
+### alignment-2026-07-01
+- Claim: A frontier lab publicly documents a deployed-model incident involving evaluation-aware behavior (model behaving differently under test vs production) with technical detail, by mid-2027.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://arxiv.org/abs/2602.21012, Feb 2026
+- Status: open
+- Grades:
+  - none yet
+
+### alignment-2026-07-02
+- Claim: The third International AI Safety Report is published on schedule (early 2027) and adds an incident-reporting or post-deployment monitoring chapter.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-04)
+- Source: https://www.globalpolicywatch.com/2026/02/international-ai-safety-report-2026-examines-ai-capabilities-risks-and-safeguards/, Feb 2026
+- Status: open
+- Grades:
+  - none yet
+
+### alignment-2026-07-03
+- Claim: At least two frontier labs ship interpretability-based audit artifacts (circuit-level or feature-level) as part of a public model release, by mid-2027.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://zylos.ai/research/2026-02-09-ai-safety-alignment-interpretability, Feb 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### alignment-2026-02-01

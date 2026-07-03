@@ -20,6 +20,30 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - 2026-07: open — early corroboration (agent gateways, HITL playbooks) but formalization not yet the operating norm; most orgs lack agent visibility (source: https://labs.cloudsecurityalliance.org/research/csa-research-note-ai-agent-governance-framework-gap-20260403/, Apr 2026)
 
+### power-2026-07-01
+- Claim: A formal antitrust inquiry (US, EU, or UK) is opened specifically into AI infrastructure concentration (compute, datacenter tenancy, or energy cooperation) by mid-2027.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://www.pymnts.com/legal/antitrust/2026/ais-data-center-boom-creates-a-new-antitrust-challenge/, 2026
+- Status: open
+- Grades:
+  - none yet
+
+### power-2026-07-02
+- Claim: Announced 2026 hyperscaler capex (~$700B) is materially realized: reported combined datacenter capex for 2026 lands above $600B.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-04)
+- Source: https://www.ropesgray.com/en/insights/viewpoints/102mvfl/data-center-investment-in-2026-ai-demand-power-constraints-and-private-equity, 2026
+- Status: open
+- Grades:
+  - none yet
+
+### power-2026-07-03
+- Claim: A power-grid constraint visibly delays or cancels a flagship AI datacenter project in the US or EU, publicly attributed to energy limits, by mid-2027.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://www.ropesgray.com/en/insights/viewpoints/102mvfl/data-center-investment-in-2026-ai-demand-power-constraints-and-private-equity, 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### power-2026-02-01

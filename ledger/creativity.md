@@ -20,6 +20,30 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - 2026-07: open — early corroboration (agent gateways, HITL playbooks) but formalization not yet the operating norm; most orgs lack agent visibility (source: https://labs.cloudsecurityalliance.org/research/csa-research-note-ai-agent-governance-framework-gap-20260403/, Apr 2026)
 
+### creativity-2026-07-01
+- Claim: At least two more franchise-scale ($100M+) IP licensing deals between major rights holders and generative platforms are announced by mid-2027.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://sustainabletechpartner.com/topics/ai/generative-ai-lawsuit-timeline/, 2026
+- Status: open
+- Grades:
+  - none yet
+
+### creativity-2026-07-02
+- Claim: A US court or the Copyright Office issues concrete guidance on the human-authorship threshold for AI-assisted (not AI-only) works by mid-2027.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://www.morganlewis.com/pubs/2026/03/us-supreme-court-declines-to-consider-whether-ai-alone-can-create-copyrighted-works, Mar 2026
+- Status: open
+- Grades:
+  - none yet
+
+### creativity-2026-07-03
+- Claim: A collective-licensing body or platform for individual creators' training rights launches with at least one major AI lab as customer by mid-2027 — testing whether the post-Bartz vacuum gets filled by market design.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://www.nortonrosefulbright.com/en/knowledge/publications/ce8eaa5f/ai-in-litigation-series-an-update-on-ai-copyright-cases-in-2026, 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### creativity-2026-02-01

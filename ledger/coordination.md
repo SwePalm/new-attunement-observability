@@ -20,6 +20,30 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - 2026-07: open — early corroboration (agent gateways, HITL playbooks) but formalization not yet the operating norm; most orgs lack agent visibility (source: https://labs.cloudsecurityalliance.org/research/csa-research-note-ai-agent-governance-framework-gap-20260403/, Apr 2026)
 
+### coordination-2026-07-01
+- Claim: A2A adoption doubles: 300+ organizations support the protocol, or a major cross-organization production deployment (two companies' agent fleets coordinating) is publicly documented, by mid-2027.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://www.programming-helper.com/tech/agent-to-agent-protocol-2026-google-a2a-standard, Apr 2026
+- Status: open
+- Grades:
+  - none yet
+
+### coordination-2026-07-02
+- Claim: The commerce-protocol layer consolidates: at least one of ACP/UCP/MPP is deprecated, merged, or absorbed by mid-2027.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://opascope.com/insights/ai-shopping-assistant-guide-2026-agentic-commerce-protocols/, 2026
+- Status: open
+- Grades:
+  - none yet
+
+### coordination-2026-07-03
+- Claim: A documented multi-org incident propagates through inter-agent protocols (an agent-to-agent cascade failure or attack) by mid-2027.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://blog.cyberdesserts.com/ai-agent-security-risks/, Feb 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### coordination-2026-02-01

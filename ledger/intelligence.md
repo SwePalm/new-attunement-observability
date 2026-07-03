@@ -20,6 +20,30 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - 2026-07: open — early corroboration (agent gateways, HITL playbooks) but formalization not yet the operating norm; most orgs lack agent visibility (source: https://labs.cloudsecurityalliance.org/research/csa-research-note-ai-agent-governance-framework-gap-20260403/, Apr 2026)
 
+### intelligence-2026-07-01
+- Claim: A frontier model scores above 50% on Humanity's Last Exam by mid-2027.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://hai.stanford.edu/ai-index/2026-ai-index-report/technical-performance, 2026
+- Status: open
+- Grades:
+  - none yet
+
+### intelligence-2026-07-02
+- Claim: Production failure rates improve materially: a credible audit reports frontier-model production success above 80% (vs ~67% in 2026) by mid-2027.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://venturebeat.com/security/frontier-models-are-failing-one-in-three-production-attempts-and-getting-harder-to-audit, 2026
+- Status: open
+- Grades:
+  - none yet
+
+### intelligence-2026-07-03
+- Claim: An independent, third-party evaluation body (not lab-funded) becomes a cited standard in at least one procurement framework or statute by mid-2027.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://kili-technology.com/blog/ai-benchmarks-guide-the-top-evaluations-in-2026-and-why-theyre-not-enough, 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### intelligence-2026-02-01

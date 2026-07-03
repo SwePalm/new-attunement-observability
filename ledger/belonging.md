@@ -20,6 +20,30 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - 2026-07: open — early corroboration (agent gateways, HITL playbooks) but formalization not yet the operating norm; most orgs lack agent visibility (source: https://labs.cloudsecurityalliance.org/research/csa-research-note-ai-agent-governance-framework-gap-20260403/, Apr 2026)
 
+### belonging-2026-07-01
+- Claim: At least one US state or national legislature passes a minor ban or strict age-gating law for AI companions by mid-2027.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://www.commonsensemedia.org/press-releases/nearly-3-in-4-teens-have-used-ai-companions-new-national-survey-finds, 2025
+- Status: open
+- Grades:
+  - none yet
+
+### belonging-2026-07-02
+- Claim: A longitudinal study (6+ months) on companion use and well-being is published by mid-2027, resolving the dose-response question raised by the HBS and OpenAI–MIT findings.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC12928748/, 2026
+- Status: open
+- Grades:
+  - none yet
+
+### belonging-2026-07-03
+- Claim: Teen regular-use share of AI companions exceeds 60% in the next national survey wave.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-07)
+- Source: https://www.commonsensemedia.org/press-releases/nearly-3-in-4-teens-have-used-ai-companions-new-national-survey-finds, 2025
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### belonging-2026-02-01

@@ -20,6 +20,30 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - 2026-07: open — early corroboration (agent gateways, HITL playbooks) but formalization not yet the operating norm; most orgs lack agent visibility (source: https://labs.cloudsecurityalliance.org/research/csa-research-note-ai-agent-governance-framework-gap-20260403/, Apr 2026)
 
+### governance-2026-07-01
+- Claim: The Aug 2026 AI Act transparency obligations take effect on schedule without further deferral.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2026-10)
+- Source: https://www.fisherphillips.com/en/insights/insights/eu-overhauls-ai-act-just-before-key-deadline, Jun 2026
+- Status: open
+- Grades:
+  - none yet
+
+### governance-2026-07-02
+- Claim: Congress enacts no comprehensive federal AI statute by mid-2027; governance remains split between state laws, executive action, and courts.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://www.ropesgray.com/en/insights/alerts/2026/03/examining-the-landscape-and-limitations-of-the-federal-push-to-override-state-ai-regulation, Mar 2026
+- Status: open
+- Grades:
+  - none yet
+
+### governance-2026-07-03
+- Claim: At least three more jurisdictions globally adopt "simplification" packages that delay announced AI obligations by mid-2027, confirming CAL-002 as a general pattern.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://www.gibsondunn.com/eu-ai-act-omnibus-agreement-postponed-high-risk-deadlines-and-other-key-changes/, Jun 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### governance-2026-02-01

@@ -12,6 +12,30 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - 2026-07: open — divergence real (US state patchwork vs. EU) but EU omnibus (Jun 2026) moved toward simplification and deferral; developing slower than claimed (source: https://www.gibsondunn.com/eu-ai-act-omnibus-agreement-postponed-high-risk-deadlines-and-other-key-changes/, Jun 2026)
 
+### agency-2026-07-01
+- Claim: Agent-mediated share of US e-commerce reaches 25% or more per Morgan Stanley/Adobe tracking by mid-2027.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://www.paymentexecutive.com/post/agentic-commerce-2026-the-payments-revolution-where-ai-agents-actually-buy-stuff, 2026
+- Status: open
+- Grades:
+  - none yet
+
+### agency-2026-07-02
+- Claim: A major card network publicly reports its first significant fraud/dispute wave specific to registered agent purchases, forcing protection-term revisions, by mid-2027.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://www.paymentexecutive.com/post/agentic-commerce-2026-the-payments-revolution-where-ai-agents-actually-buy-stuff, Apr 2026
+- Status: open
+- Grades:
+  - none yet
+
+### agency-2026-07-03
+- Claim: Containment-control adoption (purpose binding, kill switches) rises above 60% in the next major enterprise agent survey.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-07)
+- Source: https://www.okta.com/newsroom/articles/ai-agents-at-work-2026-agentic-enterprise-security/, 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### agency-2026-02-01

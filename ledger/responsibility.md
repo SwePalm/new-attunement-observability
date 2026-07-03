@@ -20,6 +20,30 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - 2026-07: open — early corroboration (agent gateways, HITL playbooks) but formalization not yet the operating norm; most orgs lack agent visibility (source: https://labs.cloudsecurityalliance.org/research/csa-research-note-ai-agent-governance-framework-gap-20260403/, Apr 2026)
 
+### responsibility-2026-07-01
+- Claim: An appellate court affirms the product classification of a consumer AI system by mid-2027, cementing the doctrine.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://www.klgates.com/AI-Product-Liability-The-Next-Wave-of-Litigation-3-27-2026, Mar 2026
+- Status: open
+- Grades:
+  - none yet
+
+### responsibility-2026-07-02
+- Claim: A state enacts an AI-specific liability statute (chatbot advice, companion harm, or agent transactions) by mid-2027.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://www.vasquezlawnc.com/blog/ai-chatbot-liability, 2026
+- Status: open
+- Grades:
+  - none yet
+
+### responsibility-2026-07-03
+- Claim: A court applies component-part liability to a frontier model provider in a NEW case (beyond Character.AI/Google) by mid-2027.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://www.awkolaw.com/when-the-chatbot-becomes-the-defendant/, 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### responsibility-2026-02-01

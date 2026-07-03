@@ -20,6 +20,30 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - 2026-07: open — early corroboration (agent gateways, HITL playbooks) but formalization not yet the operating norm; most orgs lack agent visibility (source: https://labs.cloudsecurityalliance.org/research/csa-research-note-ai-agent-governance-framework-gap-20260403/, Apr 2026)
 
+### security-2026-07-01
+- Claim: A second largely-autonomous attack campaign (AI executing majority of tactical operations) is publicly documented by a government agency or major vendor by mid-2027.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://blog.barracuda.com/2026/02/27/agentic-ai--the-2026-threat-multiplier-reshaping-cyberattacks/, Feb 2026
+- Status: open
+- Grades:
+  - none yet
+
+### security-2026-07-02
+- Claim: Agent-skill marketplaces adopt mandatory signing/review: a major marketplace requires cryptographic signing or pre-publication review for all skills by mid-2027.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://blog.cyberdesserts.com/ai-agent-security-risks/, Feb 2026
+- Status: open
+- Grades:
+  - none yet
+
+### security-2026-07-03
+- Claim: The autonomous-agent share of reported AI breaches rises above 1 in 5 in the next annual threat-landscape report.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-07)
+- Source: https://foresiet.com/blog/ai-security-incidents-attack-paths-april-2026/, Apr 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### security-2026-02-01

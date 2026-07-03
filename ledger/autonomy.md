@@ -20,6 +20,30 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - 2026-07: open — early corroboration (agent gateways, HITL playbooks) but formalization not yet the operating norm; most orgs lack agent visibility (source: https://labs.cloudsecurityalliance.org/research/csa-research-note-ai-agent-governance-framework-gap-20260403/, Apr 2026)
 
+### autonomy-2026-07-01
+- Claim: A large-sample (n>1,000) longitudinal or replication study on AI-related critical-thinking decline is published in a major journal by mid-2027, confirming or refuting the 2025–26 cross-sectional findings.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://www.sciencedirect.com/science/article/pii/S0001691825010388, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### autonomy-2026-07-02
+- Claim: At least one education ministry or major school system introduces explicit "unassisted reasoning" requirements (AI-free assessment blocks) citing cognitive-offloading evidence, by mid-2027.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://www.psychologytoday.com/us/blog/the-algorithmic-mind/202603/adults-lose-skills-to-ai-children-never-build-them, Mar 2026
+- Status: open
+- Grades:
+  - none yet
+
+### autonomy-2026-07-03
+- Claim: Agent autonomy tiering becomes contractual: a major enterprise vendor publishes standard autonomy-level definitions (comparable to driving automation levels) adopted by at least two other vendors, by mid-2027.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://labs.cloudsecurityalliance.org/research/csa-research-note-ai-agent-governance-framework-gap-20260403/, Apr 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### autonomy-2026-02-01

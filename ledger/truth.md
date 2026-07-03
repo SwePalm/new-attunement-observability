@@ -20,6 +20,30 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - 2026-07: open — early corroboration (agent gateways, HITL playbooks) but formalization not yet the operating norm; most orgs lack agent visibility (source: https://labs.cloudsecurityalliance.org/research/csa-research-note-ai-agent-governance-framework-gap-20260403/, Apr 2026)
 
+### truth-2026-07-01
+- Claim: The EU watermarking obligation enters into force 2 Dec 2026 without further deferral, and at least one enforcement inquiry follows within six months.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-07)
+- Source: https://www.fisherphillips.com/en/insights/insights/eu-overhauls-ai-act-just-before-key-deadline, Jun 2026
+- Status: open
+- Grades:
+  - none yet
+
+### truth-2026-07-02
+- Claim: Deepfake fraud losses force a structural banking response: a major banking association or regulator mandates out-of-band verification for high-value transfers by mid-2027.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://sqmagazine.co.uk/deepfake-statistics/, 2026
+- Status: open
+- Grades:
+  - none yet
+
+### truth-2026-07-03
+- Claim: An AI assistant's factually wrong answer causes a documented, litigated harm that establishes precedent on assistant-answer liability by mid-2027.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://www.moodys.com/web/en/us/insights/insurance/230-immunity-for-AI-chatbot-lawsuits.html, 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### truth-2026-02-01

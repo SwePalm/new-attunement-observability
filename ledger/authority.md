@@ -20,6 +20,30 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - 2026-07: open — early corroboration (agent gateways, HITL playbooks) but formalization not yet the operating norm; most orgs lack agent visibility (source: https://labs.cloudsecurityalliance.org/research/csa-research-note-ai-agent-governance-framework-gap-20260403/, Apr 2026)
 
+### authority-2026-07-01
+- Claim: The DOJ AI Litigation Task Force wins at least one ruling striking or enjoining a state AI law by mid-2027.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://mwcllc.com/2026/01/20/executive-order-targets-state-ai-regulation-through-federal-preemption/, Jan 2026
+- Status: open
+- Grades:
+  - none yet
+
+### authority-2026-07-02
+- Claim: Congress passes no comprehensive AI preemption statute before mid-2027, leaving the state laws operative.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://www.ropesgray.com/en/insights/alerts/2026/03/examining-the-landscape-and-limitations-of-the-federal-push-to-override-state-ai-regulation, Mar 2026
+- Status: open
+- Grades:
+  - none yet
+
+### authority-2026-07-03
+- Claim: At least one state repeals or materially weakens an AI law under BEAD funding pressure by mid-2027.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://www.kslaw.com/news-and-insights/new-state-ai-laws-are-effective-on-january-1-2026-but-a-new-executive-order-signals-disruption, Jan 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### authority-2026-02-01

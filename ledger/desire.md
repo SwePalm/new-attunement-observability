@@ -20,6 +20,30 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - 2026-07: open — early corroboration (agent gateways, HITL playbooks) but formalization not yet the operating norm; most orgs lack agent visibility (source: https://labs.cloudsecurityalliance.org/research/csa-research-note-ai-agent-governance-framework-gap-20260403/, Apr 2026)
 
+### desire-2026-07-01
+- Claim: "Agent optimization" (paying or structuring data to influence agent purchase choices) emerges as a named commercial practice with at least one major vendor offering it by mid-2027.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://opascope.com/insights/ai-shopping-assistant-guide-2026-agentic-commerce-protocols/, 2026
+- Status: open
+- Grades:
+  - none yet
+
+### desire-2026-07-02
+- Claim: A regulator opens an inquiry into ranking/steering practices in agent-mediated shopping by mid-2027.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://www.paymentexecutive.com/post/agentic-commerce-2026-the-payments-revolution-where-ai-agents-actually-buy-stuff, 2026
+- Status: open
+- Grades:
+  - none yet
+
+### desire-2026-07-03
+- Claim: A second US state passes companion-chatbot legislation modeled on California's by mid-2027.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://www.americanactionforum.org/insight/ai-companions-opportunities-risks-and-policy-implications/, 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### desire-2026-02-01

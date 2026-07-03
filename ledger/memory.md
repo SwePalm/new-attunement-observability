@@ -20,6 +20,30 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - 2026-07: open — early corroboration (agent gateways, HITL playbooks) but formalization not yet the operating norm; most orgs lack agent visibility (source: https://labs.cloudsecurityalliance.org/research/csa-research-note-ai-agent-governance-framework-gap-20260403/, Apr 2026)
 
+### memory-2026-07-01
+- Claim: A data-protection authority (EU DPA or state AG) issues formal guidance or opens an inquiry specifically on persistent AI assistant memory by mid-2027.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://lumichats.com/blog/chatgpt-memory-vs-claude-memory-vs-gemini-personal-intelligence-2026-which-ai-actually-knows-you, 2026
+- Status: open
+- Grades:
+  - none yet
+
+### memory-2026-07-02
+- Claim: Memory portability becomes product: a major assistant vendor ships native memory export/import compatible with a competitor, or an open memory-exchange format gains two major implementations, by mid-2027.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://plurality.network/blogs/best-universal-ai-memory-extensions-2026/, 2026
+- Status: open
+- Grades:
+  - none yet
+
+### memory-2026-07-03
+- Claim: A documented incident where leaked or subpoenaed assistant memory data causes material harm to a named individual surfaces by mid-2027.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://www.dume.ai/blog/top-10-ai-assistants-with-memory-in-2026, 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### memory-2026-02-01

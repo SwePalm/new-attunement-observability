@@ -20,6 +20,30 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - 2026-07: open — early corroboration (agent gateways, HITL playbooks) but formalization not yet the operating norm; most orgs lack agent visibility (source: https://labs.cloudsecurityalliance.org/research/csa-research-note-ai-agent-governance-framework-gap-20260403/, Apr 2026)
 
+### learning-2026-07-01
+- Claim: A national education ministry mandates AI literacy curriculum with dedicated funding (not advisory guidance) by mid-2027.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://www.oecd.org/en/publications/oecd-digital-education-outlook-2026_062a7394-en.html, 2026
+- Status: open
+- Grades:
+  - none yet
+
+### learning-2026-07-02
+- Claim: A randomized controlled trial of a production AI tutor (n>1,000) reports effect sizes in a peer-reviewed venue by mid-2027, moving evidence beyond quasi-experimental designs.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://www.engageli.com/blog/ai-in-education-statistics, 2026
+- Status: open
+- Grades:
+  - none yet
+
+### learning-2026-07-03
+- Claim: At least one major university system introduces AI-free assessment requirements citing cognitive-offloading research by mid-2027.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://arxiv.org/pdf/2512.12306, 2025
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### learning-2026-02-01

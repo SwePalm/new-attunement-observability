@@ -20,6 +20,30 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - 2026-07: open — early corroboration (agent gateways, HITL playbooks) but formalization not yet the operating norm; most orgs lack agent visibility (source: https://labs.cloudsecurityalliance.org/research/csa-research-note-ai-agent-governance-framework-gap-20260403/, Apr 2026)
 
+### dependency-2026-07-01
+- Claim: A regulator or standards body issues formal guidance on "AI concentration risk" (dependence on single AI providers) for critical sectors by mid-2027.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://www.theactuary.com/2026/06/25/price-proof-insurance-policies-ai-enabled-world, Jun 2026
+- Status: open
+- Grades:
+  - none yet
+
+### dependency-2026-07-02
+- Claim: A major platform introduces usage-pattern interventions for heavy companion users (dose warnings, session limits, human-referral prompts) by mid-2027.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC12928748/, 2026
+- Status: open
+- Grades:
+  - none yet
+
+### dependency-2026-07-03
+- Claim: An AI-provider outage or model deprecation causes documented, material operational disruption at enterprises dependent on it, prompting public post-mortems, by mid-2027.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://zylos.ai/research/2026-03-26-agent-interoperability-protocols-mcp-a2a-acp-convergence/, Mar 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### dependency-2026-02-01
