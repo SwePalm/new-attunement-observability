@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git clone *)",
+      "Bash(awk -F: '{s+=$2} END {print \"dated mentions in evidence:\", s}')",
+      "mcp__visualize__read_me",
+      "Bash(python3 -c ' *)",
+      "mcp__visualize__show_widget"
+    ]
+  }
+}

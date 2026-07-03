@@ -1,0 +1,12 @@
+Scorecard:
+- open: 1, confirmed: 3, decayed: 0, falsified: 0, expired: 0
+
+Grade Details:
+- agency-2026-02-01: confirmed — bounded agent workflows launched at scale in exactly the named domains: support (Salesforce 9,000→5,000 with agents, Klarna, Paycom), internal operations, and low-risk execution, with human checkpoints productized (source: https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/, Jun 2026) (source: https://www.okta.com/newsroom/articles/ai-agents-at-work-2026-agentic-enterprise-security/, 2026)
+- agency-2026-02-02: confirmed — procurement and legal gatekeeping for agent deployment is now routine: governance evidence, audit rights, and incident-reporting provisions are standard vendor-contract asks (source: https://prefactor.tech/learn/ai-governance-compliance-statistics, 2026) (source: https://www.gep.com/blog/technology/ai-regulation-governance-mandates-enterprises, 2026)
+- agency-2026-02-03: open — Resolve-by is 2029-02. Divergence is real (US state patchwork vs. EU framework) but the EU's Digital Omnibus (Jun 2026) moved toward simplification and deferral, so configuration-by-jurisdiction is developing more slowly than claimed (source: https://www.gibsondunn.com/eu-ai-act-omnibus-agreement-postponed-high-risk-deadlines-and-other-key-changes/, Jun 2026)
+- agency-2026-02-04: confirmed — early, ahead of its 12–36 month horizon: ISO made AI exclusions the default in US commercial general liability (CG 40 47/48), and affirmative AI-agent liability products launched (Armilla at Lloyd's; Testudo, Jan 2026) — liability allocation formalization has visibly begun (source: https://www.theactuary.com/2026/06/25/price-proof-insurance-policies-ai-enabled-world, Jun 2026) (source: https://riskandinsurance.com/traditional-insurance-leaves-enterprises-exposed-as-ai-liability-claims-surge/, 2026)
+
+Surprises:
+- Agency is the only theme whose v1 seeds were specific and falsifiable — and it scored 3/4 confirmed, including one claim (liability formalization) confirming ahead of its 12–36 month horizon. Specific claims produced measurable foresight; the boilerplate claims produced none. This is the clearest single data point for the calibration memo.
+- The insurance market moved faster than the claim anticipated: exclusion-by-default (ISO) arrived simultaneously with affirmative coverage products, meaning liability allocation is being formalized by the market before regulation requires it.
