@@ -1,68 +1,69 @@
 # Attunement Monthly Observatory
 
-A deterministic foresight engineering pipeline designed to execute a monthly loop across 22 Human–AI themes. The project transforms abstract philosophical questions into grounded, institutional near-future scenarios through a multi-step orchestration process.
+A monthly foresight loop across 22 Human–AI themes that treats deep research
+as **re-search**: every run grades the previous runs' claims against reality
+before making new ones. The project transforms abstract philosophical
+questions into grounded, institutional near-future scenarios — and keeps a
+public score of how its own claims fare.
 
 ## 🚀 Mission
-To produce high-fidelity, evidence-anchored foresight artifacts that explore the structural consequences of AI-Human attunement on a 0–5 year horizon.
 
-## 🛠 Project Architecture
-The project is built on a modular "Agent Skill" architecture, where an **Orchestrator** manages a sequential workflow of specialized functional skills.
+Produce evidence-anchored foresight artifacts on a 0–5 year horizon, with a
+compounding memory (the signals ledger) and an honest monthly scorecard.
 
-- **Entry Point**: `AGENTS.md`
-- **Themes**: `themes/THEMES.md` (22 core themes)
-- **Skills**: Located in `.agents/skills/` (Compliant with [Agent Skills Specification](https://agentskills.io/specification))
-- **Output**: Located in `output/YYYY-MM/`
+## 🛠 Architecture (method v2)
 
-## 🔄 The 7-Step Workflow
-Each theme is processed through a strict, sequential pipeline. Outputs from earlier steps serve as inputs for subsequent ones:
+Agent skills for Claude Code, orchestrated as a phased monthly loop.
 
-1.  **Step 00: Structural Question** (`00-structural-question/`)
-    - Identifies the most consequential question for the theme within a 6–24 month horizon.
-2.  **Step 00.5: Evidence Layer** (`00_5-evidence/`)
-    - Compiles verified developments, signals, and shifts using deep research with source citation.
-3.  **Step 01: Theme Exploration** (`01-exploration/`)
-    - Produces a 1,500+ word deep dive into conceptual, societal, and psychological implications.
-4.  **Step 02: PESTLE Analysis** (`02-pestle/`)
-    - Translates exploration insights into concrete Political, Economic, Social, Technological, Legal, and Environmental forces.
-5.  **Step 03: Forces & Feelings** (`03-forces-feelings/`)
-    - Defines the "DNA" of the world: Systemic Contradictions and the "Single Irreplaceable Thing."
-6.  **Step 04: Scenario Generator** (`04-scenario/`)
-    - Generates a grounded, narrative-driven Pathfinder Scenario (0–5 year horizon).
-7.  **Step 05: Scenario Eval (Epistemic Audit)** (`05-evaluation/`)
-    - Conducts a disciplined audit of the scenario to validate structural compliance and narrative inflation risk.
+- **Entry point**: `CLAUDE.md` (learning contract, invariants, loop definition)
+- **Skills**: `.claude/skills/` — `orchestrator` is the only monthly entry skill
+- **Themes**: `themes/THEMES.md` (22 themes)
+- **Memory**: `ledger/` — append-only per-theme claims + bounded `CALIBRATION.md`
+- **Output**: `output/YYYY-MM/`
+- **Method changes**: `proposals/` — quarterly `instrument-review`, human-merged
 
-## 📂 Folder Strategy
-Outputs follow a **step-first** folder structure to allow for easy cross-theme comparison of specific stages:
+## 🔄 The monthly loop
 
-```text
-output/YYYY-MM/
-├── 00-structural-question/
-├── 00_5-evidence/
-├── 01-exploration/
-├── 02-pestle/
-├── 03-forces-feelings/
-├── 04-scenario/
-├── 05-evaluation/
-└── PROGRESS.md
-```
+1. **Grade** (`signal-grading`) — research every open ledger claim; grade it
+   confirmed / decayed / falsified / expired / open, with sources. Distill
+   recurring errors into bounded calibration heuristics.
+2. **Sweep** (`evidence-sweep`) — real, cited research across all 22 themes.
+   Hard citation gate: no URL + date, no claim. Each sweep logs 2–4 new
+   falsifiable claims to the ledger.
+3. **Select** (`theme-selection`) — rank themes by evidence delta; pick 4–6
+   for deep dives. Every theme is covered at least once per 5 months.
+4. **Deep-dive** (selected themes only) — structural-question → exploration →
+   PESTLE → forces-feelings → scenario → epistemic eval.
+5. **Outlook** (`outlook-generator`, manual after human review) — the monthly
+   essay, opening with the scorecard and what changed since last month.
 
-## 📊 Progress Tracking
-The `PROGRESS.md` file in the current month's folder ensures resumability and strict sequential processing across all 22 themes. It tracks which themes are Pending `[ ]`, In Progress `[/]`, or Completed `[x]`.
+## 🧠 The learning contract
 
-## 🗓 Monthly Operating Procedure
-Recommended monthly cadence (run date target: the 25th of each month):
+Three layers, three speeds (details in `CLAUDE.md`):
 
-1. Run the orchestrator for all 22 themes (Steps `00` to `05`).
-2. Review quality across generated scenarios and evaluations.
-3. If needed, regenerate weak themes before synthesis.
-4. Run `outlook-generator` manually in `debug` mode first.
-5. Review the debug Outlook for readability and grounding.
-6. Run `outlook-generator` in `production` mode for final publication output.
+| Layer | Where | Changes | Gate |
+|-------|-------|---------|------|
+| State | `ledger/*.md` | every run | append-only |
+| Calibration | `ledger/CALIBRATION.md` | monthly | max 10 heuristics, evidence-cited, auto-expiring |
+| Instrument | `.claude/skills/` | quarterly at most | human merges proposals, METHOD_VERSION bump |
 
-`outlook-generator` is intentionally kept outside orchestrator so final synthesis happens after quality review.
+Calibration corrects the pipeline's observed biases without touching the
+skills; skills only change through human-reviewed proposals, so scorecards
+stay comparable within a method version.
 
-## ⚙️ Feature Flags
-- `USE_DEEP_RESEARCH`: Set to `true` for production monthly runs. When set to `false`, `evidence-layer` may run in mock/development mode.
+## 🗓 Monthly operating procedure
 
----
-*Created by Antigravity for the Attunement Observatory.*
+Target run date: the 25th of each month.
+
+1. Run `orchestrator` (Phases A–D).
+2. Review the grading scorecards, SELECTION.md, and the deep-dive evals.
+3. Regenerate weak artifacts if needed.
+4. Run `outlook-generator` in `debug` mode; review for readability and grounding.
+5. Run `outlook-generator` in `production` mode for publication.
+
+## 📜 History
+
+The `output/2026-02/` run predates method v2 (built with a different
+architecture and no real research). Its forward-looking horizon claims were
+seeded into the ledger, marked ungrounded, so the first v2 run can grade
+the old baseline.
