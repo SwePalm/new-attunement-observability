@@ -18,7 +18,7 @@ new evidence is gathered, so the month starts from a scored baseline.
 
 theme: string
 ledger: ledger/<theme>.md
-current_month: YYYY-MM
+current_run_date: YYYY-MM-DD
 
 ## Grading protocol (per open claim)
 
@@ -33,11 +33,11 @@ current_month: YYYY-MM
  - `expired`, resolve-by passed with no determinable outcome. Treat as a
  calibration signal: the claim was probably not written falsifiably enough.
 3. Append to the claim's Grades list:
- `- YYYY-MM: <grade>, <one sentence> (source: URL, Mon YYYY)`
+ `- YYYY-MM-DD: <grade>, <one sentence> (source: URL, Mon YYYY)`
 4. Move claims graded confirmed/decayed/falsified/expired from "Open claims"
  to "Resolved claims". Never rewrite claim text or earlier grades.
 
-## Output, output/YYYY-MM/01-grading/<theme>.md
+## Output, output/YYYY-MM-DD/01-grading/<theme>.md
 
 ```text
 Scorecard:

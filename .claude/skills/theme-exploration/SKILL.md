@@ -16,7 +16,7 @@ This is interpretive but must remain anchored to evidence.
 
 theme: string
 structural_question: string
-sweep_output: output/YYYY-MM/02-sweep/<theme>.md
+sweep_output: output/YYYY-MM-DD/02-sweep/<theme>.md
 
 ## Output Format (strict)
 

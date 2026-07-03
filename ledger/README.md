@@ -13,7 +13,7 @@ them against reality. Nothing is ever rewritten or deleted.
 - Source: <URL, Mon YYYY that motivated the claim>
 - Status: open | confirmed | decayed | falsified | expired
 - Grades:
- - YYYY-MM: <grade>, <one sentence> (source: URL, Mon YYYY)
+ - YYYY-MM-DD: <grade>, <one sentence> (source: URL, Mon YYYY)
 ```
 
 Rules:

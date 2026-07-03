@@ -7,16 +7,20 @@ description: Execute the monthly observatory loop, grade, sweep, select, deep-di
 
 ## Purpose
 
-Execute the monthly loop (Phases A–D). Maintain `output/YYYY-MM/PROGRESS.md`
+Execute the monthly loop (Phases A–D). Maintain `output/YYYY-MM-DD/PROGRESS.md`
 for resumability. The outlook (Phase E) is NOT part of this loop; it runs
-manually after human review of the month's artifacts.
+manually after human review of the run's artifacts.
+
+Output folders are keyed to the calendar day the loop runs, not just the
+month, so a second run within the same month gets its own folder and
+compounds on the first via the ledger, instead of overwriting it.
 
 ## Workflow
 
-1. Determine current month `YYYY-MM`. Create:
+1. Determine today's run date `YYYY-MM-DD`. Create:
 
  ```text
- output/YYYY-MM/
+ output/YYYY-MM-DD/
  01-grading/
  02-sweep/
  03-structural-question/
@@ -27,7 +31,7 @@ manually after human review of the month's artifacts.
  08-evaluation/
  ```
 
-2. Initialize or resume `output/YYYY-MM/PROGRESS.md`:
+2. Initialize or resume `output/YYYY-MM-DD/PROGRESS.md`:
  - Header: METHOD_VERSION (from CLAUDE.md) and current git SHA.
  - Phase A checklist: all 22 themes.
  - Phase B checklist: all 22 themes.
@@ -66,6 +70,8 @@ manually after human review of the month's artifacts.
 - Steps within a theme are sequential; different themes may run in parallel
  subagents within the same phase.
 - Never edit skill files or CALIBRATION bounds (see CLAUDE.md learning contract).
-- Overwrite same-month step files on rerun; never touch previous months.
+- Overwrite same-day step files if this exact date's run is resumed; never
+ touch a previous run's folder (any other `YYYY-MM-DD/`), even one from
+ earlier in the same month.
 - Ledger changes are appends only.
 - File names: lowercase theme name, spaces replaced with hyphens.

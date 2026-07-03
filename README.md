@@ -19,7 +19,7 @@ Agent skills for Claude Code, orchestrated as a phased monthly loop.
 - **Skills**: `.claude/skills/`, `orchestrator` is the only monthly entry skill
 - **Themes**: `themes/THEMES.md` (22 themes)
 - **Memory**: `ledger/`, append-only per-theme claims + bounded `CALIBRATION.md`
-- **Output**: `output/YYYY-MM/`
+- **Output**: `output/YYYY-MM-DD/` (one folder per run, so multiple runs in a month compound instead of overwriting)
 - **Method changes**: `proposals/`, quarterly `instrument-review`, human-merged
 
 ## 🔄 The monthly loop

@@ -1,6 +1,6 @@
 # Attunement Monthly Observatory
 
-METHOD_VERSION: 2.0
+METHOD_VERSION: 2.1
 
 Entry skill for monthly runs: `orchestrator` (`.claude/skills/orchestrator/`).
 Manual skills: `outlook-generator` and `delta-report` (after human review),
@@ -44,7 +44,7 @@ Learning happens at three layers. Each has a different change speed and gate.
  resolve-by month specifically enough that a future run can grade them
  confirmed, decayed, or falsified.
 - **Append-only history**: ledgers record; they do not rewrite.
-- **Version stamping**: every `output/YYYY-MM/PROGRESS.md` records
+- **Version stamping**: every `output/YYYY-MM-DD/PROGRESS.md` records
  METHOD_VERSION and the current git SHA. Scorecards are comparable only
  within a method version.
 - **No em-dashes**: no artifact may contain the em-dash character. Use commas,
@@ -67,16 +67,16 @@ scorecard was destroying the outlook's readability. Do not merge them back.
 
 | Phase | Skill | Scope | Output |
 |-------|-------|-------|--------|
-| A | signal-grading | themes with open claims | `output/YYYY-MM/01-grading/` + ledger grades |
-| B | evidence-sweep | all 22 themes | `output/YYYY-MM/02-sweep/` + new ledger claims |
-| C | theme-selection | corpus | `output/YYYY-MM/SELECTION.md` |
-| D | structural-question, theme-exploration, pestle-analysis, forces-feelings, scenario-generator, scenario-eval | selected 4–6 themes only | `output/YYYY-MM/03-...` to `08-evaluation/` |
-| E | outlook-generator + delta-report | manual, after human review | `output/YYYY-MM/09-outlook/outlook.md` + `delta-report.md` |
+| A | signal-grading | themes with open claims | `output/YYYY-MM-DD/01-grading/` + ledger grades |
+| B | evidence-sweep | all 22 themes | `output/YYYY-MM-DD/02-sweep/` + new ledger claims |
+| C | theme-selection | corpus | `output/YYYY-MM-DD/SELECTION.md` |
+| D | structural-question, theme-exploration, pestle-analysis, forces-feelings, scenario-generator, scenario-eval | selected 4–6 themes only | `output/YYYY-MM-DD/03-...` to `08-evaluation/` |
+| E | outlook-generator + delta-report | manual, after human review | `output/YYYY-MM-DD/09-outlook/outlook.md` + `delta-report.md` |
 
 ## Folder strategy
 
 ```text
-output/YYYY-MM/
+output/YYYY-MM-DD/
  01-grading/ one file per theme with open claims
  02-sweep/ one file per theme (22)
  SELECTION.md selected themes + rationale + coverage table
@@ -92,11 +92,23 @@ ledger/ persistent, append-only, cross-month
 proposals/ instrument-review output, human-merged
 ```
 
+Each invocation of the loop gets its own folder keyed to the calendar day it
+runs (`YYYY-MM-DD`), not just the month. This is what lets the loop compound:
+running it twice in the same month produces two folders instead of one run
+overwriting the other, while the ledger and CALIBRATION.md still accumulate
+across both. Month-level concepts (the coverage rule, calibration expiry,
+ledger claim IDs `<theme>-YYYY-MM-NN`) are unaffected: a claim ID's month
+segment still groups by calendar month even if several runs land in it.
+
 Note: the 2026-02 output predates this method (v1) and keeps its original
 step-first layout. Its horizon claims were seeded into the ledger, graded once
 in the 2026-07 run to mark the "before" picture, and then RETIRED. The v1
 boilerplate is not graded again; from 2026-08 the delta report grades only
 claims logged under this method. The 2026-02 output stays as archived history.
+
+Note: the first method-v2 run's output lived at `output/2026-07/` before the
+per-day folder change (METHOD_VERSION 2.1); it was renamed to
+`output/2026-07-03/` to match, since that is the calendar day it actually ran.
 
 ## Themes
 

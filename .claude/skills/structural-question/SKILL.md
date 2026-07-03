@@ -13,8 +13,8 @@ a 6–24 month horizon. First deep-dive step for selected themes.
 ## Input
 
 theme: string
-sweep: output/YYYY-MM/02-sweep/<theme>.md
-grading: output/YYYY-MM/01-grading/<theme>.md (if present)
+sweep: output/YYYY-MM-DD/02-sweep/<theme>.md
+grading: output/YYYY-MM-DD/01-grading/<theme>.md (if present)
 
 ## Output Format (strict)
 

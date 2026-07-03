@@ -19,9 +19,9 @@ carry a `MOCK, not evidence` first line.
 
 theme: string
 ledger: ledger/<theme>.md (including grades just written in Phase A)
-grading: output/YYYY-MM/01-grading/<theme>.md (if present)
+grading: output/YYYY-MM-DD/01-grading/<theme>.md (if present)
 calibration: ledger/CALIBRATION.md (active heuristics only)
-current_month: YYYY-MM
+current_run_date: YYYY-MM-DD
 
 ## Research protocol (required)
 
@@ -35,7 +35,7 @@ current_month: YYYY-MM
 5. If evidence is weak for a subsection, write `None`. Never fabricate
  sources, links, dates, or institutions.
 
-## Output format (strict), output/YYYY-MM/02-sweep/<theme>.md
+## Output format (strict), output/YYYY-MM-DD/02-sweep/<theme>.md
 
 THE CITATION GATE IS HARD: every bullet under Confirmed Developments,
 Regulatory Shifts, Capital Movements, and Technical Changes must end with
@@ -44,7 +44,7 @@ and Counter-Signals need at least one source each. A file violating this
 is invalid and must be regenerated, not patched.
 
 ```text
-Delta Since Last Month:
+Delta Since Last Sweep:
 - 2-4 bullets: what is new vs. the ledger and previous sweep, or "first sweep under method v2"
 
 Confirmed Developments:

@@ -12,9 +12,9 @@ regenerating all 22 themes every month.
 
 ## Input
 
-grading_reports: output/YYYY-MM/01-grading/*.md
-sweeps: output/YYYY-MM/02-sweep/*.md
-history: SELECTION.md files from previous months (for the coverage rule)
+grading_reports: output/YYYY-MM-DD/01-grading/*.md
+sweeps: output/YYYY-MM-DD/02-sweep/*.md
+history: SELECTION.md files from previous runs (for the coverage rule)
 
 ## Scoring (per theme)
 
@@ -31,7 +31,7 @@ Score each theme 0–5 on each dimension and sum:
 Every theme must be deep-dived at least once per 5 months. A theme reaching
 month 5 without a dive is selected regardless of score.
 
-## Output, output/YYYY-MM/SELECTION.md
+## Output, output/YYYY-MM-DD/SELECTION.md
 
 ```text
 Selected Themes (4-6):

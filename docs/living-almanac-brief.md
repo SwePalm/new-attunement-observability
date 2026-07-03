@@ -79,13 +79,14 @@ All paths are inside the observatory repo.
   - Source: <URL, Mon YYYY>
   - Status: open | confirmed | decayed | falsified | expired
   - Grades:
-    - YYYY-MM: <grade>, <one sentence> (source: URL, Mon YYYY)
+    - YYYY-MM-DD: <grade>, <one sentence> (source: URL, Mon YYYY)
   ```
   Claims live under "## Open claims" or "## Resolved claims". A parser should
   extract: id, claim text, resolve-by date, status, and each dated grade line.
 - Calibration memo (what the pipeline learned about its own biases):
   `ledger/CALIBRATION.md`.
-- Monthly outputs: `output/YYYY-MM/`. Notably:
+- Run outputs: `output/YYYY-MM-DD/` (one folder per run, keyed to the day it
+  ran, since a month can hold more than one run). Notably:
   - `09-outlook/outlook.md` (the essay, published piece)
   - `09-outlook/delta-report.md` (the accountability companion: scorecard,
     what changed, claims on the clock)
