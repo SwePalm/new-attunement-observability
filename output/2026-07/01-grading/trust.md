@@ -1,0 +1,12 @@
+Scorecard:
+- open: 2, confirmed: 2, decayed: 0, falsified: 0, expired: 0
+
+Grade Details:
+- trust-2026-02-01: confirmed — Bounded agent workflows with pre-deployment controls expanded materially: 80.9% of surveyed technical teams are past planning into testing or deployment, and policy-gateway/human-checkpoint patterns are productized, though containment controls lag adoption (37–40%) (source: https://www.okta.com/newsroom/articles/ai-agents-at-work-2026-agentic-enterprise-security/, 2026) (source: https://labs.cloudsecurityalliance.org/research/csa-research-note-ai-agent-governance-framework-gap-20260403/, Apr 2026)
+- trust-2026-02-02: confirmed — Procurement now routinely requires governance evidence, audit rights, and incident-reporting provisions in AI vendor contracts; 77% of organizations are building or refining formal AI governance programs (source: https://prefactor.tech/learn/ai-governance-compliance-statistics, 2026) (source: https://www.gep.com/blog/technology/ai-regulation-governance-mandates-enterprises, 2026)
+- trust-2026-02-03: open — Resolve-by is 2029-02. Trajectory materially complicated: the EU Digital Omnibus (Parliament 16 Jun 2026, Council 29 Jun 2026) postponed Annex III high-risk obligations to Dec 2027 and Annex I to Aug 2028, slowing the compliance-configuration mechanism the claim assumes (source: https://www.gibsondunn.com/eu-ai-act-omnibus-agreement-postponed-high-risk-deadlines-and-other-key-changes/, Jun 2026)
+- trust-2026-02-04: open — Resolve-by is 2029-02. Early corroboration (agent gateways, human-in-the-loop playbooks, formal oversight guidance) but formalization is not yet the operating norm: most organizations still lack full visibility into agent activity (source: https://labs.cloudsecurityalliance.org/research/csa-research-note-ai-agent-governance-framework-gap-20260403/, Apr 2026)
+
+Surprises:
+- The regulatory clock moved BACKWARD: the seeded claims assumed monotonic regulatory hardening, but the EU's June 2026 omnibus deferred the highest-impact obligations by 16–24 months. Enterprise-side governance (procurement, insurance, internal controls) is hardening faster than the statutory layer.
+- These claims were confirmable almost by construction: they name no actor, no threshold, and no observable event. Confirmation here carries little foresight credit. (See calibration note in PROGRESS.md — the same four claims were seeded verbatim into 21 of 22 themes by the v1 run.)
