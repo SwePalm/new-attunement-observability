@@ -1,0 +1,16 @@
+# Signal grading, identity, 2026-08-04
+
+Scorecard:
+- open: 4, confirmed: 1, decayed: 0, falsified: 0, expired: 0
+
+Grade Details:
+- identity-2026-02-03: open, no movement in one month; the Commission's AI Act status page still records only the May 2026 political agreement on simplification and no fresh high-risk dates, so region-specific configuration is still driven by data-residency practice rather than a settled statutory deadline, and the 2029-02 horizon is far off (source: https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence, Aug 2026)
+- identity-2026-02-04: open, incremental corroboration through the certification channel rather than the operating model, since ISO 42001 control A.8.4 now requires documented review procedures, escalation paths and override records with auditors demanding logs over policy, but no adoption data shows formalization has become the norm (source: https://cloudsecurityalliance.org/blog/2026/07/21/iso-42001-the-importance-of-knowing-your-role-before-building-your-ai-system, Jul 2026)
+- identity-2026-07-01: open, no named bank or payment network has publicly deprecated voice or video verification; the visible movement is additive (six major UK banks backing a reusable digital ID network, still only at controlled live pilot) and the resolve-by month is 2027-09 (source: https://www.biometricupdate.com/202606/major-uk-banks-back-reusable-digital-id-network-for-financial-services, Jun 2026)
+- identity-2026-07-02: confirmed, World ID proof-of-human reached production at Tinder (Match Group, US rollout with verified-human profile badges), Zoom meetings and Docusign signing workflows, with nearly 18 million verified humans across 160 countries (source: https://world.org/blog/announcements/the-new-world-id-and-the-partners-bringing-proof-of-human-to-the-internet, Apr 2026)
+- identity-2026-07-03: open, adjacent but not on point; the Belgian APD investigated an AI conversational application (May 2026) covering free-text sensitive data, storage periods, transparency on internal processing and model retraining, but no data-protection authority has yet framed an inquiry specifically around persistent AI memory profiles (source: https://www.gibsondunn.com/gibson-dunn-europe-data-protection-july-2026/, Jul 2026)
+
+Surprises:
+- identity-2026-07-02 confirmed on evidence dated April 2026, three months before the claim was logged. The claim was already true when the July sweep wrote it as a forward prediction with a mid-2027 horizon. This is a sweep-recall failure, not a foresight success, and the confirmation should be discounted accordingly.
+- identity-2026-07-01 shows the opposite of the predicted mechanism. Institutions are adding stronger verification rails (reusable digital ID, device biometrics) rather than publicly retiring voice or video. Public deprecation is a reputational act banks appear to be avoiding, so the claim may be unresolvable by its own observable even if the underlying trust collapse is real.
+- identity-2026-07-03's nearest evidence (the Belgian APD inquiry) is real regulatory motion in the right direction but does not name memory profiles. The claim's subject term is narrower than the vocabulary regulators actually use, which risks an expired grade in 2027-09 despite substantive movement.

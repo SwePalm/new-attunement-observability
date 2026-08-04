@@ -11,6 +11,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
  - 2026-07: open, EU Digital Omnibus (Jun 2026) postponed Annex III obligations to Dec 2027 and Annex I to Aug 2028, slowing the assumed compliance-configuration mechanism (source: https://www.gibsondunn.com/eu-ai-act-omnibus-agreement-postponed-high-risk-deadlines-and-other-key-changes/, Jun 2026)
+ - 2026-08-04: open, divergence continues to widen (Colorado replaced its AI Act with the narrower ADMTA effective Jan 2027 while the EU deferred its high-risk deadlines), which supports the direction of travel, but no evidence yet that region-specific configurations and liability clauses are the deployment norm; resolve by 2029-02 (source: https://www.skadden.com/insights/publications/2026/06/colorado-repeals-and-replaces-its-ai-act, Jun 2026)
 
 ### authority-2026-02-04
 - Claim: Oversight roles and escalation pathways become formalized in operating models rather than ad hoc responses.
@@ -19,6 +20,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
  - 2026-07: open, early corroboration (agent gateways, HITL playbooks) but formalization not yet the operating norm; most orgs lack agent visibility (source: https://labs.cloudsecurityalliance.org/research/csa-research-note-ai-agent-governance-framework-gap-20260403/, Apr 2026)
+ - 2026-08-04: open, peer-reviewed mapping of 351 organisations finds AI oversight roles unevenly distributed, usually below executive level and often "symbolic" (title without authority or resources), so formalization is present but not yet the operating model; resolve by 2029-02 (source: https://www.mdpi.com/2673-7116/6/2/18, Apr 2026)
 
 ### authority-2026-07-01
 - Claim: The DOJ AI Litigation Task Force wins at least one ruling striking or enjoining a state AI law by mid-2027.
@@ -27,6 +29,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
  - none yet
+ - 2026-08-04: open, DOJ intervened in xAI v. Weiser on 24 Apr 2026 but the 27 Apr 2026 halt to Colorado AI Act enforcement came from a joint motion by the parties rather than a contested ruling, and no merits decision has issued in any Task Force matter (source: https://www.justice.gov/opa/pr/justice-department-intervenes-xai-lawsuit-challenging-colorados-algorithmic-discrimination, Apr 2026)
 
 ### authority-2026-07-02
 - Claim: Congress passes no comprehensive AI preemption statute before mid-2027, leaving the state laws operative.
@@ -35,6 +38,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
  - none yet
+ - 2026-08-04: open, the Great American AI Act discussion draft released 4 Jun 2026 was still not formally introduced as of Jul 2026 and no chamber has voted, so no preemption statute exists, but the resolve-by month is 13 months out (source: https://www.mintz.com/insights-center/viewpoints/54941/2026-07-08-ai-washington-report-july-2026-edition, Jul 2026)
 
 ### authority-2026-07-03
 - Claim: At least one state repeals or materially weakens an AI law under BEAD funding pressure by mid-2027.
@@ -43,6 +47,39 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
  - none yet
+ - 2026-08-04: open, Colorado repealed and materially weakened its AI Act via SB 26-189 (signed 14 May 2026), but sources attribute the pivot to the xAI suit, DOJ intervention and the Dec 2025 executive order rather than to BEAD, and NTIA has still not issued the nondeployment guidance that would operationalise the funding threat, so the claim's stated mechanism is unevidenced (source: https://www.skadden.com/insights/publications/2026/06/colorado-repeals-and-replaces-its-ai-act, Jun 2026)
+
+### authority-2026-08-01
+- Claim: The European Commission's AI Office opens its first formal enforcement step against a named general-purpose AI model provider under its post-2 Aug 2026 powers (a public formal request for information, evaluation demand, corrective-measures request, or fine).
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://www.wsgr.com/en/insights/eu-ai-act-enforcement-phase-begins.html, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### authority-2026-08-02
+- Claim: The FTC issues a final version of the "suppression of accuracy" policy statement retaining an implied-preemption theory against state AI laws.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-03)
+- Source: https://www.federalregister.gov/documents/2026/07/07/2026-13628/policy-statement-concerning-the-suppression-of-accuracy-in-artificial-intelligence-systems, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### authority-2026-08-03
+- Claim: The DOJ AI Litigation Task Force or an industry plaintiff files a federal constitutional or preemption challenge to Illinois SB 315 (Artificial Intelligence Safety Measures Act).
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://gov-pritzker-newsroom.prezly.com/gov-pritzker-signs-nation-leading-artificial-intelligence-safety-law, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### authority-2026-08-04
+- Claim: xAI v. Weiser (D. Colo., 1:26-cv-01515) terminates without a district court merits ruling on federal preemption of the Colorado AI Act, by dismissal, voluntary withdrawal, or mootness.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://www.courtlistener.com/docket/73171074/x-ai-llc-v-weiser/, Jun 2026
+- Status: open
+- Grades:
+  - none yet
 
 ## Resolved claims
 
