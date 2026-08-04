@@ -11,6 +11,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
  - 2026-07: open, EU Digital Omnibus (Jun 2026) postponed Annex III obligations to Dec 2027 and Annex I to Aug 2028, slowing the assumed compliance-configuration mechanism (source: https://www.gibsondunn.com/eu-ai-act-omnibus-agreement-postponed-high-risk-deadlines-and-other-key-changes/, Jun 2026)
+ - 2026-08-04: open, v1 seeded boilerplate retired from delta reporting per CLAUDE.md and status-noted only; EU AI Act Article 50 transparency duties became applicable on 2 Aug 2026 while Annex III high-risk duties stay deferred to Dec 2027, so region-specific configuration pressure is real but partial, and the 2029-02 horizon is far from resolution (source: https://ai-act-service-desk.ec.europa.eu/en/ai-act/timeline/timeline-implementation-eu-ai-act, Aug 2026)
 
 ### memory-2026-02-04
 - Claim: Oversight roles and escalation pathways become formalized in operating models rather than ad hoc responses.
@@ -19,6 +20,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
  - 2026-07: open, early corroboration (agent gateways, HITL playbooks) but formalization not yet the operating norm; most orgs lack agent visibility (source: https://labs.cloudsecurityalliance.org/research/csa-research-note-ai-agent-governance-framework-gap-20260403/, Apr 2026)
+ - 2026-08-04: open, v1 seeded boilerplate retired from delta reporting per CLAUDE.md and status-noted only; July 2026 practitioner analysis still finds most organisations have policies, committees and vendor reviews but not accountable roles, decision rights and escalation pathways as an operating model (source: https://govagentic.ai/insights/2026-07-16-ai-governance-operating-model, Jul 2026)
 
 ### memory-2026-07-01
 - Claim: A data-protection authority (EU DPA or state AG) issues formal guidance or opens an inquiry specifically on persistent AI assistant memory by mid-2027.
@@ -27,14 +29,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
  - none yet
-
-### memory-2026-07-02
-- Claim: Memory portability becomes product: a major assistant vendor ships native memory export/import compatible with a competitor, or an open memory-exchange format gains two major implementations, by mid-2027.
-- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
-- Source: https://plurality.network/blogs/best-universal-ai-memory-extensions-2026/, 2026
-- Status: open
-- Grades:
- - none yet
+ - 2026-08-04: open, no EU DPA or state AG action naming persistent assistant memory as its subject; the closest instrument is the 42-state AG subpoena of OpenAI (12 Jun 2026) covering user data, retention, health data and minors in general terms, and no EDPB or national DPA memory-specific guidance has issued, with resolve-by 2027-09 still ahead (source: https://www.reuters.com/business/openai-under-investigation-by-coalition-state-attorneys-general-wsj-reports-2026-06-12/, Jun 2026)
 
 ### memory-2026-07-03
 - Claim: A documented incident where leaked or subpoenaed assistant memory data causes material harm to a named individual surfaces by mid-2027.
@@ -43,8 +38,18 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
  - none yet
+ - 2026-08-04: open, near misses but no match: the OpenMemory unauthenticated-memory-access CVEs and the MemGhost false-memory attack (Jul 2026) are vulnerabilities without a named victim, the Krafton Delaware opinion (Mar 2026) used chat logs rather than memory data and named no individual, and the Del Rosario case involved the memory feature working as designed rather than leaked or subpoenaed memory (source: https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html, Jul 2026)
 
 ## Resolved claims
+
+### memory-2026-07-02
+- Claim: Memory portability becomes product: a major assistant vendor ships native memory export/import compatible with a competitor, or an open memory-exchange format gains two major implementations, by mid-2027.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://plurality.network/blogs/best-universal-ai-memory-extensions-2026/, 2026
+- Status: confirmed
+- Grades:
+ - none yet
+ - 2026-08-04: confirmed, and confirmed by events that predate the claim being logged: Anthropic shipped native Claude memory import and export across providers (2 Mar 2026, documented in Claude's own help centre) and Google shipped Gemini Import Memory and Import Chat History from ChatGPT and Claude (26 Mar 2026), so two major assistant vendors already ship competitor-compatible memory portability (source: https://support.claude.com/en/articles/12123587-import-and-export-your-memory-from-claude, Aug 2026; https://9to5mac.com/2026/03/02/free-claude-users-can-now-use-memory-and-import-context-from-rivals/, Mar 2026)
 
 ### memory-2026-02-01
 - Claim: Bounded AI-assisted workflows expand with stronger pre-deployment control checks in higher-impact contexts.

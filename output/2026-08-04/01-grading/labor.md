@@ -1,0 +1,17 @@
+# Signal grading, labor, 2026-08-04
+
+Scorecard:
+- open: 6, confirmed: 0, decayed: 0, falsified: 0, expired: 0
+
+Grade Details:
+- labor-2026-02-03: open, contractual AI liability language keeps spreading (GSA's proposed government-wide AI contract clause imposes disclosure, data-rights and liability terms on federal contractors), but region-specific compliance configuration as normal deployment architecture is far from settled at the 2029-02 horizon (source: https://www.hklaw.com/en/insights/publications/2026/03/gsas-proposed-ai-clause-a-deep-dive, Mar 2026)
+- labor-2026-02-04: open, no material movement in the month; the newest formalization of human accountability for AI output again arrived through a bargained contract (UUP/SUNY, ratified 27 Jul 2026) rather than an employer operating model, so the claim's stated mechanism remains unproven (source: https://uupinfo.org/communications/releases/260727.php, Jul 2026)
+- labor-2026-07-01: open, AI was cited in 101,743 US job cut announcements through June 2026 (about 23% of all cuts) and led all stated reasons for four consecutive months, on pace to clear 150,000 but not resolvable before 2027-02 (source: https://www.challengergray.com/blog/challenger-report-june-layoffs-cool-to-45849-down-53-from-may-ai-leads-reasons-for-fourth-consecutive-month/, Jul 2026)
+- labor-2026-07-02: open, entry-level postings on Indeed fell a further 11% year over year as of late July 2026 and are described as a multi-year low, directionally consistent with no recovery, but the 25%-below-2023 test cannot resolve before 2027-09 (source: https://www.kyoutv.com/2026/07/30/how-new-grads-can-stand-out-entry-level-job-postings-hit-multi-year-low/, Jul 2026)
+- labor-2026-07-03: open, one qualifying agreement landed since logging (UUP/SUNY five-year contract ratified 27 Jul 2026, giving humans direction and ultimate accountability over AI-produced work), leaving four more needed by mid-2027 (source: https://uupinfo.org/communications/releases/260727.php, Jul 2026)
+- labor-2026-07-04: open, the only named at-scale public reversal remains Klarna's 2025 rehiring of human agents, which predates the claim window, while 2026 coverage reports quiet, unnamed boomerang rehiring rather than a public reversal (source: https://www.fastcompany.com/91571824/the-great-ai-layoff-is-turning-into-the-great-ai-rehire, 2026)
+
+Surprises:
+- labor-2026-07-04 was written as a forward-looking bet but was arguably already satisfied at logging time: Klarna publicly reversed its AI support substitution in 2025, a year before the claim was recorded. The claim also lacks a threshold for "at scale" and a start date, so it risks confirming by construction rather than by prediction.
+- labor-2026-07-02's mechanism is contested by a primary source the claim did not anticipate. The New York Fed found no clear divergence between junior and senior labor demand within AI-exposed occupations, meaning entry-level weakness may be a general hiring slowdown rather than AI substitution, even if the posting level test still passes (source: https://libertystreeteconomics.newyorkfed.org/2026/05/do-job-postings-show-early-labor-market-effects-of-ai/, May 2026).
+- labor-2026-07-03's only movement this month came from a public higher-education union (UUP/SUNY), not from the tech, media, or hospitality channels the claim's source implied. The bargaining frontier is widening faster than the claim's framing assumed, while the claim's "additional" baseline is undefined, which will make counting to five contentious at resolution.

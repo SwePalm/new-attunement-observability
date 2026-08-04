@@ -11,6 +11,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
  - 2026-07: open, EU Digital Omnibus (Jun 2026) postponed Annex III obligations to Dec 2027 and Annex I to Aug 2028, slowing the assumed compliance-configuration mechanism (source: https://www.gibsondunn.com/eu-ai-act-omnibus-agreement-postponed-high-risk-deadlines-and-other-key-changes/, Jun 2026)
+ - 2026-08-04: open, region-specific configuration is hardening faster than the contractual leg (China's anthropomorphic-AI measures effective 15 Jul 2026 forced ByteDance and Alibaba into region-specific withdrawal and rebuild), while the EU's model contractual clauses for AI procurement remain the 2025 baseline rather than a new normal (source: https://english.news.cn/20260715/4bf39cb3c4db42babc10ed37932cfd94/c.html, Jul 2026)
 
 ### dependency-2026-02-04
 - Claim: Oversight roles and escalation pathways become formalized in operating models rather than ad hoc responses.
@@ -19,14 +20,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
  - 2026-07: open, early corroboration (agent gateways, HITL playbooks) but formalization not yet the operating norm; most orgs lack agent visibility (source: https://labs.cloudsecurityalliance.org/research/csa-research-note-ai-agent-governance-framework-gap-20260403/, Apr 2026)
-
-### dependency-2026-07-01
-- Claim: A regulator or standards body issues formal guidance on "AI concentration risk" (dependence on single AI providers) for critical sectors by mid-2027.
-- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
-- Source: https://www.theactuary.com/2026/06/25/price-proof-insurance-policies-ai-enabled-world, Jun 2026
-- Status: open
-- Grades:
- - none yet
+ - 2026-08-04: open, regulators are now pushing formalization explicitly (FSB consultation of 10 Jun 2026 proposes 12 sound practices for organisation-wide AI governance across the lifecycle, final report due Oct 2026), but it is still supervisory expectation rather than observed operating norm (source: https://www.fsb.org/2026/06/sound-practices-for-responsible-adoption-of-artificial-intelligence-ai-consultation-report/, Jun 2026)
 
 ### dependency-2026-07-02
 - Claim: A major platform introduces usage-pattern interventions for heavy companion users (dose warnings, session limits, human-referral prompts) by mid-2027.
@@ -34,7 +28,7 @@ Format: see ledger/README.md. Append-only.
 - Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC12928748/, 2026
 - Status: open
 - Grades:
- - none yet
+ - 2026-08-04: open, the intervention is now mandated in China (CAC-led measures effective 15 Jul 2026 require reminders after two hours of continuous use plus dependency and distress intervention) but the two largest incumbents, Doubao and Qwen, withdrew companion features instead of shipping usage-pattern controls, so no major platform has yet introduced them (source: https://english.news.cn/20260715/4bf39cb3c4db42babc10ed37932cfd94/c.html, Jul 2026)
 
 ### dependency-2026-07-03
 - Claim: An AI-provider outage or model deprecation causes documented, material operational disruption at enterprises dependent on it, prompting public post-mortems, by mid-2027.
@@ -42,9 +36,17 @@ Format: see ledger/README.md. Append-only.
 - Source: https://zylos.ai/research/2026-03-26-agent-interoperability-protocols-mcp-a2a-acp-convergence/, Mar 2026
 - Status: open
 - Grades:
- - none yet
+ - 2026-08-04: open, the disruption leg is already met (Anthropic's 12 Jun 2026 suspension of Claude Fable 5 and Mythos 5 under a US export-control directive hit enterprises with embedded production integrations, and OpenAI degraded for 17 days in Jul 2026) but no provider or affected enterprise has published a post-mortem, which is the leg the claim rests on (source: https://www.gtlaw.com/en/insights/2026/6/ai-company-anthropic-suspends-access-to-claude-fable-5-claude-mythos-5-following-us-export-control-directive, Jun 2026)
 
 ## Resolved claims
+
+### dependency-2026-07-01
+- Claim: A regulator or standards body issues formal guidance on "AI concentration risk" (dependence on single AI providers) for critical sectors by mid-2027.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://www.theactuary.com/2026/06/25/price-proof-insurance-policies-ai-enabled-world, Jun 2026
+- Status: confirmed
+- Grades:
+ - 2026-08-04: confirmed, APRA's 30 Apr 2026 letter to all APRA-regulated entities (banking, insurance, superannuation) found entities heavily dependent on a single AI provider across multiple use cases with untested exit strategies and set an expectation of "active management of concentration risk" over critical AI providers, which is formal regulatory guidance on AI concentration risk in a critical sector and predates the claim's logging (source: https://www.apra.gov.au/apra-letter-to-industry-on-artificial-intelligence-ai, Apr 2026)
 
 ### dependency-2026-02-01
 - Claim: Bounded AI-assisted workflows expand with stronger pre-deployment control checks in higher-impact contexts.

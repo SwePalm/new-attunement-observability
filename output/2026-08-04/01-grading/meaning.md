@@ -1,0 +1,16 @@
+# Signal grading, meaning, 2026-08-04
+
+Scorecard:
+- open: 3, confirmed: 2, decayed: 0, falsified: 0, expired: 0
+
+Grade Details:
+- meaning-2026-02-03: open, US state divergence (Colorado SB 24-205 effective Jun 2026, Illinois HB 3773 and Texas HB 149 effective Jan 2026) is pushing region-specific configuration and vendor-compliance verification into enterprise contracts, but it is not yet normal deployment architecture and the horizon runs to 2029-02 (source: https://klgates.com/Navigating-the-AI-Employment-Landscape-in-2026-Considerations-and-Best-Practices-for-Employers-2-2-2026, Feb 2026)
+- meaning-2026-02-04: open, human-review and escalation duties are hardening in statute (Colorado requires that final employment decisions include meaningful human review, effective Jun 2026) but oversight remains a compliance overlay rather than the operating model, and the horizon runs to 2029-02 (source: https://klgates.com/Navigating-the-AI-Employment-Landscape-in-2026-Considerations-and-Best-Practices-for-Employers-2-2-2026, Feb 2026)
+- meaning-2026-07-01: open, the Conference Board Job Satisfaction survey is annual and the May 2026 wave remains the latest published, so no successor wave exists yet against which the AI-confidence gap could be compared (source: https://www.conference-board.org/topics/job-satisfaction/press/job-satisfaction-2026, May 2026)
+- meaning-2026-07-02: confirmed, SAG-AFTRA members ratified a TV/Theatrical Agreement (Jun 2026, effective Jul 2026) with terms that further restrict synthetics so human performance remains the rule, and 2026 nurse contracts at Mount Sinai, Montefiore, UC Health and HCA bar AI from substituting for a licensed nurse's judgment (source: https://www.sagaftra.org/contracts-industry-resources/member-resources/artificial-intelligence, Jun 2026)
+- meaning-2026-07-03: confirmed, NYSNA filed a formal class-action grievance over Montefiore replacing 12 utilization review nurses with Datavant AI and framed the harm as loss of licensed clinical judgment and of "real human caring from a nurse", explicitly beyond job loss (source: https://www.nysna.org/press/bronx-needs-real-nurses-not-ai, Jul 2026)
+
+Surprises:
+- Both 0-12 month claims logged in 2026-07 resolved confirmed within a single month, and in both cases the confirming events (SAG-AFTRA ratification Jun 2026, NYSNA grievance filed 1 Jun 2026 and publicised 1 Jul 2026) predate or coincide with the claim's own logging date. The sweep that wrote them was reading behind the evidence, not ahead of it, so the confirmations carry little foresight value.
+- The "meaningful work" claim confirmed through a channel it did not name. It anticipated employers introducing provisions; every instance found arrived through collective bargaining and grievance procedure, with employers as the constrained party rather than the initiator. This is the third month running that private ordering has outpaced the mechanism the pipeline expected.
+- The professional-identity claim was scoped to "healthcare or service-sector unions" and hit on the most literal possible reading (a nursing union, in a hospital, over a nursing role). A claim that broad confirming that fast suggests the resolve-by window (2027-09) was set far too generously for the evidence base that motivated it.
