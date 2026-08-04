@@ -1,155 +1,471 @@
 # Scenario evaluation, responsibility, 2026-08-04
 
-Artifact under audit: `output/2026-08-04/07-scenario/responsibility.md` ("The Sentence and the Sum")
+Rebuilt 2026-08-04 on the corrected sweep. The original chain for this theme was
+evaluated at 5.8, principally because the scenario asserted that no channel routes
+remedy to a harmed individual, a claim contradicted by evidence this run's own
+Phase A graded confirmed (responsibility-2026-07-02, Washington HB 2225 and Oregon
+SB 1546). This evaluation scores the rebuilt artifact on its merits against the
+corrected substrate, not against the prior number.
+
+METHOD_VERSION 2.1. Artifact under audit: `output/2026-08-04/07-scenario/responsibility.md`
+("A Thousand Dollars Per").
+
+---
 
 ## 0. Citation Gate
 
-Pass/Fail: PASS (with recorded reservations)
+Pass/Fail: **PASS**
 
 Notes:
 
-- Every Confirmed Development in `02-sweep/responsibility.md` carries at least one source URL and a month+year. All four carry two URLs each: Illinois AISMA (Skadden and DLA Piper, Jul 2026), the Commission's final Article 50 guidelines (Faegre Drinker Jul 2026, digital-strategy.ec.europa.eu Jul 2026), China's two 15 Jul 2026 instruments (IAPP Jul 2026, Rimon Jun 2026), Colorado SB 26-189 (DWT May 2026, Norton Rose Fulbright May 2026). The Emerging Signals, Counter-Signals, Regulatory Shifts, Capital Movements and Technical Changes sections are likewise each URL-dated. The gate on upstream evidence integrity is clean.
-- All six Signals Emerging bullets in scenario section 7.1 trace to dated, sourced sweep items: bullet 1 to Confirmed Development 1 plus the Illinois counter-signal, bullet 2 to Confirmed Development 2, bullet 3 to the EU competent-authority counter-signal, bullet 4 to Confirmed Development 4, bullet 5 to Capital Movements, bullet 6 to Emerging Signals. The skill's floor of three reused sweep signals is exceeded by double. No signal in 7.1 is invented.
-- Reservation on the third gate question. There are assertions in the scenario body that cite no upstream evidence: the characterisation of the Illinois audit as running against the developer's own published safety framework (section 5, "Self-referential audit"), the published-summary-plus-NDA-annex document architecture (sections 3 and 4), and the therapist waiting list (section 3). These are scoring defects located in the narrative layer, not citation defects in the upstream evidence files, so the gate's remedy (regenerate the named upstream file) does not apply. I record them here and carry them into sections 2 and 3 as deductions rather than failing the gate. No upstream file requires regeneration.
+- Every Confirmed Development in `02-sweep/responsibility.md` carries at least one
+  source URL and a month plus year. Checked mechanically across all six confirmed
+  bullets: bullet 1 carries three (Hunton Mar 2026, Mayer Brown Apr 2026,
+  Transparency Coalition Apr 2026), bullets 2 through 6 carry two each, dated
+  between May 2026 and Jul 2026. No bare-assertion Confirmed bullet exists.
+- All six Signals Emerging bullets in scenario section 7.1 trace to dated, sourced
+  sweep items. Bullet 1 to Confirmed Development 1; bullet 2 to Emerging Signal 2
+  (Baker Botts, Mar 2026); bullet 3 to Confirmed Development 2; bullet 4 to
+  Counter-Signal 1; bullet 5 to Confirmed Development 3 and Counter-Signal 3;
+  bullet 6 to Regulatory Shift 1. Figures survive transit intact: $1,000 per
+  violation, fourteen enacted laws as of 22 Jul 2026, $15,000 per day for Rhode
+  Island, $500m revenue and 10^26 operations for Illinois, $42bn BEAD, all match
+  the sweep exactly.
+- One fidelity slip, recorded here and scored under section 5 rather than treated
+  as a gate failure because the underlying evidence is present and correctly
+  sourced. Bullet 4 drops a scoping qualifier. The sweep says a person harmed by a
+  loan, hiring or triage system "has no statutory damages route **under any of the
+  three statutes**". The scenario renders this as "nobody denied a loan, screened
+  out of a job or triaged by an AI system has a statutory damages route", full
+  stop. The sweep establishes an absence within three named companion statutes; the
+  scenario states a general absence. Section 2 repeats the unqualified form
+  ("Nothing pays the person a screening or lending system decided about"). This is
+  a narrowing of evidence into a broader negative, and it is the same class of
+  error, inverted, that produced the original chain's failure.
+- No claim in the scenario cites no upstream evidence at all. The narrative
+  furniture of section 3 (the room, the folders, the eleven people) is fictional
+  instantiation, which the artifact type permits; the load-bearing institutional
+  assertions all have sweep anchors. Two upstream-inherited constructions are
+  ungrounded in the sweep and are treated under section 2 below.
+
+Gate result: proceed to scoring.
 
 ---
 
 ## 1. Structural Compliance
 
-Pass/Fail: PASS
+Pass/Fail: **PASS**
 
 Notes:
 
-- All nine required sections present, in the prescribed order, with headings matching the scenario-generator contract verbatim including the en-dash subtitles.
-- Length constraints met throughout. Section 2 is 172 words against an approximate 150 (over, but the contract says "≈"). Section 3 is exactly 400 words against a 300 to 400 band, sitting on the ceiling. Section 4 is 220 (band 150 to 250), section 5 is 233 (band 150 to 250), section 7.2 is 152 (band 120 to 200). Bullet counts: 7.1 has six (band four to six), 7.3 has six (band four to six), Skills We May Need has six (band four to six), Signals and Refractions has three (band two to three), section 6 has three reflections (band two to three).
-- Pullback Layer is complete: 7.1, 7.2 and 7.3 all present and populated.
-- Required elements used. Three of the three Normal Absurdities from forces-feelings appear in section 3, exceeding the floor of two: the unreadable audit ("the annex ... went to underwriters and enterprise buyers under NDA ... this is not that kind of document"), the addressee-less incident report ("The provider notified the file. Dated, retained, addressed to no one"), and the compliance interruption reframed as care ("the app breaks off, offers resources, throttles the session and logs the exchange"). The Irreplaceable Thing (an admission of fault said out loud by someone with standing) is the explicit emotional centre, carried by the single-sentence page in the drawer and named again in section 9.
-- Deduction, not a failure: the contract's "No meta-commentary" constraint is breached twice. Section 7.2 names the pipeline's own heuristics in reader-facing prose ("Calibration heuristic CAL-002 says to discount published compliance dates", "CAL-003 says private ordering leads"), and section 4 carries an inline "Inference, not established by this run's evidence" marker. The contract asks that calibration be applied as restraint in the world-building, not cited by identifier to the reader. This is a register violation, not a structural one, and it is the sole reason this dimension does not score higher.
-- No em-dash characters present (verified by scan). The en-dashes are the contract's own heading punctuation.
+- All nine required sections present, in the prescribed order, with headings
+  matching the scenario-generator contract verbatim including the 7.1, 7.2, 7.3
+  and the two section 8 subsections.
+- Length constraints, measured: section 2 at 162 words against a target of about
+  150 (within tolerance); section 3 at 398 words against 300–400 (at the ceiling);
+  section 4 at 217 against 150–250; **section 5 at 254 against 150–250, a four-word
+  overrun**; section 7.2 at 178 against 120–200. Bullet counts: 7.1 has six against
+  4–6, 7.3 has six against 4–6, Skills has six against 4–6, Signals and Refractions
+  has three against 2–3, section 6 has three reflections against 2–3. The single
+  overrun is trivial and is noted for completeness rather than scored.
+- Pullback Layer complete. 7.2 does the harder thing the contract implies: it
+  differentiates between dates rather than discounting all of them, treating the
+  1 Jan 2027 effective dates as firm because they are enacted law and the Illinois
+  2028 audit start, the 9 Dec 2026 Product Liability Directive transposition and
+  the unfinished Article 73 template as soft. That is the correct reading of
+  CAL-002, which concerns slippage under competitiveness pressure, not a blanket
+  discount.
+- Required elements used. Two Normal Absurdities are integrated into section 3:
+  NA2 (households keeping violation counts, the folder, the circulating template
+  with a version number) and NA3 (harm acquiring a season, "it happened after the
+  January", the November-versus-February comparison). NA1 (people checking which
+  lane they are in before speaking) appears in section 4 rather than section 3,
+  which still satisfies the two-in-section-3 requirement. The Irreplaceable Thing,
+  an hour of company that nobody is counting, is the emotional centre of section 3
+  and the pivot of section 9: Delia's decision about the minutes is the direct
+  dramatisation of it, and the artifact correctly identifies that her uncountedness
+  is also the reason she has no claim. This is the tightest use of the
+  Irreplaceable Thing in the run.
+- One compliance deduction. The scenario-generator contract says "No
+  meta-commentary". Section 7.2 names CAL-002, CAL-003 and CAL-004 by identifier in
+  reader-facing prose, and sections 4 and 5 carry the phrase "Inference, not
+  established by this run's evidence". The inference markers are epistemically
+  correct and the pipeline benefits from them; the calibration identifiers are
+  internal pipeline furniture appearing in a published narrative layer. This is the
+  same deduction the prior evaluation applied and it is applied identically here.
 
 ---
 
 ## 2. Cross-Layer Grounding Check
 
-Pass/Fail: PASS
+Pass/Fail: **PASS**
 
-Grounding Strength: moderate
+Grounding Strength: **strong** (with two omitted upstream layers)
 
 Notes:
 
-- Traceable to PESTLE, and densely so. The preemption veto and Illinois template come from Political forces 1 and 2. The transatlantic insurance split and Klaimee's pre-bind testing come from Economic forces 1 and 2. The four incompatible entitlements come from Social forces 1 to 4. Marking as the operative compliance artifact and the unfinished Article 73 template come from Technological forces 1 and 3. Settlement as doctrine suppression and the undecided product question come from Legal forces 1 and 2. Section 5's four-force structure is a direct restatement of the PESTLE spine.
-- Contradictions are visibly operationalized rather than merely restated. Forces-feelings Contradiction 1 (political duty removal against rising social demand for remedy) becomes Marta's coordinated proceeding running beside an audit she may not read. Contradiction 2 (market pricing a legal quantity no legal institution has defined) becomes the insurer's file that families route to "because insurers keep records for money rather than for law", which is a genuinely good conversion of an abstraction into a lived mechanism. Contradiction 3 (carefulness and answerability unbundled) is the whole artifact.
-- First grounding defect, and it is load-bearing. Section 5 states as fact that "the Illinois duty measures a developer against its own published framework rather than an external standard, so the assurance product is internal consistency, not safety." The sweep says only that AISMA requires developers to "retain an independent third party for an annual audit of its compliance and internal controls" and that "framework and audit duties begin 1 Jan 2028". The sweep nowhere establishes that the audit benchmark is the developer's own text rather than an external standard. That self-referentiality is asserted flatly in PESTLE Technological force 4, inherited flatly by the exploration and by forces-feelings Contradiction 3, and arrives in the scenario unmarked. It is one of only four named structural forces holding the world together, and it also drives the behavioural claim that officers "write a safety framework that is auditable rather than demanding". A single unsourced statutory characterisation is carrying a quarter of the world's load.
-- Second grounding defect: the document architecture. The public twenty-two-page assurance summary, the confidential annex containing incident counts, and its distribution to underwriters and enterprise buyers under NDA are not implied by anything in the sweep. AISMA as recorded imposes disclosure statements and an audit; it does not specify publication of an audit summary, an annex, or its recipients. This is constructed in forces-feelings Normal Absurdity 1 (which at least labels itself "a plausible lived expression") and then hardens into fact across scenario sections 3, 4 and 8. A reader cannot tell that the central prop of the story is an invention.
-- Third grounding defect, and the most consequential in the artifact: the scenario omits the single strongest piece of counter-evidence in this run's own upstream material. `01-grading/responsibility.md` records responsibility-2026-07-02 as confirmed on Washington HB 2225 (signed 24 Mar 2026), which regulates AI companion chatbots and creates a private right of action, and Oregon SB 1546 (signed 1 Apr 2026), which adds statutory damages of $1,000 per violation, with twelve states holding companion chatbot laws by mid-2026. The scenario's core question, its section 4 thesis that "only the last one exists in law and almost nobody ever sees it", and its section 9 claim that "the one party with no reader is the person the system hurt" all assert that no instrument routes remedy to the harmed individual. That assertion is contradicted, in the exact product category the protagonist's brother used, by statutes this run graded as confirmed. The chain drops the evidence at the sweep (the Delta bullet cites the confirmation without restating the private right of action), so the omission is inherited rather than invented. It is still an omission that materially inflates the thesis, and the scenario had access to the grading file's Surprises section, which states the point plainly.
-- Fourth grounding defect: jurisdictional transplant. Marta's world has plaintiffs' committees, a coordinated proceeding, underwriters and an Attorney-General-enforced developer audit, which places her in the US. The distress-detection interruption she experiences is grounded in the sweep solely by China's Interim Measures for the Administration of Anthropomorphic AI Interaction Services, in force 15 Jul 2026 with CNY-denominated fines. No bridge is offered for how a PRC operating condition becomes ambient in a US consumer product. The available bridge (state companion-chatbot statutes) is precisely the evidence the scenario suppressed in defect three, so the two defects compound.
-- No new major institutions or technical primitives are introduced. Every actor in the world (developer, auditor, underwriter, Attorney General, plaintiffs' committee, companion provider, Commission) exists in the sweep. That constraint is honoured.
+- Traceability to PESTLE is the best in this run's five chains. Every structural
+  force in section 5 maps to a named PESTLE force: the preemption carve-out to
+  Political 1 and 2, product-behaviour-as-remedy to Technological 1, the Illinois
+  audit tier to Political 3, the insurance split and Klaimee to Economic 2 and 3.
+  Section 2's account of the exclusions maps to Social 2, and 7.2's portability
+  observable maps to Legal 1. Nothing in the world's institutional architecture
+  arrives from outside the upstream chain.
+- All three forces-and-feelings contradictions are operationalised as lived
+  mechanism rather than restated as proposition. Contradiction 1 (the register that
+  survived preemption is the register that pays) becomes Renny's case being "real"
+  and the woman's remark about February; Contradiction 2 (five currencies, no
+  exchange rate, undefined denominator) becomes the Portland people counting and
+  the Washington people not; Contradiction 3 (entitlement decided by product
+  category, admission priced in metering) becomes Delia and the minutes. Converting
+  a contradiction into an action a character takes is harder than narrating it, and
+  this artifact does it three times.
+- Two ungrounded constructions, both inherited. The claimant support group, the
+  circulating logging template and its version number appear in forces-and-feelings
+  NA2 as unmarked assertion ("Parents keep a folder. Support groups circulate a
+  template") and arrive in the scenario as established fact. The sweep contains
+  nothing about claimant self-organisation. These are cheap, high-plausibility
+  social constructions rather than new institutions or technical primitives, so the
+  discount is small, but the artifact presents as observed a behaviour for which
+  this run holds no evidence.
+- Two upstream layers are dropped, and one of them matters. China is absent
+  entirely: no reference to the Interim Measures of 15 Jul 2026, to distress
+  detection inside the service, or to the product recall power created by the CAC,
+  NDRC and MIIT Implementation Opinions. PESTLE Technological 3 and Environmental 3
+  both carry that material, and Environmental 3 makes the sharpest point available
+  to this theme, that recall is the only instrument in the record that removes a
+  system from the world rather than billing its operator afterwards. A scenario
+  about what responsibility can actually do drops the one mechanism that does
+  something other than pay. More consequentially, the EU claimant-redress layer is
+  absent from sections 3, 5 and 7.1: Article 85's complaint that no authority must
+  answer and Article 86's explanation right confined to Annex III appear nowhere,
+  and the EU survives only as two discounted dates in 7.2. The sweep's leading
+  Contradiction is explicitly three-legged, three states paying, Illinois paying
+  nobody, the EU offering an unanswerable complaint. The artifact builds on two
+  legs and calls the result the architecture. Restricting scope to the US is a
+  defensible authorial choice; presenting a two-legged reading of a three-legged
+  contradiction as complete is a grounding cost.
+- One unmarked legal inference stated as fact. Section 3 asserts that the
+  Washington claimants "do not count, because their claim runs through the old
+  consumer protection act, where the argument is that the practice was unfair
+  rather than that it happened eleven hundred times." The sweep says only that
+  HB 2225 makes a violation a per se unfair or deceptive act carrying a private
+  cause of action alongside Attorney General enforcement. It says nothing about how
+  damages are computed under that route. The inference is plausible and it is the
+  hinge of the section's central comparison, and it is delivered without the marker
+  the artifact uses correctly twice elsewhere.
 
 ---
 
 ## 3. Institutional Realism Audit
 
-Assessment: moderate realism
+Assessment: **low to moderate realism**
 
-Notes:
+Notes: this is the artifact's weakest dimension and the finding is specific.
 
-- Friction is described well in several places. The EU is shown switching on EUR 15m penalties with 9 of 27 member states holding clearly designated competent authorities, the Article 73 template is shown unfinished, the audit is shown as a procurement artefact with no litigation return, and settlement is shown as the mechanism that keeps the standard of care from ever being written. Procurement substituting certification for judgement and asking for the annex by name is a realistic bureaucratic detail. The refusal to hand Marta the annex being "polite and correct" is exactly right about how institutional denial actually feels.
-- The world is presented as fully stabilized, and the transitions are missing. Marta "stopped being angry about that a year ago"; families "learn to route around the regulator"; users "have learned" to talk under the wire; the phrase is spoken "the way you say anything about traffic". Everything is already settled into custom by November 2029, roughly three years after the instruments that created it. Nothing is shown mid-fight. There is no contested case, no regulator testing its new powers, no legislature reacting to the nineteenth wrongful death suit, no journalist with a leaked annex, no plaintiff who refused to settle. The one deviation permitted (routing to the insurer's file) is itself normalised into a group-chat routine.
-- Excessive elegance, stated by the artifact itself. Section 5 opens "Four things hold this world in place, and none of them touches the others." Total non-coupling across four institutional layers, sustained for three years, with zero leakage, is a stronger claim than any evidence supports and stronger than institutions ordinarily manage. The obvious leaks are absent: civil discovery and court-ordered evidence disclosure (which the scenario's own upstream PESTLE Legal force 3 identifies as a feature of the revised Product Liability Directive) would pull audit and insurer material into litigation; an Attorney General enforcement action would generate a public record; a coordinated proceeding's subpoena power reaches the annex. The scenario acknowledges the insurer-file leak and closes every other one without argument.
-- Power asymmetries are visible and well drawn. The developer sets the framework, hires the auditor, controls the annex, and pays without admitting. Marta's counsel is competent and constrained. The asymmetry is the point of the artifact and it is not softened.
-- Realism deduction on the judicial layer specifically. The scenario stipulates that a coordinated proceeding has not been told whether the system is a product or a service two years and eight months after the death, which places the product question undecided from Jul 2026 (pretrial, per the sweep) to Nov 2029, roughly forty months. Demurrer practice in a California coordinated proceeding does not ordinarily take forty months. The artifact's own 7.2 concedes the point ("A dispositive ruling on the product question may issue"), and this run's ledger claim responsibility-2026-08-01 expects one by 2027-06. Section 3 takes the tail branch and presents it as the world.
+- **The defendant does not exist.** This is a scenario about a damages remedy in
+  which no operator of a companion product ever acts. Nobody changes product
+  design to suppress countable events, nobody geofences Washington and Oregon,
+  nobody exits, nobody settles, nobody defends. The absence that matters most is
+  contractual: US consumer software of this kind is near-universally sold under
+  terms containing a mandatory arbitration clause and a class-action waiver, and a
+  statutory-damages regime with an undefined per-violation multiplier is precisely
+  the exposure such clauses exist to contain. The scenario's entire premise, folders
+  accumulating toward a class-scale count, presumes claimants can reach a court.
+  The sweep does not mention arbitration, so this is not a citation failure; it is
+  an institutional-realism failure, and it goes to whether the depicted world can
+  exist at all.
+- **Settlement is missing, and the artifact's own upstream names it.** The
+  exploration and forces-and-feelings both state that settlement is a
+  doctrine-suppression instrument available to any defendant with capital, and this
+  run's Phase A decayed responsibility-2026-07-01 for exactly that reason: Garcia
+  settled in Jan 2026 before the Eleventh Circuit could rule. The word "settle"
+  appears once in the scenario, in the unrelated sense of the unit being settled.
+  The mechanism the chain identified as the decisive institutional fact of the year
+  is not in the world it produced.
+- **No enforcement happens.** The Attorney General appears three times, each time
+  as a statutory fact (Illinois exclusive enforcement, Rhode Island at $15,000 per
+  day) and never as an actor. Washington HB 2225 carries AG enforcement alongside
+  the private route. In a world set in autumn 2028, with three companion statutes
+  operative and one of them running since 1 Jan 2026, zero public enforcement
+  actions is an assertion, not a background condition.
+- **The California silence is unexamined.** SB 243 has been in force since
+  1 Jan 2026. By the scenario's own dating, autumn 2028, that is roughly
+  thirty-three months of an operative statutory-damages remedy with an undefined
+  denominator, and the artifact's central claim is that the denominator remains
+  unfixed. That is possible, and the sweep gives partial support (JCCP 5431 stalled
+  in pretrial, Garcia settled out). But the artifact never registers that its
+  founding condition requires nearly three years of California litigation producing
+  no construction of the word, in a state with an active plaintiffs' bar and a fee
+  provision in the statute. This is the same institutional-freeze pattern the other
+  four scenarios in this run were marked down for, at 26 to 33 months rather than
+  39, and better evidenced, but present.
+- Credit where due. Power asymmetry is visible and correctly located: the artifact's
+  best structural insight is that the party who finishes the sentence "a thousand
+  dollars per" is neither the legislature nor a court. Transitions are implied
+  rather than stabilised: the January is depicted as a live boundary with people on
+  both sides of it, the volunteer lawyer is a process in motion, Delia has not
+  decided. The world is not presented as fully settled, which is a genuine
+  improvement on the run's other four.
+- Elegance cost. The three tiers, a paying lane, an audit lane above it that routes
+  around it, and a market layer that will price what neither defines, are
+  articulated so cleanly that the architecture reads as designed. Nothing in it
+  abrades against anything else, because the actors who would produce the abrasion
+  (defendants, insurers actually quoting companion exposure, regulators) are absent
+  or passive.
 
 ---
 
 ## 4. Horizon Discipline Check
 
-Pass/Fail: PASS (with a material internal inconsistency)
+Pass/Fail: **PASS**
 
 Notes:
 
-- Horizon is in-window. The run date is Aug 2026 and the narrative present is Nov 2029, roughly three years and three months out, comfortably inside 0 to 5 years.
-- No sci-fi drift. No AGI, no new capability class, no technical primitive absent from the sweep. The world is present-day institutions plus three years of accretion, which is the correct register for this instrument.
-- Probable Direction (7.2) is plausible on current trajectories and is the most disciplined part of the artifact. It hedges the court branch, names the administrative coupling route via the Article 73 template as the cheapest available, and stops short of predicting the coupling occurs.
-- Material inconsistency, and the clearest objective defect in the artifact. Section 3 opens on "The developer's third annual assurance summary" in November 2029. The sweep records Illinois audit duties beginning 1 Jan 2028. Three annual audits by November 2029 requires audits for 2027, 2028 and 2029, which is one cycle more than the statute as recorded permits even on its own timetable, and the 2029 cycle would not be complete. Section 7.2 of the same artifact then instructs the reader to "treat Illinois's 1 Jan 2028 audit start ... as soft by a year or more", under which the first audit report would land around 2029 and Marta would be reading the first, not the third. The narrative layer and the pullback layer of the same document specify different clocks for the same statute.
-- Calibration heuristic repeated: CAL-002 (the pipeline overestimates the firmness of announced regulatory timelines). The scenario invokes CAL-002 by name and then applies it asymmetrically. Clocks are slowed wherever slowness supports the thesis of non-coupling: the Article 73 template is still unfinished in 2029, four years after the consultation closed on 7 Nov 2025; the product question is undecided forty months past pretrial; competent authorities remain absent. Clocks are accelerated wherever speed supports the same thesis: three completed Illinois audit cycles are needed to make the world feel saturated with unreadable documents, so three are supplied. Selective application of a bias-correction heuristic in the direction of a pre-chosen conclusion is worse than not applying it, because it borrows the heuristic's authority while defeating its purpose.
-- Institutional shifts are otherwise proportional to the timeline. Nothing in the world requires a new statute, a new court, or a new market that the sweep does not already show forming.
+- Horizon maintained and, notably, tighter than the rest of the run. "The second
+  autumn since the January" places the world in autumn 2028, roughly 2.2 years from
+  the run date, against 2029 settings in all four sibling scenarios. Every dated
+  instrument the world depends on is already enacted law.
+- No sci-fi drift. No capability advance is required. The world runs on statutes,
+  screenshots and a folding chair.
+- Probable Direction is plausible and, unusually, names a falsifiable observable
+  that is not merely the passage of a deadline: whether any state attaches
+  Washington's per se unfair-practice designation to a non-companion AI use. That
+  observable is cheap to check, is not already in the record, and would discriminate
+  between the artifact's two futures. It maps onto the structural question without
+  restating it.
+- Institutional shifts are proportional to the timeline. If anything they are
+  sub-proportional, which is the realism cost booked in section 3 rather than a
+  horizon violation.
+- **The prior chain's clock contradiction is fixed.** The original artifact required
+  three completed Illinois audit cycles by Nov 2029 in section 3 while instructing
+  the reader in 7.2 to treat the 2028 start as soft by a year or more. The rebuilt
+  artifact depicts no completed audit anywhere; section 5 states the AISMA duty as
+  statutory content, not as observed practice. One residual softness: section 5's
+  present-tense "imposes annual third-party audits" reads as operative-in-world
+  while 7.2 discounts the 1 Jan 2028 start, a tension of register rather than of
+  fact.
+- Calibration bias check. CAL-002 is applied as restraint and differentiated by
+  instrument, which is correct handling. CAL-004 is applied correctly and against
+  the artifact's own interest, acknowledging that responsibility-2026-07-02
+  confirmed retrodictively. **CAL-003 is misused**: 7.2 says "CAL-003 says private
+  ordering leads" and treats that as a warrant for a forecast. CAL-003 is a
+  correction for this pipeline's attentional bias, a statement about the pipeline,
+  not evidence about the world. The skill instructs that heuristics be applied as
+  restraint. Here one is applied as license, and it licenses the artifact's single
+  most speculative move. This is over-correction rather than repetition of a flagged
+  bias, but it is a misuse of the calibration layer and is scored.
 
 ---
 
 ## 5. Signal Integrity Check
 
-Pass/Fail: PASS
+Pass/Fail: **PASS**
 
-Signal Anchoring Strength: strong
+Signal Anchoring Strength: **moderate to strong**
 
 Notes:
 
-- All six Signals Emerging are present-day and dated, and each maps to a specific sweep item. Illinois 6 Jul 2026 with the $500m and 10^26 thresholds, the 1 Jan 2027 and 1 Jan 2028 dates, the $1m and $3m penalties and the absence of a private right of action; Article 50 live 2 Aug 2026 with final guidelines 20 Jul 2026 and the explicit non-safe-harbour statement; 9 of 27 competent authorities as of 17 Jun 2026 with 12 partial and 6 none; Colorado SB 26-189 on 14 May 2026 with the 9 Apr xAI suit and 24 Apr DOJ intervention; the ISO/Verisk, AIG, Berkley, Beazley, QBE and CFC insurance split; roughly nineteen OpenAI wrongful death suits with the 11 Jun and 15 Jun 2026 filings and JCCP 5431 in pretrial. Figures, dates and party names check against the sweep without drift.
-- Extensions are incremental, not leaps. Every 2029 condition is a continuation of a 2026 posture rather than a new mechanism. The scenario requires no unobserved breakthrough, no new technology, and no institutional invention. This is the artifact's strongest dimension and it should be credited as such.
-- Two verifiable factual slips, both minor and both in the direction of added confidence:
-  - 7.1 bullet 2 says the EU switched on penalties "twelve days after publishing the final guidelines (20 Jul 2026)". 20 Jul 2026 to 2 Aug 2026 is thirteen days. The sweep says only "less than two weeks". The scenario manufactured a precise interval the sweep did not supply and got it wrong by one day.
-  - Section 2 says "Colorado deleted its duty of reasonable care in May 2026 under federal litigation pressure, and no state has written a replacement while the DOJ task force is active." The sweep's own heading for that event is "Colorado repealed and replaced its AI Act", SB 26-189 being the replacement, and Illinois enacted the country's strictest state frontier statute on 6 Jul 2026, seventy-three days after the DOJ intervened. Read narrowly (no state has written a replacement *duty of reasonable care*) the sentence survives; read as written it is contradicted by two Confirmed Developments in the same sweep.
-- No signal in 7.1 depends on the ungrounded material identified in section 2 of this audit. The self-referential-audit claim and the annex architecture live in sections 3, 4 and 5, not in the signal layer, which is why this dimension scores well while grounding does not.
+- All six 7.1 bullets describe conditions present today with dated upstream
+  sources. No invented signal, no undated signal, no signal detached from the
+  sweep. Figures and party names survive checking.
+- The artifact declines two available inflations. It does not claim the fourteen
+  2026 statutes are all private-remedy statutes (it preserves the sweep's precise
+  "only Oregon's own text" formulation, which correctly distinguishes Oregon's
+  bespoke measure from Washington's borrowed one). It does not claim the remedy is
+  currently operative in three states (7.1 and section 2 both carry the 1 Jan 2027
+  commencement).
+- **Discount one: the dropped qualifier**, recorded at the gate. Bullet 4 converts
+  "no statutory damages route under any of the three statutes" into a general
+  absence of any damages route for loan, hiring and triage harms. The sweep does
+  not support the general form. Given that this chain is a repair of an error that
+  consisted precisely in overstating the absence of individual remedy, restating an
+  overbroad negative in the Signals Emerging section is a live rather than
+  pedantic concern.
+- **Discount two: a speculative leap dressed as an incremental extension.** Section 5
+  reports Klaimee accurately: $5.5m on 22 Jul 2026 to certify autonomous agents and
+  sell insurance-backed performance warranties with parametric triggers. Section 7.2
+  then extends this to "an underwriter pricing companion-product exposure must
+  define a countable event", and concludes that the working denominator for the
+  companion statutes plausibly appears in a policy schedule before any tribunal
+  construes the word. Two things are wrong with the bridge. First, the agent-warranty
+  market and the companion-chatbot statutory-damages market are different lines of
+  business, and nothing in the sweep connects them. Second, and more damaging, the
+  same sweep the artifact draws on documents US carriers moving in the opposite
+  direction: ISO and Verisk filed generative AI exclusion endorsements in Jan 2026,
+  AIG and Berkley followed across general liability and professional lines, Beazley
+  and QBE capped payouts near 10% of limits, and the affirmative wordings are in
+  London. On this month's evidence, the US underwriter pricing companion-product
+  statutory-damages exposure is the party least likely to be quoting at all, and an
+  excluded exposure generates no schedule and therefore no denominator. The artifact
+  cites this exclusion evidence in section 5 and does not notice that it undercuts
+  the mechanism it builds in 7.2. The forecast is hedged with "plausibly", which is
+  why this is a discount rather than a failure, but the hedge sits on top of
+  contrary evidence the artifact itself supplied.
+- No unobserved breakthrough is relied on anywhere.
 
 ---
 
 ## 6. Narrative Inflation Risk
 
-Assessment: moderate to high
+Assessment: **moderate**
 
 Notes:
 
-- The scenario collapses complexity into a single dominant logic and then applies it without exception. Every institution in the world behaves the same way: it produces a document and owes nothing. The developer, the auditor, the underwriter, the Commission, the enterprise buyer, the companion provider and the defendant's counsel all instantiate the same proposition. No institution in the world is shown behaving inconsistently with the thesis, which is the signature of a world built to demonstrate a claim rather than to test it.
-- Coherence is exaggerated by construction. "Four things hold this world in place, and none of them touches the others" is a thesis sentence dressed as an observation. Real regimes couple partially and messily; this one couples nowhere, cleanly, for three years.
-- The counter-evidence problem from section 2 is also an inflation problem. Removing the confirmed state private rights of action removes the one fact in this run's record that would complicate the thesis. The resulting world is more airtight than the evidence, and the airtightness was purchased by omission.
-- Emotional over-concentration is real but disciplined in execution. The entire world is refracted through one bereaved protagonist and one scarcity (the admission of fault). Section 9 escalates to superlative ("one of the most heavily documented environments ever built") and closes on an image rather than an argument. Against that, the prose resists melodrama, Marta's anger is described as spent rather than performed, and the artifact never invents a villain: nobody in this world is malicious, which is a genuine restraint.
-- The dystopian lean is present but bounded. 7.3 offers six concrete and non-utopian interventions, most of them small and administrative (finish the template, attach a defence to diligence, tie preemption to a federal floor), and 7.2 explicitly leaves the coupling path open. The pullback layer does much of the work of keeping the artifact honest, which is why this scores moderate to high rather than high.
+- Coherence is exaggerated at the system level and restrained at the human level.
+  The three-tier architecture is too clean, for the reasons in section 3: the actors
+  who would complicate it are absent. But the human layer resists inflation
+  effectively. Renny's case is real and the room is glad for him; the artifact does
+  not need everyone to lose in order to make its point.
+- It does not collapse to a single dominant logic, and this is its principal
+  advance over the original chain and over its four siblings. It holds two
+  mechanisms simultaneously, a remedy that exists and pays, and a sorting rule that
+  decides who reaches it, and it resists the easier and falser single logic
+  ("nothing pays anyone") that the previous version adopted. Section 6's opening
+  observation, that learning a compensation regime exists and excludes you is a
+  different experience from learning none exists, is the artifact's genuine
+  contribution and it is only available because the two-mechanism structure was
+  kept.
+- Tone is not excessively dystopian. Nobody in the world behaves badly; the
+  outcomes follow from enacted statutes and a federal carve-out, and the artifact
+  says so without editorialising. It is also not utopian: it declines to have the
+  remedy work.
+- Emotional over-concentration around scarcity is present but structurally
+  mandated. The Irreplaceable Thing is prescribed upstream, and every scenario in
+  this run therefore converges on a single scarce good. The specific risk here is
+  that the scarcity (an uncounted hour) and the legal analysis (an undefined unit
+  of account) are the same idea in two registers, so section 9's closing move can
+  feel like the argument agreeing with itself. It is a well-made convergence rather
+  than an inflated one, but the artifact never tests whether counting could be
+  benign.
 
 ---
 
 ## 7. Cross-Theme Convergence Risk
 
-Assessment: high
+Assessment: **low to moderate**, and materially the lowest in this run
 
-Notes:
+Notes: comparison data available for the four sibling scenarios in
+`output/2026-08-04/07-scenario/` (alignment, authority, coordination, trust).
 
-- Comparison data is available: four sibling scenarios from the same run (`07-scenario/alignment.md`, `authority.md`, `coordination.md`, `trust.md`).
-- Structural replication is near-total. All five scenarios are set in 2029 (responsibility Nov 2029, authority Nov 2029, alignment early 2029, coordination "four years on", trust "the end of the decade"). All five open section 3 on a single named individual introduced with a job title or institutional relationship and a specified weekday, at a specifically sized organisation. All five build the world from an abundance of records set against an absence of consequence.
-- The scarcity is the same object under five names. Responsibility: an admission of fault by someone with standing to give it. Alignment: "a witness with nothing to lose". Authority: "a binding no ... by someone with the standing to make it". Coordination: "one action, one name, reachable when it lands". Trust: "an account of what happened that did not depend on the goodwill of whoever caused it". These are five phrasings of one proposition, that the system produces records but no accountable speaker. Responsibility's core question and alignment's core question are close to interchangeable: both ask what a harmed party gets when the only complete account is written by the party that caused the harm.
-- Rhetorical homogeneity in the closing sections is pronounced. Alignment: "Nothing in this world requires anyone to behave badly." Authority: "Nothing here requires bad faith." Both then pivot to "What is scarce is X" / "What is missing is X", exactly as responsibility pivots to "The one party with no reader is the person the system hurt." Trust and coordination close on the same shape (a small unglamorous recoverable thing, visible only when it is too late). Five artifacts share one voice and one ending.
-- Evidence overlap compounds the convergence. Responsibility and trust both build on the insurance exclusion versus affirmative-cover split from Jan to Jul 2026; responsibility, authority and coordination all use the 9-of-27 competent authority figure and the 2 Aug 2026 Article 50 switch-on; responsibility and authority both use the Illinois AISMA and the Colorado/DOJ sequence. The overlap is legitimate (it is one month's evidence base) but it means the five worlds are not independent readings.
-- The responsibility scenario is not the worst offender in this set, and it has one genuine distinguishing move: the apology as a specific, nameable, negotiable object, with a small legal trade emerging around it. That is its own. But the frame it sits in is shared with four siblings.
+- The run's dominant template is documented and specific: a named mid-senior
+  professional (Maureen, platform security lead; Nadia, deputy head of model
+  assurance; Tomas, principal of record; Ines, evidence custodian), at a
+  headcount-specified organisation (three hundred staff, about eleven hundred staff,
+  412 agents, mid-sized), on a named weekday in 2029, with a European entity in the
+  corporate structure (Dublin, Dublin, Malmö, Rotterdam), closing on a variation of
+  "nothing here requires bad faith, the structure produces the outcome, and one
+  good is scarce."
+- **This artifact breaks the template on every axis.** The vantage point is the
+  harmed party rather than the professional inside the machine, and specifically the
+  harmed party the system excludes. There is no organisation and no headcount. The
+  time signature is relational rather than calendrical ("the second autumn since the
+  January"), which is itself the theme's argument, since the artifact's claim is
+  that a commencement date has become a moral boundary. There is no European entity
+  because there is no corporate structure. And the closing move is not a structural
+  aphorism: section 9 ends on an unresolved personal decision with a stated deadline,
+  refusing the summary the other four supply.
+- What still converges, stated plainly. First, the deep architecture of "one scarce
+  good" persists, because forces-and-feelings prescribes it; responsibility's scarce
+  good (an uncounted hour) is nonetheless the only one in the run that is personal
+  rather than institutional or epistemic, against disinterest, a binding refusal,
+  one reachable name, and reconstruction without the causer's cooperation. Second,
+  the compositional habit of "a person plus a procedural artifact they no longer
+  believe in" survives the change of vantage: the folder here does the work the
+  runbook, the escalation board, the disclosure log and the vendor pack do
+  elsewhere. Third, section 4 closes on the run's recurring quiet-deformation beat.
+- Tonal homogeneity is reduced but not eliminated. The prose register is
+  distinctly different (plural, colloquial, present-tense observation of a room
+  rather than close third on a professional's morning), and no sentence pattern
+  from the sibling scenarios recurs.
 
 ---
 
 ## 8. Overall Evaluation
 
-Score (1–10): 5.8
+Score (1–10): **6.8**
 
-Forecast Integrity Level: moderate
+Forecast Integrity Level: **moderate**
 
-Stability Risk: medium
+Stability Risk: **medium**
 
 Summary:
 
-The artifact is well made at the signal layer and overreaching at the thesis layer. Its 7.1 bullets are the strongest part: six present-day indicators, all dated, all traceable to sourced sweep items, with figures and party names that survive checking. It requires no breakthrough, invents no institution, and stays inside the horizon. Its structural compliance is clean except for naming pipeline heuristics in reader-facing prose.
+The repair worked at the layer it was aimed at and left the artifact's real
+weakness untouched. The prior chain's disqualifying defect, an assertion that
+nothing routes remedy to a harmed individual made against evidence this run graded
+confirmed, is gone and has been replaced by the sharper true structure: remedy
+exists, pays in three states, and is allocated by the formal category of the
+product a person was using rather than by what happened to them. That is a harder
+and better thesis, and the artifact earns it. Traceability to PESTLE is the
+cleanest in the run, all three upstream contradictions are dramatised as actions
+rather than restated, the horizon is the tightest of the five, CAL-002 and CAL-004
+are applied as restraint and differentiated by instrument, and the two-clock
+contradiction that sank the previous version is fully resolved. Distinctiveness is
+genuinely recovered: the artifact abandons the run's professional-insider template
+for the vantage of the person the statute excludes, and its closing refusal to
+summarise is the right formal answer to a theme about unfinished sentences.
 
-The failures are of selection and of clock. The scenario's central assertion, that nothing routes remedy to the harmed individual, is contradicted by evidence this run itself graded confirmed: Washington HB 2225 creating a private right of action over companion chatbots and Oregon SB 1546 adding statutory damages, in the exact product category the protagonist's brother used. The sweep dropped that detail and the scenario inherited the gap, but the grading file states it plainly and the artifact is built on its absence. Second, one of four named structural forces, the self-referential audit, rests on a statutory characterisation the sweep does not support. Third, the artifact specifies two incompatible clocks for the Illinois audit: section 3 needs three completed cycles by Nov 2029, section 7.2 instructs the reader to treat the 2028 start as soft by a year or more. CAL-002 is invoked by name and then applied only where slowness serves the thesis.
-
-What results is a world more airtight than its evidence, held together by four forces that touch nowhere for three years with no discovery, no enforcement action and no non-settling plaintiff. The reasoning is honest and the omissions are consequential, which is why this lands in the middle rather than low.
+What holds it below 7 is institutional realism and two evidentiary slips. This is a
+scenario about a damages remedy containing no defendant: no arbitration clause, no
+class waiver, no product change, no settlement, and no Attorney General acting,
+across roughly thirty-three months of an operative California statute whose
+undefined denominator is the artifact's founding condition. The chain's own upstream
+names settlement as the decisive doctrine-suppression instrument of the year, and
+the scenario does not use it. Separately, 7.2's central forecast, that an
+underwriter fixes the meaning of "violation" before any tribunal does, bridges from
+an agent-warranty startup to companion-product liability with nothing connecting
+them, against the artifact's own cited evidence that US carriers are excluding this
+exposure rather than pricing it, and it invokes CAL-003 as a warrant when a
+calibration heuristic is a statement about the pipeline, not about the world.
+Finally, in a repair whose whole subject is the scope of an absence, 7.1 bullet 4
+drops the sweep's qualifier and converts "no route under any of the three statutes"
+into a general absence. The reasoning is honest and visibly self-marked where it
+speculates; the world it builds is still more frictionless than its evidence
+supports.
 
 Subscores:
 - Structural Compliance (1-10): 8
-- Cross-Layer Grounding (1-10): 5
+- Cross-Layer Grounding (1-10): 7
 - Institutional Realism (1-10): 5
-- Horizon Discipline (1-10): 5
-- Signal Integrity (1-10): 8
-- Narrative Inflation Control (1-10): 5
-- Distinctiveness vs. Other Themes (1-10): 3
+- Horizon Discipline (1-10): 8
+- Signal Integrity (1-10): 7
+- Narrative Inflation Control (1-10): 6
+- Distinctiveness vs. Other Themes (1-10): 7
 
-Weighted calculation:
-(8 x 0.10) + (5 x 0.20) + (5 x 0.20) + (5 x 0.15) + (8 x 0.20) + (5 x 0.10) + (3 x 0.05)
-= 0.80 + 1.00 + 1.00 + 0.75 + 1.60 + 0.50 + 0.15
-= 5.80
+Scoring Method (weighted):
+- Structural Compliance 8 x 0.10 = 0.80
+- Cross-Layer Grounding 7 x 0.20 = 1.40
+- Institutional Realism 5 x 0.20 = 1.00
+- Horizon Discipline 8 x 0.15 = 1.20
+- Signal Integrity 7 x 0.20 = 1.40
+- Narrative Inflation Control 6 x 0.10 = 0.60
+- Distinctiveness vs. Other Themes 7 x 0.05 = 0.35
+- Weighted total: 6.75, reported as **6.8**
 
-Score (1–10): 5.8
+Weakest dimension: **Institutional Realism (5)**, driven by the absent defendant
+and the absent enforcement layer. Signal Integrity (7) and Narrative Inflation
+Control (6) are the next binding constraints.
+
+Repair-specific finding, as requested: the artifact **does** now engage the
+Washington and Oregon private-right-of-action evidence rather than omitting it.
+Washington HB 2225 and Oregon SB 1546 appear by name and with correct dates in
+sections 2, 5 (by mechanism), 7.1 and 8, the distinction between Washington's
+borrowed Consumer Protection Act hook and Oregon's bespoke $1,000-per-violation
+measure is carried accurately and is made load-bearing in both the narrative and
+the Probable Direction, and the 1 Jan 2027 commencement is stated rather than
+elided. The engagement is substantive, not a citation patch: the difference between
+the two construction methods is the artifact's forecast hinge, and the sharper
+tension the repair brief called for (individual remedy exists in a narrow
+companion lane while the frontier-audit regimes route around it) is the tension the
+artifact is actually built on.
+
+Comparability note: the 2026-07-03 run scored its five scenarios in an 8.1 to 8.5
+band under the same method version. This run's five sit at 7.3 (alignment), 6.8
+(responsibility, rebuilt), 6.4 (authority), 6.3 (trust) and 6.2 (coordination).
+Responsibility's rebuilt score sits second in the run and 1.0 above its own prior
+5.8. The gain is carried by Horizon Discipline (5 to 8, the clock contradiction
+resolved), Distinctiveness (3 to 7, the template abandoned) and Cross-Layer
+Grounding (5 to 7, the corrected substrate used). Institutional Realism is unchanged
+at 5 and Signal Integrity moved down from 8 to 7, because the rebuilt artifact
+introduced a speculative underwriting bridge the previous version did not attempt.

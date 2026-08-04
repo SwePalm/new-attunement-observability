@@ -95,9 +95,22 @@ dived in 2026-07 and none reached the cut. First alternate: autonomy 17.
 
 All 30 step files written. Ledger untouched by Phase D, as required.
 
-Scenario eval scores: alignment 7.3, authority 6.4, trust 6.3, coordination 6.2,
-responsibility 5.8. Mean 6.4, against the 2026-07-03 run's 8.1-8.5 band.
-All five citation gates pass.
+Scenario eval scores: alignment 7.3, responsibility 6.8 (repaired, was 5.8),
+authority 6.4, trust 6.3, coordination 6.2. Mean 6.6, against the 2026-07-03
+run's 8.1-8.5 band. All five citation gates pass.
+
+responsibility was rebuilt from the sweep down on 2026-08-04. The original Phase B
+pass dropped the confirmed private-right-of-action evidence from
+responsibility-2026-07-02, and the whole deep-dive chain inherited a false thesis.
+The rebuild engages that evidence and works the real tension instead: individual
+remedy exists in a narrow companion-chatbot lane while the frontier-audit regimes
+route around it. Oregon is the only one of 14 state companion-chatbot laws enacted
+in 2026 whose text lets a harmed user sue for damages. Ledger unchanged; the theme
+keeps its four original claims.
+
+The rebuild also served as a controlled test of the template finding: same theme,
+same skill, instructed only to abandon the house form, Distinctiveness moved 3 to 7.
+That isolates the cause to prompt-level form rather than to the theme.
 
 ## Blocked items
 
