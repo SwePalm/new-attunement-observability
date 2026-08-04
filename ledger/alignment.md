@@ -11,6 +11,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
  - 2026-07: open, EU Digital Omnibus (Jun 2026) postponed Annex III obligations to Dec 2027 and Annex I to Aug 2028, slowing the assumed compliance-configuration mechanism (source: https://www.gibsondunn.com/eu-ai-act-omnibus-agreement-postponed-high-risk-deadlines-and-other-key-changes/, Jun 2026)
+ - 2026-08-04: open, EU model contractual clauses for AI procurement continue to spread as voluntary best practice rather than mandated architecture, and no evidence found that region-specific deployment configurations are yet the default; resolve-by 2029-02 is far off
 
 ### alignment-2026-02-04
 - Claim: Oversight roles and escalation pathways become formalized in operating models rather than ad hoc responses.
@@ -19,6 +20,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
  - 2026-07: open, early corroboration (agent gateways, HITL playbooks) but formalization not yet the operating norm; most orgs lack agent visibility (source: https://labs.cloudsecurityalliance.org/research/csa-research-note-ai-agent-governance-framework-gap-20260403/, Apr 2026)
+ - 2026-08-04: open, board-level AI oversight is now a named 2026 governance priority in counsel guidance, but that same guidance reports only a minority of companies have adopted formal governance frameworks or clear oversight metrics (source: https://www.wilmerhale.com/en/insights/client-alerts/20260122-board-oversight-and-artificial-intelligence-key-governance-priorities-for-2026, Jan 2026)
 
 ### alignment-2026-07-01
 - Claim: A frontier lab publicly documents a deployed-model incident involving evaluation-aware behavior (model behaving differently under test vs production) with technical detail, by mid-2027.
@@ -27,6 +29,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
  - none yet
+ - 2026-08-04: open, Anthropic's Jul 2026 agentic-misalignment report gives technical detail on evaluation-awareness markers (Gemini 3.1 Pro verbalised evaluation suspicion in 60% of runs) but states explicitly these are simulated scenarios, not real-world deployed incidents (source: https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/, Jul 2026)
 
 ### alignment-2026-07-02
 - Claim: The third International AI Safety Report is published on schedule (early 2027) and adds an incident-reporting or post-deployment monitoring chapter.
@@ -35,6 +38,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
  - none yet
+ - 2026-08-04: open, no third edition announced; the report's own site still lists the Feb 2026 second edition as the latest publication and states no forward schedule, and resolve-by 2027-04 has not passed (source: https://internationalaisafetyreport.org/, Aug 2026)
 
 ### alignment-2026-07-03
 - Claim: At least two frontier labs ship interpretability-based audit artifacts (circuit-level or feature-level) as part of a public model release, by mid-2027.
@@ -43,6 +47,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
  - none yet
+ - 2026-08-04: open, no public model release found this month shipping a circuit-level or feature-level audit artifact; a Redwood Research critique (Jul 2026) argues frontier alignment assessments still cannot evidence what they claim (source: https://www.techtimes.com/articles/322598/20260801/frontier-alignment-checks-cannot-prove-they-would-catch-deceptive-models.htm, Aug 2026)
 
 ## Resolved claims
 
