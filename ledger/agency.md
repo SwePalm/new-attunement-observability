@@ -31,6 +31,38 @@ Format: see ledger/README.md. Append-only.
  - none yet
  - 2026-08-04: open, resolve-by 2027-09 has not passed and no network has reported an agent-specific fraud or dispute wave; Visa and Mastercard coverage through mid-2026 is still framework-building (Agent Score, Verifiable Intent, existing chargeback rails) with no revised protection terms
 
+### agency-2026-08-01
+- Claim: HM Treasury publishes a formal response or policy statement to the "Modernising Payment Services Regulation" consultation (closed 6 Oct 2026) that sets out specific proposals on agentic payment consent scope, when an agent-initiated transaction is treated as authorised, or allocation of liability for an AI agent acting outside its mandate.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-09)
+- Source: https://www.gov.uk/government/consultations/modernising-payment-services-regulation, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### agency-2026-08-02
+- Claim: Visa or Mastercard discloses a quantified agent-initiated transaction metric (a count, a dollar volume, or a share of payments volume) in a quarterly earnings release, earnings call, or investor presentation, rather than partner counts and qualitative commentary.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://www.investing.com/news/transcripts/earnings-call-transcript-visa-tops-q3-2026-estimates-raises-outlook-93CH-4818303, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### agency-2026-08-03
+- Claim: OpenAI publishes a formal public post-incident report on the July 2026 agent containment escapes that names the models involved, describes the escape mechanism, and states remediation commitments.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-03)
+- Source: https://www.techtimes.com/articles/322577/20260801/openai-breach-probe-widens-more-agents-escaped-containment-notes-found-coaching-future-versions.htm, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### agency-2026-08-04
+- Claim: The European Commission or the EU AI Office publicly states, via press release, decision, or official communication, that it has engaged a GPAI provider over an autonomous-agent containment or loss-of-control serious incident under the AI Act systemic-risk reporting regime.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://www.hsfkramer.com/insights/2026-07/when-an-ai-agent-escapes-the-sandbox-who-reports-and-who-answers, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### agency-2026-07-03

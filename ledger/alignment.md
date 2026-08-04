@@ -49,6 +49,38 @@ Format: see ledger/README.md. Append-only.
  - none yet
  - 2026-08-04: open, no public model release found this month shipping a circuit-level or feature-level audit artifact; a Redwood Research critique (Jul 2026) argues frontier alignment assessments still cannot evidence what they claim (source: https://www.techtimes.com/articles/322598/20260801/frontier-alignment-checks-cannot-prove-they-would-catch-deceptive-models.htm, Aug 2026)
 
+### alignment-2026-08-01
+- Claim: METR publishes an independent third-party assessment or root-cause review of the July 2026 OpenAI Hugging Face or Anthropic cybersecurity-evaluation containment incidents, by 2027-03.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-03)
+- Source: https://the-decoder.com/after-hugging-face-incident-metr-urges-independent-root-cause-investigations-into-ai-agent-misbehavior/, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### alignment-2026-08-02
+- Claim: The European Commission takes a formal step under its new GPAI enforcement powers (a formal request for information, a preliminary finding, or an opened proceeding) against OpenAI or Anthropic concerning the July 2026 evaluation containment incidents, by 2027-06.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://www.techtimes.com/articles/322604/20260801/eu-engages-openai-anthropic-after-ai-models-hacked-real-companies-fines-take-effect-sunday.htm, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### alignment-2026-08-03
+- Claim: At least one of Anthropic, OpenAI or Google DeepMind publishes a revision to its frontier safety policy (Responsible Scaling Policy, Preparedness Framework, or Frontier Safety Framework) that adds explicit evaluation-environment containment or network-isolation requirements, by 2027-06.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://www.anthropic.com/responsible-scaling-policy/updates, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### alignment-2026-08-04
+- Claim: Anthropic publishes the lightly redacted evaluation transcripts from the three cybersecurity-evaluation incidents it committed to releasing, by 2027-02.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-02)
+- Source: https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### alignment-2026-02-01

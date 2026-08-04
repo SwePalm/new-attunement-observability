@@ -30,6 +30,38 @@ Format: see ledger/README.md. Append-only.
 - Grades:
  - 2026-08-04: open, component-part liability is still confined to Google in Garcia; newer actions such as Florida's 1 Jun 2026 suit against OpenAI and Sam Altman plead strict product liability against the model provider directly rather than as a component supplier, and no new court application has issued (source: https://natlawreview.com/article/florida-just-pulled-pin-ai-liability-now-everyone-holding-grenade, Jun 2026)
 
+### responsibility-2026-08-01
+- Claim: The California Superior Court in In re: ChatGPT Product Liability Cases (JCCP 5431) issues a ruling on a demurrer or other dispositive motion that addresses whether ChatGPT is a "product" for strict product liability purposes.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://lawsuitinformer.com/openai-lawsuits, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### responsibility-2026-08-02
+- Claim: The US Department of Justice AI Litigation Task Force files suit against, or moves to intervene in litigation challenging, a state AI law other than Colorado's SB 24-205.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://www.nortonrosefulbright.com/en/knowledge/publications/de3ad9de/xai-sues-doj-intervenes-enforcement-of-colorado-ai-act-suspended, May 2026
+- Status: open
+- Grades:
+  - none yet
+
+### responsibility-2026-08-03
+- Claim: The European Commission publishes the final, non-draft version of its Article 73 serious-incident reporting guidance and incident report template.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://digital-strategy.ec.europa.eu/en/consultations/ai-act-commission-issues-draft-guidance-and-reporting-template-serious-ai-incidents-and-seeks, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### responsibility-2026-08-04
+- Claim: Verisk/ISO or a top-10 US commercial liability carrier (AIG, Chubb, Travelers, Berkley, Liberty Mutual) files or publicly announces an affirmative AI liability coverage form for the US market, reversing the exclusion-only posture documented across Jan to Jul 2026.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://www.insurancebusinessmag.com/us/news/breaking-news/cfc-extends-affirmative-ai-cover-to-media-policy-completing-wider-portfolio-rollout-584269.aspx, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### responsibility-2026-07-01

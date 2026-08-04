@@ -30,6 +30,38 @@ Format: see ledger/README.md. Append-only.
 - Grades:
  - 2026-08-04: open, nearest analogues fall short of the claim: the FTC's Jul 2026 proposed policy statement on suppression of accuracy targets ideological steering rather than commercial ranking, the CMA's Mar 2026 AI-agent guidance is advisory not investigatory, and Korea's FTC self-preferencing study concluded Jun 2026 covered platforms rather than agents
 
+### desire-2026-08-01
+- Claim: Senator Warner (or a co-sponsor) formally introduces the AI AGENT Act as a numbered Senate bill, moving it from the 29 Jun 2026 discussion draft to introduced legislation.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-03)
+- Source: https://www.dwt.com/blogs/artificial-intelligence-law-advisor/2026/07/ai-agent-act-consumer-ai-regulation, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### desire-2026-08-02
+- Claim: The European Commission publishes the Digital Fairness Act legislative proposal and its text contains at least one provision addressing AI chatbots, AI companions, or AI-driven personalised persuasion.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-03)
+- Source: https://www.europarl.europa.eu/legislative-train/theme-protecting-our-democracy-upholding-our-values/file-digital-fairness-act, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### desire-2026-08-03
+- Claim: The FTC issues a public output from its Sep 2025 AI-companion 6(b) study: a staff report, a workshop report, or an enforcement action naming one of the seven 6(b) recipients over companion-product practices.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://www.ftc.gov/reports/6b-orders-file-special-report-regarding-advertising-safety-data-handling-practices-companies, Sep 2025
+- Status: open
+- Grades:
+  - none yet
+
+### desire-2026-08-04
+- Claim: OpenAI launches ChatGPT advertising in at least one EU member state, extending paid placement inside assistant product answers into the UCPD and DSA regime (live markets as of Aug 2026 are the US, Canada, Australia, New Zealand, the UK and Japan, none of them EU).
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://tech-insider.org/chatgpt-ads-rollout-2026/, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### desire-2026-07-01

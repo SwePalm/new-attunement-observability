@@ -31,6 +31,38 @@ Format: see ledger/README.md. Append-only.
  - none yet
  - 2026-08-04: open, the Conference Board Job Satisfaction survey is annual and the May 2026 wave remains the latest published; no successor wave exists yet against which the AI-confidence gap could be compared (source: https://www.conference-board.org/topics/job-satisfaction/press/job-satisfaction-2026, May 2026)
 
+### meaning-2026-08-01
+- Claim: Rutgers AAUP-AFT ratifies a successor collective agreement containing an explicit technology or AI article covering faculty autonomy over instructional technology decisions.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://academeblog.org/2026/06/11/meeting-the-moment-rutgers-aaup-afts-common-sense-technology-contract-terms/, Jun 2026
+- Status: open
+- Grades:
+  - none yet
+
+### meaning-2026-08-02
+- Claim: Gallup's next US employee engagement release covering a period after June 2026 reports US engagement at or below 31%.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-08)
+- Source: https://www.gallup.com/workplace/712433/employee-engagement-remains-flat-adoption-accelerates.aspx, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### meaning-2026-08-03
+- Claim: The NYSNA class-action grievance over the 12 Montefiore utilization review nurses produces a publicly reported arbitration award or settlement.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-09)
+- Source: https://www.wsws.org/en/articles/2026/07/10/olwf-j10.html, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### meaning-2026-08-04
+- Claim: A named Fortune 500 employer publishes a written, employer-initiated commitment guaranteeing a minimum level of human-performed work or human contact in a customer-facing or clinical function, explicitly framed as a response to AI restructuring and not obtained through collective bargaining or required by statute.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://www.reveliolabs.com/ai-labor-market-tracker/us/july-2026, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### meaning-2026-07-02

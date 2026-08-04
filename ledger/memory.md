@@ -40,6 +40,38 @@ Format: see ledger/README.md. Append-only.
  - none yet
  - 2026-08-04: open, near misses but no match: the OpenMemory unauthenticated-memory-access CVEs and the MemGhost false-memory attack (Jul 2026) are vulnerabilities without a named victim, the Krafton Delaware opinion (Mar 2026) used chat logs rather than memory data and named no individual, and the Del Rosario case involved the memory feature working as designed rather than leaked or subpoenaed memory (source: https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html, Jul 2026)
 
+### memory-2026-08-01
+- Claim: A major agent or assistant platform (OpenAI, Anthropic, Microsoft, or OpenClaw) ships a user-visible memory-write provenance or confirmation control, documented in official product or developer documentation, showing the originating source of each persistent memory entry and/or requiring explicit confirmation before an agent writes to persistent memory.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-04)
+- Source: https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### memory-2026-08-02
+- Claim: OpenAI or Anthropic documents a deletion-propagation guarantee in official help documentation, stating that deleting a source conversation also deletes the memories derived from that conversation.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://www.techtimes.com/articles/317840/20260605/chatgpt-memory-dreaming-update-openai-rewrites-personalization-engine-limits-audit-trail.htm, Jun 2026
+- Status: open
+- Grades:
+  - none yet
+
+### memory-2026-08-03
+- Claim: The Model Context Protocol publishes a specification release dated after 2026-07-28 that adds a memory or persistent-state primitive, as a spec section or an officially listed extension covering agent memory storage, transfer, or provenance.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-05)
+- Source: https://blog.modelcontextprotocol.io/posts/2026-07-28/, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### memory-2026-08-04
+- Claim: A named enterprise memory-layer vendor (Mem0, Letta, Zep, Supermemory, or Engram) publicly discloses a security incident involving unauthorised access to customer memory stores in a production or hosted deployment, or CISA adds a memory-layer component CVE to the Known Exploited Vulnerabilities catalog.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://nvd.nist.gov/vuln/detail/CVE-2026-59705, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### memory-2026-07-02

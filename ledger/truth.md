@@ -38,6 +38,38 @@ Format: see ledger/README.md. Append-only.
 - Grades:
  - 2026-08-04: open, no banking association or regulator has mandated out-of-band verification for high-value transfers; the hardening that exists is adjacent (Nacha's 2026 risk-management rules require fraud monitoring and account validation for ACH credits, effective Mar and Jun 2026) or private (social-engineering cover now underwritten against callback procedures) (source: https://www.nacha.org/rules/risk-management-topics-fraud-monitoring-phase-2, 2026)
 
+### truth-2026-08-01
+- Claim: Fewer than 20 of the 27 EU member states will have designated both a market surveillance authority and a notifying authority under the AI Act, as recorded by the artificialintelligenceact.eu national implementation tracker, when checked in Feb 2027.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-02)
+- Source: https://artificialintelligenceact.eu/national-implementation-plans/, Jun 2026
+- Status: open
+- Grades:
+  - none yet
+
+### truth-2026-08-02
+- Claim: The California Attorney General, a city attorney or a county counsel files the first civil enforcement action under the California AI Transparency Act (SB 942 as amended by AB 853) against a named covered provider.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://www.techtimes.com/articles/322713/20260802/california-ai-transparency-act-operative-midjourney-has-no-watermark-fines-start-today.htm, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### truth-2026-08-03
+- Claim: Midjourney publicly ships C2PA Content Credentials or an equivalent machine-readable provenance marker in its default image outputs.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-03)
+- Source: https://www.techtimes.com/articles/322713/20260802/california-ai-transparency-act-operative-midjourney-has-no-watermark-fines-start-today.htm, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### truth-2026-08-04
+- Claim: The EBU and BBC publish a second wave of News Integrity in AI Assistants and the headline share of responses with significant issues remains at or above 30 percent.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://www.ebu.ch/news/2026/07/ai-governance-must-put-trust-information-integrity-and-child-safety-front-and-centre-backed-by-real-accountability, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### truth-2026-07-03

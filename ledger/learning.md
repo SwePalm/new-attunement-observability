@@ -46,6 +46,38 @@ Format: see ledger/README.md. Append-only.
 - Grades:
  - 2026-08-04: open, secured-assessment moves are real and accelerating (Princeton ended 133 years of unproctored exams effective 1 Jul 2026; Bath, Cardiff, Birkbeck and Swansea shifting to invigilated in-person formats) but all are single institutions rather than systems and every stated rationale is academic integrity, not cognitive-offloading research; SUNY's systemwide policy (May 2026) mandates governance, not AI-free assessment (source: https://www.universityherald.com/articles/80380/20260623/princeton-university-now-requires-supervised-person-exams-amid-ai-cheating-concerns.htm, Jun 2026)
 
+### learning-2026-08-01
+- Claim: Digital Promise announces the single recipient of the up-to-$8,000,000 Gates Foundation-backed EDU AI open-source K-12 math tutoring model grant, with a grant start in November 2026.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-02)
+- Source: https://k12-ai-infrastructure.org/edu-ai-rfp/, Jun 2026
+- Status: open
+- Grades:
+  - none yet
+
+### learning-2026-08-02
+- Claim: All 24 Maryland local school systems adopt an AI policy aligned to MSDE guidance and designate an AI coordinator within the statutory 120-day window under the Artificial Intelligence Ready Schools Act.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-03)
+- Source: https://marylandmatters.org/2026/07/06/maryland-school-districts-face-fall-deadline-to-set-ai-policies/, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### learning-2026-08-03
+- Claim: The full US House of Representatives holds a floor vote on H.R. 8747, the K-12 AI Literacy and Readiness Act of 2026.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://www.congress.gov/committee-schedule/weekly/2026/07/20, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### learning-2026-08-04
+- Claim: The Florida State Board of Education formally adopts a rule requiring public and charter schools to address artificial intelligence in their internet safety policies.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-03)
+- Source: https://www.wokv.com/news/local/florida-could-require-schools-set-rules-ai-use/RL6PJROT3JHHJIFYCBHGVE4KII/, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### learning-2026-02-01

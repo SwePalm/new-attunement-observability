@@ -40,6 +40,38 @@ Format: see ledger/README.md. Append-only.
  - none yet
   - 2026-08-04: open, the EU omnibus itself entered into force in July 2026 but no further jurisdiction adopted a new simplification package in the month since logging (Korea's penalty deferral and Colorado's delay both predate the claim window), so the count of qualifying post-Jun-2026 packages is zero of three with resolve-by 2027-09 (source: https://www.freshfields.com/en/our-thinking/blogs/technology-quotient/eu-ai-act-unpacked-34-the-final-digital-omnibus-on-ai-key-amendments-to-the-a-102nber, Jul 2026)
 
+### governance-2026-08-01
+- Claim: The Article 50(2) machine-readable marking obligation for generative AI systems placed on the EU market before 2 August 2026 takes effect on 2 December 2026 without further deferral by the Commission or co-legislators.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-01)
+- Source: https://www.faegredrinker.com/en/insights/publications/2026/7/eu-ai-act-commission-confirms-transparency-code-of-practice-as-adequate-and-publishes-final-version-of-its-guidelines-on-transparency-obligations, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### governance-2026-08-02
+- Claim: The European Commission's AI Office or a national market surveillance authority publicly announces its first named Article 50 non-compliance proceeding, formal information request, or fine against an identified provider or deployer.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-03)
+- Source: https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### governance-2026-08-03
+- Claim: The DOJ AI Litigation Task Force files its first affirmative complaint (not an intervention in a private suit) challenging a state AI law, naming a state other than Colorado.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://vorplabs.com/ai-regulatory-updates/united-states, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### governance-2026-08-04
+- Claim: Illinois SB 315's 1 January 2027 obligations for large frontier developers take effect without a federal court injunction and without a legislative amendment delaying the date.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-03)
+- Source: https://www.nortonrosefulbright.com/en/knowledge/publications/68f0462c/illinois-enacts-artificial-intelligence-safety-measures-act, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### governance-2026-07-01

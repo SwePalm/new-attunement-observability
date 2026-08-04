@@ -38,6 +38,38 @@ Format: see ledger/README.md. Append-only.
 - Grades:
  - 2026-08-04: open, the two major annual reports published since logging (Check Point AI Security Report 2026, Jul 2026; IBM Cost of a Data Breach 2026, Jul 2026) report AI-enabled breach shares (one in four malicious breaches AI-enabled) but neither breaks out an autonomous-agent share, so the metric is not yet reported and resolve-by 2027-07 has not passed (source: https://newsroom.ibm.com/2026-07-29-ibm-study-one-in-four-malicious-breaches-are-ai-enabled,-costing-companies-6-million-on-average, Jul 2026)
 
+### security-2026-08-01
+- Claim: The European Commission's AI Office takes its first publicly reported formal Chapter V step against a named GPAI model provider (a request for information, a model evaluation, or a corrective or risk-mitigation measure).
+- Horizon: 0-12 months (logged 2026-08, resolve by 2027-05)
+- Source: https://www.wsgr.com/en/insights/eu-ai-act-enforcement-phase-begins.html, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### security-2026-08-02
+- Claim: METR and Redwood Research publish their promised joint report on the OpenAI evaluation-escape incident, stating the terms of engagement, scope and findings.
+- Horizon: 0-12 months (logged 2026-08, resolve by 2027-01)
+- Source: https://openai.com/index/hugging-face-model-evaluation-security-incident/, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### security-2026-08-03
+- Claim: Anthropic publishes the redacted transcripts of the three cybersecurity-evaluation incidents it disclosed on 30 Jul 2026.
+- Horizon: 0-12 months (logged 2026-08, resolve by 2027-02)
+- Source: https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### security-2026-08-04
+- Claim: The MCP maintainers publish a protocol revision or registry policy that makes server identity cryptographically verifiable, removing the current specification statement that serverInfo is self-reported, unverified, and must not be used for security decisions.
+- Horizon: 0-12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://modelcontextprotocol.io/specification/2026-07-28/server/discover, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### security-2026-07-01

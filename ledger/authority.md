@@ -49,6 +49,38 @@ Format: see ledger/README.md. Append-only.
  - none yet
  - 2026-08-04: open, Colorado repealed and materially weakened its AI Act via SB 26-189 (signed 14 May 2026), but sources attribute the pivot to the xAI suit, DOJ intervention and the Dec 2025 executive order rather than to BEAD, and NTIA has still not issued the nondeployment guidance that would operationalise the funding threat, so the claim's stated mechanism is unevidenced (source: https://www.skadden.com/insights/publications/2026/06/colorado-repeals-and-replaces-its-ai-act, Jun 2026)
 
+### authority-2026-08-01
+- Claim: The European Commission's AI Office opens its first formal enforcement step against a named general-purpose AI model provider under its post-2 Aug 2026 powers (a public formal request for information, evaluation demand, corrective-measures request, or fine).
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://www.wsgr.com/en/insights/eu-ai-act-enforcement-phase-begins.html, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### authority-2026-08-02
+- Claim: The FTC issues a final version of the "suppression of accuracy" policy statement retaining an implied-preemption theory against state AI laws.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-03)
+- Source: https://www.federalregister.gov/documents/2026/07/07/2026-13628/policy-statement-concerning-the-suppression-of-accuracy-in-artificial-intelligence-systems, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### authority-2026-08-03
+- Claim: The DOJ AI Litigation Task Force or an industry plaintiff files a federal constitutional or preemption challenge to Illinois SB 315 (Artificial Intelligence Safety Measures Act).
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://gov-pritzker-newsroom.prezly.com/gov-pritzker-signs-nation-leading-artificial-intelligence-safety-law, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### authority-2026-08-04
+- Claim: xAI v. Weiser (D. Colo., 1:26-cv-01515) terminates without a district court merits ruling on federal preemption of the Colorado AI Act, by dismissal, voluntary withdrawal, or mootness.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://www.courtlistener.com/docket/73171074/x-ai-llc-v-weiser/, Jun 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### authority-2026-02-01

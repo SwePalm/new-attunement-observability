@@ -40,6 +40,38 @@ Format: see ledger/README.md. Append-only.
  - none yet
  - 2026-08-04: open, adjacent but not on point: the Belgian APD investigated an AI conversational app (May 2026) covering free-text sensitive data, storage periods, transparency on internal processing and model retraining, but no DPA has yet framed an inquiry specifically around persistent memory profiles (source: https://www.gibsondunn.com/gibson-dunn-europe-data-protection-july-2026/, Jul 2026)
 
+### identity-2026-08-01
+- Claim: OpenID Foundation members approve OpenID Connect Ephemeral Subject Identifier 1.0 as a Final Specification in the vote scheduled for 16 to 30 Sep 2026.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2026-11)
+- Source: https://openid.net/public-review-period-for-proposed-openid-connect-ephemeral-subject-identifier-1-0-final-specification/, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### identity-2026-08-02
+- Claim: The OpenID Foundation AI Identity Management Community Group publishes consolidated MCP security interoperability results naming at least three participating vendors.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-01)
+- Source: https://openid.net/call-for-participation-demonstrate-mcp-based-ai-agent-security-with-open-identity-standards-2/, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### identity-2026-08-03
+- Claim: Okta moves Agent Gateway from research release to general availability.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-03)
+- Source: https://www.okta.com/newsroom/articles/okta-july-2026-product-innovations/, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### identity-2026-08-04
+- Claim: The EDPB adopts final versions of its guidelines on anonymisation and on web scraping for generative AI after the consultation closing 30 Oct 2026.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://www.edpb.europa.eu/news/edpb-sheds-light-on-anonymisation-and-web-scraping-for-generative-ai-and-adopts-final-version_en, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### identity-2026-07-02

@@ -38,6 +38,38 @@ Format: see ledger/README.md. Append-only.
 - Grades:
  - 2026-08-04: open, the disruption leg is already met (Anthropic's 12 Jun 2026 suspension of Claude Fable 5 and Mythos 5 under a US export-control directive hit enterprises with embedded production integrations, and OpenAI degraded for 17 days in Jul 2026) but no provider or affected enterprise has published a post-mortem, which is the leg the claim rests on (source: https://www.gtlaw.com/en/insights/2026/6/ai-company-anthropic-suspends-access-to-claude-fable-5-claude-mythos-5-following-us-export-control-directive, Jun 2026)
 
+### dependency-2026-08-01
+- Claim: HM Treasury designates at least one AI model provider (for example OpenAI, Anthropic, Google DeepMind, or Mistral) as a Critical Third Party under the UK CTP regime, extending the 10 Jul 2026 cloud-only list.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://www.bankofengland.co.uk/news/2026/july/uk-financial-regulators-to-begin-overseeing-critical-third-parties-announced-by-hmt, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### dependency-2026-08-02
+- Claim: The FSB publishes its final Sound Practices for Responsible Adoption of AI report and it explicitly addresses concentration or substitutability of AI service providers, beyond the generic third-party risk framing of the 10 Jun 2026 consultation.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-01)
+- Source: https://www.fsb.org/2026/06/fsb-consults-on-sound-practices-for-the-responsible-adoption-of-artificial-intelligence-ai/, Jun 2026
+- Status: open
+- Grades:
+  - none yet
+
+### dependency-2026-08-03
+- Claim: At least one Agentic AI Foundation platinum member (Anthropic, OpenAI, Microsoft, Google, AWS, Block, Bloomberg, or Cloudflare) publicly announces a dated end-of-support in its own MCP client or hosted platform for HTTP+SSE transport or Dynamic Client Registration, converting the 2026-07-28 spec deprecations into an enforced migration deadline for third-party server operators.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://blog.modelcontextprotocol.io/posts/2026-07-28/, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### dependency-2026-08-04
+- Claim: The Cyberspace Administration of China or a provincial cyberspace regulator publishes an enforcement action (fine, service suspension, or rectification order) naming a specific provider under the anthropomorphic-AI measures that took effect 15 Jul 2026.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-03)
+- Source: https://www.artificialintelligence-news.com/news/china-ai-companion-rules/, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### dependency-2026-07-01

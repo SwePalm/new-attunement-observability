@@ -38,6 +38,38 @@ Format: see ledger/README.md. Append-only.
 - Grades:
  - 2026-08-04: open, deepfake incidents keep accumulating but no mainstream postmortem yet attributes a market-moving or election-affecting outcome materially to synthetic media; the Nov 2026 US midterms are the near-term test and the resolve-by month is 2027-09
 
+### perception-2026-08-01
+- Claim: The Oregon Secretary of State's Elections Division issues a written determination (civil penalty, referral, or dismissal) in the SB 1571 synthetic media investigation of Jonathan Lockwood over unlabeled AI videos of Rep. Janelle Bynum.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-03)
+- Source: https://www.ijpr.org/politics-government/2026-07-09/over-the-top-ai-campaign-ads-will-test-oregon-disclosure-law, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### perception-2026-08-02
+- Claim: A designated EU national market surveillance authority or the European Commission AI Office publicly announces the first formal Article 50 investigation or enforcement action against a named provider or deployer for failing to mark or label AI-generated content.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://digital-strategy.ec.europa.eu/en/news/strong-backing-code-practice-transparency-ai-generated-content, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### perception-2026-08-03
+- Claim: Apple ships iOS 27 in general release (not beta) with SynthID watermarking active on Image Playground generations and Apple Intelligence photo edits, as announced on 8 Jun 2026.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-01)
+- Source: https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/, Jun 2026
+- Status: open
+- Grades:
+  - none yet
+
+### perception-2026-08-04
+- Claim: TikTok, Meta, or YouTube announces or ships a friction-based treatment for AI-generated content (a full-screen or click-through interstitial, feed demotion, or distribution limit) for at least one content category, going beyond the small overlay label format.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://www.techtimes.com/articles/320282/20260713/tiktok-has-labeled-3-billion-ai-videos-here-what-research-says-they-miss.htm, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### perception-2026-07-02

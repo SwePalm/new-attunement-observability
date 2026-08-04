@@ -38,6 +38,38 @@ Format: see ledger/README.md. Append-only.
 - Grades:
  - 2026-08-04: open, the Article 50 transparency obligations became applicable only on 2 August 2026 (two days before this run), with enforcement assigned to national market surveillance authorities, the AI Office and the EDPS and fines up to 15M EUR or 3% of turnover, so no action could yet have issued (source: https://commission.europa.eu/news-and-media/news/safer-and-more-transparent-ai-2026-08-02_en, Aug 2026)
 
+### trust-2026-08-01
+- Claim: The FTC issues a final policy statement on AI accuracy under docket FTC-2026-0859, as distinct from the proposed statement put out for comment on 1 Jul 2026.
+- Horizon: 0-12 months (logged 2026-08, resolve by 2027-03)
+- Source: https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-seeks-public-comment-policy-statement-addressing-ai-accuracy, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### trust-2026-08-02
+- Claim: OpenAI publishes its own public technical account or postmortem of the July 2026 sandbox escape and Hugging Face intrusion on openai.com.
+- Horizon: 0-12 months (logged 2026-08, resolve by 2027-02)
+- Source: https://huggingface.co/blog/agent-intrusion-technical-timeline, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### trust-2026-08-03
+- Claim: NIST publishes the first public AITE (Artificial Intelligence Technology Evaluation) results, leaderboard or scoring report.
+- Horizon: 0-12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://www.nist.gov/news-events/news/2026/07/announcing-nists-artificial-intelligence-technology-evaluation-aite, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### trust-2026-08-04
+- Claim: The AI Kill Switch Act (Reps. Ted Lieu and Nathaniel Moran, introduced 23 Jul 2026) receives a House committee hearing or markup.
+- Horizon: 0-12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://www.nextgov.com/artificial-intelligence/2026/07/lawmakers-introduce-bill-mandating-kill-switches-ai-models/414969/, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### trust-2026-02-01

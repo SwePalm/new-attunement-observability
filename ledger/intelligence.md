@@ -30,6 +30,38 @@ Format: see ledger/README.md. Append-only.
 - Grades:
  - 2026-08-04: open, no audit yet reports frontier production success above 80%, and the largest new telemetry sample points the other way (56.6% success across 4.5M runs on 6,259 deployed agents), but 13 months remain on the horizon (source: https://www.foundra.ai/key-reads/ai-agent-production-reliability-testing-2026, Jul 2026)
 
+### intelligence-2026-08-01
+- Claim: A model exceeds 60% on the official ARC Prize ARC-AGI-3 leaderboard by 2027-06.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://arcprize.org/results/anthropic-claude-opus-5, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### intelligence-2026-08-02
+- Claim: The US federal government publicly publishes the EO 14409 covered-frontier-model designation framework or its criteria, via Federal Register notice or an official NSA, NIST, CISA or OSTP publication, by 2027-02.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-02)
+- Source: https://finance.yahoo.com/technology/ai/articles/white-house-ai-framework-deadline-002011007.html, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### intelligence-2026-08-03
+- Claim: The US Department of Commerce or BIS imposes a new export-control access restriction on a named frontier AI model that is first released after 2026-08-04, by 2027-05.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-05)
+- Source: https://www.csis.org/analysis/department-commerce-restricted-access-anthropics-latest-models-what-comes-next, Jun 2026
+- Status: open
+- Grades:
+  - none yet
+
+### intelligence-2026-08-04
+- Claim: The European AI Office takes its first publicly reported formal enforcement step against a named GPAI provider (a Commission-decision request for information, a compelled model evaluation, or an opened proceeding) by 2027-05.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-05)
+- Source: https://www.wsgr.com/en/insights/eu-ai-act-enforcement-phase-begins.html, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### intelligence-2026-07-01

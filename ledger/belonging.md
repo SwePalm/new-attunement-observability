@@ -30,6 +30,38 @@ Format: see ledger/README.md. Append-only.
 - Grades:
  - 2026-08-04: open, no new companion-specific national wave with a comparable regular-use figure; the June 2026 Common Sense census reports general AI use (67% chatbot use) but not companion regular use, and resolve-by is 2027-07
 
+### belonging-2026-08-01
+- Claim: New York Governor Hochul signs S9051B (the AI companion minor-safety bill) into law, with or without chapter amendments. As of 2026-08-04 the bill's last recorded action is 5 Jun 2026 and it has not been delivered to the governor.
+- Horizon: 0-12 months (logged 2026-08, resolve by 2026-12)
+- Source: https://www.nysenate.gov/legislation/bills/2025/S9051/amendment/B, Jun 2026
+- Status: open
+- Grades:
+  - none yet
+
+### belonging-2026-08-02
+- Claim: Ofcom publishes the findings of its AI chatbot persona research covering ChatGPT, Grok, SnapMyAI and Talkie, including age-differentiated safety results for 13-17 accounts. Fieldwork was announced 22 Jun 2026 with completion expected end of 2026 and no findings published as of 2026-08-04.
+- Horizon: 0-12 months (logged 2026-08, resolve by 2027-03)
+- Source: https://www.ofcom.org.uk/online-safety/protecting-children/transparency-notice-research-on-ai-chatbot-social-media-and-video-sharing-platforms-to-explore-online-safety, Jun 2026
+- Status: open
+- Grades:
+  - none yet
+
+### belonging-2026-08-03
+- Claim: Ofcom issues a provisional decision, a final decision, or a closure notice in its Online Safety Act age-assurance investigation into Novi Ltd (Joi.com). The case was opened 15 Jan 2026 and remained open with no decision of any kind as of 2026-08-04.
+- Horizon: 0-12 months (logged 2026-08, resolve by 2027-03)
+- Source: https://www.ofcom.org.uk/online-safety/protecting-children/investigation-into-novi-ltds-compliance-with-the-duty-to-prevent-children-from-encountering-pornographic-content-through-the-use-of-age-assurance, Jan 2026
+- Status: open
+- Grades:
+  - none yet
+
+### belonging-2026-08-04
+- Claim: The European Commission publishes its Digital Fairness Act proposal and the text contains at least one provision expressly reaching conversational AI, AI companions, or AI-simulated relationships. No proposal had been adopted as of 2026-08-04; expected Q3-Q4 2026.
+- Horizon: 0-12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://techbriefly.com/2026/07/13/eu-big-tech-digital-fairness-act-consumer-harms/, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### belonging-2026-07-01

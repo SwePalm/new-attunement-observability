@@ -37,6 +37,38 @@ Format: see ledger/README.md. Append-only.
 - Grades:
  - 2026-08-04: open, the closest events remain research demonstrations (ClawWorm, a lab worm against OpenClaw, Mar 2026) and a data-source compromise affecting an estimated 2,388 organizations (Agentjacking via Sentry, Jun 2026), neither of which is propagation between organizations over an inter-agent protocol (source: https://labs.cloudsecurityalliance.org/research/csa-research-note-agentjacking-self-replicating-ai-worms-202/, Jun 2026)
 
+### coordination-2026-08-01
+- Claim: The IESG approves a charter for an IETF working group on AI agent communication protocols (agentproto or a renamed successor), visible as a chartered WG on datatracker.ietf.org, by 2027-03.
+- Horizon: 0-12 months (logged 2026-08, resolve by 2027-03)
+- Source: https://datatracker.ietf.org/doc/minutes-126-agentproto-202607230700/, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### coordination-2026-08-02
+- Claim: Public UCP conformance monitoring reports at least 100 verified UCP stores exposing a payment capability, up from zero of 11,414 verified stores on 7 Jul 2026, by 2027-02.
+- Horizon: 0-12 months (logged 2026-08, resolve by 2027-02)
+- Source: https://ucpchecker.com/blog/state-of-agentic-commerce-july-2026, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### coordination-2026-08-03
+- Claim: Senator Mark Warner formally introduces the AI AGENT Act as a numbered bill in the US Senate, with a congress.gov record, by 2027-03.
+- Horizon: 0-12 months (logged 2026-08, resolve by 2027-03)
+- Source: https://www.warner.senate.gov/newsroom/press-releases/warner-unveils-discussion-draft-of-legislation-to-create-innovative-market-for-secure-artificial-intelligence-agents/, Jun 2026
+- Status: open
+- Grades:
+  - none yet
+
+### coordination-2026-08-04
+- Claim: NIST publishes on csrc.nist.gov a draft Special Publication or Internal Report on software and AI agent identity and authorization that supersedes the 5 Feb 2026 concept paper, by 2027-03.
+- Horizon: 0-12 months (logged 2026-08, resolve by 2027-03)
+- Source: https://csrc.nist.gov/pubs/other/2026/02/05/accelerating-the-adoption-of-software-and-ai-agent/ipd, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### coordination-2026-02-04

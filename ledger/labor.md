@@ -54,6 +54,38 @@ Format: see ledger/README.md. Append-only.
 - Grades:
  - 2026-08-04: open, the only named at-scale public reversal remains Klarna's 2025 rehiring of human agents, which predates the claim window, while 2026 coverage describes quiet, unnamed boomerang rehiring rather than a public reversal (source: https://www.fastcompany.com/91571824/the-great-ai-layoff-is-turning-into-the-great-ai-rehire, 2026)
 
+### labor-2026-08-01
+- Claim: At least one WARN notice filed with the Connecticut Department of Labor on or after 1 Oct 2026 discloses that the covered layoff is related to the employer's use of AI or other technological change, per the CT DOL WARN notice listing or CT DOL reporting.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-04)
+- Source: https://www.ropesgray.com/en/insights/alerts/2026/06/connecticut-enacts-sweeping-ai-law-covering-employment-healthcare-and-online-safety, Jun 2026
+- Status: open
+- Grades:
+  - none yet
+
+### labor-2026-08-02
+- Claim: Colorado's amended AI Act (SB 26-189) takes effect on 1 Jan 2027 with no further statutory postponement of that date enacted by the Colorado General Assembly.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-03)
+- Source: https://www.hunton.com/privacy-and-cybersecurity-law-blog/colorado-ai-act-amended-and-effective-date-delayed, May 2026
+- Status: open
+- Grades:
+  - none yet
+
+### labor-2026-08-03
+- Claim: Challenger, Gray & Christmas names artificial intelligence the single most-cited reason for US job cut announcements in each of its monthly reports covering July, August and September 2026.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2026-11)
+- Source: https://www.challengergray.com/blog/challenger-report-june-layoffs-cool-to-45849-down-53-from-may-ai-leads-reasons-for-fourth-consecutive-month/, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### labor-2026-08-04
+- Claim: The European Commission opens non-communication infringement proceedings against at least ten EU member states for failure to transpose the Platform Work Directive (EU) 2024/2831 by its 2 Dec 2026 deadline.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://iuslaboris.com/insights/eu-platform-work-directive-which-countries-have-implemented/, Jun 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### labor-2026-02-01
