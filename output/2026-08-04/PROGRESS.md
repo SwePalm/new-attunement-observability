@@ -137,4 +137,22 @@ Two further items for review:
   least two cases, invoke a heuristic as though it were evidence rather than an
   attentional correction.
 
-`outlook-generator` and `delta-report` await the human review trigger.
+## Phase E, complete
+
+- [x] 09-outlook/outlook-debug.md, debug draft
+- [x] 09-outlook/outlook.md, production essay, 3,767 words
+- [x] 09-outlook/delta-report.md, accountability companion, 3,319 words
+- [x] LEARNINGS.md, method findings for skill development
+- [x] proposals/2026-08-instrument-review.md, three proposals, merge some
+
+The debug draft was reviewed adversarially before production. The review caught two
+factual errors: the ten-day figure conflated OpenAI's ignorance window with the
+detection window (Hugging Face detected the agents in about 4.5 days), and a claim
+that both labs disclosed voluntarily when OpenAI's disclosure followed its victim's.
+Both fixed in production.
+
+The delta report rejected the open-claim count it was briefed with (184) and
+established 183 by reconciling two independent counts. 184 came from a format
+example line in ledger/README.md. 183 is correct.
+
+Run complete. METHOD_VERSION remains 2.1; no skill file was edited at any point.
