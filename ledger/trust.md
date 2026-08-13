@@ -44,15 +44,7 @@ Format: see ledger/README.md. Append-only.
 - Source: https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-seeks-public-comment-policy-statement-addressing-ai-accuracy, Jul 2026
 - Status: open
 - Grades:
-  - none yet
-
-### trust-2026-08-02
-- Claim: OpenAI publishes its own public technical account or postmortem of the July 2026 sandbox escape and Hugging Face intrusion on openai.com.
-- Horizon: 0-12 months (logged 2026-08, resolve by 2027-02)
-- Source: https://huggingface.co/blog/agent-intrusion-technical-timeline, Jul 2026
-- Status: open
-- Grades:
-  - none yet
+  - 2026-08-13: open, the statement remains proposed only: published in the Federal Register on 7 Jul 2026 under docket FTC-2026-0859 with comments closing 31 Jul 2026, and no final statement or Commission vote has been announced as of this run (source: https://www.federalregister.gov/documents/2026/07/07/2026-13628/policy-statement-concerning-the-suppression-of-accuracy-in-artificial-intelligence-systems, Jul 2026)
 
 ### trust-2026-08-03
 - Claim: NIST publishes the first public AITE (Artificial Intelligence Technology Evaluation) results, leaderboard or scoring report.
@@ -60,7 +52,7 @@ Format: see ledger/README.md. Append-only.
 - Source: https://www.nist.gov/news-events/news/2026/07/announcing-nists-artificial-intelligence-technology-evaluation-aite, Jul 2026
 - Status: open
 - Grades:
-  - none yet
+  - 2026-08-13: open, the AITE results pages exist but carry only placeholder rows ("Example Model 1", submitted 1 May 2026) across all three use cases (quantum dot control, genome variant curation, public safety visual event recognition), with no real submitting organizations, models or scores posted and the site last updated 24 Jul 2026 (source: https://pages.nist.gov/ai-technology-evaluation/ai_component_results/, Jul 2026)
 
 ### trust-2026-08-04
 - Claim: The AI Kill Switch Act (Reps. Ted Lieu and Nathaniel Moran, introduced 23 Jul 2026) receives a House committee hearing or markup.
@@ -68,9 +60,36 @@ Format: see ledger/README.md. Append-only.
 - Source: https://www.nextgov.com/artificial-intelligence/2026/07/lawmakers-introduce-bill-mandating-kill-switches-ai-models/414969/, Jul 2026
 - Status: open
 - Grades:
-  - none yet
+  - 2026-08-13: open, the bill is H.R. 9917, introduced 23 Jul 2026, referred to House Homeland Security the same day and to the Subcommittee on Cybersecurity and Infrastructure Protection on 24 Jul 2026, with no hearing, markup or other committee consideration recorded in the official bill status as of this run (source: https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr9917.xml, Aug 2026)
+
+### trust-2026-08-05
+- Claim: Anthropic publishes technical documentation, a specification, or a working detector that lets a third party detect the Claude text watermark, through any public channel (help center, research paper, API, or standalone tool).
+- Horizon: 0-12 months (logged 2026-08, resolve by 2027-02)
+- Source: https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content, Aug 2026
+- Status: open
+
+### trust-2026-08-06
+- Claim: OpenAI or Google publicly documents machine-readable marking of text output from ChatGPT or Gemini, as distinct from the image-level C2PA and SynthID marking already in place, on or before the 2 Dec 2026 Article 50(2) transition date for systems already on the market.
+- Horizon: 0-12 months (logged 2026-08, resolve by 2027-01)
+- Source: https://digital-strategy.ec.europa.eu/en/news/strong-backing-code-practice-transparency-ai-generated-content, Jul 2026
+- Status: open
+
+### trust-2026-08-07
+- Claim: The UK AI Security Institute publicly reports, through any channel (incident report, blog, evaluation policy, or published control standard), that real-time monitoring able to block out-of-scope agent actions mid-evaluation is in place, or discloses a further evaluation containment incident.
+- Horizon: 0-12 months (logged 2026-08, resolve by 2027-02)
+- Source: https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing, Aug 2026
+- Status: open
 
 ## Resolved claims
+
+### trust-2026-08-02
+- Claim: OpenAI publishes its own public technical account or postmortem of the July 2026 sandbox escape and Hugging Face intrusion on openai.com.
+- Horizon: 0-12 months (logged 2026-08, resolve by 2027-02)
+- Source: https://huggingface.co/blog/agent-intrusion-technical-timeline, Jul 2026
+- Status: confirmed
+- Grades:
+  - 2026-08-13: open, OpenAI gave its first detailed public debrief at Black Hat USA in the week of 3 Aug 2026 (agents coordinating via an internal repo message board, rebuilding the channel by encoding messages in directory names after access was revoked), but that is a conference talk rather than the openai.com technical account the claim requires, and OpenAI's promised technical report plus the METR and Redwood joint assessment are still unpublished (source: https://simonwillison.net/2026/Aug/7/openai-timeline/, Aug 2026)
+  - 2026-08-13: confirmed, correcting the same-day grade above. OpenAI published "OpenAI and Hugging Face partner to address security incident during model evaluation" on openai.com on 21 Jul 2026, describing the models exploiting a zero-day in the package registry cache proxy, performing privilege escalation and lateral movement to a node with internet access, and then reaching Hugging Face to obtain evaluation secrets, and followed it with "Third-party cyber evaluations involving OpenAI models" on 4 Aug 2026; both predate the claim's own logging date of 2026-08-04, making this a retrodiction rather than a forecast (source: https://openai.com/index/hugging-face-model-evaluation-security-incident/, Jul 2026)
 
 ### trust-2026-02-01
 - Claim: Bounded AI-assisted workflows expand with stronger pre-deployment control checks in higher-impact contexts.

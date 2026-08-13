@@ -62,6 +62,30 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
 
+### belonging-2026-08-05
+- Claim: S.3062 (the GUARD Act) receives a recorded Senate action beyond "Ordered Reported": a written committee report filed, placement on the Senate Legislative Calendar of Business, a floor vote, or incorporation into another vehicle that is enacted. Baseline verified 2026-08-13: the Senate Judiciary Committee ordered the bill reported 22-0 on 30 Apr 2026, bill text was last updated 11 May 2026, and no written report, calendar placement, or floor vote is recorded.
+- Horizon: 0-12 months (logged 2026-08, resolve by 2026-12)
+- Source: https://www.govtrack.us/congress/bills/119/s3062, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### belonging-2026-08-06
+- Claim: The Colorado Department of Law publishes a notice of proposed rulemaking or draft rules for conversational AI service operators under HB 26-1263. Baseline verified 2026-08-13: a pre-rulemaking stakeholder input process is open, the Future of Privacy Forum filed comments on 13 Jul 2026, no proposed rule has been published, and the statute's operator obligations begin 1 Jan 2027.
+- Horizon: 0-12 months (logged 2026-08, resolve by 2027-01)
+- Source: https://fpf.org/blog/fpf-submits-comments-to-inform-colorado-automated-decision-making-technology-and-chatbot-rulemaking-processes/, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### belonging-2026-08-07
+- Claim: The US Federal Trade Commission publishes a staff report, study, or public summary of findings from its Section 6(b) inquiry into AI companion chatbots. Baseline verified 2026-08-13: 6(b) orders were issued 11 Sep 2025 to Alphabet, Character Technologies, Instagram, Meta Platforms, OpenAI OpCo, Snap and X.AI on a 3-0 Commission vote, no study output has been published, and the orders set no publication timetable.
+- Horizon: 0-12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-launches-inquiry-ai-chatbots-acting-companions, Sep 2025
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### belonging-2026-07-01

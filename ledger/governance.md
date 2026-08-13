@@ -72,6 +72,30 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
 
+### governance-2026-08-05
+- Claim: The Texas Attorney General posts the online AI complaint mechanism required by TRAIGA Section 552.102 on the attorney general's website by the statutory deadline of 1 September 2026.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2026-10)
+- Source: https://capitol.texas.gov/tlodocs/89R/billtext/html/HB00149F.htm, Jun 2025
+- Status: open
+- Grades:
+  - none yet
+
+### governance-2026-08-06
+- Claim: The European Commission adopts a non-compliance decision against TikTok, or accepts binding commitments from TikTok, in the Digital Services Act Article 28(1) proceeding on minors' account visibility for which preliminary findings issued 24 July 2026.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://digital-strategy.ec.europa.eu/en/news/commission-preliminary-finds-tiktok-breach-digital-services-act-failing-ensure-safe-accounts-minors, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### governance-2026-08-07
+- Claim: The California Attorney General publicly announces an enforcement action, formal investigation, or settlement under the California AI Transparency Act (SB 942 as amended by AB 853) against a named covered generative AI provider.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://www.morganlewis.com/pubs/2026/08/new-california-ai-disclosure-rules-become-operative, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### governance-2026-07-01

@@ -63,6 +63,38 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
 
+### meaning-2026-08-05
+- Claim: California AB 2575 (Ortega), health care services: artificial intelligence, is chaptered into California law, establishing retaliation protection for direct patient care workers based solely on their override of, or reliance on, the output of a clinical decision support system.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2026-10)
+- Source: https://sapro.senate.ca.gov/system/files/2026-08/hearing_results-8-3-26.pdf, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### meaning-2026-08-06
+- Claim: A Challenger, Gray & Christmas monthly job cut report published by 2026-12 records a cumulative 2026 total above 12 in the Technological Update (possibly AI) reason category, indicating at least one further employer contesting the AI characterisation of its own displacement.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2026-12)
+- Source: https://www.challengergray.com/wp-content/uploads/2026/08/Challenger-Report-July-2026.pdf, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### meaning-2026-08-07
+- Claim: The California Nurses Association reports a tentative or ratified Kaiser Permanente agreement whose publicly announced terms include an artificial intelligence or workplace technology provision covering nurse involvement in AI deployment decisions.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://calmatters.org/economy/technology/2026/07/kaiser-nurses-workplace-surveillance-ai/, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### meaning-2026-08-08
+- Claim: The ProPublica Guild publishes an update reporting that the AI committee created by its 31 Jul 2026 first contract has been seated or has met.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-04)
+- Source: https://www.propublicaguild.org/updates/propublica-guild-ratifies-first-contract, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### meaning-2026-07-02

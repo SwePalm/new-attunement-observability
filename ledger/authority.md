@@ -30,6 +30,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
  - none yet
  - 2026-08-04: open, DOJ intervened in xAI v. Weiser on 24 Apr 2026 but the 27 Apr 2026 halt to Colorado AI Act enforcement came from a joint motion by the parties rather than a contested ruling, and no merits decision has issued in any Task Force matter (source: https://www.justice.gov/opa/pr/justice-department-intervenes-xai-lawsuit-challenging-colorados-algorithmic-discrimination, Apr 2026)
+ - 2026-08-13: open, the Colorado Department of Law filed proposed ADMT and conversational AI rules on 11 Aug 2026 with comments open to 26 Oct 2026, which starts the process the 27 Apr 2026 stipulated order ties to xAI's preliminary injunction motion (due within 28 days of final adoption), so the flagship Task Force case now has a dated path to a contested ruling but final adoption cannot occur before late 2026 (source: https://coag.gov/ai/, Aug 2026)
 
 ### authority-2026-07-02
 - Claim: Congress passes no comprehensive AI preemption statute before mid-2027, leaving the state laws operative.
@@ -77,6 +78,39 @@ Format: see ledger/README.md. Append-only.
 - Claim: xAI v. Weiser (D. Colo., 1:26-cv-01515) terminates without a district court merits ruling on federal preemption of the Colorado AI Act, by dismissal, voluntary withdrawal, or mootness.
 - Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
 - Source: https://www.courtlistener.com/docket/73171074/x-ai-llc-v-weiser/, Jun 2026
+- Status: open
+- Grades:
+  - none yet
+  - 2026-08-13: open, the Colorado AG's 11 Aug 2026 filing of proposed ADMT rules implementing SB 26-189 moves the case toward a contested preliminary injunction rather than quiet termination, since the 27 Apr 2026 order requires xAI to file within 28 days of final adoption, though adoption cannot precede the 26 Oct 2026 comment close (source: https://coag.gov/ai/, Aug 2026)
+
+### authority-2026-08-05
+- Claim: The California Assembly Appropriations Committee releases SB 813 from the suspense file or holds it there, resolving whether the proposed state Artificial Intelligence Standards and Safety Commission advances to an Assembly floor vote or dies with the 2026 session.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2026-09)
+- Source: https://calmatters.digitaldemocracy.org/bills/ca_202520260sb813, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### authority-2026-08-06
+- Claim: The next publicly announced EU enforcement step against a named general-purpose AI or frontier-model provider taken after 2 Aug 2026 arrives through an instrument other than the AI Act (Digital Services Act, GDPR, or national consumer-protection law) rather than through the AI Office's general-purpose AI powers.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-02)
+- Source: https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### authority-2026-08-07
+- Claim: The Colorado Department of Law does not finally adopt the ADMT and Conversational AI Service rules before 2026-12, so xAI's preliminary injunction motion in xAI v. Weiser, which the 27 Apr 2026 stipulated order ties to final adoption plus 28 days, is not filed during calendar 2026.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-01)
+- Source: https://coag.gov/ai/, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### authority-2026-08-08
+- Claim: At least one frontier model developer or a technology trade association submits a written comment in the Colorado ADMT and Conversational AI rulemaking arguing that the rules are federally preempted or violate the First Amendment.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2026-11)
+- Source: https://coag.gov/ai/, Aug 2026
 - Status: open
 - Grades:
   - none yet

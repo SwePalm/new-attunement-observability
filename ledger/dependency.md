@@ -60,12 +60,36 @@ Format: see ledger/README.md. Append-only.
 - Source: https://blog.modelcontextprotocol.io/posts/2026-07-28/, Jul 2026
 - Status: open
 - Grades:
-  - none yet
+  - 2026-08-13: open, the first post-spec statement by a platinum member (Cloudflare, 6 Aug 2026) reaffirms backward compatibility and cites only the protocol's own 12-month lifecycle floor (DCR "slated for removal after summer 2027"), setting no end-of-support date in Cloudflare's own Agents SDK, Workers OAuth Provider, or hosted MCP endpoints (source: https://blog.cloudflare.com/mcp-v2/, Aug 2026)
 
 ### dependency-2026-08-04
 - Claim: The Cyberspace Administration of China or a provincial cyberspace regulator publishes an enforcement action (fine, service suspension, or rectification order) naming a specific provider under the anthropomorphic-AI measures that took effect 15 Jul 2026.
 - Horizon: 0–12 months (logged 2026-08, resolve by 2027-03)
 - Source: https://www.artificialintelligence-news.com/news/china-ai-companion-rules/, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### dependency-2026-08-05
+- Claim: METR and Redwood Research publish the joint post they committed to on the independent review of the OpenAI Hugging Face incident, setting out the terms of engagement, the scope covered and their conclusions.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2026-11)
+- Source: https://www.edtechinnovationhub.com/news/openai-agrees-to-independent-review-of-agents-hugging-face-hacking-incident, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### dependency-2026-08-06
+- Claim: Anthropic publishes a root-cause account of a named 2026 availability incident (for example the 29-30 Jul, 5 Aug or 12 Aug 2026 degradations) on status.claude.com or its engineering blog, going beyond the impact-and-resolution notices currently posted.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2026-12)
+- Source: https://statusgator.com/services/claude/outage-history, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### dependency-2026-08-07
+- Claim: A Tier 1 MCP SDK (TypeScript, Python, Go or C#) ships a release that removes Dynamic Client Registration or the legacy HTTP+SSE transport, or places either behind an explicit opt-in flag that is off by default, rather than only marking them deprecated.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-03)
+- Source: https://blog.modelcontextprotocol.io/posts/2026-07-28/, Jul 2026
 - Status: open
 - Grades:
   - none yet
