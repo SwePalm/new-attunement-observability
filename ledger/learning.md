@@ -78,6 +78,30 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
 
+### learning-2026-08-05
+- Claim: The Florida Department of Education files a Notice of Proposed Rule in the Florida Administrative Register for the artificial intelligence amendment to Rule 6A-1.0957, advancing it past the development stage.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2026-11)
+- Source: https://www.flrules.org/gateway/ruleNo.asp?id=6A-1.0957, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### learning-2026-08-06
+- Claim: OpenAI publishes an announcement of institution-wide ChatGPT Edu access covering all students at at least one additional university outside the United States, after the National University of Singapore announcement of 11 Aug 2026.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2026-11)
+- Source: https://edunewsletter.openai.com/p/nus-openai-collaboration, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### learning-2026-08-07
+- Claim: Eedi publishes results of its second AI tutor RCT, the four-arm trial of 1,525 students across 10 UK secondary schools run with Google DeepMind that began in April 2026.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-01)
+- Source: https://www.eedi.com/news/just-launched---our-second-ai-tutor-rct, Apr 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### learning-2026-02-01

@@ -1,7 +1,8 @@
 # Signal grading, coordination, 2026-08-13
 
 Scorecard:
-- open: 7, confirmed: 0, decayed: 0, falsified: 0, expired: 0
+- open: 6, confirmed: 1, decayed: 0, falsified: 0, expired: 0
+- revised 2026-08-13 after Phase B verified the S.5051 introduction against the govinfo primary record; see the CORRECTION line under Grade Details
 - unchanged since 2026-08-04 (not re-graded): 6
 - retired method-v1 seed claims excluded from grading: 1 (coordination-2026-02-03)
 
@@ -11,7 +12,8 @@ Grade Details:
 - coordination-2026-07-02: open, unchanged since 2026-08-04. Checked for post-4-Aug movement: no ACP, UCP, AP2 or MPP deprecation, merger, or absorption announced. Commentary continues to frame ACP and AP2 as complementary layers of one stack rather than rivals converging. No ledger line appended.
 - coordination-2026-07-03: open, unchanged since 2026-08-04. Checked for post-4-Aug movement: the only new material is simulation and single-organization cascade reporting, not documented propagation between organizations over an inter-agent protocol. No ledger line appended.
 - coordination-2026-08-01: open, unchanged since 2026-08-04. Verified directly on the IETF datatracker: agentproto still exists as a BoF in the ART area with a draft charter and status "not chartered yet", so the IESG approval this claim tests has not happened. No ledger line appended.
-- coordination-2026-08-03: open, unchanged since 2026-08-04. Verified: the AI AGENT Act remains a discussion draft released 29 Jun 2026 with no numbered Senate bill and no congress.gov record. Secondary coverage that describes Warner as having "introduced" it is loose wording about the discussion draft, not a formal introduction. No ledger line appended.
+- coordination-2026-08-03: confirmed, the AI AGENT Act was introduced as S.5051 on 21 Jul 2026 and read twice and referred to the Committee on Commerce, Science, and Transportation, two weeks before the claim was logged on 2026-08-04, so the claim was already satisfied at logging time and its confirmation carries no foresight signal (source: https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s5051.xml, Jul 2026)
+- CORRECTION, recorded 2026-08-13: this grading pass first recorded coordination-2026-08-03 as open, reasoning that secondary coverage describing Warner as having "introduced" the Act was loose wording about the 29 Jun 2026 discussion draft. That reasoning was wrong. congress.gov returns HTTP 403 to automated fetches, and the check was not carried through to an accessible primary registry. The govinfo BILLSTATUS record and the Phase B sweep for this theme, plus an independent verification in the desire grading pass, all establish the 21 Jul 2026 introduction. The ledger entry has been moved to Resolved with status confirmed. Note the direction of the error: the source-hygiene rule applied this run correctly caught fabricated regulatory items in other themes, and here produced a false negative by discounting accurate press language.
 - coordination-2026-08-04: open, unchanged since 2026-08-04. Verified: the 5 Feb 2026 NCCoE concept paper on software and AI agent identity and authorization is still the current artifact, with no superseding draft SP or IR on csrc.nist.gov. No ledger line appended.
 
 Surprises:

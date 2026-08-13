@@ -46,6 +46,38 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
 
+### desire-2026-08-05
+- Claim: The Netherlands' ACM and Autoriteit Persoonsgegevens publish a draft or final chatbot guideline (leidraad) covering transparency, non-human disclosure and access to human contact. Verified absent from acm.nl publications as of 2026-08-13; the authorities' own timeline names a draft in summer 2026 and a final guideline in autumn 2026.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2026-12)
+- Source: https://www.acm.nl/nl/publicaties/oproep-van-de-acm-en-ap-denk-mee-over-chatbots-bij-klantenservice, Apr 2026
+- Status: open
+- Grades:
+  - none yet
+
+### desire-2026-08-06
+- Claim: A national competition or consumer authority of an EU or EEA member state other than France publishes an own-initiative study, opinion, sector inquiry or opened proceeding specifically on AI agents or agentic commerce, in a document dated after 2026-08-13.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-05)
+- Source: https://www.autoritedelaconcurrence.fr/fr/avis/relatif-au-fonctionnement-concurrentiel-du-secteur-des-agents-dintelligence-artificielle, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### desire-2026-08-07
+- Claim: A national market surveillance authority in an EU member state publicly announces an Article 50 enforcement action, compliance sweep or formal warning specifically about failure to disclose non-human status in a chatbot or AI companion.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://digital-strategy.ec.europa.eu/en/faqs/transparency-obligations-under-article-50-ai-act, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### desire-2026-08-08
+- Claim: A US retail media network operator (Kroger Precision Marketing, Albertsons Media Collective, Walmart Connect or Target Roundel) publicly reports ad revenue, impressions or performance metrics attributed specifically to its own AI shopping assistant surface.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-03)
+- Source: https://www.modernretail.co/technology/krogers-ai-shopping-assistant-has-ads-at-launch/, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### desire-2026-07-02

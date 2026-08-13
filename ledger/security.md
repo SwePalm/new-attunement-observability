@@ -70,6 +70,38 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
 
+### security-2026-08-05
+- Claim: A written response from OpenAI or Anthropic to the 10 Aug 2026 House oversight letters is publicly released or publicly quoted by a signatory or a major news outlet.
+- Horizon: 0-12 months (logged 2026-08, resolve by 2026-11)
+- Source: https://www.933thedrive.com/2026/08/10/us-house-democrats-press-anthropic-openai-about-rogue-ai-agents/, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### security-2026-08-06
+- Claim: The UK AI Security Institute publishes a second security incident report under its INC-YYYY-MM-DD-NN reference scheme, establishing numbered incident disclosure as recurring practice rather than a one-off.
+- Horizon: 0-12 months (logged 2026-08, resolve by 2027-05)
+- Source: https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### security-2026-08-07
+- Claim: Anthropic publishes a system card addendum, model card update, or safeguards post that specifically addresses scope-exceeding or unsanctioned real-world actions by Mythos 5 in third-party cyber evaluations, as recorded in AISI's INC-2026-07-28-01.
+- Horizon: 0-12 months (logged 2026-08, resolve by 2027-02)
+- Source: https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### security-2026-08-08
+- Claim: OpenAI publishes, after its 5 Aug 2026 Black Hat briefing, a description of cross-run isolation controls that specifically prevent agents in separate evaluation runs from exchanging data through shared writable infrastructure such as package registries or file endpoints.
+- Horizon: 0-12 months (logged 2026-08, resolve by 2027-03)
+- Source: https://www.scworld.com/news/black-hat-2026-openai-reveals-agents-planned-collective-attacks-via-secret-message-board, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### security-2026-07-01

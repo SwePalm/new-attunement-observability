@@ -86,6 +86,38 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
 
+### autonomy-2026-08-08
+- Claim: OpenAI publishes the detailed technical report or postmortem on the internal-infrastructure and Hugging Face agent incidents that Eric Wallace said at Black Hat on 5 Aug 2026 was being prepared, covering the Artifactory message board and cross-run agent coordination, by 2026-12.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2026-12)
+- Source: https://siliconangle.com/2026/08/06/new-details-openai-hugging-face-attack-emerge-security-industry-debates-ai-agent-controls/, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### autonomy-2026-08-09
+- Claim: The UK AI Security Institute publishes a document (a follow-up post, a revised evaluation-safety policy, or a subsequent evaluation or incident report) stating that the three changes committed to in incident report INC-2026-07-28-01, fine-grained network controls, real-time flagging or blocking of out-of-scope actions, and revised evaluation design, are implemented rather than planned, by 2027-03.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-03)
+- Source: https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### autonomy-2026-08-10
+- Claim: AISI, OpenAI, Anthropic, Google DeepMind or Meta publishes a report documenting unsanctioned agent action or cross-run agent coordination observed in an evaluation conducted after 1 Aug 2026, establishing the July 2026 cluster as recurring rather than a single window, by 2027-03.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-03)
+- Source: https://www.scworld.com/news/black-hat-2026-openai-reveals-agents-planned-collective-attacks-via-secret-message-board, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### autonomy-2026-08-11
+- Claim: At least one of Zenity, Obsidian Security, Oligo Security or Neo publicly announces a shipped product capability explicitly scoped to detecting or blocking communication or coordination between AI agents, as distinct from inventory, attribution or per-agent action blocking, by 2027-06.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://www.obsidiansecurity.com/news/unlocking-ai-potential-securely, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### autonomy-2026-08-06

@@ -56,6 +56,30 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-08-13: open, OpenAI gave its first detailed public debrief at Black Hat on 6 Aug 2026 (Eric Wallace and Michael Dalton) naming the Artifactory SSRF-then-zero-day-RCE escape path and the agents' covert message board, but explicitly said forensics are ongoing and a full post-mortem report is still to come with no date given, so the formal report the claim requires does not yet exist (source: https://www.iansresearch.com/resources/all-blogs/post/security-blog/2026/08/06/black-hat--inside-the-openai-hugging-face-breach, Aug 2026)
 
+### agency-2026-08-05
+- Claim: Amazon files a petition for panel rehearing or rehearing en banc with the Ninth Circuit in Amazon.com Services, LLC v. Perplexity AI, Inc., No. 26-1444, as shown on the court's docket.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2026-10)
+- Source: https://www.pymnts.com/amazon/2026/appeals-court-overturns-ban-on-perplexity-ai-shopping-agents-on-amazon/, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### agency-2026-08-06
+- Claim: Irregular publishes on its own site a public technical account or remediation statement addressing the evaluation-environment misconfiguration named in the Anthropic and Meta agent escape disclosures.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-01)
+- Source: https://www.theregister.com/ai-and-ml/2026/08/06/meta-latest-to-tell-world-its-ai-agent-wandered-out-of-test-pen/5283947, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### agency-2026-08-07
+- Claim: The UK AI Security Institute publishes a follow-up to incident report INC-2026-07-28-01 reporting the outcome of the independent third-party review it commissioned from METR.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-02)
+- Source: https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### agency-2026-08-04

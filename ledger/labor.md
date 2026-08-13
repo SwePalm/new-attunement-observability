@@ -87,6 +87,38 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
 
+### labor-2026-08-05
+- Claim: Challenger, Gray & Christmas's monthly report covering August 2026 records artificial intelligence at or above 30% of stated job-cut reasons while total announced cuts for that month remain below 50,000, confirming that attribution share and cut volume have decoupled.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2026-10)
+- Source: https://www.challengergray.com/wp-content/uploads/2026/08/Challenger-Report-July-2026.pdf, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### labor-2026-08-06
+- Claim: Challenger, Gray & Christmas publishes a monthly figure for its "Technological Update (possibly AI)" category alongside its artificial intelligence figure in at least one monthly job-cut report covering August through December 2026.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-01)
+- Source: https://www.challengergray.com/wp-content/uploads/2026/08/Challenger-Report-July-2026.pdf, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### labor-2026-08-07
+- Claim: The New York State Nurses Association's 2026 class-action grievance against Montefiore Medical Center over the elimination of 12 utilization review nursing positions reaches a published arbitration decision, or a settlement or reinstatement announced by NYSNA or Montefiore.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-03)
+- Source: https://www.nysna.org/press/bronx-needs-real-nurses-not-ai, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### labor-2026-08-08
+- Claim: Challenger, Gray & Christmas's full-year 2026 report records total announced hiring plans above the full-year 2025 total, sustaining the year-to-date 25% increase through year end.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-02)
+- Source: https://finance.yahoo.com/economy/policy/article/july-layoffs-plunged-to-lowest-monthly-level-in-two-years-challenger-093000310.html, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### labor-2026-02-01

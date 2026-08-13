@@ -1,0 +1,41 @@
+# Evidence sweep, perception, 2026-08-13
+
+Delta Since Last Sweep:
+- Anthropic moved from signatory to documented implementation. The 2026-08-04 sweep recorded Anthropic only as one of approximately 190 Code of Practice signatories with no technical detail. Anthropic has since published its own marking documentation describing model-level text watermarking and C2PA provenance metadata on generated files, reported 11 Aug 2026. This is the only material new item in the nine-day interval.
+- Nothing moved on EU enforcement. No national market surveillance authority and no European Commission AI Office Article 50 marking or labelling action against a named provider or deployer was announced between 4 and 13 Aug 2026, and C2PA published no announcement in Aug 2026, its most recent being a 31 Jul 2026 implementation guide (source: https://c2pa.org/news/, Jul 2026).
+- No capital movements in the interval, in contrast with the previous sweep, which recorded the Deel acquisition of Clarity (3 Aug 2026) and Sensity AI's European Innovation Council award.
+- Two items predating the interval were absent from the previous sweep and are recorded here for the first time: Substack's reader-initiated AI text scan (21 Jul 2026) and the New York Stop Deepfakes Act, which passed both chambers on 3 Jun 2026 and remains undelivered to the Governor.
+
+Confirmed Developments:
+- Anthropic signed the EU AI Act Article 50(2) Code of Practice on Transparency of AI-Generated Content as both a generative AI model provider and a system provider, and documented the implementation: Claude models launched on or after 2 Aug 2026 support machine-readable marking at launch, models released before that date are listed as in progress under the law's transition period, text carries an imperceptible watermark that persists through copy and paste, and generated .svg, .png and .jpg files carry digitally signed C2PA provenance metadata (source: https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content, Aug 2026) (source: https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/, Aug 2026)
+- The marking is applied at the model level rather than per product surface, and worldwide rather than only to EU users, covering the Claude Platform API, Claude, Claude Code, Claude Cowork and Claude Tag, plus the AWS, Google Cloud and Microsoft Foundry deployments (source: https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content, Aug 2026) (source: https://thenextweb.com/news/anthropic-watermarks-claude-output-eu-ai-act-article-50, Aug 2026)
+
+Emerging Signals:
+- Anthropic states it will enable users and third parties to detect the marks through forthcoming technical documentation, which had not been published as of this run, so marked output is accumulating before any external party can read the mark (source: https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content, Aug 2026)
+- A distinct disclosure surface exists at the publishing platform layer rather than the model layer: Substack's Scan for AI text, launched 21 Jul 2026 with vendor Pangram, is reader-initiated and applies to posts, notes, replies and comments above 100 characters published on or after that date, paired with an optional writer-supplied AI author's note (source: https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/, Jul 2026)
+
+Counter-Signals:
+- Anthropic itself scopes the mark narrowly: text watermarks may not survive heavy editing, paraphrasing, translation, or mixing with other writing, and file metadata can be lost through format conversion or screenshots, so the signal is most robust on verbatim reuse and weakest on the rewriting most likely to accompany deceptive use. The announcement drew user backlash, including from people using Claude for proofreading their own writing, with no opt-out offered (source: https://www.forbes.com/sites/maryroeloffs/2026/08/11/claude-will-put-invisible-watermarks-on-ai-text-and-images-and-the-internet-isnt-happy/, Aug 2026)
+- A disclosure surface acquired an opt-out within days of launch: Substack reported changing the feature so publishers can disable scanning on a post-by-post basis without first scanning the post, in response to writer objections, and recorded a critique that the label cannot identify who had the original thought (source: https://on.substack.com/p/how-writers-are-reacting-to-substacks, Jul 2026)
+
+Regulatory Shifts:
+- The New York Stop Deepfakes Act (S6954B), requiring synthetic content creation system providers to attach provenance data covering origin, editing history, AI use, timestamps and the specific synthetic portions of audio, images and video, passed the Assembly and Senate on 3 Jun 2026 (Senate 60-1) and had not been delivered to the Governor as of this run (source: https://www.nysenate.gov/legislation/bills/2025/S6954, Jun 2026)
+- US state legislative motion in this theme is running toward provenance and watermark mandates rather than election deepfake bans: active bills as of 7 Aug 2026 include California SB 2713 on provenance and digital signature embedding, Ohio HB 813 requiring watermarks and disclosure on AI-generated products, Pennsylvania SB 1349 on synthetic content disclosure and content verification tools, and New Jersey A 5089, the AI Image Disclosure Act (source: https://www.transparencycoalition.ai/news/ai-legislative-update-august7-2026, Aug 2026)
+
+Capital Movements:
+- None
+
+Technical Changes:
+- Text watermarking moved from a research capability to a default production property of a frontier model line: Anthropic embeds the signal during generation so it follows the model rather than the surface, meaning API output, chat output and cloud-partner output all carry it, with no user-facing toggle (source: https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content, Aug 2026)
+- The provenance standard layer was static in the interval. C2PA's current specification line is 2.4 and its most recent announcement is a 31 Jul 2026 implementation guide for Content Credentials, with no August publication (source: https://c2pa.org/news/, Jul 2026)
+
+Contradictions:
+- The mark is strongest exactly where deception is least likely, on verbatim copy and paste, and weakest where deception is most likely, on text rewritten or translated to pass as human.
+- Compliance shipped ahead of verifiability: marked content is being produced at volume across every Claude surface worldwide while the detection documentation that would let anyone outside Anthropic read the mark is still forthcoming.
+- The EU regime treats marking as a provider duty and labelling as a deployer duty, but the two disclosure surfaces found this run point in opposite directions: Anthropic applies marking with no opt-out at the model layer, while Substack added a per-post opt-out to its platform-layer disclosure within days of launching it.
+- Anthropic applies an EU-derived obligation worldwide while the obligation's own enforcement machinery has produced no named action, so the compliance behaviour is currently running ahead of any demonstrated enforcement risk.
+
+Ledger Candidates:
+- Anthropic publishes public technical documentation or a detection tool that enables third parties to detect the Claude text watermark, which its own help center listed as forthcoming and unshipped as of 13 Aug 2026. Resolve by 2027-02. (motivated by: https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content, Aug 2026)
+- Anthropic's own documentation states that machine-readable marking is active on at least one named Claude model released before 2 Aug 2026, completing the retrofit for a pre-cutoff model within the AI Act transition window that closes 2 Dec 2026. Resolve by 2027-01. (motivated by: https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content, Aug 2026)
+- The Governor of New York signs or vetoes S6954B, the Stop Deepfakes Act, which passed both chambers on 3 Jun 2026 and had not been delivered to the Governor as of 13 Aug 2026. Resolve by 2027-02. (motivated by: https://www.nysenate.gov/legislation/bills/2025/S6954, Jun 2026)

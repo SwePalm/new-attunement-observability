@@ -72,6 +72,38 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
 
+### identity-2026-08-05
+- Claim: OpenID Foundation members approve the proposed Implementer's Draft of OpenID Connect Key Binding in the vote running 24 Aug to 7 Sep 2026.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2026-10)
+- Source: https://openid.net/notice-of-vote-for-proposed-implementers-draft-of-openid-connect-key-binding/, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### identity-2026-08-06
+- Claim: The Czech Digital and Information Agency publicly reports the outcome of the 13 Aug 2026 eDoklady simultaneous-login stress test, stating whether the system sustained the simulated surge.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2026-11)
+- Source: https://www.biometricupdate.com/202608/czechia-enlists-citizens-to-stress-test-digital-id-ahead-of-elections, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### identity-2026-08-07
+- Claim: At least one organisation is publicly listed by the OpenID Foundation as having self-certified conformance to OpenID4VP or OpenID4VCI under the High Assurance Interoperability Profile.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-02)
+- Source: https://openid.net/openid4vp-and-openid4vci-conformance-tests-are-complete-and-open-for-self-certification/, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### identity-2026-08-08
+- Claim: Microsoft moves the New agent blueprint wizard in the Microsoft Entra admin center out of Preview to general availability.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-03)
+- Source: https://learn.microsoft.com/en-us/entra/agent-id/create-blueprint, Jun 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### identity-2026-07-02

@@ -70,6 +70,38 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
 
+### power-2026-08-05
+- Claim: PJM Interconnection's response filing in FERC Docket EL26-67, due 17 Aug 2026, proposes tariff revisions that include ride-through, voltage-disturbance or disconnection-performance requirements for large computational loads.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2026-10)
+- Source: https://insidelines.pjm.com/pjm-dominion-review-large-load-transfer-event/, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### power-2026-08-06
+- Claim: New York Empire State Development publishes the Community Investment Framework and the Department of Public Service establishes the Data Center Interconnection Working Group, both required within 60 days of Executive Order 62 signed 14 Jul 2026.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2026-10)
+- Source: https://www.governor.ny.gov/executive-order/no-62-establishing-temporary-moratorium-data-centers-new-york-while-state-develops, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### power-2026-08-07
+- Claim: NERC submits to FERC the first phase of enforceable large load reliability standards on or before the directed date of 31 Dec 2026.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-02)
+- Source: https://insidelines.pjm.com/pjm-dominion-review-large-load-transfer-event/, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### power-2026-08-08
+- Claim: The Public Utility Commission of Texas opens a rulemaking or project making Governor Abbott's Data Center Standards binding conditions of large load interconnection approval, rather than voluntary company commitments.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-03)
+- Source: https://gov.texas.gov/news/post/governor-abbott-announces-google-rowan-and-cleanspark-commit-to-comply-with-his-data-center-standards, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### power-2026-07-03

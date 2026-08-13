@@ -64,6 +64,38 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
 
+### memory-2026-08-05
+- Claim: Anthropic documents agent memory store content in the Claude Compliance API, as a retrieval or deletion endpoint covering memory stores or memory entries, in the platform compliance documentation or the platform release notes.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-02)
+- Source: https://platform.claude.com/docs/en/manage-claude/compliance-content-data, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### memory-2026-08-06
+- Claim: AWS publishes a further GitHub security advisory for the strands-agents-tools package affecting one of its memory tools (agent_core_memory, mem0_memory, mongodb_memory or elasticsearch_memory).
+- Horizon: 0–12 months (logged 2026-08, resolve by 2026-12)
+- Source: https://github.com/strands-agents/tools/security/advisories, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### memory-2026-08-07
+- Claim: Letta (letta-ai/letta) or LangMem (langchain-ai/langmem) publishes a GitHub security advisory concerning unauthorised cross user, cross agent or cross tenant access to stored memory.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-02)
+- Source: https://github.com/letta-ai/letta/security/advisories, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### memory-2026-08-08
+- Claim: Anthropic replaces the manual copy and paste memory export flow with a structured memory export, a downloadable file produced from settings or the account data export flow, documented in the Claude help centre.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-03)
+- Source: https://support.claude.com/en/articles/12123587-import-and-export-your-memory-from-claude, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### memory-2026-08-01

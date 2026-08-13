@@ -111,6 +111,30 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - 2026-08-13: open, no GEMA licence announced, but Suno signed a global licensing alliance with Berlin-based BMG on 12 Aug 2026, twelve days after the Munich judgment, settling prior use and adding an opt-in for artists and songwriters, which shows Suno converting adverse German rulings into paid licences via rights holders other than GEMA (source: https://www.musicbusinessworldwide.com/suno-inks-global-licensing-deal-with-bmg/, Aug 2026)
 
+### creativity-2026-08-09
+- Claim: Spotify's AI Persona badge becomes visible to listeners on at least one public artist profile, as announced for mid-September 2026.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2026-11)
+- Source: https://newsroom.spotify.com/2026-08-11/ai-persona-badges-transparency/, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### creativity-2026-08-10
+- Claim: Suno publicly launches the new generation of models it describes as developed in partnership with the music industry, and states that its prior models are retired.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-01)
+- Source: https://suno.com/blog/suno-updates-tos, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### creativity-2026-08-11
+- Claim: At least one of Universal Music Group, Warner Music Group, Sony Music or BMG publicly discloses a specific allocation mechanism (a per-track or per-use rate, a stated revenue-share percentage, or a defined payment pool) by which generative-AI licensing or settlement revenue reaches featured artists, songwriters or session musicians, rather than stating only that participants will be compensated.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-03)
+- Source: https://www.bmg.com/news/bmg-and-suno-announce-global-strategic-alliance-advancing-ai-music-opportunities-and-revenue-streams, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### creativity-2026-02-01
