@@ -143,12 +143,88 @@ evidence delta alone. That is an instrument-review item, not a content problem.
 
 ## Phase D, deep dives (selected themes)
 
-- [ ] autonomy, six steps
-- [ ] desire, six steps
-- [ ] memory, six steps
-- [ ] power, six steps
-- [ ] truth, six steps
+- [x] autonomy, six steps
+- [x] desire, six steps
+- [x] memory, six steps
+- [x] power, six steps
+- [x] truth, six steps
+
+All 30 step files written. Ledger untouched by Phase D, as required.
+
+Scenario eval scores: autonomy 7.8, memory 7.8, power 7.7, desire 7.4, truth 7.2.
+Mean 7.6, against the 2026-08-04 run's 6.6 (band 6.2 to 7.3). All five citation
+gates pass, three of them with defects recorded rather than concealed.
+
+The template regression flagged for human review on 2026-08-04 is repaired.
+Distinctiveness scored 8, 8, 7, 7, 7 this run against 3, 3, 3, 4, 7 last run.
+Each theme was assigned a distinct structural form at the prompt level:
+institutional artifacts (autonomy), the demand side of a market (desire), one
+record revisited across four years (memory), the grid's own timescales (power),
+one artifact's chain of custody (truth). None opens on a professional at a desk,
+none defaults to 2029, none makes the 2 Aug 2026 EU commencement load-bearing,
+and none closes on a named scarce good. This confirms the 2026-08-04 finding
+that the cause was prompt-level form rather than the themes or the model.
+
+No scenario names a calibration heuristic in reader-facing prose, which was the
+second review item from last run.
 
 ## Blocked items
 
-None recorded yet.
+None. Every checklist item is [x].
+
+Four Phase B sweeps (meaning, responsibility, trust, truth) died mid-run on a
+session usage limit. They wrote nothing, so no partial state needed repair, and
+all four were rerun to completion after the limit reset.
+
+## Flag for human review
+
+1. The retrodiction problem is worse than the 2026-08-04 run measured, and it is
+   now the run's central finding. Five of six confirmations were satisfied by
+   evidence predating the claim's own logging date. Two of those five were found
+   only because a later phase re-checked a grade the grading pass had inferred
+   rather than verified. The pipeline is currently better at retrieving what has
+   already happened than at naming what will happen next.
+
+2. A specific, fixable mechanism produced both grading errors. Several
+   authoritative registries (congress.gov, openai.com, ftc.gov, nature.com,
+   courtlistener, cde.ca.gov) return HTTP 403 to automated fetching. In both
+   cases a grader converted "I could not reach the registry" into "the event did
+   not occur", then reasoned past accurate secondary coverage to defend the
+   negative. Recorded as a fourth failure mode under CAL-005. This wants an
+   instrument-level fix, not a prompt-level one.
+
+3. Source contamination is now an active hazard rather than a theoretical one.
+   Sweeps caught fabricated but citable-looking regulatory actions in seven
+   themes, including a claimed EUR 47M in Article 50 penalties appearing on no
+   Commission page, a CNIL action against 14 financial institutions, and a CAC
+   fine total arithmetically impossible under the statute it cited. Each would
+   have wrongly confirmed a live claim. The defence that worked every time was
+   opening the primary page and checking its date.
+
+4. The corpus is growing about thirty times faster than it resolves: 78 claims
+   added against 7 resolved, with 213 now open. Many are keyed to institutional
+   calendars slower than the run cadence. Logged as CAL-007. Worth deciding
+   whether the ledger needs a retirement rule as well as an expiry rule.
+
+5. Contradiction density has stopped discriminating in theme-selection: 12 of 22
+   themes score the maximum because every sweep carries two counter-signals and
+   three or four contradictions by template. Selection is now effectively driven
+   by staleness and evidence delta alone. Instrument-review item.
+
+6. Two independent Phase D agents noted that this is the second consecutive run
+   whose scenarios converge on the same conclusion, that the record of an AI
+   incident is controlled by the party least interested in publishing it, even
+   though the narrative forms diverged sharply. If a third run lands there
+   again, that is a pipeline attractor rather than three independent findings.
+
+7. The memory evaluation flagged that the mechanism its entire chain rests on
+   (server-side memory reorganisation) reaches the run only through a sweep
+   Delta bullet with no source URL. The citation gate is scoped to Confirmed
+   bullets, so the gate passes on its literal terms while the load-bearing fact
+   is unsourced. Worth considering whether the gate should reach dated factual
+   assertions in the Delta section.
+
+## Phase E, not run
+
+Per the run instruction, outlook-generator and delta-report were NOT run. They
+are the human review gate and the maintainer runs them after reviewing this run.
