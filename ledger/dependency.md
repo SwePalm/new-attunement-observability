@@ -60,7 +60,7 @@ Format: see ledger/README.md. Append-only.
 - Source: https://blog.modelcontextprotocol.io/posts/2026-07-28/, Jul 2026
 - Status: open
 - Grades:
-  - none yet
+  - 2026-08-13: open, the first post-spec statement by a platinum member (Cloudflare, 6 Aug 2026) reaffirms backward compatibility and cites only the protocol's own 12-month lifecycle floor (DCR "slated for removal after summer 2027"), setting no end-of-support date in Cloudflare's own Agents SDK, Workers OAuth Provider, or hosted MCP endpoints (source: https://blog.cloudflare.com/mcp-v2/, Aug 2026)
 
 ### dependency-2026-08-04
 - Claim: The Cyberspace Administration of China or a provincial cyberspace regulator publishes an enforcement action (fine, service suspension, or rectification order) naming a specific provider under the anthropomorphic-AI measures that took effect 15 Jul 2026.

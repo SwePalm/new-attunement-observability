@@ -30,6 +30,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
  - none yet
  - 2026-08-04: open, DOJ intervened in xAI v. Weiser on 24 Apr 2026 but the 27 Apr 2026 halt to Colorado AI Act enforcement came from a joint motion by the parties rather than a contested ruling, and no merits decision has issued in any Task Force matter (source: https://www.justice.gov/opa/pr/justice-department-intervenes-xai-lawsuit-challenging-colorados-algorithmic-discrimination, Apr 2026)
+ - 2026-08-13: open, the Colorado Department of Law filed proposed ADMT and conversational AI rules on 11 Aug 2026 with comments open to 26 Oct 2026, which starts the process the 27 Apr 2026 stipulated order ties to xAI's preliminary injunction motion (due within 28 days of final adoption), so the flagship Task Force case now has a dated path to a contested ruling but final adoption cannot occur before late 2026 (source: https://coag.gov/ai/, Aug 2026)
 
 ### authority-2026-07-02
 - Claim: Congress passes no comprehensive AI preemption statute before mid-2027, leaving the state laws operative.
@@ -80,6 +81,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-08-13: open, the Colorado AG's 11 Aug 2026 filing of proposed ADMT rules implementing SB 26-189 moves the case toward a contested preliminary injunction rather than quiet termination, since the 27 Apr 2026 order requires xAI to file within 28 days of final adoption, though adoption cannot precede the 26 Oct 2026 comment close (source: https://coag.gov/ai/, Aug 2026)
 
 ## Resolved claims
 

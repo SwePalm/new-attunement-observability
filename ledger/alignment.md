@@ -56,6 +56,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-08-13: open, OpenAI agreed on 3 Aug 2026 to an independent METR and Redwood Research review of the Hugging Face incident and Anthropic granted METR full transcript access, but the engagement is described as brief and narrowly scoped and METR's promised terms-of-engagement post has not appeared (its blog's latest entry is still 28 Jul 2026); resolve-by 2027-03 not passed (source: https://www.edtechinnovationhub.com/news/openai-agrees-to-independent-review-of-agents-hugging-face-hacking-incident, Aug 2026)
 
 ### alignment-2026-08-02
 - Claim: The European Commission takes a formal step under its new GPAI enforcement powers (a formal request for information, a preliminary finding, or an opened proceeding) against OpenAI or Anthropic concerning the July 2026 evaluation containment incidents, by 2027-06.
@@ -80,6 +81,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-08-13: open, the 30 Jul 2026 post promised a lightly redacted PyPI transcript "within the next week", but two weeks on neither the newsroom (latest posts 4 and 7 Aug 2026) nor alignment.anthropic.com carries it, so the self-imposed deadline has lapsed while the claim's own resolve-by 2027-02 has not passed (source: https://www.anthropic.com/news, Aug 2026)
 
 ## Resolved claims
 

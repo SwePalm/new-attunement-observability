@@ -60,7 +60,7 @@ Format: see ledger/README.md. Append-only.
 - Source: https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals, Jul 2026
 - Status: open
 - Grades:
-  - none yet
+  - 2026-08-13: open, the self-imposed one-week deadline for the lightly redacted PyPI transcript (pledged 30 Jul 2026) lapsed around 6 Aug 2026 with no transcript on the Anthropic newsroom as of 13 Aug 2026, and a House oversight letter to CEO Dario Amodei dated 10 Aug 2026 now presses for the incident material, so publication is slipping while resolve-by 2027-02 has not passed (source: https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals, Jul 2026)
 
 ### security-2026-08-04
 - Claim: The MCP maintainers publish a protocol revision or registry policy that makes server identity cryptographically verifiable, removing the current specification statement that serverInfo is self-reported, unverified, and must not be used for security decisions.

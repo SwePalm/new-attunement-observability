@@ -36,7 +36,7 @@ Format: see ledger/README.md. Append-only.
 - Source: https://lawsuitinformer.com/openai-lawsuits, Jul 2026
 - Status: open
 - Grades:
-  - none yet
+  - 2026-08-13: open, no ruling on whether ChatGPT is a "product" has issued; the coordinated proceeding is still organizing, with Judge Ethan P. Schulman entering Case Management Order No. 1 on 4 Aug 2026 designating co-lead counsel and a steering committee, the next case management conference set for 23 Sep 2026, and motion-to-dismiss decisions expected mid to late 2026 (source: https://lawsuitinformer.com/openai-lawsuits, Aug 2026)
 
 ### responsibility-2026-08-02
 - Claim: The US Department of Justice AI Litigation Task Force files suit against, or moves to intervene in litigation challenging, a state AI law other than Colorado's SB 24-205.
@@ -44,7 +44,7 @@ Format: see ledger/README.md. Append-only.
 - Source: https://www.nortonrosefulbright.com/en/knowledge/publications/de3ad9de/xai-sues-doj-intervenes-enforcement-of-colorado-ai-act-suspended, May 2026
 - Status: open
 - Grades:
-  - none yet
+  - 2026-08-13: open, the DOJ complaint in intervention in the xAI challenge to Colorado SB 24-205 (filed 24 Apr 2026) remains the Task Force's only federal action against a state AI law, with no suit or intervention filed against California, Texas or Illinois AI statutes despite all three being in effect since 1 Jan 2026 (source: https://consilium.law/sparkpoint/doj-ai-litigation-task-force/, Jun 2026)
 
 ### responsibility-2026-08-03
 - Claim: The European Commission publishes the final, non-draft version of its Article 73 serious-incident reporting guidance and incident report template.
@@ -52,7 +52,7 @@ Format: see ledger/README.md. Append-only.
 - Source: https://digital-strategy.ec.europa.eu/en/consultations/ai-act-commission-issues-draft-guidance-and-reporting-template-serious-ai-incidents-and-seeks, Jul 2026
 - Status: open
 - Grades:
-  - none yet
+  - 2026-08-13: open, the Article 73 guidance and reporting template remain the consultation draft; the Commission had signalled a final version applying from 2 Aug 2026, that date has now passed with no final, non-draft version listed on the Commission's AI Act policy page, and the resolve-by runs to 2027-06 (source: https://www.lw.com/en/insights/european-commission-publishes-draft-guidance-reporting-serious-ai-incidents, Oct 2025)
 
 ### responsibility-2026-08-04
 - Claim: Verisk/ISO or a top-10 US commercial liability carrier (AIG, Chubb, Travelers, Berkley, Liberty Mutual) files or publicly announces an affirmative AI liability coverage form for the US market, reversing the exclusion-only posture documented across Jan to Jul 2026.
@@ -60,7 +60,7 @@ Format: see ledger/README.md. Append-only.
 - Source: https://www.insurancebusinessmag.com/us/news/breaking-news/cfc-extends-affirmative-ai-cover-to-media-policy-completing-wider-portfolio-rollout-584269.aspx, Jul 2026
 - Status: open
 - Grades:
-  - none yet
+  - 2026-08-13: open, the US admitted market remains exclusion-only (ISO CG 40 47, CG 40 48 and CG 35 08 effective Jan 2026, with W.R. Berkley, AIG and Great American adding their own AI exclusions) and affirmative AI cover is still confined to specialty, reinsurance and Lloyd's channels such as Armilla, Relm, Munich Re and HSB rather than Verisk or a top-10 US commercial carrier (source: https://vorplabs.com/ai-insurance-exclusions, Jul 2026)
 
 ## Resolved claims
 

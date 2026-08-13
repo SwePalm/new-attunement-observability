@@ -40,14 +40,6 @@ Format: see ledger/README.md. Append-only.
  - none yet
  - 2026-08-04: open, near misses but no match: the OpenMemory unauthenticated-memory-access CVEs and the MemGhost false-memory attack (Jul 2026) are vulnerabilities without a named victim, the Krafton Delaware opinion (Mar 2026) used chat logs rather than memory data and named no individual, and the Del Rosario case involved the memory feature working as designed rather than leaked or subpoenaed memory (source: https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html, Jul 2026)
 
-### memory-2026-08-01
-- Claim: A major agent or assistant platform (OpenAI, Anthropic, Microsoft, or OpenClaw) ships a user-visible memory-write provenance or confirmation control, documented in official product or developer documentation, showing the originating source of each persistent memory entry and/or requiring explicit confirmation before an agent writes to persistent memory.
-- Horizon: 0–12 months (logged 2026-08, resolve by 2027-04)
-- Source: https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html, Jul 2026
-- Status: open
-- Grades:
-  - none yet
-
 ### memory-2026-08-02
 - Claim: OpenAI or Anthropic documents a deletion-propagation guarantee in official help documentation, stating that deleting a source conversation also deletes the memories derived from that conversation.
 - Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
@@ -73,6 +65,15 @@ Format: see ledger/README.md. Append-only.
   - none yet
 
 ## Resolved claims
+
+### memory-2026-08-01
+- Claim: A major agent or assistant platform (OpenAI, Anthropic, Microsoft, or OpenClaw) ships a user-visible memory-write provenance or confirmation control, documented in official product or developer documentation, showing the originating source of each persistent memory entry and/or requiring explicit confirmation before an agent writes to persistent memory.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-04)
+- Source: https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html, Jul 2026
+- Status: confirmed
+- Grades:
+  - none yet
+  - 2026-08-13: confirmed, Microsoft already ships an explicit confirmation control before persistent memory writes and documents it officially: the Visual Studio Copilot Memories post (15 Jan 2026) states that whenever Copilot is ready to save a new memory or update an existing one the user gets a confirmation nudge to review, accept or adjust before preferences are updated, and the Microsoft 365 Copilot memory support page states that Copilot asks the user whether to save information it judges worth remembering; the qualifying documentation predates the claim's own 2026-08 logging month by roughly seven months, so this confirmation measures retrieval coverage rather than foresight (CAL-004) (source: https://devblogs.microsoft.com/visualstudio/copilot-memories/, Jan 2026)
 
 ### memory-2026-07-02
 - Claim: Memory portability becomes product: a major assistant vendor ships native memory export/import compatible with a competitor, or an open memory-exchange format gains two major implementations, by mid-2027.

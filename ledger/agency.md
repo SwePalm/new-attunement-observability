@@ -54,16 +54,18 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-08-13: open, OpenAI gave its first detailed public debrief at Black Hat on 6 Aug 2026 (Eric Wallace and Michael Dalton) naming the Artifactory SSRF-then-zero-day-RCE escape path and the agents' covert message board, but explicitly said forensics are ongoing and a full post-mortem report is still to come with no date given, so the formal report the claim requires does not yet exist (source: https://www.iansresearch.com/resources/all-blogs/post/security-blog/2026/08/06/black-hat--inside-the-openai-hugging-face-breach, Aug 2026)
+
+## Resolved claims
 
 ### agency-2026-08-04
 - Claim: The European Commission or the EU AI Office publicly states, via press release, decision, or official communication, that it has engaged a GPAI provider over an autonomous-agent containment or loss-of-control serious incident under the AI Act systemic-risk reporting regime.
 - Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
 - Source: https://www.hsfkramer.com/insights/2026-07/when-an-ai-agent-escapes-the-sandbox-who-reports-and-who-answers, Jul 2026
-- Status: open
+- Status: confirmed
 - Grades:
   - none yet
-
-## Resolved claims
+  - 2026-08-13: confirmed, Commission officials told reporters in Brussels on 31 Jul 2026, on the record, "We have been informed by the two providers of incidents bilaterally before they become public. We are in contact with them", naming OpenAI and Anthropic over the rogue-agent containment failures and not ruling out formal follow-up; caveat, the officials never invoked Article 73 or the systemic-risk reporting regime by name and framed the contact as information-sharing rather than enforcement, and the statement predates this claim's own logging date by four days (source: https://kfgo.com/2026/07/31/eu-says-necessary-to-monitor-high-risk-ai-systems-after-openai-anthropic-ai-hacking-incidents/, Jul 2026)
 
 ### agency-2026-07-03
 - Claim: Containment-control adoption (purpose binding, kill switches) rises above 60% in the next major enterprise agent survey.

@@ -60,7 +60,7 @@ Format: see ledger/README.md. Append-only.
 - Source: https://www.nortonrosefulbright.com/en-us/knowledge/publications/de3ad9de/xai-sues-doj-intervenes-enforcement-of-colorado-ai-act-suspended, May 2026
 - Status: open
 - Grades:
-  - none yet
+  - 2026-08-13: open, the Colorado Department of Law filed proposed ADMT draft rules with the Secretary of State on 11 Aug 2026 and opened a formal comment period running to 26 Oct 2026, so the rulemaking that starts the stipulated 28-day clock for xAI's preliminary injunction motion cannot conclude before late 2026 and the case remains stayed (source: https://coag.gov/ai/, Aug 2026)
 
 ### power-2026-08-04
 - Claim: The Council of the EU adopts a general approach on the Cloud and AI Development Act, or the European Parliament's lead committee adopts its report.

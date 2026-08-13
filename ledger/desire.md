@@ -22,22 +22,6 @@ Format: see ledger/README.md. Append-only.
  - 2026-07: open, early corroboration (agent gateways, HITL playbooks) but formalization not yet the operating norm; most orgs lack agent visibility (source: https://labs.cloudsecurityalliance.org/research/csa-research-note-ai-agent-governance-framework-gap-20260403/, Apr 2026)
  - 2026-08-04: open, one month on the discourse has shifted from human-in-the-loop to governance-in-the-loop but the available material is vendor and consultancy content rather than evidence of formalized escalation roles at scale; resolve-by 2029-02 is far off
 
-### desire-2026-07-02
-- Claim: A regulator opens an inquiry into ranking/steering practices in agent-mediated shopping by mid-2027.
-- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
-- Source: https://www.paymentexecutive.com/post/agentic-commerce-2026-the-payments-revolution-where-ai-agents-actually-buy-stuff, 2026
-- Status: open
-- Grades:
- - 2026-08-04: open, nearest analogues fall short of the claim: the FTC's Jul 2026 proposed policy statement on suppression of accuracy targets ideological steering rather than commercial ranking, the CMA's Mar 2026 AI-agent guidance is advisory not investigatory, and Korea's FTC self-preferencing study concluded Jun 2026 covered platforms rather than agents
-
-### desire-2026-08-01
-- Claim: Senator Warner (or a co-sponsor) formally introduces the AI AGENT Act as a numbered Senate bill, moving it from the 29 Jun 2026 discussion draft to introduced legislation.
-- Horizon: 0–12 months (logged 2026-08, resolve by 2027-03)
-- Source: https://www.dwt.com/blogs/artificial-intelligence-law-advisor/2026/07/ai-agent-act-consumer-ai-regulation, Jul 2026
-- Status: open
-- Grades:
-  - none yet
-
 ### desire-2026-08-02
 - Claim: The European Commission publishes the Digital Fairness Act legislative proposal and its text contains at least one provision addressing AI chatbots, AI companions, or AI-driven personalised persuasion.
 - Horizon: 0–12 months (logged 2026-08, resolve by 2027-03)
@@ -63,6 +47,23 @@ Format: see ledger/README.md. Append-only.
   - none yet
 
 ## Resolved claims
+
+### desire-2026-07-02
+- Claim: A regulator opens an inquiry into ranking/steering practices in agent-mediated shopping by mid-2027.
+- Horizon: 0–12 months (logged 2026-07, resolve by 2027-09)
+- Source: https://www.paymentexecutive.com/post/agentic-commerce-2026-the-payments-revolution-where-ai-agents-actually-buy-stuff, 2026
+- Status: confirmed
+- Grades:
+ - 2026-08-04: open, nearest analogues fall short of the claim: the FTC's Jul 2026 proposed policy statement on suppression of accuracy targets ideological steering rather than commercial ranking, the CMA's Mar 2026 AI-agent guidance is advisory not investigatory, and Korea's FTC self-preferencing study concluded Jun 2026 covered platforms rather than agents
+  - 2026-08-13: confirmed, France's Autorite de la concurrence ran an own-initiative sector inquiry into the competitive functioning of the AI-agents sector and published its opinion on 17 Jul 2026, examining agentic commerce directly and flagging discrimination, visibility conditions and self-preferencing where agents steer users toward merchants; the prior pass searched FTC, CMA and Korea and missed this (source: https://www.autoritedelaconcurrence.fr/en/article/ai-agents-autorite-de-la-concurrence-issues-its-opinion-competitive-functioning-ai-agents, Jul 2026)
+
+### desire-2026-08-01
+- Claim: Senator Warner (or a co-sponsor) formally introduces the AI AGENT Act as a numbered Senate bill, moving it from the 29 Jun 2026 discussion draft to introduced legislation.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-03)
+- Source: https://www.dwt.com/blogs/artificial-intelligence-law-advisor/2026/07/ai-agent-act-consumer-ai-regulation, Jul 2026
+- Status: confirmed
+- Grades:
+  - 2026-08-13: confirmed but retrodictive, Warner introduced the AI AGENT Act of 2026 as S.5051 on 21 Jul 2026 and it was read twice and referred to the Committee on Commerce, Science, and Transportation, two weeks before this claim was logged on 2026-08-04 (source: https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s5051.xml, Jul 2026)
 
 ### desire-2026-07-01
 - Claim: "Agent optimization" (paying or structuring data to influence agent purchase choices) emerges as a named commercial practice with at least one major vendor offering it by mid-2027.

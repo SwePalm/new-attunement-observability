@@ -29,6 +29,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
  - 2026-08-04: open, AI was cited in 101,743 US job cut announcements through June 2026 (about 23% of all cuts), on pace to clear the threshold but not resolvable before the 2027-02 date (source: https://www.challengergray.com/blog/challenger-report-june-layoffs-cool-to-45849-down-53-from-may-ai-leads-reasons-for-fourth-consecutive-month/, Jul 2026)
+ - 2026-08-13: open, the July report published 6 Aug 2026 raises the year-to-date AI-cited total to 112,713 US job cut announcements (about 24% of all cuts), still on pace for 150,000 but with July's AI-cited volume down to 10,970 as overall cuts hit a two-year low (source: https://www.challengergray.com/blog/challenger-report-layoffs-fall-hiring-picks-up-ai-leads-for-fifth-straight-month/, Aug 2026)
 
 ### labor-2026-07-02
 - Claim: US entry-level postings remain at least 25% below the early-2023 baseline through mid-2027 (no recovery), per S&P Global or equivalent tracking.
@@ -76,7 +77,7 @@ Format: see ledger/README.md. Append-only.
 - Source: https://www.challengergray.com/blog/challenger-report-june-layoffs-cool-to-45849-down-53-from-may-ai-leads-reasons-for-fourth-consecutive-month/, Jul 2026
 - Status: open
 - Grades:
-  - none yet
+  - 2026-08-13: open, the first of the three required months is satisfied (July 2026 report, published 6 Aug 2026, names AI the leading reason at 10,970 cuts or 33% of the month's total, a fifth consecutive month), with the August and September reports still outstanding (source: https://www.challengergray.com/blog/challenger-report-layoffs-fall-hiring-picks-up-ai-leads-for-fifth-straight-month/, Aug 2026)
 
 ### labor-2026-08-04
 - Claim: The European Commission opens non-communication infringement proceedings against at least ten EU member states for failure to transpose the Platform Work Directive (EU) 2024/2831 by its 2 Dec 2026 deadline.

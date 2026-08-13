@@ -51,7 +51,7 @@ Format: see ledger/README.md. Append-only.
 - Source: https://ucpchecker.com/blog/state-of-agentic-commerce-july-2026, Jul 2026
 - Status: open
 - Grades:
-  - none yet
+  - 2026-08-13: open, the monitor's live capability table now shows the stable payment capability on 1 store (first non-zero reading, up from zero on 7 Jul 2026) against a verified base grown to roughly 14,400 stores, so the direction is right but the 100-store threshold is far off and resolve-by 2027-02 is six months away (source: https://ucpchecker.com/capabilities, Aug 2026)
 
 ### coordination-2026-08-03
 - Claim: Senator Mark Warner formally introduces the AI AGENT Act as a numbered bill in the US Senate, with a congress.gov record, by 2027-03.

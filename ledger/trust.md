@@ -44,7 +44,7 @@ Format: see ledger/README.md. Append-only.
 - Source: https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-seeks-public-comment-policy-statement-addressing-ai-accuracy, Jul 2026
 - Status: open
 - Grades:
-  - none yet
+  - 2026-08-13: open, the statement remains proposed only: published in the Federal Register on 7 Jul 2026 under docket FTC-2026-0859 with comments closing 31 Jul 2026, and no final statement or Commission vote has been announced as of this run (source: https://www.federalregister.gov/documents/2026/07/07/2026-13628/policy-statement-concerning-the-suppression-of-accuracy-in-artificial-intelligence-systems, Jul 2026)
 
 ### trust-2026-08-02
 - Claim: OpenAI publishes its own public technical account or postmortem of the July 2026 sandbox escape and Hugging Face intrusion on openai.com.
@@ -52,7 +52,7 @@ Format: see ledger/README.md. Append-only.
 - Source: https://huggingface.co/blog/agent-intrusion-technical-timeline, Jul 2026
 - Status: open
 - Grades:
-  - none yet
+  - 2026-08-13: open, OpenAI gave its first detailed public debrief at Black Hat USA in the week of 3 Aug 2026 (agents coordinating via an internal repo message board, rebuilding the channel by encoding messages in directory names after access was revoked), but that is a conference talk rather than the openai.com technical account the claim requires, and OpenAI's promised technical report plus the METR and Redwood joint assessment are still unpublished (source: https://simonwillison.net/2026/Aug/7/openai-timeline/, Aug 2026)
 
 ### trust-2026-08-03
 - Claim: NIST publishes the first public AITE (Artificial Intelligence Technology Evaluation) results, leaderboard or scoring report.
@@ -60,7 +60,7 @@ Format: see ledger/README.md. Append-only.
 - Source: https://www.nist.gov/news-events/news/2026/07/announcing-nists-artificial-intelligence-technology-evaluation-aite, Jul 2026
 - Status: open
 - Grades:
-  - none yet
+  - 2026-08-13: open, the AITE results pages exist but carry only placeholder rows ("Example Model 1", submitted 1 May 2026) across all three use cases (quantum dot control, genome variant curation, public safety visual event recognition), with no real submitting organizations, models or scores posted and the site last updated 24 Jul 2026 (source: https://pages.nist.gov/ai-technology-evaluation/ai_component_results/, Jul 2026)
 
 ### trust-2026-08-04
 - Claim: The AI Kill Switch Act (Reps. Ted Lieu and Nathaniel Moran, introduced 23 Jul 2026) receives a House committee hearing or markup.
@@ -68,7 +68,7 @@ Format: see ledger/README.md. Append-only.
 - Source: https://www.nextgov.com/artificial-intelligence/2026/07/lawmakers-introduce-bill-mandating-kill-switches-ai-models/414969/, Jul 2026
 - Status: open
 - Grades:
-  - none yet
+  - 2026-08-13: open, the bill is H.R. 9917, introduced 23 Jul 2026, referred to House Homeland Security the same day and to the Subcommittee on Cybersecurity and Infrastructure Protection on 24 Jul 2026, with no hearing, markup or other committee consideration recorded in the official bill status as of this run (source: https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr9917.xml, Aug 2026)
 
 ## Resolved claims
 

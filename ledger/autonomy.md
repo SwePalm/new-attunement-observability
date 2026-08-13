@@ -78,14 +78,6 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
 
-### autonomy-2026-08-06
-- Claim: The European Commission publishes the final, non-draft version of its Article 73 guidance and reporting template for serious incidents involving high-risk AI systems, by 2027-03.
-- Horizon: 0–12 months (logged 2026-08, resolve by 2027-03)
-- Source: https://digital-strategy.ec.europa.eu/en/consultations/ai-act-commission-issues-draft-guidance-and-reporting-template-serious-ai-incidents-and-seeks, Sep 2025
-- Status: open
-- Grades:
-  - none yet
-
 ### autonomy-2026-08-07
 - Claim: OpenAI publishes a revision of its Preparedness Framework beyond the April 2025 version 2, or a named successor safety policy document, that adds explicit requirements for containment and isolation of internal capability-evaluation environments, by 2027-06.
 - Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
@@ -95,6 +87,14 @@ Format: see ledger/README.md. Append-only.
   - none yet
 
 ## Resolved claims
+
+### autonomy-2026-08-06
+- Claim: The European Commission publishes the final, non-draft version of its Article 73 guidance and reporting template for serious incidents involving high-risk AI systems, by 2027-03.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-03)
+- Source: https://digital-strategy.ec.europa.eu/en/consultations/ai-act-commission-issues-draft-guidance-and-reporting-template-serious-ai-incidents-and-seeks, Sep 2025
+- Status: decayed
+- Grades:
+  - 2026-08-13: decayed, the guidance is still the September 2025 draft on the Commission's own consultation page, the 2 Aug 2026 date from which the final version was expected to apply has now passed, the Commission had already missed its original Aug 2025 deadline for this instrument, and the high-risk obligations the guidance serves are deferred to 2 Dec 2027 (Annex III) and 2 Aug 2028 (Annex I), which removes the forcing function and pushes the natural finalization window past this claim's 2027-03 resolve-by (source: https://fpf.org/blog/the-ai-act-implementation-timeline-what-changes-under-the-ai-omnibus/, Jul 2026)
 
 ### autonomy-2026-07-02
 - Claim: At least one education ministry or major school system introduces explicit "unassisted reasoning" requirements (AI-free assessment blocks) citing cognitive-offloading evidence, by mid-2027.
