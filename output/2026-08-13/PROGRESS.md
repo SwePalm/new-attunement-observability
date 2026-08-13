@@ -124,11 +124,30 @@ retrodiction count rises from three of four confirmations to five of six.
 
 ## Phase C, theme-selection
 
-- [ ] SELECTION.md
+- [x] SELECTION.md
+
+Selected, all five from the never-dived backlog, cut mechanical at score >= 18:
+autonomy 18, desire 18, memory 18, power 18, truth 18. First alternate: meaning 17.
+
+Staleness was held at the nine-day interval rather than recomputed as a month, so
+the five themes dived on 2026-08-04 (responsibility, alignment, authority,
+coordination, trust) scored 0 or 1 and none reached the cut. No theme has reached
+month 5, so the coverage rule forced no selection. This run consumes one of the
+remaining rounds before the 2026-12 coverage deadline; seven never-dived themes
+now remain for four rounds.
+
+Selection flagged that contradiction density did almost no discriminating work,
+because 12 of 22 themes scored 5 on it: every sweep carries two counter-signals
+and three or four contradictions by template. Separation came from staleness and
+evidence delta alone. That is an instrument-review item, not a content problem.
 
 ## Phase D, deep dives (selected themes)
 
-Filled in after selection.
+- [ ] autonomy, six steps
+- [ ] desire, six steps
+- [ ] memory, six steps
+- [ ] power, six steps
+- [ ] truth, six steps
 
 ## Blocked items
 
