@@ -62,6 +62,30 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - 2026-08-13: open, the US admitted market remains exclusion-only (ISO CG 40 47, CG 40 48 and CG 35 08 effective Jan 2026, with W.R. Berkley, AIG and Great American adding their own AI exclusions) and affirmative AI cover is still confined to specialty, reinsurance and Lloyd's channels such as Armilla, Relm, Munich Re and HSB rather than Verisk or a top-10 US commercial carrier (source: https://vorplabs.com/ai-insurance-exclusions, Jul 2026)
 
+### responsibility-2026-08-05
+- Claim: OpenAI files a demurrer, motion to strike, or motion for judgment on the pleadings in In re: ChatGPT Product Liability Cases (JCCP 5431) that raises whether ChatGPT is a "product" rather than a service or speech, as reflected in the coordinated proceeding's docket or a case management order.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2026-12)
+- Source: https://lawsuitinformer.com/openai-lawsuits, Aug 2026
+- Status: open
+
+### responsibility-2026-08-06
+- Claim: Governor Kathy Hochul signs New York S9051B into law.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-01)
+- Source: https://www.nysenate.gov/legislation/bills/2025/S9051/amendment/B, Jun 2026
+- Status: open
+
+### responsibility-2026-08-07
+- Claim: Amazon updates its Conditions of Use or another published amazon.com policy to expressly address access by user-directed AI agents, shifting the allocation from the computer-crime statute to contract.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-02)
+- Source: https://www.cooley.com/news/insight/2026/2026-08-06-ninth-circuit-rules-on-ai-agent-access-to-third-party-websites-under-cfaa, Aug 2026
+- Status: open
+
+### responsibility-2026-08-08
+- Claim: The United States District Court for the Northern District of California, on remand in Amazon.com Services, LLC v. Perplexity AI, Inc., enters an order addressing Amazon's remaining non-CFAA claims (contract, trespass, or trademark) against Perplexity.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-03)
+- Source: https://blog.ericgoldman.org/archives/2026/08/ninth-circuit-lifts-restrictions-on-agentic-ai-accessing-amazon.htm, Aug 2026
+- Status: open
+
 ## Resolved claims
 
 ### responsibility-2026-07-01

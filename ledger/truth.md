@@ -70,6 +70,38 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
 
+### truth-2026-08-05
+- Claim: OpenAI publishes a public document (blog post, help-center article, model card or system card) stating that text output from a named GPT model carries an imperceptible machine-readable watermark.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2026-11)
+- Source: https://the-decoder.com/anthropic-watermarks-all-claude-outputs-globally-with-marks-that-may-persist-through-some-editing/, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### truth-2026-08-06
+- Claim: Substack changes the Pangram scan feature in a writer-protective direction, meaning it defaults scanning off for new posts, removes the public percentage figure from the reader-facing result, or restricts who may trigger a scan, as documented on Substack's help center or the on.substack.com blog.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2026-10)
+- Source: https://www.kunc.org/2026-08-12/substacks-new-ai-detection-feature-has-divided-its-community, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### truth-2026-08-07
+- Claim: Anthropic publicly introduces an opt-out, exemption or tier-level exclusion from text watermarking for at least one product surface or customer tier, documented on support.claude.com or docs.claude.com.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2026-11)
+- Source: https://www.forbes.com/sites/maryroeloffs/2026/08/11/claude-will-put-invisible-watermarks-on-ai-text-and-images-and-the-internet-isnt-happy/, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### truth-2026-08-08
+- Claim: A named researcher, security firm or publication publishes a reproducible method that strips Anthropic's Claude text watermark while preserving the text's meaning and approximate length, demonstrated on output from a Claude model launched on or after 2 Aug 2026.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-01)
+- Source: https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### truth-2026-07-03

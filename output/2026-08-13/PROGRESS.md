@@ -72,28 +72,55 @@ Seven active heuristics, inside the bound of 10.
 
 ## Phase B, evidence-sweep (22 themes)
 
-- [ ] agency
-- [ ] alignment
-- [ ] authority
-- [ ] autonomy
-- [ ] belonging
-- [ ] coordination
-- [ ] creativity
-- [ ] dependency
-- [ ] desire
-- [ ] governance
-- [ ] identity
-- [ ] intelligence
-- [ ] labor
-- [ ] learning
-- [ ] meaning
-- [ ] memory
-- [ ] perception
-- [ ] power
-- [ ] responsibility
-- [ ] security
-- [ ] trust
-- [ ] truth
+Complete. All 22 sweeps written and validated against the citation gate
+mechanically, not by eye: two independent sources on every Confirmed Development
+bullet, one on every other cited bullet. 78 new falsifiable claims appended.
+213 live claims now open, plus 42 retired v1 seeds still parked in the ledgers.
+
+meaning, responsibility, trust and truth failed on the first pass when the
+session hit a usage limit. They wrote nothing at all, so no partial state needed
+cleaning up, and all four were rerun to completion after the limit reset.
+
+Sweeps wrote `None` freely where nine days produced nothing. That is the correct
+outcome for this interval and was instructed rather than tolerated.
+
+Two Phase A grades were corrected during this phase, both in the same direction
+and both found by sweeps checking a primary registry the grading pass had only
+inferred:
+
+- coordination-2026-08-03, open to confirmed. S.5051 was introduced 21 Jul 2026.
+  The grading pass read accurate press language as loose wording about the
+  discussion draft, because congress.gov returns 403 to automated fetching.
+- trust-2026-08-02, open to confirmed. OpenAI published its technical account on
+  openai.com on 21 Jul 2026 and a follow-up on 4 Aug 2026. The grading pass
+  inferred the absence rather than checking it, because openai.com also returns
+  403.
+
+Both corrected claims were satisfied before their own logging date, so the run's
+retrodiction count rises from three of four confirmations to five of six.
+
+- [x] agency
+- [x] alignment
+- [x] authority
+- [x] autonomy
+- [x] belonging
+- [x] coordination
+- [x] creativity
+- [x] dependency
+- [x] desire
+- [x] governance
+- [x] identity
+- [x] intelligence
+- [x] labor
+- [x] learning
+- [x] meaning
+- [x] memory
+- [x] perception
+- [x] power
+- [x] responsibility
+- [x] security
+- [x] trust
+- [x] truth
 
 ## Phase C, theme-selection
 
