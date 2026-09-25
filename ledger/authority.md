@@ -108,6 +108,38 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-09-25: open, the rules remain proposed with written comments open to the 26 Oct 2026 hearing (145 comments posted, a revised draft promised at least five days before the hearing), and adoption in November remains possible because SB 26-189 directs the Attorney General to adopt rules before 1 Jan 2027 (source: https://coag.gov/ai/, Sep 2026)
 
+### authority-2026-09-01
+- Claim: Senators John Thune, Ted Cruz or Amy Klobuchar formally introduce their frontier AI duty-of-care bill as a numbered Senate bill (congress.gov record) whose text expressly preempts state law on at least one category of frontier-model catastrophic risk, by 2027-03.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-03)
+- Source: https://thenextweb.com/news/senate-ai-bill-duty-of-care-block-model-releases-state-preemption, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### authority-2026-09-02
+- Claim: The California Attorney General files a civil action, or announces a settlement or civil penalty, against a named large frontier developer that cites the Transparency in Frontier Artificial Intelligence Act (SB 53), by 2027-06.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-06)
+- Source: https://fortune.com/2026/09/14/openai-may-have-violated-californias-ai-safety-law-with-astra-model-releases-ai-watchdog-says/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### authority-2026-09-03
+- Claim: At least one state attorney general (Alabama's Steve Marshall moved first) files a lawsuit against OpenAI, or announces a settlement or assurance of voluntary compliance with OpenAI, concerning the July 2026 Hugging Face incident, by 2027-06.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-06)
+- Source: https://www.law.com/2026/08/28/a-new-wave-of-ai-enforcement-alabama-ag-subpoenas-openai-in-probe-over-hugging-face-hack-/, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### authority-2026-09-04
+- Claim: A member of the California Legislature introduces a 2027-28 session bill that requires large frontier developers to maintain an emergency shutdown ("kill switch") capability for covered models, by 2027-03.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-03)
+- Source: https://www.gov.ca.gov/2026/09/18/governor-newsom-issues-executive-order-to-accelerate-independent-oversight-and-advance-the-creation-of-an-ai-kill-switch/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### authority-2026-02-01

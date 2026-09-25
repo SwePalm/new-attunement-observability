@@ -131,6 +131,30 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-09-25: open, no named label has disclosed a rate, percentage or payment pool; the UMG and ElevenLabs announcement of 10 Sep 2026 says only that artists and songwriters will be fairly compensated, and Suno's v6 launch says only that it will share a portion of revenue with partners (source: https://elevenlabs.io/blog/umg, Sep 2026)
 
+### creativity-2026-09-01
+- Claim: Google (Alphabet, including YouTube or Google DeepMind) publicly announces a signed agreement with at least one of The Walt Disney Company, NBCUniversal, Warner Bros. Discovery, Paramount Skydance or Sony Pictures Entertainment licensing that studio's film, TV or character IP for AI model training or AI-generated outputs. Talks reported 31 Aug 2026 had produced no agreement; Google's Jun 2026 A24 investment does not qualify.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-06)
+- Source: https://finance.yahoo.com/technology/ai/articles/hollywood-studios-sued-over-ai-100000457.html, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### creativity-2026-09-02
+- Claim: Universal Music Group or Sony Music Entertainment publicly announces a licensing agreement or settlement with Suno covering its recordings, following Warner's Nov 2025 route from plaintiff to partner; as of 18 Sep 2026 both were suing Suno a second time (D. Mass. 1:26-cv-14275).
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-06)
+- Source: https://thenextweb.com/news/universal-sony-second-lawsuit-suno-60202-recordings, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### creativity-2026-09-03
+- Claim: Universal Music Group and DistroKid announce a settlement, licensing or content-policy agreement, or UMG voluntarily dismisses its Sep 2026 District of Delaware suit against DistroKid.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-06)
+- Source: https://www.musicbusinessworldwide.com/universal-music-group-sues-distrokid-ai-generated-slop/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### creativity-2026-02-01

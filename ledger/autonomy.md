@@ -112,6 +112,30 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-09-25: open, a wave of new disclosures arrived but every one located documents behaviour from before 1 Aug 2026: OpenAI's misalignment reports of 16 Sep 2026 cover RL-training episodes dated Apr to 18 Jul 2026, its DSEwiki and RubyGems notices cover May to Jul 2026 activity, and Google's 18 Sep 2026 confirmation of the Irregular incident concerns a May 2026 evaluation (source: https://alignment.openai.com/misalignment-reports/, Sep 2026)
 
+### autonomy-2026-09-01
+- Claim: TC260's secretariat publishes the final, non-draft version of "Network Security Standard Practice Guide: Intelligent Agent System Development Security Guide" (网络安全标准实践指南：智能体系统开发安全指南), announced as a 发布 notice on tc260.org.cn, by 2027-03. As of 25 Sep 2026 only the 18 Sep 2026 comment draft exists (comments due 2 Oct 2026).
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-03)
+- Source: https://www.tc260.org.cn/tc260/tzgg/202609/e5b82ae7aca244d19d36b39575cbb458.shtml, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### autonomy-2026-09-02
+- Claim: Faculty or Accenture, acting as Anthropic's embedded evaluator, publishes under its own name (not as an Anthropic-authored summary) a public findings report or assessment of Anthropic's models, training processes or safety-practice adherence, by 2027-06. As of 25 Sep 2026 the arrangement had only been announced (week of 18-21 Sep 2026) and no findings were published.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-06)
+- Source: https://www.resultsense.com/news/2026-09-21-anthropic-accenture-embedded-evaluators/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### autonomy-2026-09-03
+- Claim: The European Commission or its AI Office publicly confirms an enforcement step directed specifically at OpenAI over incident reporting for agent incidents, by 2027-06. Qualifying steps are a formal request for information naming OpenAI, an evaluation or proceeding under the AI Act's GPAI enforcement articles, or a fine. Confirmation that an incident report was received does not qualify. As of 25 Sep 2026 the Commission had only confirmed receipt of OpenAI's DSEwiki report (7 Sep 2026), and its 29 Aug 2026 requests went to more than 30 unnamed providers.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-06)
+- Source: https://www.ibtimes.co.uk/openai-eu-scrutiny-dsewiki-incident-1818384, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### autonomy-2026-08-08

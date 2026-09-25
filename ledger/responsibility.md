@@ -91,6 +91,38 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - 2026-09-25: open, no order addressing the merits of Amazon's non-CFAA claims has entered: the Ninth Circuit mandate issued 18 Sep 2026, Perplexity moved to dismiss on 11 Sep 2026, the hearing was reset to 20 Nov 2026, and Amazon filed an amended complaint on 21 Sep 2026 (N.D. Cal. docket 3:25-cv-09514-MMC, entries 118 to 122) (source: https://www.courtlistener.com/docket/71874820/amazoncom-services-llc-v-perplexity-ai-inc/, Sep 2026)
 
+### responsibility-2026-09-01
+- Claim: Amazon files a lawsuit against Meta Platforms concerning the Muse agent's access to amazon.com.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-03)
+- Source: https://thenextweb.com/news/amazon-blocks-muse-perplexity-amended-complaint, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### responsibility-2026-09-02
+- Claim: A US state attorney general files a civil enforcement action in court against OpenAI arising from the July 2026 Hugging Face incident, or publicly announces a settlement or assurance of voluntary compliance with OpenAI resolving such an investigation.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-06)
+- Source: https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### responsibility-2026-09-03
+- Claim: Germany's Gesetz zur Modernisierung des Produkthaftungsrechts (BT-Drs. 21/4297), transposing Directive (EU) 2024/2853, is promulgated in the Bundesgesetzblatt on or before 9 Dec 2026.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2026-12)
+- Source: https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/produkthaftung-fuer-ki-software-was-hersteller-wissen-muessen-accg-201205083.html, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### responsibility-2026-09-04
+- Claim: NetChoice files a lawsuit challenging California AB 2 (2026, Lowenthal, child-injury liability for large social media platforms).
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-03)
+- Source: https://netchoice.org/netchoice-veto-request-letter-to-gov-newsom-on-ca-ab-2/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### responsibility-2026-07-01

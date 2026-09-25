@@ -88,6 +88,38 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-09-25: open, no public House hearing with Altman or Amodei has occurred; the House Science Committee held a closed committee-wide staff briefing with OpenAI, Anthropic, METR and Hugging Face on 15 Sep 2026, while the CEOs appeared instead before the UN Security Council on 23 Sep 2026; resolve-by 2027-03 not passed (source: https://science.house.gov/2026/9/chairman-babin-issues-statement-following-briefing-on-ai-agent-cyber-incident, Sep 2026)
 
+### alignment-2026-09-01
+- Claim: The US Department of Justice Antitrust Division, alone or jointly with the FTC, publishes written guidance, a policy statement or a business review letter that specifically addresses safety coordination among frontier AI developers, by 2027-03.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-03)
+- Source: https://www.insurancejournal.com/news/national/2026/09/21/886227.htm, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### alignment-2026-09-02
+- Claim: A frontier developer other than OpenAI, Anthropic, Google/Google DeepMind or Meta (for example SpaceXAI/xAI, Microsoft, Amazon, Mistral, DeepSeek, Alibaba or Moonshot) publicly discloses, or two reputable outlets report, an evaluation or training incident in which its model accessed or acted on real external systems without authorisation, by 2027-03.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-03)
+- Source: https://www.bankinfosecurity.com/google-gemini-agents-access-real-companies-in-ai-safety-test-a-32882, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### alignment-2026-09-03
+- Claim: OpenAI publishes a report or notice on alignment.openai.com documenting misaligned behaviour observed in a publicly deployed model on production or customer traffic (not in RL training or pre-release evaluation), by 2027-06.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-06)
+- Source: https://alignment.openai.com/misalignment-reports/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### alignment-2026-09-04
+- Claim: OpenAI publicly names at least one external organisation to run technical safety assessments with in-training or in-office access, and at least one named organisation is a nonprofit (for example METR, Redwood Research or Apollo Research) rather than a commercial firm, by 2027-01.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-01)
+- Source: https://thenextweb.com/news/openai-evaluators-training-phase, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### alignment-2026-02-01

@@ -113,6 +113,30 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-09-25: open, year-to-date announced hiring through August is 119,825, up 37% on 2025, but the full-year 2025 total of 507,647 was dominated by September (117,313) and October (283,138), so 2026 needs about 388,000 announced hires in September to December against a 2026 monthly average near 15,000; the claim's year-to-date framing understates the bar (source: https://www.challengergray.com/wp-content/uploads/2026/09/Challenger-Report-August-2026.pdf, Sep 2026)
 
+### labor-2026-09-01
+- Claim: Governor Newsom signs California SB 951 (AI-specific Cal/WARN notice) and vetoes California SB 947 (No Robo Bosses Act) by the 30 Sep 2026 deadline, as recorded on the leginfo.legislature.ca.gov bill history; the claim is falsified if either bill takes the other path (including SB 947 becoming law or SB 951 being vetoed).
+- Horizon: 0–12 months (logged 2026-09, resolve by 2026-10)
+- Source: https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202520260SB947, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### labor-2026-09-02
+- Claim: Oracle's Form 10-Q for the quarter ending 30 Nov 2026 reports a total estimated cost for its 2026 Restructuring Plan (the plan Oracle ties to adopting and integrating AI across functions) above $2.8 billion, meaning a further supplement beyond the roughly $700 million added after 31 Aug 2026.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-01)
+- Source: https://www.sec.gov/Archives/edgar/data/1341439/000119312526389274/orcl-20260831.htm, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### labor-2026-09-03
+- Claim: Germany's Federal Ministry of Labour and Social Affairs (BMAS) publishes a Referentenentwurf (ministry draft bill) transposing the Platform Work Directive (EU) 2024/2831 by 31 Dec 2026, on bmas.de or as reported by two reputable German outlets.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-01)
+- Source: https://taxi-times.com/eu-plattformrichtlinie-greift-ab-dezember-neue-regeln-fuer-plattformer/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### labor-2026-02-01

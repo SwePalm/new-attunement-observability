@@ -105,6 +105,38 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-09-25: open, the Claude help centre export flow is unchanged: export still means asking Claude to write out memories verbatim and copying the text into a local file, and import is still described as experimental and in active development (source: https://support.claude.com/en/articles/12123587-import-and-export-your-memory-from-claude, Sep 2026)
 
+### memory-2026-09-01
+- Claim: Google announces availability of Private AI Compute server-side memory in a named Google consumer product (the Gemini app, a Pixel feature, or Android), stating that it is usable now or giving a dated rollout, on blog.google, deepmind.google, or a Google help page.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-06)
+- Source: https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### memory-2026-09-02
+- Claim: Meta makes Muse Confidential VM (Muse data and conversations encrypted under a key only the user holds) available to Muse users on any plan, documented in Meta Newsroom or Muse help documentation. Tagged forward, pre-announced (CAL-009): announced 8 Sep 2026 for "later this year".
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-03)
+- Source: https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### memory-2026-09-03
+- Claim: Anthropic, OpenAI, or AWS ships and documents integrity protection for stored agent conversation history in Claude Code, Codex, or Kiro-CLI (signing or server-side verification of model messages) in release notes, a changelog, or a security advisory, or a CVE or GHSA is published for the conversation history poisoning technique Darktrace disclosed on 24 Sep 2026.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-03)
+- Source: https://www.darktrace.com/blog/hijacking-agentic-harnesses-to-attack-an-organization, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### memory-2026-09-04
+- Claim: The vzbv, or another EU member-state consumer organisation or BEUC, publicly announces a lawsuit, formal warning (Abmahnung), or complaint that specifically targets the persistent memory feature of ChatGPT, Claude, Gemini, Meta AI or Muse, or Microsoft Copilot.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-06)
+- Source: https://www.ra-plutte.de/lg-koeln-sensible-daten-in-ki-chatbots/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### memory-2026-08-01

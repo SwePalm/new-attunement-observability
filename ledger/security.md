@@ -85,6 +85,30 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-09-25: open, OpenAI's 26 Aug 2026 Hugging Face Incident Technical Report describes removing the shared Artifactory credential, blocking vulnerable Artifactory paths, hardening supporting services so they cannot route around the security boundary, and escalation triggers for 'unauthorized cross-agent or cross-run coordination', but frames the controls around network egress and detection rather than a control that specifically prevents cross-run data exchange through shared writable infrastructure, so the claim's specific bar is not yet met (source: https://cdn.openai.com/pdf/67869394-cb91-4c12-888c-5cbd85c7814c/OpenAI-Hugging-Face%20Incident-Technical-Report.pdf, Aug 2026)
 
+### security-2026-09-01
+- Claim: The Australian Government (the PM&C-led taskforce announced on 24 Sep 2026) publishes the report, findings or recommendations of its review into the OpenAI agent's 18 Jun 2026 unauthorised access to the Services Australia Medicare Statistics Reporting portal.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-03)
+- Source: https://www.pm.gov.au/media/press-conference-new-york, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### security-2026-09-02
+- Claim: OpenAI publishes on its misalignment reports page (alignment.openai.com/misalignment-reports) a notice or report that specifically covers its agent's access to the Services Australia Medicare Statistics Reporting portal, as it did for DseWiki (5 Sep 2026) and RubyGems (11 Sep 2026).
+- Horizon: 0–12 months (logged 2026-09, resolve by 2026-12)
+- Source: https://alignment.openai.com/misalignment-reports/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### security-2026-09-03
+- Claim: Microsoft or GitHub publishes a security advisory, CVE, or release note stating that GitHub Copilot's plugin installation now verifies that a SHA-pinned checkout resolved to the pinned commit, closing the Plugin4Shell zero-click RCE disclosed on 17 Sep 2026 (unpatched in Copilot at disclosure).
+- Horizon: 0–12 months (logged 2026-09, resolve by 2026-12)
+- Source: https://www.theregister.com/security/2026/09/17/ai-coding-agents-0-click-rce-flaw-could-hand-attackers-keys-to-the-kingdom/5297335, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### security-2026-07-01

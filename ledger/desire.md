@@ -76,6 +76,30 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-09-25: open, Kroger's chief digital officer said at Groceryshop 2026 that assistant users build larger baskets but disclosed no ad revenue, impressions or performance metrics for the assistant surface, and no Walmart Connect, Roundel or Albertsons Media Collective assistant ad metric was found
 
+### desire-2026-09-01
+- Claim: OpenAI makes Sponsored Agents (advertiser-funded conversational agents opened from a ChatGPT ad) available outside the United States, in at least one non-US market, or generally available to all Ads Manager advertisers, documented by OpenAI or two reputable outlets. As of 2026-09-25 the test launched on 16 Sep 2026 is limited to select US advertisers, with no non-US timeline announced.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-03)
+- Source: https://www.theregister.com/ai-and-ml/2026/09/16/openais-new-sponsored-agents-are-happy-to-chat-about-selling-you-things/5296946, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### desire-2026-09-02
+- Claim: Amazon files a lawsuit against Meta, or Meta against Amazon, in any court over Meta's Muse agent's automated access to or purchasing on Amazon.com. None found as of 2026-09-25; Amazon began blocking Muse on 20 Sep 2026 and sued Perplexity over its Comet agent in 2025.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-03)
+- Source: https://gizmodo.com/amazon-brings-down-the-hammer-on-metas-muse-ai-agent-2000814878, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### desire-2026-09-03
+- Claim: A trade association (NetChoice, CCIA or Chamber of Progress) or a chatbot operator files a lawsuit challenging all or part of California SB 1119 (Adam's Law, signed 10 Sep 2026). None found in news search as of 2026-09-25 (NetChoice's litigation page returned HTTP 403).
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-06)
+- Source: https://sd18.senate.ca.gov/news/governor-newsom-signs-adams-law, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### desire-2026-08-04

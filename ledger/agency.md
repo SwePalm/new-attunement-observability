@@ -60,6 +60,30 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-09-25: open, the AISI blog lists no post after 27 Aug 2026 and the 4 Aug report still says the METR review scope is being worked out; METR's Aug-Sep 2026 publications cover the OpenAI/Hugging Face incident and pre-deployment evaluations, not the AISI incident (source: https://www.aisi.gov.uk/blog, Sep 2026)
 
+### agency-2026-09-01
+- Claim: Amazon or Meta files a lawsuit (including a declaratory judgment action) against the other in a US federal or state court concerning the Muse agent's access to Amazon.com, following Amazon's Conditions of Use block of Muse in Sep 2026.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-03)
+- Source: https://www.retaildive.com/news/amazon-meta-muse-ai-agent-shopping-experience/831018/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### agency-2026-09-02
+- Claim: Visa, Mastercard, Ant International, or MAS's BuildFin.ai platform publishes a Know Your Agent (KYA) framework document containing certification requirements, or announces a named pilot of the KYA framework with at least one named participating merchant or financial institution.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-03)
+- Source: https://technode.global/2026/09/10/ant-international-mastercard-visa-develop-kya-framework/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### agency-2026-09-03
+- Claim: The China Payment and Clearing Association, or a member institution (such as Alipay, WeChat Pay/Tenpay or UnionPay), publicly states that an autonomous agent payment product has completed the association filing (报备) required by the 24 Aug 2026 Intelligent Agent Payment Application Self-Regulatory Convention, or the association publishes a list of such filings.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-03)
+- Source: https://www.news.cn/20260824/4efa360edc8a486dbf0b19d0fb37ef41/c.html, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### agency-2026-08-03

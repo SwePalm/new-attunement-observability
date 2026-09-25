@@ -85,6 +85,30 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-09-25: open, no results published; the AEA registry entry (AEARCTR-0018079, last updated 30 Jun 2026) lists the intervention as 13 Apr to 21 Jun 2026 with trial end 31 Aug 2026 and no posted results, and Eedi's news page shows no results item (source: https://www.socialscienceregistry.org/trials/18079, Jun 2026)
 
+### learning-2026-09-01
+- Claim: The Chicago Board of Education (the first fully elected 21-member board, elected 3 Nov 2026) or Chicago Public Schools adopts a moratorium, ban or default prohibition on student-facing generative AI covering at least grades K-8.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-06)
+- Source: https://chicago.suntimes.com/education/2026/09/10/chicago-school-board-candidates-sign-pledge-to-ban-ai-use-in-schools, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### learning-2026-09-02
+- Claim: Google changes Gemini in Google Classroom so that access for students under 18 (or under 13) is off by default and requires affirmative admin enablement, reversing the Aug 2026 default-on expansion to students of all ages.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-03)
+- Source: https://www.edweek.org/technology/schools-caught-flat-footed-after-google-makes-gemini-chatbot-available-to-all-students/2026/09, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### learning-2026-09-03
+- Claim: The University of Sydney and the NTEU reach an in-principle enterprise agreement that contains a clause on AI (consultation, human oversight or job protection), rather than leaving AI governance solely to university policy.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-06)
+- Source: https://www.sydney.edu.au/news-opinion/news/2026/09/02/university-of-sydney-response-to-industrial-action.html, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### learning-2026-02-01

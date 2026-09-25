@@ -75,6 +75,30 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - 2026-09-25: open, the AISI blog shows no post after the 4 Aug 2026 incident report except a 27 Aug 2026 compute-allocation tool, and the incident report still describes real-time monitoring as being introduced rather than in place, with no further containment incident disclosed (source: https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing, Aug 2026)
 
+### trust-2026-09-01
+- Claim: Anthropic makes its Claude text-watermark detection capability available beyond the eligibility-vetted private preview (general availability, self-serve API access without eligibility review, or a free public checking tool), documented on anthropic.com or the Claude help center. Baseline 2026-09-25: private preview only for regulators, law enforcement, media, fact-checkers, researchers, educational bodies, EU civil society and compliance enterprises; broader availability planned with no date.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-06)
+- Source: https://www.anthropic.com/news/claude-text-watermark, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### trust-2026-09-02
+- Claim: AIUC (Artificial Intelligence Underwriting Company) publicly announces an audit, AIUC-1 (or successor) certification, or insurance policy covering a model or system from OpenAI, Anthropic, Google/Google DeepMind, Meta, SpaceXAI/xAI or Mistral, through a press release or two reputable outlets. Baseline 2026-09-25: certified customers are application-layer only (Cursor, ElevenLabs, Harvey, KPMG, Lovable, UiPath, Fin); the 15 Sep 2026 Series A release names no frontier lab.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-06)
+- Source: https://siliconangle.com/2026/09/15/ai-agent-certification-startup-aiuc-raises-40m-to-begin-auditing-frontier-models/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### trust-2026-09-03
+- Claim: Sen. John Kennedy's AI Emergency Button Act (S. 5417) records any further Senate action beyond its 16 Sep 2026 referral to Commerce (a committee hearing or markup, a renewed unanimous consent request, or its text filed as an amendment to another bill such as the NDAA), shown on govinfo/congress.gov bill status or by two reputable outlets, before the 119th Congress ends. Baseline 2026-09-25: govinfo record (updated 17 Sep 2026) shows only introduction and referral on 16 Sep 2026.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-01)
+- Source: https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s5417.xml, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### trust-2026-08-02

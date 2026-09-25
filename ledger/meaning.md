@@ -104,6 +104,30 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-09-25: open, the ProPublica Guild updates page lists no post after the 31 Jul 2026 ratification announcement, so there is no report that the AI committee has been seated or has met (source: https://www.propublicaguild.org/updates, Sep 2026)
 
+### meaning-2026-09-01
+- Claim: Governor Newsom signs California AB 1609 (Zbur), which requires large private businesses to offer customer service access to a human agent during business hours with a good faith effort to connect within 15 minutes of a request, and it is chaptered by the 30 Sep 2026 action deadline (a veto falsifies).
+- Horizon: 0–12 months (logged 2026-09, resolve by 2026-10)
+- Source: https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1609, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### meaning-2026-09-02
+- Claim: Doctors Council SEIU, Allina Health, or a news outlet reporting on the ratified first contract for the roughly 150 physicians at Allina's Mercy and Unity hospitals publicly describes a contract provision that explicitly addresses artificial intelligence (physician final authority over AI output, consultation before AI deployment, or limits on AI in diagnosis or medical records).
+- Horizon: 0–12 months (logged 2026-09, resolve by 2026-12)
+- Source: https://www.mprnews.org/story/2026/09/24/allina-health-reaches-tentative-deal-with-unionized-doctors-after-four-day-strike, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### meaning-2026-09-03
+- Claim: After 2026-09-25, CNA/NNU announces a strike authorization vote, delivers a strike notice, or holds a strike of Kaiser Permanente registered nurses in California under the successor-contract negotiations (contract expired 31 Aug 2026), with AI protections among the stated issues.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-03)
+- Source: https://www.kqed.org/news/12097878/in-oakland-kaiser-nurses-take-staffing-ai-concerns-to-the-picket-lines, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### meaning-2026-07-02

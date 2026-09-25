@@ -96,6 +96,30 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-09-25: open, the California Attorney General's press-release list from 29 Jun to 24 Sep 2026 contains no enforcement action, investigation or settlement under the AI Transparency Act, while the pending SB 1000 amendment reached the Governor on 2 Sep 2026 (source: https://oag.ca.gov/media/news, Sep 2026)
 
+### governance-2026-09-01
+- Claim: Senator Ted Cruz, Senator John Thune, or Senator Amy Klobuchar formally introduces in the US Senate (assigned an S. bill number) a bill that imposes a duty of care on frontier AI developers or authorizes a federal agency to block a model's release; as of 25 Sep 2026 the text remains an unreleased draft.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-03)
+- Source: https://www.nextgov.com/artificial-intelligence/2026/09/lawmakers-clash-safety-testing-language-development-ai-legislation-people-familiar-say/415948/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### governance-2026-09-02
+- Claim: The European Commission publicly announces, on its digital-strategy news page, a Digital Services Act request for information to OpenAI concerning ChatGPT or the opening of formal DSA proceedings against OpenAI, following ChatGPT's 31 Aug 2026 designation as a Very Large Online Search Engine; none found as of 25 Sep 2026.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-06)
+- Source: https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### governance-2026-09-03
+- Claim: A California legislator introduces a bill in the 2027-28 session requiring frontier AI developers to maintain an emergency shutdown capability or to host onsite independent verification organizations, the measures Governor Newsom's September 2026 executive order put up for recommendation (recommendations due 16 Nov 2026); no such bill exists as of 25 Sep 2026.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-03)
+- Source: https://www.cbsnews.com/sacramento/news/california-newsom-ai-safety-kill-switch/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### governance-2026-07-01

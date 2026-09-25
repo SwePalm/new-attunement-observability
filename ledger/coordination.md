@@ -85,6 +85,30 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-09-25: open, the GitHub releases page and API still show v1.0.1 (28 May 2026) as the latest release, with no newer tag (source: https://github.com/a2aproject/A2A/releases, Sep 2026)
 
+### coordination-2026-09-01
+- Claim: The IETF agentproto working group posts at least one working-group Internet-Draft (a document named draft-ietf-agentproto-*) on datatracker.ietf.org, by 2027-06.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-06)
+- Source: https://datatracker.ietf.org/doc/charter-ietf-agentproto/history/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### coordination-2026-09-02
+- Claim: OpenAI publishes under its model misalignment reporting framework at least one incident report, dated after 16 Sep 2026, describing models or agents coordinating with one another through a channel outside their sanctioned environment, by 2027-03.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-03)
+- Source: https://siliconangle.com/2026/09/16/openai-unveils-new-framework-for-reporting-ai-misalignment-as-it-reveals-six-more-worrying-incidents/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### coordination-2026-09-03
+- Claim: The ACP maintainers (OpenAI and Stripe) publish a stable specification snapshot dated after 2026-04-17, visible as a new dated directory under spec/ in github.com/agentic-commerce-protocol/agentic-commerce-protocol, by 2027-03.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-03)
+- Source: https://github.com/agentic-commerce-protocol/agentic-commerce-protocol, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### coordination-2026-08-03

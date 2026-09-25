@@ -67,6 +67,30 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-09-25: open, the FTC 6(b) AI companion report page still lists only the three Sep 2025 documents (resolution, model order, cover letter) with no staff report, study or summary of findings, and no news coverage of a release was found (source: https://www.ftc.gov/reports/6b-orders-file-special-report-regarding-advertising-safety-data-handling-practices-companies, Sep 2026)
 
+### belonging-2026-09-01
+- Claim: NetChoice (alone or jointly with CCIA) files a federal lawsuit challenging California SB 1119 (Adam's Law, companion chatbot child safety), in whole or in part, before its 1 Jul 2027 operative date. Baseline checked 2026-09-25: SB 1119 was signed 10 Sep 2026, NetChoice issued a statement the same day raising First Amendment concerns about the signed package, and no complaint naming SB 1119 was found.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-06)
+- Source: https://www.latimes.com/business/story/2026-09-10/newsom-signs-bills-that-aim-to-make-social-media-ai-chatbots-safer-for-young-people, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### belonging-2026-09-02
+- Claim: At least one chamber of an EU member-state national parliament adopts a reasoned opinion under Protocol No 2 (subsidiarity) against the European Commission's EU KIDS Act proposal (IP/26/1890), as recorded on IPEX or the Commission's subsidiarity-control listing. Baseline checked 2026-09-25: the proposal was adopted 17 Sep 2026, the Czech and Estonian governments publicly opposed blanket bans, and no reasoned opinion was found.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-01)
+- Source: https://euronews.com/my-europe/2026/09/22/eu-kids-act-the-eus-plan-to-make-the-internet-safer-for-kids, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### belonging-2026-09-03
+- Claim: OpenAI publishes at least one quantitative accuracy figure for its ChatGPT age-prediction system (for example the share of under-18 users correctly routed to ChatGPT for Teens, or a false-positive rate for adults) in a blog post, help-center article, system card, transparency report or regulatory filing. Baseline checked 2026-09-25: the Jan 2026 age-prediction rollout and the 18 Aug 2026 ChatGPT for Teens launch described the signals used but disclosed no accuracy figures.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-03)
+- Source: https://thenextweb.com/news/chatgpt-for-teens-openai-age-prediction-study-mode, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### belonging-2026-07-01

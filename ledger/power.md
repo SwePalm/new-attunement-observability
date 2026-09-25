@@ -85,6 +85,30 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-09-25: open, the PUCT adopted its SB 6 large load interconnection standards (16 TAC 25.194, Project 58481) in mid-Sep 2026 in a softened form that does not incorporate the Governor's Data Center Standards, and no separate PUCT project to make those standards binding was found (PUCT press release PDF returned 403) (source: https://www.utilitydive.com/news/texas-puc-adopts-data-center-interconnection-rules/830899/, Sep 2026)
 
+### power-2026-09-01
+- Claim: A data center developer, operator, crypto miner or industry association files suit in Texas state or federal court challenging Governor Abbott's data center approval pauses (the 3 Aug 2026 ERCOT interconnection pause or the 21 Sep 2026 TCEQ permit halt).
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-03)
+- Source: https://gov.texas.gov/news/post/governor-abbott-directs-tceq-to-halt-data-center-permits, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### power-2026-09-02
+- Claim: The US Senate passes the Ratepayer Protection Act (H.R. 9340), by recorded vote or unanimous consent, before the 119th Congress ends.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-01)
+- Source: https://www.newsweek.com/data-center-bill-hits-roadblock-senate-what-happens-next-12458535, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### power-2026-09-03
+- Claim: Bloomberg, Reuters, WSJ or FT reports that a hyperscale or AI tenant other than Oracle (Microsoft, Meta, Alphabet, Amazon, OpenAI, CoreWeave or xAI) has issued a force majeure notice or invoked a delay clause on a US data center lease or development agreement, citing power or fuel supply.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-06)
+- Source: https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/09/24/oracle-triggers-force-majeure-on-data-centre-project-over-power-delays-source-says/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### power-2026-07-03

@@ -76,6 +76,30 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-09-25: open, Anthropic's status API shows more than twenty further incidents from 13 Aug to 22 Sep 2026, each closed with impact-and-resolution text only, and the engineering blog index holds no availability post-mortem beyond the Apr 2026 Claude Code quality account (source: https://status.claude.com/api/v2/incidents.json, Sep 2026)
 
+### dependency-2026-09-01
+- Claim: OpenAI postpones the 14 Oct 2026 retirement of GPT-5.5 in ChatGPT, ChatGPT Work or Codex, or restores GPT-5.5 as a selectable model for any paid ChatGPT plan after that date.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2026-12)
+- Source: https://www.businesstoday.in/technology/artificial-intelligence/story/openai-to-retire-gpt-5-5-from-chatgpt-work-and-codex-on-october-14-what-changes-to-expect-555782-2026-09-16, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### dependency-2026-09-02
+- Claim: OpenAI posts a new API deprecation notice dated after 2026-09-25 on its deprecations page (developers.openai.com/api/docs/deprecations) whose shutdown date falls fewer than 30 days after the notice date.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-03)
+- Source: https://developers.openai.com/api/docs/deprecations, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### dependency-2026-09-03
+- Claim: The European Supervisory Authorities (EBA, EIOPA, ESMA) publish their next list of designated critical ICT third-party providers under DORA and it includes at least one entity whose principal designated service is a foundation-model API (for example OpenAI, Anthropic, Mistral AI, Cohere or xAI).
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-02)
+- Source: https://www.esma.europa.eu/press-news/esma-news/eba-eiopa-and-esma-call-enhanced-governance-and-consistent-supervision, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### dependency-2026-07-01

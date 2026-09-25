@@ -67,6 +67,30 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-09-25: open, metr.org/time-horizons/ is still marked last updated 8 May 2026 with no post-June model; METR published a predeployment summary of Claude Opus 5.5 on 22 Sep 2026 on its blog but it gives no time-horizon figure (source: https://metr.org/blog/2026-09-22-claude-opus-5-5/, Sep 2026)
 
+### intelligence-2026-09-01
+- Claim: ARC Prize publishes an "ARC Prize Verified" ARC-AGI-3 Semi-Private score of 80% or higher under its Standard harness (not the Provider Adapter harness) for any model, on arcprize.org, by 2027-03. Verified Standard-harness maximum on 2026-09-25: 62.7% (GPT-6 Astra).
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-03)
+- Source: https://arcprize.org/blog/astra, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### intelligence-2026-09-02
+- Claim: NIST's Center for AI Standards and Innovation (CAISI) publishes on nist.gov an assessment or evaluation of a model developed by a US company (for example OpenAI, Anthropic, Google, SpaceXAI or Meta), by 2027-03. Every CAISI model assessment published in 2026 through 2026-09-25 covers a PRC model.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-03)
+- Source: https://www.nist.gov/caisi, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### intelligence-2026-09-03
+- Claim: Google or Google DeepMind publishes, through an official Google or DeepMind channel (blog, report, or executive statement carried by two reputable outlets), a quantified measure of how much of its own AI R&D is performed or led by AI systems (a percentage, an agent-to-human effort ratio, or an automation-level share), by 2027-03. OpenAI (6 Sep 2026) and Anthropic (Sep 2026) have published such measures; no Google figure was found on 2026-09-25.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-03)
+- Source: https://www.unite.ai/anthropic-says-claude-leads-26-of-its-ai-research-and-development/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### intelligence-2026-07-01

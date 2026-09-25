@@ -67,15 +67,6 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-09-25: open, iOS 27 reached general release on 14 Sep 2026 without SynthID active at launch; Apple says SynthID identification will arrive in a software update later in 2026, which would still resolve the claim before 2027-01 (source: https://www.macworld.com/article/2986799/ios-27-features-compatiblity-siri-ai-updates.html, Sep 2026)
 
-### perception-2026-08-04
-- Claim: TikTok, Meta, or YouTube announces or ships a friction-based treatment for AI-generated content (a full-screen or click-through interstitial, feed demotion, or distribution limit) for at least one content category, going beyond the small overlay label format.
-- Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
-- Source: https://www.techtimes.com/articles/320282/20260713/tiktok-has-labeled-3-billion-ai-videos-here-what-research-says-they-miss.htm, Jul 2026
-- Status: open
-- Grades:
-  - none yet
-  - 2026-09-25: open, no new viewer-facing friction treatment for labeled AI content was announced in the interval; TikTok's user-controlled AI-content slider shipped in Nov 2025, before logging, and is a viewer opt-in rather than a platform-imposed treatment, so it was not counted (source: https://techcrunch.com/2025/11/18/tiktok-now-lets-you-choose-how-much-ai-generated-content-you-want-to-see/, Nov 2025)
-
 ### perception-2026-08-07
 - Claim: The Governor of New York signs or vetoes S6954B, the Stop Deepfakes Act, which requires synthetic content creation system providers to attach provenance data to AI-generated or substantially modified audio, images and video, and which passed both chambers on 3 Jun 2026 and had not been delivered to the Governor as of 13 Aug 2026.
 - Horizon: 0–12 months (logged 2026-08, resolve by 2027-02)
@@ -85,7 +76,41 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-09-25: open, the S6954B action history still ends at Assembly passage on 4 Jun 2026 with no delivery to the Governor, chapter number, or veto memo (source: https://www.nysenate.gov/legislation/bills/2025/S6954/amendment/B, Jun 2026)
 
+### perception-2026-09-01
+- Claim: The bill-review subcommittee of South Korea's National Assembly Science, ICT, Broadcasting and Communications Committee votes to approve at least one AI Basic Act or Network Act amendment that sanctions intentional removal, forgery or alteration of AI-generated content marks, which it held for continued review on 15 Sep 2026.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-03)
+- Source: https://www.imaeil.com/page/view/2026092412193369072, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### perception-2026-09-02
+- Claim: Meta extends the "AI-generated profile" label, with a recommendation reach limit for undisclosed profiles, from Instagram (launched 31 Aug 2026) to Facebook or Threads, as announced by Meta or reported by a reputable outlet.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-03)
+- Source: https://www.cnet.com/tech/services-and-software/instagram-ai-generated-profile-label-fake-influencer-profiles-2/, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### perception-2026-09-03
+- Claim: Anthropic or Google DeepMind publishes an evaluation (system card section, blog, or paper) of whether SynthID-Text-based watermarking changes refusal behavior or tool-call outputs, or a public response to Lasso Security's 17 Sep 2026 "sampling drift" study, dated after 17 Sep 2026.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-03)
+- Source: https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
+
+### perception-2026-08-04
+- Claim: TikTok, Meta, or YouTube announces or ships a friction-based treatment for AI-generated content (a full-screen or click-through interstitial, feed demotion, or distribution limit) for at least one content category, going beyond the small overlay label format.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://www.techtimes.com/articles/320282/20260713/tiktok-has-labeled-3-billion-ai-videos-here-what-research-says-they-miss.htm, Jul 2026
+- Status: confirmed
+- Grades:
+  - none yet
+  - 2026-09-25: open, no new viewer-facing friction treatment for labeled AI content was announced in the interval; TikTok's user-controlled AI-content slider shipped in Nov 2025, before logging, and is a viewer opt-in rather than a platform-imposed treatment, so it was not counted (source: https://techcrunch.com/2025/11/18/tiktok-now-lets-you-choose-how-much-ai-generated-content-you-want-to-see/, Nov 2025)
+  - 2026-09-25: confirmed (correction appended after Phase B, superseding the open line above), Instagram on 31 Aug 2026 began withholding undisclosed AI-generated profiles from Reels, Explore and in-feed recommendations to non-followers, a platform-imposed distribution limit on a category of AI-generated content beyond the overlay label, dated after logging; it penalises non-disclosure rather than adding friction to labeled content, the CAL-006 mirror image, but the claim text is satisfied as written (source: https://www.cnet.com/tech/services-and-software/instagram-ai-generated-profile-label-fake-influencer-profiles-2/, Aug 2026)
 
 ### perception-2026-07-02
 - Claim: C2PA/content-credentials adoption reaches a major default: a top-5 smartphone maker or platform ships provenance signing enabled by default by mid-2027.

@@ -112,6 +112,30 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-09-25: open, removal tools and generic paraphrase research abound, but no named party has shown verified removal of the statistical Claude text mark, because Anthropic's detector is still private preview for eligible organizations; a 12 Aug headline about 'Four Cents' stripping the mark proved on fetch to be a cost estimate, not a demonstration (source: https://hackernoon.com/it-took-developers-24-hours-to-build-around-claudes-invisible-watermark, Aug 2026)
 
+### truth-2026-09-01
+- Claim: At least one of the juries of the prix Renaudot, prix Femina, prix Médicis or prix Décembre, or the organisers of the Goncourt des lycéens, publicly announces that "C'était ça ou mourir" by Thélyson Orélien is removed or excluded from its 2026 selection, with AI use or plagiarism among the stated reasons; omission from a scheduled shortlist cut without such a statement does not qualify. Baseline 25 Sep 2026: none had announced a withdrawal (the Académie Goncourt and the prix Strasbourg Espoir CIC had acted).
+- Horizon: 0–12 months (logged 2026-09, resolve by 2026-11)
+- Source: https://actualitte.com/article/134194/prix-litteraires/plagiat-ia-le-prix-goncourt-exclut-le-roman-de-thelyson-orelien, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### truth-2026-09-02
+- Claim: Thélyson Orélien, Éditions Grasset or Éditions du Boréal files, or publicly announces through counsel, a legal action (defamation, harassment or similar) against the "Balance ton Claude" collective or any of its members, Samuel Fitoussi, or Pangram Labs, as reported by two reputable outlets. Baseline 25 Sep 2026: the author said he was assembling a file to prove authorship; no legal action reported.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-01)
+- Source: https://www.livreshebdo.fr/article/thelyson-orelien-la-polemique-bouleverse-le-monde-du-livre, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### truth-2026-09-03
+- Claim: Anthropic makes Claude watermark detection available beyond the eligible-organization private preview, self-serve to any API customer or to the general public (a generally available API endpoint or a public web checker), documented on anthropic.com, docs.claude.com or support.claude.com. Baseline 25 Sep 2026: private preview only, gated by an access request form.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-03)
+- Source: https://www.anthropic.com/news/claude-text-watermark, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### truth-2026-07-03

@@ -26,7 +26,12 @@ received one ledger grade line dated 2026-09-25 (the 43-day interval justified a
 full pass, unlike the nine-day interval last run). Retired 2026-02 seeds were not
 graded and are excluded from every count.
 
-Scorecard: 42 confirmed, 3 falsified, 0 decayed, 0 expired, 168 open.
+Scorecard (final, after one correction during Phase B): 43 confirmed,
+3 falsified, 0 decayed, 0 expired, 167 open. As first graded: 42 confirmed,
+168 open. perception-2026-08-04 was corrected open to confirmed (forward) after
+the Phase B sweep found Instagram's 31 Aug 2026 distribution limit on undisclosed
+AI-generated profiles, which the grading pass missed because it looked only for
+friction on labeled content. Recorded as an appended grade line.
 Falsified: labor-2026-08-03 and labor-2026-08-05 (August Challenger report),
 power-2026-08-05 (FERC abeyance moved PJM's filing past the resolve-by).
 
@@ -77,28 +82,56 @@ read-only `git diff --stat` against instructions; nothing was changed by it.
 
 ## Phase B, evidence-sweep (22 themes)
 
-- [ ] agency
-- [ ] alignment
-- [ ] authority
-- [ ] autonomy
-- [ ] belonging
-- [ ] coordination
-- [ ] creativity
-- [ ] dependency
-- [ ] desire
-- [ ] governance
-- [ ] identity
-- [ ] intelligence
-- [ ] labor
-- [ ] learning
-- [ ] meaning
-- [ ] memory
-- [ ] perception
-- [ ] power
-- [ ] responsibility
-- [ ] security
-- [ ] trust
-- [ ] truth
+Complete. All 22 sweeps written and validated mechanically by the orchestrator
+(section order; two dated sources on every Confirmed bullet; one on every
+Regulatory, Capital, Technical, Emerging and Counter bullet; zero em-dashes).
+71 new claims appended (IDs <theme>-2026-09-NN); ledger diff re-checked, no
+deletions other than Status updates and intact block moves. Live open claims:
+167 + 71 = 238.
+
+Each sweep ran the CAL-004 pre-check (search for the qualifying event before
+logging) and several dropped candidates that had already happened. Sweeps caught
+contamination again in most themes, notably AI-generated pages naming OpenAI,
+Anthropic and Google as recipients of the Commission's 29 Aug 2026 information
+requests (the Commission named no one), a Council of Europe convention "adopted
+16 Sep 2026" (adopted 2024), and fabricated EU KIDS Act provisions. Each is
+recorded under Contradictions as unverified, not used as evidence.
+
+Duplicate claims across themes (CAL-008 firing inside this run). Sweeps run in
+parallel cannot see each other's candidates, so six events were logged more than
+once, 13 claims for 6 events; 71 claims watch about 64 distinct events. The
+ledger is append-only, so these stay, and graders should grade each group once
+and cross-reference:
+- Amazon or Meta sues the other over Muse: agency-2026-09-01, desire-2026-09-02, responsibility-2026-09-01
+- state AG action against OpenAI over the Hugging Face incident: authority-2026-09-03, responsibility-2026-09-02
+- Senate frontier duty-of-care bill introduced: authority-2026-09-01, governance-2026-09-01
+- California kill-switch bill introduced: authority-2026-09-04, governance-2026-09-03
+- lawsuit against California SB 1119: belonging-2026-09-01, desire-2026-09-03
+- Anthropic opens its watermark detector beyond private preview: trust-2026-09-01, truth-2026-09-03
+
+
+- [x] agency
+- [x] alignment
+- [x] authority
+- [x] autonomy
+- [x] belonging
+- [x] coordination
+- [x] creativity
+- [x] dependency
+- [x] desire
+- [x] governance
+- [x] identity
+- [x] intelligence
+- [x] labor
+- [x] learning
+- [x] meaning
+- [x] memory
+- [x] perception
+- [x] power
+- [x] responsibility
+- [x] security
+- [x] trust
+- [x] truth
 
 ## Phase C, theme-selection
 

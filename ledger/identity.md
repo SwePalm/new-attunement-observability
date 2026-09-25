@@ -87,6 +87,38 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-09-25: open, the Microsoft Learn blueprint page still labels the admin center action "New agent blueprint (Preview)" and the Agent ID what's-new page (updated 13 Aug 2026) still lists the wizard as Preview (source: https://learn.microsoft.com/en-us/entra/agent-id/whats-new-agent-id, Aug 2026)
 
+### identity-2026-09-01
+- Claim: Microsoft publicly joins the Blueprint Alliance (the Okta-led agent security reference architecture coalition formed 22 Sep 2026 without Microsoft), shown by a Microsoft, Okta or alliance announcement or member listing.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-06)
+- Source: https://siliconangle.com/2026/09/22/okta-adds-ai-agent-runtime-gateway-forms-blueprint-alliance-with-aws-and-crowdstrike/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### identity-2026-09-02
+- Claim: At least one of Tesco, Sainsbury's, Asda, Morrisons, Aldi, Lidl, Co-op or Waitrose publicly confirms that its stores in England or Wales accept DVS-certified digital ID for alcohol age checks at tills or self-checkouts, following SI 2026/1022 (in force 15 Sep 2026).
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-06)
+- Source: https://www.biometricupdate.com/202609/policy-intention-is-becoming-much-clearer-on-digital-id-for-uk-alcohol-sales, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### identity-2026-09-03
+- Claim: An Australian Government body (ASD/ACSC, the Digital Transformation Agency, Services Australia or the Medicare incident taskforce) publishes guidance, policy or findings calling for AI agents accessing Australian government online services to identify or authenticate themselves as agents, distinct from the internal-agent controls ISM-2133 to ISM-2135.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-03)
+- Source: https://itwire.com/business-it-news/data/okta-wants-every-ai-agent-to-carry-id-and-australias-medicare-breach-just-made-the-case-for-it, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### identity-2026-09-04
+- Claim: The German Federal Ministry for Digital Affairs and State Modernisation (BMDS) or the d-you project publicly reports at least 1 million d-you wallet users, activations or downloads.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-06)
+- Source: https://www.computerbase.de/news/apps/ausweis-fuehrerschein-und-co-deutschlands-digitale-wallet-d-you-startet-im-januar.99337/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### identity-2026-07-02
