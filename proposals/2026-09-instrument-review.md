@@ -151,6 +151,19 @@ Evidence: a later phase corrected a Phase A grade in three consecutive runs
 perception-2026-08-04, missed because the grader looked for the intended
 mechanism rather than the claim text).
 
+## Change 8: the Outlook moves to once per cycle, the Delta Report stays monthly
+
+Added at the maintainer's request after the cadence change. A 4-month cycle is
+the first point at which every theme has a fresh deep dive, so a cycle Outlook
+speaks to all 22 themes rather than to whichever were selected that month.
+Three essays a year. The Delta Report stays monthly so accountability keeps
+pace with the fortnightly runs. Cycles: Oct–Jan, Feb–May, Jun–Sep; a debug
+draft is scheduled for the 25th of each cycle's last month and published only
+after human review, in `output/cycle-YYYY-MM/`. The outlook reads the cycle's
+PROGRESS.md review flags so that a known pipeline attractor is not presented
+as a finding. Jul–Sep 2026 (20 of 22 themes dived under 2.1) is treated as a
+closing cycle, `output/cycle-2026-09/`.
+
 ## Still held
 
 2026-08 Proposal 3 (carry grades forward into sweeps): still hold, per its own

@@ -1,6 +1,6 @@
 ---
 name: delta-report
-description: Generate "The Delta Report", the accountability companion to the Outlook - how past claims graded, what shifted this month, which claims are now on the clock, and what the pipeline learned about its own biases. Manual, alongside the outlook.
+description: Generate "The Delta Report", the accountability companion to the Outlook - how past claims graded, what shifted this month, which claims are now on the clock, and what the pipeline learned about its own biases. Monthly, after the month's second cohort run, manual after human review. Stays monthly when the Outlook moves to once per cycle.
 ---
 
 # delta-report

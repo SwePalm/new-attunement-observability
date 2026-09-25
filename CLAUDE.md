@@ -3,8 +3,9 @@
 METHOD_VERSION: 2.2
 
 Entry skill for every run: `orchestrator` (`.claude/skills/orchestrator/`).
-Manual skills: `outlook-generator` and `delta-report` (monthly, after human
-review), `instrument-review` (once per 4-month cycle).
+Manual skills: `delta-report` (monthly), `outlook-generator` (once per 4-month
+cycle, drafted on a schedule, published after human review),
+`instrument-review` (once per 4-month cycle).
 
 ## Mission
 
@@ -55,11 +56,15 @@ Learning happens at three layers. Each has a different change speed and gate.
 
 ## Two reader-facing outputs (Phase E)
 
-The month produces two distinct documents, and they must stay distinct:
+Two distinct documents, on different clocks, and they must stay distinct:
 
-- **The Outlook** (`outlook-generator`): a forward-looking narrative essay.
+- **The Outlook** (`outlook-generator`): a forward-looking narrative essay,
+ once per 4-month cycle, when all 22 themes have a fresh deep dive behind it.
  Storytelling, human-centered, no self-audit. This is the published piece.
-- **The Delta Report** (`delta-report`): the accountability companion. How
+ Cycles: Oct–Jan, Feb–May, Jun–Sep. Draft on the 25th of the cycle's last
+ month, in `output/cycle-YYYY-MM/`.
+- **The Delta Report** (`delta-report`): monthly, the accountability
+ companion, so scoring keeps pace with the fortnightly runs. How
  past claims graded, what shifted, which claims are on the clock, what the
  pipeline learned. This is where the numbers live.
 
@@ -78,7 +83,7 @@ inside a single session's usage window.
 | B | evidence-sweep, then orchestrator dedupe and ledger append | this run's cohort (11 themes) | `output/YYYY-MM-DD/02-sweep/` + new ledger claims |
 | C | theme-selection | this run's cohort | `output/YYYY-MM-DD/SELECTION.md` |
 | D | structural-question, theme-exploration, pestle-analysis, forces-feelings, scenario-generator, scenario-eval | selected 4 themes | `output/YYYY-MM-DD/03-...` to `08-evaluation/` |
-| E | outlook-generator + delta-report | monthly, manual, after human review, covering both cohort runs of the month | `output/YYYY-MM-DD/09-outlook/` in the month's last run folder |
+| E | delta-report (monthly) and outlook-generator (per cycle) | manual publication after human review | delta: `output/YYYY-MM-DD/09-outlook/delta-report.md` in the month's last run folder; outlook: `output/cycle-YYYY-MM/` |
 
 ## Folder strategy
 
@@ -96,6 +101,7 @@ output/YYYY-MM-DD/
  09-outlook/
  PROGRESS.md
 ledger/ persistent, append-only, cross-month
+output/cycle-YYYY-MM/ the cycle Outlook (debug draft, then production)
 proposals/ instrument-review output, human-merged
 ```
 
