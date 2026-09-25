@@ -119,9 +119,9 @@ Things, and may be material or institutional as well as emotional. scenario-eval
 now compares against the previous two runs and caps Distinctiveness at 5 on a
 repeat.
 
-Evidence: on 2026-09-25 four evals independently reported that all six scarce
-goods resolved to a real person being present (08-evaluation: belonging,
-learning, intelligence, identity), and 2026-08-13 desire reached the same. The
+Evidence: on 2026-09-25 four deep-dive agents independently reported that all
+six scarce goods resolved to a real person being present (belonging, learning,
+intelligence and identity, recorded in their evals and in PROGRESS.md), and 2026-08-13 desire reached the same. The
 structural forms had been varied at prompt level and did diverge, so the
 convergence sits in this step, not in narrative form.
 
@@ -137,7 +137,7 @@ sections never name a CAL heuristic or the pipeline.
 
 Evidence: the 2026-08 proposal (ten scored instances), and the 2026-08-13 and
 2026-09-25 runs, where prompt-level form assignment raised distinctiveness from
-3 to 4 (2026-08-04) to 7 to 8 (2026-08-13).
+mostly 3 to 4 (2026-08-04: 3, 3, 3, 4, 7) to 7 to 8 (2026-08-13: 8, 8, 7, 7, 7).
 
 ## Change 7: signal-grading completeness
 
