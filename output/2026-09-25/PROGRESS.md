@@ -135,11 +135,34 @@ and cross-reference:
 
 ## Phase C, theme-selection
 
-- [ ] SELECTION.md
+- [x] SELECTION.md
+
+Six selected, cut at the fifth-ranked total (16) with ties included, the rule
+the 2026-08 runs used: intelligence 19, perception 19, learning 18, identity 17,
+agency 16, belonging 16. First alternate: meaning 15. Five of the six come from
+the never-dived backlog; agency is the only re-dive (last dived 2026-07-03).
+Two backlog themes remain (dependency, meaning), due 2026-12; the next run
+should take both regardless of score.
+
+Grade surprises were scored with retrodictions at 0 (CAL-004), pre-announced
+confirmations at 1 (CAL-009), and shared-event clusters split across themes
+(CAL-008). Contradiction density was scored on substantive tensions only,
+excluding unverified-source notes and outlet dating disputes, because a literal
+count scores all 22 themes 5. This choice decides slot six: under a literal
+count, meaning replaces agency. Recorded in SELECTION.md's sensitivity note and
+flagged below for instrument-review.
+
+The first run attempt at Phase C died on a session usage limit before writing
+anything; it was rerun from scratch after the reset.
 
 ## Phase D, deep dives (selected themes)
 
-(filled in after selection)
+- [ ] intelligence, six steps
+- [ ] perception, six steps
+- [ ] learning, six steps
+- [ ] identity, six steps
+- [ ] agency, six steps
+- [ ] belonging, six steps
 
 ## Blocked items
 
