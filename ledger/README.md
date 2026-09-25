@@ -22,7 +22,12 @@ Rules:
 - `Status` mirrors the latest grade; `open` claims live under "Open claims",
  anything else under "Resolved claims".
 - A grade other than `open` requires a source.
-- Only `evidence-sweep` adds claims; only `signal-grading` adds grades.
+- Claims originate as `evidence-sweep` Ledger Candidates and are appended by
+ the orchestrator after a cross-theme dedupe pass; only `signal-grading` adds
+ grades.
+- Since METHOD_VERSION 2.2 each theme is graded every four weeks (one cohort
+ per fortnightly run); a claim's month segment in its ID still groups by
+ calendar month.
 
 ## Seeded claims (2026-02)
 

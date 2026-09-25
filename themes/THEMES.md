@@ -22,3 +22,16 @@
 20. Security
 21. Belonging
 22. Meaning
+## Cohorts (METHOD_VERSION 2.2)
+
+Each run covers one cohort. Cohorts are fixed so that every theme is graded and
+swept every four weeks. Themes that repeatedly logged duplicate claims about the
+same events sit in the same cohort, so one run's dedupe pass sees them together.
+
+Cohort A, institutions and markets (11):
+agency, alignment, authority, autonomy, coordination, desire, governance,
+labor, power, responsibility, security
+
+Cohort B, people and perception (11):
+belonging, creativity, dependency, identity, intelligence, learning, meaning,
+memory, perception, trust, truth

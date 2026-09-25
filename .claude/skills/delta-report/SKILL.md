@@ -23,11 +23,12 @@ the receipts.
 
 ## Inputs
 
-- `grading_reports` (this month's 01-grading/*.md, with scorecards)
+- `grading_reports` (01-grading/*.md from every run in the month, normally
+  two cohort runs that together cover all 22 themes)
 - `sweeps` (for the "what shifted" deltas)
 - `ledger` (open claims and their resolve-by dates)
 - `calibration` (ledger/CALIBRATION.md)
-- `selection` (SELECTION.md)
+- `selection` (the SELECTION.md of every run in the month)
 - `previous_delta` (last month's delta report, if any)
 
 ## Structure

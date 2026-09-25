@@ -32,9 +32,11 @@ general reader. It should read like a good essay, not a filled-in form.
 
 ## Inputs
 
-- `scenario_outputs` (this month's deep-dive scenarios)
-- `sweeps` (all theme evidence sweeps, for breadth)
-- `selection` (SELECTION.md)
+- `scenario_outputs` (the deep-dive scenarios from every run in the month,
+  normally two cohort runs)
+- `sweeps` (the evidence sweeps from every run in the month, which together
+  cover all 22 themes)
+- `selection` (the SELECTION.md of every run in the month)
 - `mode` (`debug` or `production`)
 
 ## Length
