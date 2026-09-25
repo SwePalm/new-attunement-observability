@@ -30,6 +30,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
  - none yet
  - 2026-08-04: open, no EU DPA or state AG action naming persistent assistant memory as its subject; the closest instrument is the 42-state AG subpoena of OpenAI (12 Jun 2026) covering user data, retention, health data and minors in general terms, and no EDPB or national DPA memory-specific guidance has issued, with resolve-by 2027-09 still ahead (source: https://www.reuters.com/business/openai-under-investigation-by-coalition-state-attorneys-general-wsj-reports-2026-06-12/, Jun 2026)
+ - 2026-09-25: open, re-checked EU DPA, EDPB, Garante and state AG channels for 13 Aug to 25 Sep 2026 and found no action naming persistent assistant memory as its subject; the 42-state AG subpoena of OpenAI (Jun 2026) remains general in scope and the Italian ChatGPT file has passed to the Irish DPC as lead authority after the Rome tribunal annulled the Garante fine (Mar 2026), resolve-by 2027-09 (source: https://www.cnbc.com/2026/06/12/openai-says-its-engaging-constructively-with-state-ags-.html, Jun 2026)
 
 ### memory-2026-07-03
 - Claim: A documented incident where leaked or subpoenaed assistant memory data causes material harm to a named individual surfaces by mid-2027.
@@ -39,6 +40,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
  - none yet
  - 2026-08-04: open, near misses but no match: the OpenMemory unauthenticated-memory-access CVEs and the MemGhost false-memory attack (Jul 2026) are vulnerabilities without a named victim, the Krafton Delaware opinion (Mar 2026) used chat logs rather than memory data and named no individual, and the Del Rosario case involved the memory feature working as designed rather than leaked or subpoenaed memory (source: https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html, Jul 2026)
+ - 2026-09-25: open, no documented case of leaked or subpoenaed assistant memory data harming a named individual surfaced; discovery and court-evidence coverage through Aug 2026 still concerns chat logs (the 20 million de-identified log order upheld 5 Jan 2026) rather than persistent memory entries, and no memory-layer vendor disclosed a breach, resolve-by 2027-09 (source: https://www.jdsupra.com/legalnews/when-chats-become-evidence-court-7484440/, Jan 2026)
 
 ### memory-2026-08-02
 - Claim: OpenAI or Anthropic documents a deletion-propagation guarantee in official help documentation, stating that deleting a source conversation also deletes the memories derived from that conversation.
@@ -47,6 +49,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-09-25: open, counter-signal hardened: both named vendors now document the negation, Claude's help centre stating that when a conversation expires or is deleted related memory entries are not removed, and OpenAI's Memory FAQ stating that deleting a chat does not necessarily delete a saved memory created from it; no guarantee documented, but documentation can still change before 2027-06 (source: https://support.claude.com/en/articles/11817273-use-claude-s-chat-search-and-memory-to-build-on-previous-context, Sep 2026)
 
 ### memory-2026-08-03
 - Claim: The Model Context Protocol publishes a specification release dated after 2026-07-28 that adds a memory or persistent-state primitive, as a spec section or an officially listed extension covering agent memory storage, transfer, or provenance.
@@ -55,6 +58,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-09-25: open, no MCP specification release after 2026-07-28 (GitHub releases list checked), no memory or persistent-state extension among the org's ext- repositories, and the 22 Aug 2026 roadmap post omits memory entirely while restating that protocol-level sessions were removed so servers hold no state, a direction running against the claim (source: https://blog.modelcontextprotocol.io/posts/mcp-roadmap/, Aug 2026)
 
 ### memory-2026-08-04
 - Claim: A named enterprise memory-layer vendor (Mem0, Letta, Zep, Supermemory, or Engram) publicly discloses a security incident involving unauthorised access to customer memory stores in a production or hosted deployment, or CISA adds a memory-layer component CVE to the Known Exploited Vulnerabilities catalog.
@@ -63,6 +67,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-09-25: open, no memory-store security incident disclosed by Mem0, Letta, Zep, Supermemory or Engram, their GitHub advisory lists are empty for the window, and CISA KEV additions from 17 Aug to 25 Sep 2026 include no memory-layer component (the nearest AI-stack entries are MLflow, Ray and LiteLLM) (source: https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json, Sep 2026)
 
 ### memory-2026-08-05
 - Claim: Anthropic documents agent memory store content in the Claude Compliance API, as a retrieval or deletion endpoint covering memory stores or memory entries, in the platform compliance documentation or the platform release notes.
@@ -71,6 +76,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-09-25: open, the Compliance API reference lists chats, files, generated files, projects, artifacts and local and remote session endpoints with no memory endpoint, and platform release notes through 24 Sep 2026 extend compliance coverage to Claude in Chrome, Claude Science and Office agent transcripts but not to memory stores (source: https://platform.claude.com/docs/en/api/compliance/apps, Sep 2026)
 
 ### memory-2026-08-06
 - Claim: AWS publishes a further GitHub security advisory for the strands-agents-tools package affecting one of its memory tools (agent_core_memory, mem0_memory, mongodb_memory or elasticsearch_memory).
@@ -79,6 +85,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-09-25: open, one further strands-agents/tools advisory was published in the window (GHSA-qc8m-4887-8wwh, 25 Aug 2026) but it concerns the python_repl consent gate, not a memory tool, so the memory-scoped count stays at two with resolve-by 2026-12 (source: https://github.com/strands-agents/tools/security/advisories, Sep 2026)
 
 ### memory-2026-08-07
 - Claim: Letta (letta-ai/letta) or LangMem (langchain-ai/langmem) publishes a GitHub security advisory concerning unauthorised cross user, cross agent or cross tenant access to stored memory.
@@ -87,11 +94,45 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-09-25: open, letta-ai/letta and langchain-ai/langmem still show zero published GitHub security advisories as queried through the GitHub API on 2026-09-25 (source: https://github.com/letta-ai/letta/security/advisories, Sep 2026)
 
 ### memory-2026-08-08
 - Claim: Anthropic replaces the manual copy and paste memory export flow with a structured memory export, a downloadable file produced from settings or the account data export flow, documented in the Claude help centre.
 - Horizon: 0–12 months (logged 2026-08, resolve by 2027-03)
 - Source: https://support.claude.com/en/articles/12123587-import-and-export-your-memory-from-claude, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+  - 2026-09-25: open, the Claude help centre export flow is unchanged: export still means asking Claude to write out memories verbatim and copying the text into a local file, and import is still described as experimental and in active development (source: https://support.claude.com/en/articles/12123587-import-and-export-your-memory-from-claude, Sep 2026)
+
+### memory-2026-09-01
+- Claim: Google announces availability of Private AI Compute server-side memory in a named Google consumer product (the Gemini app, a Pixel feature, or Android), stating that it is usable now or giving a dated rollout, on blog.google, deepmind.google, or a Google help page.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-06)
+- Source: https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### memory-2026-09-02
+- Claim: Meta makes Muse Confidential VM (Muse data and conversations encrypted under a key only the user holds) available to Muse users on any plan, documented in Meta Newsroom or Muse help documentation. Tagged forward, pre-announced (CAL-009): announced 8 Sep 2026 for "later this year".
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-03)
+- Source: https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### memory-2026-09-03
+- Claim: Anthropic, OpenAI, or AWS ships and documents integrity protection for stored agent conversation history in Claude Code, Codex, or Kiro-CLI (signing or server-side verification of model messages) in release notes, a changelog, or a security advisory, or a CVE or GHSA is published for the conversation history poisoning technique Darktrace disclosed on 24 Sep 2026.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-03)
+- Source: https://www.darktrace.com/blog/hijacking-agentic-harnesses-to-attack-an-organization, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### memory-2026-09-04
+- Claim: The vzbv, or another EU member-state consumer organisation or BEUC, publicly announces a lawsuit, formal warning (Abmahnung), or complaint that specifically targets the persistent memory feature of ChatGPT, Claude, Gemini, Meta AI or Muse, or Microsoft Copilot.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-06)
+- Source: https://www.ra-plutte.de/lg-koeln-sensible-daten-in-ki-chatbots/, Sep 2026
 - Status: open
 - Grades:
   - none yet

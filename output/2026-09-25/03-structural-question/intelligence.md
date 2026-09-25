@@ -1,0 +1,8 @@
+Structural Question:
+Between late 2026 and 2028, as public capability numbers begin to trigger real decisions (release gating, pacing pledges, procurement and underwriting, export review, antitrust pleadings), which reading of a verified figure becomes the operative one that institutions act on, when the same model already carries two verified ARC-AGI-3 scores 37 points apart, a leading index can rebase a record from 66 to 53 within a week, and any shared agreement among labs to pace against a common number is now being litigated as an output restraint?
+
+Why It Matters:
+ARC Prize verified GPT-6 Astra at 62.7% under its neutral Standard harness and 99.9% under the lab-specific Provider Adapter harness on 3 Sep 2026, which confirmed intelligence-2026-08-01 one cycle after the previous pass called its 60% target implausible, and intelligence-2026-08-06 confirmed on an Artificial Analysis reading of 66 that the 7 Sep 2026 rebase to Index v4.3 turned into 53. In the same window the labs publicly endorsed pacing on 12 to 13 Sep 2026, the President rejected it on 14 Sep, and Buist v. Anthropic PBC (filed 18 Sep 2026) treats those endorsements as evidence of a Sherman Act output agreement, so a common velocity reference is simultaneously what restraint requires and what the complaint calls collusion. Meanwhile every institutional observable in the ledger (a US designation framework, a BIS model restriction, an AI Office step against a named GPAI provider, an updated METR time-horizon page) stayed open through the densest release wave on record. Whoever settles which reading counts will set the effective pace of the field more than any statute now in view.
+
+Volatility Level:
+high

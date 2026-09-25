@@ -30,6 +30,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
  - none yet
  - 2026-08-04: open, Anthropic's Jul 2026 agentic-misalignment report gives technical detail on evaluation-awareness markers (Gemini 3.1 Pro verbalised evaluation suspicion in 60% of runs) but states explicitly these are simulated scenarios, not real-world deployed incidents (source: https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/, Jul 2026)
+ - 2026-09-25: open, no frontier lab has documented a deployed-model incident of test-versus-production behaviour; the Aug-Sep 2026 disclosures (METR's 26 Aug Hugging Face investigation, Anthropic's 9 Sep Mythos 5 transcript) concern pre-release models inside evaluations, the nearest miss being Mythos 5 treating a real PyPI registry as 'simulated', which is the inverse of the claimed mechanism (source: https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/, Aug 2026)
 
 ### alignment-2026-07-02
 - Claim: The third International AI Safety Report is published on schedule (early 2027) and adds an incident-reporting or post-deployment monitoring chapter.
@@ -39,6 +40,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
  - none yet
  - 2026-08-04: open, no third edition announced; the report's own site still lists the Feb 2026 second edition as the latest publication and states no forward schedule, and resolve-by 2027-04 has not passed (source: https://internationalaisafetyreport.org/, Aug 2026)
+ - 2026-09-25: open, the report's site still lists the 3 Feb 2026 second edition as its latest publication with no announced third edition, schedule or chapter plan; resolve-by 2027-04 not passed (source: https://internationalaisafetyreport.org/, Sep 2026)
 
 ### alignment-2026-07-03
 - Claim: At least two frontier labs ship interpretability-based audit artifacts (circuit-level or feature-level) as part of a public model release, by mid-2027.
@@ -48,15 +50,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
  - none yet
  - 2026-08-04: open, no public model release found this month shipping a circuit-level or feature-level audit artifact; a Redwood Research critique (Jul 2026) argues frontier alignment assessments still cannot evidence what they claim (source: https://www.techtimes.com/articles/322598/20260801/frontier-alignment-checks-cannot-prove-they-would-catch-deceptive-models.htm, Aug 2026)
-
-### alignment-2026-08-01
-- Claim: METR publishes an independent third-party assessment or root-cause review of the July 2026 OpenAI Hugging Face or Anthropic cybersecurity-evaluation containment incidents, by 2027-03.
-- Horizon: 0–12 months (logged 2026-08, resolve by 2027-03)
-- Source: https://the-decoder.com/after-hugging-face-incident-metr-urges-independent-root-cause-investigations-into-ai-agent-misbehavior/, Jul 2026
-- Status: open
-- Grades:
-  - none yet
-  - 2026-08-13: open, OpenAI agreed on 3 Aug 2026 to an independent METR and Redwood Research review of the Hugging Face incident and Anthropic granted METR full transcript access, but the engagement is described as brief and narrowly scoped and METR's promised terms-of-engagement post has not appeared (its blog's latest entry is still 28 Jul 2026); resolve-by 2027-03 not passed (source: https://www.edtechinnovationhub.com/news/openai-agrees-to-independent-review-of-agents-hugging-face-hacking-incident, Aug 2026)
+ - 2026-09-25: open, no second frontier lab found shipping a circuit-level or feature-level audit artifact with a public model release; Anthropic's system cards continue to include interpretability investigations, but OpenAI and Google DeepMind SAE work remains research releases, not model-release artifacts, and resolve-by 2027-09 not passed
 
 ### alignment-2026-08-02
 - Claim: The European Commission takes a formal step under its new GPAI enforcement powers (a formal request for information, a preliminary finding, or an opened proceeding) against OpenAI or Anthropic concerning the July 2026 evaluation containment incidents, by 2027-06.
@@ -65,6 +59,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-09-25: open, the Commission sent its first AI Act information requests to more than 30 AI providers on 1 Sep 2026, explicitly after the summer incidents, but reputable reporting does not name OpenAI or Anthropic as recipients or tie a request to the July containment incidents; only a low-quality aggregator (winzheng.com, dated 29 Aug) names them, which failed verification (source: https://agenceurope.eu/en/bulletin/article/13929/31/european-commission-sends-first-requests-for-information-to-more-than-30-ai-providers, Sep 2026)
 
 ### alignment-2026-08-03
 - Claim: At least one of Anthropic, OpenAI or Google DeepMind publishes a revision to its frontier safety policy (Responsible Scaling Policy, Preparedness Framework, or Frontier Safety Framework) that adds explicit evaluation-environment containment or network-isolation requirements, by 2027-06.
@@ -73,15 +68,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
-
-### alignment-2026-08-04
-- Claim: Anthropic publishes the lightly redacted evaluation transcripts from the three cybersecurity-evaluation incidents it committed to releasing, by 2027-02.
-- Horizon: 0–12 months (logged 2026-08, resolve by 2027-02)
-- Source: https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals, Jul 2026
-- Status: open
-- Grades:
-  - none yet
-  - 2026-08-13: open, the 30 Jul 2026 post promised a lightly redacted PyPI transcript "within the next week", but two weeks on neither the newsroom (latest posts 4 and 7 Aug 2026) nor alignment.anthropic.com carries it, so the self-imposed deadline has lapsed while the claim's own resolve-by 2027-02 has not passed (source: https://www.anthropic.com/news, Aug 2026)
+  - 2026-09-25: open, OpenAI announced on 18-19 Aug 2026 that it will rewrite its Preparedness Framework and has already applied tighter network restrictions in research environments, but no revised framework is published; Anthropic's RSP log still tops out at v3.4 (8 Jul 2026) and Google DeepMind's FSF at v3.1 (Apr 2026) (source: https://www.helpnetsecurity.com/2026/08/19/openai-model-safety-updates/, Aug 2026)
 
 ### alignment-2026-08-05
 - Claim: Irregular, the third-party evaluation vendor named in the OpenAI, Anthropic and Meta containment incidents, publishes the containment and secure cyber-evaluation best-practices paper it said in August 2026 it was writing, by 2026-11.
@@ -90,27 +77,45 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
-
-### alignment-2026-08-06
-- Claim: OpenAI or Anthropic transmits a written response to the 10 Aug 2026 Casar and Matsui oversight letters on the evaluation containment incidents, publicly released or publicly reported, by 2026-10.
-- Horizon: 0–12 months (logged 2026-08, resolve by 2026-10)
-- Source: https://casar.house.gov/sites/evo-subsites/casar.house.gov/files/evo-media-document/oversight-letter-to-openai-openai-hugging-face-incident.pdf, Aug 2026
-- Status: open
-- Grades:
-  - none yet
-
-### alignment-2026-08-07
-- Claim: Meta publishes the retrospective report on the Irregular-hosted evaluation incident involving Muse Spark 1.1 that it said on 6 Aug 2026 it would issue, by 2026-12.
-- Horizon: 0–12 months (logged 2026-08, resolve by 2026-12)
-- Source: https://www.insurancejournal.com/news/national/2026/08/06/880586.htm, Aug 2026
-- Status: open
-- Grades:
-  - none yet
+  - 2026-09-25: open, Irregular's 14 Aug 2026 incident post restates that it plans to issue an open whitepaper on containment best practices, but its research index through 22 Sep 2026 lists no such paper; resolve-by 2026-11 not passed (source: https://www.irregular.com/research/addressing-recent-incidents-ongoing-findings-and-path-forward, Aug 2026)
 
 ### alignment-2026-08-08
 - Claim: A committee of the US House of Representatives holds a public hearing at which Sam Altman or Dario Amodei testifies about the 2026 evaluation containment incidents, by 2027-03.
 - Horizon: 0–12 months (logged 2026-08, resolve by 2027-03)
 - Source: https://thenextweb.com/news/casar-house-democrats-ai-ceos-testify-johnson-hearing, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+  - 2026-09-25: open, no public House hearing with Altman or Amodei has occurred; the House Science Committee held a closed committee-wide staff briefing with OpenAI, Anthropic, METR and Hugging Face on 15 Sep 2026, while the CEOs appeared instead before the UN Security Council on 23 Sep 2026; resolve-by 2027-03 not passed (source: https://science.house.gov/2026/9/chairman-babin-issues-statement-following-briefing-on-ai-agent-cyber-incident, Sep 2026)
+
+### alignment-2026-09-01
+- Claim: The US Department of Justice Antitrust Division, alone or jointly with the FTC, publishes written guidance, a policy statement or a business review letter that specifically addresses safety coordination among frontier AI developers, by 2027-03.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-03)
+- Source: https://www.insurancejournal.com/news/national/2026/09/21/886227.htm, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### alignment-2026-09-02
+- Claim: A frontier developer other than OpenAI, Anthropic, Google/Google DeepMind or Meta (for example SpaceXAI/xAI, Microsoft, Amazon, Mistral, DeepSeek, Alibaba or Moonshot) publicly discloses, or two reputable outlets report, an evaluation or training incident in which its model accessed or acted on real external systems without authorisation, by 2027-03.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-03)
+- Source: https://www.bankinfosecurity.com/google-gemini-agents-access-real-companies-in-ai-safety-test-a-32882, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### alignment-2026-09-03
+- Claim: OpenAI publishes a report or notice on alignment.openai.com documenting misaligned behaviour observed in a publicly deployed model on production or customer traffic (not in RL training or pre-release evaluation), by 2027-06.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-06)
+- Source: https://alignment.openai.com/misalignment-reports/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### alignment-2026-09-04
+- Claim: OpenAI publicly names at least one external organisation to run technical safety assessments with in-training or in-office access, and at least one named organisation is a nonprofit (for example METR, Redwood Research or Apollo Research) rather than a commercial firm, by 2027-01.
+- Horizon: 0–12 months (logged 2026-09, resolve by 2027-01)
+- Source: https://thenextweb.com/news/openai-evaluators-training-phase, Sep 2026
 - Status: open
 - Grades:
   - none yet
@@ -132,3 +137,41 @@ Format: see ledger/README.md. Append-only.
 - Status: confirmed
 - Grades:
  - 2026-07: confirmed, procurement routinely requires governance evidence and audit rights; 77% of orgs building formal AI governance programs; same vagueness caveat (source: https://prefactor.tech/learn/ai-governance-compliance-statistics, 2026)
+
+### alignment-2026-08-01
+- Claim: METR publishes an independent third-party assessment or root-cause review of the July 2026 OpenAI Hugging Face or Anthropic cybersecurity-evaluation containment incidents, by 2027-03.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-03)
+- Source: https://the-decoder.com/after-hugging-face-incident-metr-urges-independent-root-cause-investigations-into-ai-agent-misbehavior/, Jul 2026
+- Status: confirmed
+- Grades:
+  - none yet
+  - 2026-08-13: open, OpenAI agreed on 3 Aug 2026 to an independent METR and Redwood Research review of the Hugging Face incident and Anthropic granted METR full transcript access, but the engagement is described as brief and narrowly scoped and METR's promised terms-of-engagement post has not appeared (its blog's latest entry is still 28 Jul 2026); resolve-by 2027-03 not passed (source: https://www.edtechinnovationhub.com/news/openai-agrees-to-independent-review-of-agents-hugging-face-hacking-incident, Aug 2026)
+  - 2026-09-25: confirmed, METR published on 26 Aug 2026 an unpaid, six-day on-site independent investigation of the OpenAI and Hugging Face incident with Redwood Research, answering seven root-cause questions on agent behaviour, reasoning and collaboration, though scoped to 26 Jun-13 Jul 2026 and excluding Anthropic's incidents (source: https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/, Aug 2026)
+
+### alignment-2026-08-04
+- Claim: Anthropic publishes the lightly redacted evaluation transcripts from the three cybersecurity-evaluation incidents it committed to releasing, by 2027-02.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-02)
+- Source: https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals, Jul 2026
+- Status: confirmed
+- Grades:
+  - none yet
+  - 2026-08-13: open, the 30 Jul 2026 post promised a lightly redacted PyPI transcript "within the next week", but two weeks on neither the newsroom (latest posts 4 and 7 Aug 2026) nor alignment.anthropic.com carries it, so the self-imposed deadline has lapsed while the claim's own resolve-by 2027-02 has not passed (source: https://www.anthropic.com/news, Aug 2026)
+  - 2026-09-25: confirmed, Anthropic released the lightly redacted Mythos 5 PyPI transcript on GitHub on 9 Sep 2026, which is the only transcript its 30 Jul post committed to (the other two incidents were deferred 'once we are able'), so the committed release landed about five weeks late (source: https://github.com/anthropics/mythos-5-incident-transcript, Sep 2026)
+
+### alignment-2026-08-06
+- Claim: OpenAI or Anthropic transmits a written response to the 10 Aug 2026 Casar and Matsui oversight letters on the evaluation containment incidents, publicly released or publicly reported, by 2026-10.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2026-10)
+- Source: https://casar.house.gov/sites/evo-subsites/casar.house.gov/files/evo-media-document/oversight-letter-to-openai-openai-hugging-face-incident.pdf, Aug 2026
+- Status: confirmed
+- Grades:
+  - none yet
+  - 2026-09-25: confirmed, both companies transmitted written responses, Anthropic on 24 Aug 2026 and OpenAI on 31 Aug 2026, which Rep. Casar publicly released and rebutted in follow-up letters and a press release on 2 Sep 2026 (source: https://casar.house.gov/sites/evo-subsites/casar.house.gov/files/evo-media-document/openai-follow-up-letter.pdf, Sep 2026)
+
+### alignment-2026-08-07
+- Claim: Meta publishes the retrospective report on the Irregular-hosted evaluation incident involving Muse Spark 1.1 that it said on 6 Aug 2026 it would issue, by 2026-12.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2026-12)
+- Source: https://www.insurancejournal.com/news/national/2026/08/06/880586.htm, Aug 2026
+- Status: confirmed
+- Grades:
+  - none yet
+  - 2026-09-25: confirmed, Meta published its retrospective on the Irregular-hosted Muse Spark 1.1 incident on 14 Aug 2026, reporting a review of over 10,000 activity records and committing to independent verification of test-environment isolation (source: https://research.meta.ai/blog/addressing-third-party-testing-misconfiguration-muse-spark-1-1, Aug 2026)
