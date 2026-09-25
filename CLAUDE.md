@@ -1,15 +1,19 @@
 # Attunement Monthly Observatory
 
-METHOD_VERSION: 2.1
+METHOD_VERSION: 2.2
 
-Entry skill for monthly runs: `orchestrator` (`.claude/skills/orchestrator/`).
-Manual skills: `outlook-generator` and `delta-report` (after human review),
-`instrument-review` (quarterly).
+Entry skill for every run: `orchestrator` (`.claude/skills/orchestrator/`).
+Manual skills: `delta-report` (monthly), `outlook-generator` (once per 4-month
+cycle, drafted on a schedule, published after human review),
+`instrument-review` (once per 4-month cycle).
 
 ## Mission
 
-Run a monthly foresight loop across 22 Human–AI themes that compounds:
-every run grades the previous runs' claims before making new ones.
+Run a fortnightly foresight loop across 22 Human–AI themes that compounds:
+every run grades the previous runs' claims before making new ones. The 22
+themes are split into two fixed cohorts of 11 (`themes/THEMES.md`); each run
+covers one cohort, so every theme is graded and swept every four weeks and
+deep-dived at least once per 4-month cycle (three cycles a year).
 Deep research is used as re-search, re-interrogating a standing set of
 falsifiable claims, not as one-off search.
 
@@ -30,10 +34,10 @@ Learning happens at three layers. Each has a different change speed and gate.
  Calibration NEVER modifies skills.
 
 3. **Instrument**, `.claude/skills/`
- Frozen between versions. Only `instrument-review` (quarterly, manually
- invoked) may propose changes, as diffs written to `proposals/`. A human
+ Frozen between versions. Only `instrument-review` (once per 4-month
+ cycle, manually invoked) may propose changes, as diffs written to `proposals/`. A human
  merges and bumps METHOD_VERSION. Agents must never edit skill files
- during a monthly run.
+ during a run.
 
 ## Global invariants (every skill, every run)
 
@@ -52,35 +56,43 @@ Learning happens at three layers. Each has a different change speed and gate.
 
 ## Two reader-facing outputs (Phase E)
 
-The month produces two distinct documents, and they must stay distinct:
+Two distinct documents, on different clocks, and they must stay distinct:
 
-- **The Outlook** (`outlook-generator`): a forward-looking narrative essay.
+- **The Outlook** (`outlook-generator`): a forward-looking narrative essay,
+ once per 4-month cycle, when all 22 themes have a fresh deep dive behind it.
  Storytelling, human-centered, no self-audit. This is the published piece.
-- **The Delta Report** (`delta-report`): the accountability companion. How
+ Cycles: Oct–Jan, Feb–May, Jun–Sep. Draft on the 25th of the cycle's last
+ month, in `output/cycle-YYYY-MM/`.
+- **The Delta Report** (`delta-report`): monthly, the accountability
+ companion, so scoring keeps pace with the fortnightly runs. How
  past claims graded, what shifted, which claims are on the clock, what the
  pipeline learned. This is where the numbers live.
 
 Keeping the audit out of the essay was a deliberate 2026-07 decision: the
 scorecard was destroying the outlook's readability. Do not merge them back.
 
-## Monthly loop
+## Fortnightly loop
+
+One run every two weeks, one cohort per run (the cohort whose last run is
+older). A run is about half the work of the old monthly run, which keeps it
+inside a single session's usage window.
 
 | Phase | Skill | Scope | Output |
 |-------|-------|-------|--------|
-| A | signal-grading | themes with open claims | `output/YYYY-MM-DD/01-grading/` + ledger grades |
-| B | evidence-sweep | all 22 themes | `output/YYYY-MM-DD/02-sweep/` + new ledger claims |
-| C | theme-selection | corpus | `output/YYYY-MM-DD/SELECTION.md` |
-| D | structural-question, theme-exploration, pestle-analysis, forces-feelings, scenario-generator, scenario-eval | selected 4–6 themes only | `output/YYYY-MM-DD/03-...` to `08-evaluation/` |
-| E | outlook-generator + delta-report | manual, after human review | `output/YYYY-MM-DD/09-outlook/outlook.md` + `delta-report.md` |
+| A | signal-grading | this run's cohort (11 themes) | `output/YYYY-MM-DD/01-grading/` + ledger grades |
+| B | evidence-sweep, then orchestrator dedupe and ledger append | this run's cohort (11 themes) | `output/YYYY-MM-DD/02-sweep/` + new ledger claims |
+| C | theme-selection | this run's cohort | `output/YYYY-MM-DD/SELECTION.md` |
+| D | structural-question, theme-exploration, pestle-analysis, forces-feelings, scenario-generator, scenario-eval | selected 4 themes | `output/YYYY-MM-DD/03-...` to `08-evaluation/` |
+| E | delta-report (monthly) and outlook-generator (per cycle) | manual publication after human review | delta: `output/YYYY-MM-DD/09-outlook/delta-report.md` in the month's last run folder; outlook: `output/cycle-YYYY-MM/` |
 
 ## Folder strategy
 
 ```text
 output/YYYY-MM-DD/
- 01-grading/ one file per theme with open claims
- 02-sweep/ one file per theme (22)
+ 01-grading/ one file per cohort theme (11)
+ 02-sweep/ one file per cohort theme (11)
  SELECTION.md selected themes + rationale + coverage table
- 03-structural-question/
+ 03-structural-question/ selected themes only (4)
  04-exploration/
  05-pestle/ selected themes only
  06-forces-feelings/
@@ -89,6 +101,7 @@ output/YYYY-MM-DD/
  09-outlook/
  PROGRESS.md
 ledger/ persistent, append-only, cross-month
+output/cycle-YYYY-MM/ the cycle Outlook (debug draft, then production)
 proposals/ instrument-review output, human-merged
 ```
 
@@ -112,5 +125,13 @@ per-day folder change (METHOD_VERSION 2.1); it was renamed to
 
 ## Themes
 
-`themes/THEMES.md` (22 themes). Coverage rule: every theme is deep-dived at
-least once per 5 months, enforced by `theme-selection`.
+`themes/THEMES.md` (22 themes in two cohorts of 11). Coverage rule: every
+theme is deep-dived at least once per 4-month cycle, enforced by
+`theme-selection`. The 22 themes are fixed and carry history from the v1
+observatory (github.com/SwePalm/ai-attunement-observability); do not merge,
+split or rename them.
+
+Note: METHOD_VERSION 2.2 (2026-09) replaced the monthly all-22 run with the
+fortnightly cohort run and tightened the coverage rule from 5 months to 4.
+Scorecards, eval scores and selection scores from 2.1 and earlier are not
+comparable with 2.2. See `proposals/2026-09-instrument-review.md`.

@@ -17,6 +17,7 @@ You will be given:
 - `exploration_output` (text)
 - `pestle_output` (text)
 - `sweep_output` (text from evidence-sweep)
+- `recent_irreplaceable_things` (the Irreplaceable Thing from every 06-forces-feelings file in the previous two runs, plus any sibling theme already written this run)
 
 ## Output contract (strict)
 Return exactly these sections:
@@ -42,7 +43,16 @@ Explanation:
 - At least 1 systemic contradiction must be directly grounded in sweep_output contradictions or regulatory/capital/technical tensions.
 - Normal Absurdities must be plausible daily-life norms (not tech specs).
 - At least 1 Normal Absurdity must be a plausible lived-expression of a sweep_output item.
-- Irreplaceable Thing must be emotional/social/physical and scarce in-world.
+- Irreplaceable Thing must be emotional, social, physical, material or
+ institutional, and scarce in-world.
+- The Irreplaceable Thing must be made scarce by a specific mechanism named in
+ sweep_output or pestle_output; the Explanation cites that item.
+- It must differ in kind from every item in `recent_irreplaceable_things`.
+ In particular, do not default to a variant of "a real person being present"
+ (company, being known, being checked or noticed by someone who is there):
+ six of six scenarios in the 2026-09-25 run resolved to it. If this theme's
+ evidence genuinely compels a repeat, say so in the Explanation and name the
+ evidence.
 - No scenario prose here. This is scaffolding, not story.
 
 ## Quality checks before finalizing

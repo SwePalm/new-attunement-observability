@@ -1,6 +1,6 @@
 ---
 name: instrument-review
-description: Quarterly, human-gated review of the method itself. Reads calibration and grading history, proposes skill diffs in proposals/. Never applies changes.
+description: Once per 4-month cycle, human-gated review of the method itself. Reads calibration and grading history, proposes skill diffs in proposals/. Never applies changes.
 ---
 
 # instrument-review
@@ -16,14 +16,16 @@ mirror rarely and deliberately (this skill).
 
 ## Cadence
 
-Quarterly, or earlier when >= 3 active calibration heuristics point at the
-same skill. Manual invocation only. Never part of the monthly loop.
+Once per 4-month coverage cycle (three times a year), at the end of the cycle,
+or earlier when >= 3 active calibration heuristics point at the same skill.
+Manual invocation only. Never part of a run.
 
 ## Input
 
 - ledger/CALIBRATION.md (active and retired heuristics)
-- last 3 months of output/*/01-grading/ (scorecards and surprises)
-- last 3 months of SELECTION.md files and scenario-eval subscores
+- the last 4-month cycle of output/*/01-grading/ (scorecards and surprises)
+- the last 4-month cycle of SELECTION.md files and scenario-eval subscores
+- PROGRESS.md "Flag for human review" sections from the same runs
 - current skills in .claude/skills/
 
 ## Output, proposals/YYYY-MM-instrument-review.md

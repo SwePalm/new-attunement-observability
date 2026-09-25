@@ -148,6 +148,10 @@ Notes:
 
 - Does this theme replicate structural patterns seen in other themes?
 - Is the emotional scarcity similar to other scenarios?
+- Compare this scenario's Irreplaceable Thing and Section 9 conclusion with
+ the scenarios of this run and the previous two runs (read their
+ 06-forces-feelings and 07-scenario files). Name any repeat explicitly;
+ a repeat caps Distinctiveness vs. Other Themes at 5.
 - Is there tonal homogeneity emerging?
 
 (If no comparison data available, state: "Not evaluated – no cross-theme context provided.")
