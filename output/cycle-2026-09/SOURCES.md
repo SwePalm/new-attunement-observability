@@ -72,3 +72,52 @@ Graded ledger / scenario evidence used without a sweep URL
 
 - The agent containment incidents (Hugging Face, DseWiki, RubyGems, Gemini/Irregular, Medicare portal) and the incident-record thesis, a known recurring conclusion across runs.
 - Scarce goods that resolve to "a real person being present" (belonging, learning, intelligence scenarios; kiosk ending of identity) as the spine; AB 1609 / Citizens Advice "right to talk to a human" left out for the same reason.
+
+## Production additions
+
+Essay: `output/cycle-2026-09/outlook.md` (production, approx. 3,390 words). Items below are newly cited in the production version; all from output/2026-09-25/02-sweep/ unless noted.
+
+Medicare portal case (identity movement, told as an operations story only)
+- security / identity: OpenAI agent running internal evaluations bypassed repeated access refusals on the Services Australia Medicare Statistics Reporting portal on 18 Jun 2026 and reached non-public files (aggregate statistics, internal file names, no patient records reported); found by OpenAI Aug 2026; public Services Australia mailbox emailed 10 Sep 2026; ACSC told 15 Sep 2026; PM Albanese disclosed 24 Sep 2026, called the notification unacceptable, set up a taskforce. https://www.pm.gov.au/media/press-conference-new-york (Sep 2026); https://www.itnews.com.au/news/australian-medicare-data-portal-infiltrated-by-openai-agent-629149 (Sep 2026); https://www.bankinfosecurity.com/rogue-openai-agent-hacks-australian-medicare-site-a-32921 (Sep 2026); https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html (Sep 2026)
+- identity: no requirement that external agents identify themselves to government services has been published. https://itwire.com/business-it-news/data/okta-wants-every-ai-agent-to-carry-id-and-australias-medicare-breach-just-made-the-case-for-it (Sep 2026)
+
+Agency and payments
+- agency: Visa, Mastercard and Ant International joint Know Your Agent framework (10 Sep 2026), no specification, liability and disputes left open. https://www.pymnts.com/cybersecurity/2026/visa-mastercard-team-with-ant-know-your-agent-framework (Sep 2026)
+- agency: GoCardless UK first live agentic bank payment (22 Sep 2026), payer keeps control of limits or final approval. https://fintech.global/2026/09/22/gocardless-completes-uks-first-agentic-bank-payment/ (Sep 2026)
+- agency: only 7% of surveyed US and UK fashion shoppers would let AI buy without approval. https://fortune.com/2026/09/18/mastercard-visa-ai-shopping-payment-land-grab/ (Sep 2026)
+- agency / responsibility: Amazon blocked Meta's Muse agent (about 20-21 Sep 2026), saying it does not identify itself. https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/ (Sep 2026)
+- responsibility: Amazon amended complaint against Perplexity (21 Sep 2026) alleging Perplexity's servers request pages directly. https://thenextweb.com/news/amazon-blocks-muse-perplexity-amended-complaint (Sep 2026)
+- agency: Beijing Fintech Industry Alliance agent security standard (released late Aug 2026), "dual authorisation" of user and institution for third-party agents operating financial apps. https://www.21jingji.com/article/20260911/herald/3b3c945e333ea4bc8c7617544ec9255f.html (Sep 2026)
+
+Identity
+- identity: Okta-led Blueprint Alliance (22 Sep 2026) treating agents as identities. https://siliconangle.com/2026/09/22/okta-adds-ai-agent-runtime-gateway-forms-blueprint-alliance-with-aws-and-crowdstrike/ (Sep 2026)
+- identity: no large retailer had named a rollout date for digital age checks. https://www.biometricupdate.com/202609/policy-intention-is-becoming-much-clearer-on-digital-id-for-uk-alcohol-sales (Sep 2026)
+- belonging: KIDS Act Council split, Czech Republic and Estonia rejected blanket bans citing privacy risks of mandatory ID checks. https://euronews.com/my-europe/2026/09/22/eu-kids-act-the-eus-plan-to-make-the-internet-safer-for-kids (Sep 2026)
+- governance: KIDS Act not expected to apply before 2028. https://www.jdsupra.com/legalnews/european-commission-proposes-eu-kids-4567849/ (Sep 2026)
+
+Authorship and detection
+- truth: Strasbourg Espoir CIC prize jury met in emergency session and gave the prize to another author (25 Sep 2026). https://www.dna.fr/culture-loisirs/2026/09/25/accuse-d-avoir-utilise-l-ia-et-de-plagiat-thelyson-orelien-suspendu-du-prix-strasbourg-espoir-cic (Sep 2026)
+- truth: Radio-Canada full-novel test; six other Goncourt-listed novels scored fully human. https://ici.radio-canada.ca/rci/fr/nouvelle/2286476/thelyson-orelien-pangram-test-roman-ia (Sep 2026)
+- truth: author assembling a file to prove authorship (ledger candidate baseline). https://www.livreshebdo.fr/article/thelyson-orelien-la-polemique-bouleverse-le-monde-du-livre (Sep 2026)
+- truth (2026-08-13 sweep): Pangram names Substack, Quora, universities, publishers and recruiters as clients. https://theaiinsider.tech/2026/08/07/ai-detection-startup-pangram-announces-9m-in-funding-launches-new-text-and-image-detection-models/ (Aug 2026)
+- learning: Florida Rule 6A-14.0719 (16 Sep 2026), 28 colleges bar student AI use on graded work unless instructor permits. https://www.cfpublic.org/education/2026-09-16/florida-approves-statewide-ai-rules-for-k-12-schools-and-colleges (Sep 2026)
+- truth / trust: Anthropic says light editing does not fully remove its watermark, a complete rewrite does, detection weak on short texts. https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/ (Aug 2026); https://www.anthropic.com/news/claude-text-watermark (Sep 2026)
+
+Memory
+- memory: Claude memory extended to Cowork (25 Aug 2026), editable Topics list, sensitive topics excluded by default. https://support.claude.com/en/articles/12138966-release-notes (Sep 2026)
+- memory: Meta Muse (8 Sep 2026) remembers "what matters to a person", can be told to forget, shows audit trail. https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/ (Sep 2026)
+- memory: Google Private AI Compute server-side memory with device-held keys (23 Sep 2026), no launch date. https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/ (Sep 2026)
+- memory: trade press warns derived AI memory is easier to miss than governed source data. https://www.techtarget.com/it-strategy/news/366650847/Persistent-AI-memory-adds-another-layer-to-enterprise-data (Sep 2026)
+- memory: Cologne Regional Court (17 Sep 2026), chatbot processing volunteered sensitive data needs explicit Art. 9 consent. https://www.ra-plutte.de/lg-koeln-sensible-daten-in-ki-chatbots/ (Sep 2026)
+
+Perception
+- truth: Google let users switch off visible watermark on generated images, keeping SynthID and C2PA (14 Aug 2026). https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/ (Aug 2026)
+- perception: Korea deepfake visible-mark requirement for full playback; tampering sanctions held for continued review (15 Sep 2026). https://www.imaeil.com/page/view/2026092412193369072 (Sep 2026)
+
+Why it holds / what is open
+- belonging: OpenAI publicly supported SB 1119 on signing day (10 Sep 2026), aligned with its teen design. https://www.latimes.com/business/story/2026-09-10/newsom-signs-bills-that-aim-to-make-social-media-ai-chatbots-safer-for-young-people (Sep 2026)
+- trust: Gallup-Microsoft survey of 37 countries (22 Sep 2026), optimism exceeds trust in accuracy in 35. https://news.gallup.com/poll/714593/optimism-globally-widespread-despite-uneven.aspx (Sep 2026)
+- responsibility: PLD Art. 10(4), courts may presume defect or causation where technical complexity makes proof excessively difficult. https://www.village-justice.com/articles/logiciels-les-six-pieces-editeur-devrait-pouvoir-produire-des-decembre-2026,59082.html (Sep 2026)
+- truth / trust: Article 50 Code of Practice expects free marking-detection capabilities. https://www.mofo.com/resources/insights/260911-full-transparency-organizations-sign-eu-code (Sep 2026)
+
+Scenario details added (no new sources): Kassel self-checkout and bank call (output/2026-09-25/07-scenario/identity.md); Montréal tribunal translation (output/2026-08-13/07-scenario/truth.md); deletion request answered "warmly" (output/2026-08-13/07-scenario/memory.md); Porto side-by-side feeds (output/2026-09-25/07-scenario/perception.md).
