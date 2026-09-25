@@ -157,16 +157,91 @@ anything; it was rerun from scratch after the reset.
 
 ## Phase D, deep dives (selected themes)
 
-- [ ] intelligence, six steps
-- [ ] perception, six steps
-- [ ] learning, six steps
-- [ ] identity, six steps
-- [ ] agency, six steps
-- [ ] belonging, six steps
+- [x] intelligence, six steps
+- [x] perception, six steps
+- [x] learning, six steps
+- [x] identity, six steps
+- [x] agency, six steps
+- [x] belonging, six steps
+
+All 36 step files written, each step in order. Ledger untouched by Phase D.
+No scenario names a calibration heuristic in reader-facing prose.
+
+Each theme was assigned a distinct structural form at the prompt level:
+intelligence, one public number revisited at intervals; perception, one
+viewer's feeds over a week; learning, one school year term by term from a
+student and a parent; identity, one day as a sequence of identity checks;
+agency, one disputed agent purchase as a case file; belonging, a year of
+messages between two people.
+
+Scenario eval scores: intelligence 7.7, perception 7.5, learning 7.5, identity
+7.5, belonging 7.2, agency 7.1. Mean 7.4, against 7.6 on 2026-08-13. All six
+citation gates pass, each with defects recorded rather than concealed; agency's
+includes one load-bearing defect (the agent-drafted mandate is PESTLE inference
+stated as present fact). Distinctiveness scored 5 to 7, below last run's 7 to 8.
 
 ## Blocked items
 
+None. Every checklist item is [x].
+
 ## Flag for human review
+
+1. Stacking. PR #2 (the 2026-08-13 run) was unmerged at run start, so this
+   branch is stacked on observatory-2026-08 and its PR targets that branch.
+   Merge PR #2 first; GitHub will then retarget this PR to main.
+
+2. The retrodiction rate fell sharply, 13 of 42 confirmations against five of six
+   last run, but the forward confirmations are weaker evidence than the number
+   suggests. Four events account for 10 of the 29 forward confirmations
+   (CAL-008), and most of the rest restate a pre-announced plan or a scheduled
+   procedural step (CAL-009). The run's cleanest foresight signal is its three
+   falsifications, all genuine forward misses.
+
+3. Duplicate claims, now an instrument problem. Parallel sweeps cannot see each
+   other's candidates, so six events were logged 13 times in this run's 71 new
+   claims (groups listed under Phase B). The duplicates cannot be removed from an
+   append-only ledger. Instrument-review item: a dedupe pass across all sweeps'
+   Ledger Candidates before any ledger append, or a shared event registry.
+
+4. A new scenario attractor. The incident-record conclusion flagged twice before
+   was avoided in four of six themes; agency touches it and perception sits next
+   to it, both recorded in their evals. But four evals independently reported that
+   every scarce good this run resolves to the same thing: a real person being
+   present (company in the stuck part, being checked by someone who knows you,
+   a correspondent who notices silence). Distinctiveness fell to 5 to 7 as a
+   result. The forms diverged and the endings did not, which points at the
+   forces-feelings "irreplaceable thing" step rather than the narrative form.
+   Instrument-review item.
+
+5. Theme-selection instrument. The contradiction-density dimension is undefined
+   in the skill, and this run's reading (substantive tensions only) decided the
+   sixth slot: a literal count would have selected meaning instead of agency.
+   Evidence delta also saturated (15 of 22 themes scored 5 over 43 days).
+   Coverage arithmetic is tight: 22 themes at a 5-month rule need about 4.4 dives
+   a month, and six re-dives fall due by 2026-12. The next run should take
+   dependency and meaning (the last two backlog themes) regardless of score.
+
+6. A later phase corrected a Phase A grade for the third consecutive run
+   (perception-2026-08-04, found by the perception sweep). The grading pass
+   searched for the claim's intended mechanism, not the literal claim text.
+
+7. Research tooling degraded mid-run. The session-wide WebSearch budget ran out
+   during Phase A and Brave Search rate-limited. Later graders fell back to direct
+   fetches and a Bing News RSS discovery one-liner; a helper script for it was
+   blocked by the permission classifier and was not worked around. Several
+   graders say their coverage on specific claims was thinner as a result, and
+   their `open` grades there mean "not found" (CAL-005). A session usage limit also
+   killed the first Phase C attempt, which was rerun cleanly.
+
+8. Process slips, harmless. Several subagents ran a read-only `git diff --stat`
+   against their instructions. Nothing was staged or changed by it.
+
+9. Near-term resolutions worth grading first next run: meaning-2026-08-05 and
+   labor-2026-09-01 and meaning-2026-09-01 (California signing deadline 30 Sep
+   2026), identity-2026-08-01 (OIDF vote closes 30 Sep), coordination-2026-08-01
+   (IESG telechat 8 Oct), dependency-2026-08-02 (FSB report, Oct), learning-
+   2026-08-02 (Maryland deadline 22 Oct), authority-2026-07-01 (Colorado hearing
+   26 Oct).
 
 ## Phase E, not run
 

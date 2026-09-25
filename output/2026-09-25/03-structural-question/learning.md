@@ -1,0 +1,8 @@
+Structural Question:
+By the 2027-28 school year, which layer will actually set the operative rule for whether a given student may use generative AI on a given piece of graded work: the district or state instrument (the one-year moratoria in New York City and Los Angeles, Florida's Rule 6A-1.0957 opt-out and Rule 6A-14.0719 default prohibition), the vendor default configuration (Gemini in Google Classroom switched on for students of all ages), or the individual instructor's override, and when those layers disagree about the same assignment, who bears the cost of the disagreement?
+
+Why It Matters:
+In one 43-day window the two largest US districts suspended student-facing generative AI for 2026-27 while Google made Gemini in Classroom default-on for students of every age, and on 16 Sep 2026 Florida's State Board adopted both a K-12 rule built on parental notice and opt-out (confirming learning-2026-08-04 and learning-2026-08-05) and a college rule that bars AI on graded work unless the instructor permits it. Each instrument places the decision at a different layer and each is scoped to a different horizon (a single school year, a 1 Jul 2027 policy deadline, a standing college rule), so the conflicts arrive when the one-year moratoria sunset and the Florida district policies first take effect in the same school year. The evidence base that would settle the question on learning grounds is not moving at the same speed: the largest randomized trial of a production tutor (NBER w35620, Aug 2026) found gains of 0.06 to 0.08 SD per year, similar to non-AI practice, and it is still a working paper (learning-2026-07-02 open), so the layering is being decided on protection, procurement and default settings rather than on outcomes.
+
+Volatility Level:
+high
