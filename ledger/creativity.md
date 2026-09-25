@@ -30,6 +30,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
  - 2026-08-04: open, no franchise-scale deal announced since the claim was logged; the two largest reference points (Disney and OpenAI, Dec 2025, and Getty Images and OpenAI, Jun 2026) both predate it, and no new $100M+ rights-holder deal surfaced in Jul or early Aug 2026 (source: https://openai.com/index/disney-sora-agreement/, Dec 2025)
  - 2026-08-13: open, Suno announced a global licensing alliance with BMG on 12 Aug 2026 covering recorded and publishing repertoire plus settlement of prior training use, which is a major rights holder and generative platform deal, but the consideration is undisclosed so it cannot be scored against the $100M+ threshold (source: https://www.musicbusinessworldwide.com/suno-inks-global-licensing-deal-with-bmg/, Aug 2026)
+  - 2026-09-25: open, no rights-holder deal announced since 2026-08-13 is scorable at $100M+: Universal Music Group and ElevenLabs signed a multi-year licensing agreement on 10 Sep 2026 and Suno launched v6 with Warner, BMG and Believe as licensed partners on 9 Sep 2026, all with undisclosed consideration, while the Dec 2025 Disney and OpenAI reference deal never closed after OpenAI cancelled Sora in Mar 2026 (source: https://elevenlabs.io/blog/umg, Sep 2026)
 
 ### creativity-2026-07-02
 - Claim: A US court or the Copyright Office issues concrete guidance on the human-authorship threshold for AI-assisted (not AI-only) works by mid-2027.
@@ -38,6 +39,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
  - 2026-08-04: open, nothing new since the Supreme Court denied certiorari in Thaler v. Perlmutter (Mar 2026), which settled AI-only authorship and left the AI-assisted threshold governed by the 2023 registration guidance and the 2025 Part 2 report (source: https://www.bakerdonelson.com/supreme-court-denies-certiorari-in-thaler-v-perlmutter-ai-cannot-be-an-author-under-the-copyright-act, Mar 2026)
+  - 2026-09-25: open, no new court ruling or Copyright Office guidance on the AI-assisted authorship threshold was verified; Allen v. Perlmutter (D. Colo.) remained fully briefed with no merits decision reported as of Aug 2026, and the CourtListener docket returned HTTP 403, so a possible September 2026 order could not be checked and should be re-checked next run
 
 ### creativity-2026-07-03
 - Claim: A collective-licensing body or platform for individual creators' training rights launches with at least one major AI lab as customer by mid-2027, testing whether the post-Bartz vacuum gets filled by market design.
@@ -46,6 +48,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
  - 2026-08-04: open, market-design activity is visible (Mozilla Data Collective launched compensated datasets on 30 Jul 2026, Cloudflare acquired Human Native in Jan 2026) but these are organisation-side data marketplaces with no named major AI lab customer, so the individual-creator collective-licensing test is not yet met (source: https://www.manilatimes.net/2026/07/30/tmt-newswire/globenewswire/mozilla-data-collective-launches-compensated-datasets-to-help-organisations-license-global-diverse-ai-training-data/2395126, Jul 2026)
+  - 2026-09-25: open, no collective-licensing body for individual creators' training rights with a named major AI lab customer was found; licensing activity since Aug 2026 stayed bilateral between platforms and labels or publishers (Universal Music Group and ElevenLabs on 10 Sep 2026, Suno v6 partners on 9 Sep 2026) rather than collective (source: https://elevenlabs.io/blog/umg, Sep 2026)
 
 ### creativity-2026-08-01
 - Claim: At least one EU national market surveillance authority or the AI Office publicly opens a formal proceeding, or issues a public finding or fine, against a named generative AI provider or deployer for breach of AI Act Article 50 marking or labelling duties.
@@ -54,14 +57,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
-
-### creativity-2026-08-02
-- Claim: At least one new US lawsuit filed after 31 Jul 2026 by a content owner against an AI developer or AI search company pleads DMCA section 1201(a) anti-circumvention among its lead claims, following the Reddit v. Perplexity ruling.
-- Horizon: 0–12 months (logged 2026-08, resolve by 2027-03)
-- Source: https://www.mlex.com/mlex/articles/2508237/us-judge-allows-reddit-anti-circumvention-claims-vs-perplexity-ai-serpapi, Jul 2026
-- Status: open
-- Grades:
-  - none yet
+  - 2026-09-25: open, no EU market surveillance authority or AI Office proceeding, finding or fine against a named provider or deployer for Article 50 marking or labelling breach was found, and providers of generative systems already on the market before 2 Aug 2026 have until 2 Dec 2026 to meet the marking duty, so the main enforceable window for incumbents has not yet opened (source: https://www.stibbe.com/publications-and-insights/the-ai-acts-transparency-obligations-rules-scope-and-timeline, Jul 2026)
 
 ### creativity-2026-08-03
 - Claim: At least one of Spotify, Apple Music, Amazon Music or YouTube Music publicly announces that fully AI-generated tracks are excluded from its main charts, excluded from algorithmic recommendation, or placed in a separate royalty tier.
@@ -70,6 +66,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - 2026-08-13: open, Spotify announced on 11 Aug 2026 an AI Persona badge (rolling out mid-September) that keeps flagged artists out of editorial and algorithmic recommendations by default, which matches the recommendation-exclusion mechanism but is explicitly keyed to the artist's public identity rather than to how the music was made, so the claim's "fully AI-generated tracks" criterion is not yet met (source: https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/, Aug 2026)
+  - 2026-09-25: open, the only new mechanism from the four named services is Spotify's AI Persona badge, now rolling out and still keyed to synthetic artist identity rather than to fully AI-generated tracks, and none of Spotify, Apple Music, Amazon Music or YouTube Music has announced chart exclusion, recommendation exclusion or a separate royalty tier for fully AI-generated tracks (source: https://support.spotify.com/us/article/ai-persona-badge/, Sep 2026)
 
 ### creativity-2026-08-04
 - Claim: The UK AI content labelling taskforce announced by DSIT on 18 Mar 2026 publishes its promised interim report.
@@ -78,6 +75,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-09-25: open, the DSIT labelling taskforce interim report is still referenced only as due in autumn 2026 in parliamentary answers and law-firm trackers, and no publication was found; resolve-by 2026-12 remains live
 
 ### creativity-2026-08-05
 - Claim: Billboard (Penske Media Corporation) or the Official Charts Company in the UK publicly announces AI chart eligibility rules for at least one of its charts, following the 29 Jul 2026 label proposal and IFPI's 30 Jul 2026 rollout.
@@ -86,6 +84,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-09-25: open, neither Billboard nor the Official Charts Company has issued AI chart eligibility rules; ARIA in Australia did so on 25 Aug 2026, effective from the chart dated 31 Aug 2026, which shows the IFPI principles propagating to national chart bodies but not yet to the two named actors (source: https://www.aria.com.au/charts/news/aria-charts-set-eligibility-rules-for-recordings-made-with-ai, Aug 2026)
 
 ### creativity-2026-08-06
 - Claim: The US Copyright Office publishes the final, non pre-publication version of Part 3 of its Copyright and Artificial Intelligence report (Generative AI Training), which has remained in pre-publication form since 9 May 2025.
@@ -94,6 +93,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-09-25: open, the Copyright Office AI page still describes Part 3 as the 9 May 2025 pre-publication version, with a final version to be published in the future and no date announced (source: https://www.copyright.gov/ai/, Sep 2026)
 
 ### creativity-2026-08-07
 - Claim: Suno files an appeal with the Oberlandesgericht Munchen (Munich Higher Regional Court) against Munich Regional Court I's 31 Jul 2026 judgment in GEMA v Suno.
@@ -102,6 +102,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-09-25: open, no appeal to the Oberlandesgericht Munchen was reported by Suno, GEMA or the legal press, and GEMA's AI news page lists nothing after 31 Jul 2026; German appeals are often filed without announcement, so absence of coverage is not evidence that no appeal was lodged (source: https://www.gema.de/de/aktuelles/ki-und-musik, Sep 2026)
 
 ### creativity-2026-08-08
 - Claim: GEMA publicly announces a generative-AI licensing agreement with at least one of Suno, Udio, Stability AI or ElevenLabs, converting its two Munich wins into a paid licence rather than an injunction.
@@ -110,6 +111,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - 2026-08-13: open, no GEMA licence announced, but Suno signed a global licensing alliance with Berlin-based BMG on 12 Aug 2026, twelve days after the Munich judgment, settling prior use and adding an opt-in for artists and songwriters, which shows Suno converting adverse German rulings into paid licences via rights holders other than GEMA (source: https://www.musicbusinessworldwide.com/suno-inks-global-licensing-deal-with-bmg/, Aug 2026)
+  - 2026-09-25: open, GEMA's AI news page shows no licensing agreement with Suno, Udio, Stability AI or ElevenLabs through Sep 2026, while ElevenLabs licensed Universal Music Group on 10 Sep 2026 instead, extending the pattern of AI providers licensing private rights holders rather than the winning collecting society (source: https://www.gema.de/de/aktuelles/ki-und-musik, Sep 2026)
 
 ### creativity-2026-08-09
 - Claim: Spotify's AI Persona badge becomes visible to listeners on at least one public artist profile, as announced for mid-September 2026.
@@ -118,14 +120,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
-
-### creativity-2026-08-10
-- Claim: Suno publicly launches the new generation of models it describes as developed in partnership with the music industry, and states that its prior models are retired.
-- Horizon: 0–12 months (logged 2026-08, resolve by 2027-01)
-- Source: https://suno.com/blog/suno-updates-tos, Aug 2026
-- Status: open
-- Grades:
-  - none yet
+  - 2026-09-25: open, Spotify's listener help page describes the badge as shown on artist profiles, artist details and search with track rows "coming soon", and its artist help page says badges are gradually rolling out and listeners might not see them yet, but no report naming a specific badged public profile was found, so the claim is probable but unverified (source: https://support.spotify.com/us/article/ai-persona-badge/, Sep 2026)
 
 ### creativity-2026-08-11
 - Claim: At least one of Universal Music Group, Warner Music Group, Sony Music or BMG publicly discloses a specific allocation mechanism (a per-track or per-use rate, a stated revenue-share percentage, or a defined payment pool) by which generative-AI licensing or settlement revenue reaches featured artists, songwriters or session musicians, rather than stating only that participants will be compensated.
@@ -134,6 +129,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-09-25: open, no named label has disclosed a rate, percentage or payment pool; the UMG and ElevenLabs announcement of 10 Sep 2026 says only that artists and songwriters will be fairly compensated, and Suno's v6 launch says only that it will share a portion of revenue with partners (source: https://elevenlabs.io/blog/umg, Sep 2026)
 
 ## Resolved claims
 
@@ -152,3 +148,21 @@ Format: see ledger/README.md. Append-only.
 - Status: confirmed
 - Grades:
  - 2026-07: confirmed, procurement routinely requires governance evidence and audit rights; 77% of orgs building formal AI governance programs; same vagueness caveat (source: https://prefactor.tech/learn/ai-governance-compliance-statistics, 2026)
+
+### creativity-2026-08-02
+- Claim: At least one new US lawsuit filed after 31 Jul 2026 by a content owner against an AI developer or AI search company pleads DMCA section 1201(a) anti-circumvention among its lead claims, following the Reddit v. Perplexity ruling.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-03)
+- Source: https://www.mlex.com/mlex/articles/2508237/us-judge-allows-reddit-anti-circumvention-claims-vs-perplexity-ai-serpapi, Jul 2026
+- Status: confirmed
+- Grades:
+  - none yet
+  - 2026-09-25: confirmed, Round Hill Music filed separate complaints against Suno and against Anthropic in the Northern District of California on 17 Aug 2026, pleading circumvention of access controls under the DMCA alongside direct infringement and removal of copyright management information (source: https://www.musicbusinessworldwide.com/round-hill-sues-suno-and-anthropic-for-up-to-1bn-apiece-it-isnt-looking-to-settle/, Aug 2026)
+
+### creativity-2026-08-10
+- Claim: Suno publicly launches the new generation of models it describes as developed in partnership with the music industry, and states that its prior models are retired.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-01)
+- Source: https://suno.com/blog/suno-updates-tos, Aug 2026
+- Status: confirmed
+- Grades:
+  - none yet
+  - 2026-09-25: confirmed, Suno launched the v6 model family on 9 Sep 2026, stating the models were developed with industry partners including Warner Music Group, BMG and Believe and that it will retire its previous models and move entirely onto v6 (source: https://suno.com/blog/introducing-v6, Sep 2026)

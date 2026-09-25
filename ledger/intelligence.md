@@ -29,14 +29,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
  - 2026-08-04: open, no audit yet reports frontier production success above 80%, and the largest new telemetry sample points the other way (56.6% success across 4.5M runs on 6,259 deployed agents), but 13 months remain on the horizon (source: https://www.foundra.ai/key-reads/ai-agent-production-reliability-testing-2026, Jul 2026)
-
-### intelligence-2026-08-01
-- Claim: A model exceeds 60% on the official ARC Prize ARC-AGI-3 leaderboard by 2027-06.
-- Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
-- Source: https://arcprize.org/results/anthropic-claude-opus-5, Jul 2026
-- Status: open
-- Grades:
-  - none yet
+ - 2026-09-25: open, no credible audit reports frontier-model production success above 80%; the closest new figure found is a Salesforce optimization study lifting enterprise task success from 29.2% to 78.0% on an open-weights model under tuned conditions, which is neither frontier nor a production audit (source: https://404kresearch.substack.com/p/404k-semi-ai-ai-model-weekly-2026-472, Sep 2026)
 
 ### intelligence-2026-08-02
 - Claim: The US federal government publicly publishes the EO 14409 covered-frontier-model designation framework or its criteria, via Federal Register notice or an official NSA, NIST, CISA or OSTP publication, by 2027-02.
@@ -45,6 +38,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-09-25: open, a Federal Register API query for "frontier model" and for "14409" over documents published since 2026-08-01 returns zero results, and the CAISI page carries no designation framework or criteria through 25 Sep 2026 (source: https://www.federalregister.gov/api/v1/documents.json, Sep 2026)
 
 ### intelligence-2026-08-03
 - Claim: The US Department of Commerce or BIS imposes a new export-control access restriction on a named frontier AI model that is first released after 2026-08-04, by 2027-05.
@@ -53,6 +47,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-09-25: open, BIS press releases for Aug and Sep 2026 contain no AI model action, and the post-2026-08-04 frontier releases checked (Claude Opus 5.5 on 22 Sep 2026, GPT-6 Astra on 3 Sep 2026) launched with no reported access restriction (source: https://www.bis.gov/news-updates, Sep 2026)
 
 ### intelligence-2026-08-04
 - Claim: The European AI Office takes its first publicly reported formal enforcement step against a named GPAI provider (a Commission-decision request for information, a compelled model evaluation, or an opened proceeding) by 2027-05.
@@ -61,22 +56,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
-
-### intelligence-2026-08-05
-- Claim: ARC Prize publishes an ARC-AGI-3 result for a SpaceXAI Grok-family model first released on or after 2026-08-12, on its verified leaderboard at arcprize.org (reasoning-systems track), by 2027-01.
-- Horizon: 0–12 months (logged 2026-08, resolve by 2027-01)
-- Source: https://benchlm.ai/benchmarks/arcagi3, Aug 2026
-- Status: open
-- Grades:
-  - none yet
-
-### intelligence-2026-08-06
-- Claim: Artificial Analysis reports an Intelligence Index score of 64 or higher for at least one model on artificialanalysis.ai/leaderboards/models, in any reasoning configuration, by 2027-01. The verified maximum on 2026-08-13 is 63 (Claude Opus 5, max and xhigh).
-- Horizon: 0–12 months (logged 2026-08, resolve by 2027-01)
-- Source: https://artificialanalysis.ai/leaderboards/models, Aug 2026
-- Status: open
-- Grades:
-  - none yet
+  - 2026-09-25: open, no formal AI Act enforcement step against a named GPAI provider has been reported; the 31 Aug 2026 designation of ChatGPT is under the Digital Services Act, not the AI Act, and the AI Board's 17 Sep 2026 meeting named no provider (source: https://digital-strategy.ec.europa.eu/en/news/ai-board-holds-its-ninth-meeting, Sep 2026)
 
 ### intelligence-2026-08-07
 - Claim: METR publishes an updated task-completion time-horizon measurement at metr.org/time-horizons/ that includes at least one model first released on or after 2026-06-01, by 2027-02. The page has been dated 8 May 2026 since before the June and July 2026 model wave.
@@ -85,6 +65,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-09-25: open, metr.org/time-horizons/ is still marked last updated 8 May 2026 with no post-June model; METR published a predeployment summary of Claude Opus 5.5 on 22 Sep 2026 on its blog but it gives no time-horizon figure (source: https://metr.org/blog/2026-09-22-claude-opus-5-5/, Sep 2026)
 
 ## Resolved claims
 
@@ -119,3 +100,30 @@ Format: see ledger/README.md. Append-only.
 - Status: confirmed
 - Grades:
  - 2026-07: confirmed, procurement routinely requires governance evidence and audit rights; 77% of orgs building formal AI governance programs; same vagueness caveat (source: https://prefactor.tech/learn/ai-governance-compliance-statistics, 2026)
+
+### intelligence-2026-08-01
+- Claim: A model exceeds 60% on the official ARC Prize ARC-AGI-3 leaderboard by 2027-06.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://arcprize.org/results/anthropic-claude-opus-5, Jul 2026
+- Status: confirmed
+- Grades:
+  - none yet
+  - 2026-09-25: confirmed, ARC Prize verified GPT-6 Astra at 62.7% on ARC-AGI-3 Semi-Private under its Standard harness (99.9% under the Provider Adapter harness), published 3 Sep 2026 (source: https://arcprize.org/blog/astra, Sep 2026)
+
+### intelligence-2026-08-05
+- Claim: ARC Prize publishes an ARC-AGI-3 result for a SpaceXAI Grok-family model first released on or after 2026-08-12, on its verified leaderboard at arcprize.org (reasoning-systems track), by 2027-01.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-01)
+- Source: https://benchlm.ai/benchmarks/arcagi3, Aug 2026
+- Status: confirmed
+- Grades:
+  - none yet
+  - 2026-09-25: confirmed, ARC Prize lists a verified ARC-AGI-3 Semi-Private result of 2.11% (XHigh) for Grok 4.6, released 12 Aug 2026, though ARC Prize dates the row 11 Aug 2026 and its publication date could not be independently established (source: https://arcprize.org/results/xai-grok-4-6, Sep 2026)
+
+### intelligence-2026-08-06
+- Claim: Artificial Analysis reports an Intelligence Index score of 64 or higher for at least one model on artificialanalysis.ai/leaderboards/models, in any reasoning configuration, by 2027-01. The verified maximum on 2026-08-13 is 63 (Claude Opus 5, max and xhigh).
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-01)
+- Source: https://artificialanalysis.ai/leaderboards/models, Aug 2026
+- Status: confirmed
+- Grades:
+  - none yet
+  - 2026-09-25: confirmed, Artificial Analysis reported Claude Fable 5.1 (max) at 66 and (xhigh) at 65 on 1 Sep 2026, before rebasing the index to v4.2 (4 Sep) and v4.3 (7 Sep), under which the leaderboard maximum is now 58 (source: https://artificialanalysis.ai/articles/claude-fable-5-1, Sep 2026)

@@ -30,6 +30,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
  - none yet
  - 2026-08-04: open, the Conference Board Job Satisfaction survey is annual and the May 2026 wave remains the latest published; no successor wave exists yet against which the AI-confidence gap could be compared (source: https://www.conference-board.org/topics/job-satisfaction/press/job-satisfaction-2026, May 2026)
+ - 2026-09-25: open, the Conference Board Job Satisfaction survey is annual and its 2 Jun 2026 release remains the latest wave, so no successor exists yet against which the AI-confidence gap could widen or converge (source: https://www.conference-board.org/topics/job-satisfaction/press/job-satisfaction-2026, Jun 2026)
 
 ### meaning-2026-08-01
 - Claim: Rutgers AAUP-AFT ratifies a successor collective agreement containing an explicit technology or AI article covering faculty autonomy over instructional technology decisions.
@@ -38,6 +39,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-09-25: open, Rutgers AAUP-AFT bargaining is active but far from settlement: the Coalition of Rutgers Unions tabled a comprehensive AI proposal (joint AI committee, human final authority) on 4 Sep 2026 and awaits management counterproposals, and the 17 Sep 2026 update reports no tentative agreements on any article (source: https://rutgersaaup.org/cru-bargaining-update-22-september-4-2026/, Sep 2026)
 
 ### meaning-2026-08-02
 - Claim: Gallup's next US employee engagement release covering a period after June 2026 reports US engagement at or below 31%.
@@ -46,6 +48,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-09-25: open, Gallup's latest US engagement release is still the 21 Jul 2026 report covering Feb and May 2026 fieldwork at 31%, and no release covering a period after June 2026 has appeared (source: https://www.gallup.com/workplace/712433/employee-engagement-remains-flat-adoption-accelerates.aspx, Jul 2026)
 
 ### meaning-2026-08-03
 - Claim: The NYSNA class-action grievance over the 12 Montefiore utilization review nurses produces a publicly reported arbitration award or settlement.
@@ -54,6 +57,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-09-25: open, no arbitration award or settlement of the NYSNA Montefiore grievance is publicly reported; the latest coverage found (Prism, 3 Aug 2026, republished 7 Aug 2026) confirms the 12 nurses were terminated in early July and reports no award, settlement, or hearing (source: https://therealnews.com/new-york-city-nurses-say-ai-is-replacing-them, Aug 2026)
 
 ### meaning-2026-08-04
 - Claim: A named Fortune 500 employer publishes a written, employer-initiated commitment guaranteeing a minimum level of human-performed work or human contact in a customer-facing or clinical function, explicitly framed as a response to AI restructuring and not obtained through collective bargaining or required by statute.
@@ -62,6 +66,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-09-25: open, no Fortune 500 employer-initiated written guarantee of human work or human contact was found; the nearest movement is advocacy, not commitment, with Citizens Advice (UK) calling on essential service providers to guarantee a right to talk to a human and no named company responding (source: https://www.easterneye.biz/ai-chatbots-banks-energy-companies-human-support/, Sep 2026)
 
 ### meaning-2026-08-05
 - Claim: California AB 2575 (Ortega), health care services: artificial intelligence, is chaptered into California law, establishing retaliation protection for direct patient care workers based solely on their override of, or reliance on, the output of a clinical decision support system.
@@ -70,6 +75,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-09-25: open, AB 2575 passed the Senate 21-10 and won Assembly concurrence 51-16 on 31 Aug 2026 and was presented to the Governor on 15 Sep 2026, but as of 25 Sep 2026 it is neither signed nor vetoed and the Governor's action deadline is 30 Sep 2026, so this claim will resolve before the next run (source: https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB2575, Sep 2026)
 
 ### meaning-2026-08-06
 - Claim: A Challenger, Gray & Christmas monthly job cut report published by 2026-12 records a cumulative 2026 total above 12 in the Technological Update (possibly AI) reason category, indicating at least one further employer contesting the AI characterisation of its own displacement.
@@ -78,6 +84,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-09-25: open, the August 2026 Challenger report (released 3 Sep 2026) still shows Technological Update (possibly AI) at a 2026 year-to-date total of exactly 12 with no August additions, so the threshold is not yet exceeded (source: https://www.challengergray.com/wp-content/uploads/2026/09/Challenger-Report-August-2026.pdf, Sep 2026)
 
 ### meaning-2026-08-07
 - Claim: The California Nurses Association reports a tentative or ratified Kaiser Permanente agreement whose publicly announced terms include an artificial intelligence or workplace technology provision covering nurse involvement in AI deployment decisions.
@@ -86,6 +93,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-09-25: open, CNA/NNU describes Kaiser talks covering 25,000 nurses as in early stages, with AI protections a headline demand at 1 Sep 2026 informational pickets at 22 hospitals, and no tentative agreement is reported (source: https://www.nationalnursesunited.org/press/kaiser-nurses-to-hold-informational-pickets-at-22-california-hospitals, Aug 2026)
 
 ### meaning-2026-08-08
 - Claim: The ProPublica Guild publishes an update reporting that the AI committee created by its 31 Jul 2026 first contract has been seated or has met.
@@ -94,6 +102,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-09-25: open, the ProPublica Guild updates page lists no post after the 31 Jul 2026 ratification announcement, so there is no report that the AI committee has been seated or has met (source: https://www.propublicaguild.org/updates, Sep 2026)
 
 ## Resolved claims
 

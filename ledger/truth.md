@@ -29,6 +29,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
  - 2026-08-04: open, on track but not yet resolvable: the rest of Article 50 went live on 2 Aug 2026 with national market surveillance authorities empowered to enforce, and no further deferral of the 2 Dec 2026 machine-readable watermarking runway has been announced (source: https://labs.cloudsecurityalliance.org/research/csa-research-note-eu-ai-act-article-50-transparency-20260729/, Jul 2026)
+ - 2026-09-25: open, the 2 Dec 2026 Article 50(2) runway for systems already on the market still stands with no further deferral reported, and no national authority has been reported opening an Article 50 inquiry, so neither limb is resolvable before Dec 2026 (source: https://www.mofo.com/resources/insights/260911-full-transparency-organizations-sign-eu-code, Sep 2026)
 
 ### truth-2026-07-02
 - Claim: Deepfake fraud losses force a structural banking response: a major banking association or regulator mandates out-of-band verification for high-value transfers by mid-2027.
@@ -37,6 +38,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
  - 2026-08-04: open, no banking association or regulator has mandated out-of-band verification for high-value transfers; the hardening that exists is adjacent (Nacha's 2026 risk-management rules require fraud monitoring and account validation for ACH credits, effective Mar and Jun 2026) or private (social-engineering cover now underwritten against callback procedures) (source: https://www.nacha.org/rules/risk-management-topics-fraud-monitoring-phase-2, 2026)
+ - 2026-09-25: open, still no banking association or regulator mandate for out-of-band verification of high-value transfers; commentary in Aug 2026 notes FinCEN has issued deepfake red flags but asks nothing binding, and the only new anti-deepfake rules in force are the EU AI Act transparency duties (source: https://www.americanbanker.com/opinion/new-anti-deepfake-rules-ignore-a-key-risk-ai-creates-for-banks, Aug 2026)
 
 ### truth-2026-08-01
 - Claim: Fewer than 20 of the 27 EU member states will have designated both a market surveillance authority and a notifying authority under the AI Act, as recorded by the artificialintelligenceact.eu national implementation tracker, when checked in Feb 2027.
@@ -45,6 +47,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-09-25: open, the named tracker has not been updated since 17 Jun 2026 and still records only 9 of 27 member states with both authorities designated (6 unclear, 12 partial), consistent with the claim but not checkable until Feb 2027 (source: https://artificialintelligenceact.eu/national-implementation-plans/, Jun 2026)
 
 ### truth-2026-08-02
 - Claim: The California Attorney General, a city attorney or a county counsel files the first civil enforcement action under the California AI Transparency Act (SB 942 as amended by AB 853) against a named covered provider.
@@ -53,6 +56,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-09-25: open, no civil action under SB 942 by the Attorney General, a city attorney or a county counsel was found; the live movement is legislative instead, as SB 1000 (passed 27 Aug 2026 as an urgency statute, awaiting the Governor's decision by 30 Sep) would drop the 1,000,000-user threshold and the visible-disclosure duty (source: https://www.jdsupra.com/legalnews/california-modifies-ai-transparency-law-5431612/, Sep 2026)
 
 ### truth-2026-08-03
 - Claim: Midjourney publicly ships C2PA Content Credentials or an equivalent machine-readable provenance marker in its default image outputs.
@@ -61,6 +65,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-09-25: open, none of Midjourney's product updates from 21 Aug to 24 Sep 2026 (the V8 edit model, changelogs of 20 Aug, 2 Sep, 16 Sep and 23 Sep) mentions C2PA, Content Credentials, provenance metadata or a watermark (source: https://updates.midjourney.com/rss/, Sep 2026)
 
 ### truth-2026-08-04
 - Claim: The EBU and BBC publish a second wave of News Integrity in AI Assistants and the headline share of responses with significant issues remains at or above 30 percent.
@@ -69,6 +74,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-09-25: open, no second wave of News Integrity in AI Assistants was published; the EBU news listing for Aug and Sep 2026 contains no such study (source: https://www.ebu.ch/news, Sep 2026)
 
 ### truth-2026-08-05
 - Claim: OpenAI publishes a public document (blog post, help-center article, model card or system card) stating that text output from a named GPT model carries an imperceptible machine-readable watermark.
@@ -77,6 +83,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-09-25: open, OpenAI has still not stated that any named GPT model's text carries a watermark; IEEE Spectrum reports OpenAI has yet to introduce a text watermark but plans to, and OpenAI's API provenance guide lists SynthID for images and audio only (help.openai.com returned HTTP 403) (source: https://spectrum.ieee.org/ai-watermark-text-anthropic-openai, Sep 2026)
 
 ### truth-2026-08-06
 - Claim: Substack changes the Pangram scan feature in a writer-protective direction, meaning it defaults scanning off for new posts, removes the public percentage figure from the reader-facing result, or restricts who may trigger a scan, as documented on Substack's help center or the on.substack.com blog.
@@ -85,6 +92,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-09-25: open, no writer-protective change is documented on on.substack.com (posts of 25 Aug and 10 Sep 2026 say nothing about scanning) and the help center returned HTTP 403; an adjacent change exists, since Substack support disables reader scans of a writer's content on request as an accommodation (reported 21 Aug 2026), but it is not documented on either named surface, so it does not qualify yet (source: https://robinareid.substack.com/p/turning-off-pangram-on-your-account, Aug 2026)
 
 ### truth-2026-08-07
 - Claim: Anthropic publicly introduces an opt-out, exemption or tier-level exclusion from text watermarking for at least one product surface or customer tier, documented on support.claude.com or docs.claude.com.
@@ -93,6 +101,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-09-25: open, Anthropic's watermarking post (updated 1 Sep 2026) and help-center article list no opt-out, exemption or tier exclusion, say marking is global because there is no durable way yet to scope it by region, and coverage widened rather than narrowed (cloud partner surfaces from 14 Sep 2026) (source: https://www.anthropic.com/news/claude-text-watermark, Sep 2026)
 
 ### truth-2026-08-08
 - Claim: A named researcher, security firm or publication publishes a reproducible method that strips Anthropic's Claude text watermark while preserving the text's meaning and approximate length, demonstrated on output from a Claude model launched on or after 2 Aug 2026.
@@ -101,6 +110,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-09-25: open, removal tools and generic paraphrase research abound, but no named party has shown verified removal of the statistical Claude text mark, because Anthropic's detector is still private preview for eligible organizations; a 12 Aug headline about 'Four Cents' stripping the mark proved on fetch to be a cost estimate, not a demonstration (source: https://hackernoon.com/it-took-developers-24-hours-to-build-around-claudes-invisible-watermark, Aug 2026)
 
 ## Resolved claims
 

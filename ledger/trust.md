@@ -29,6 +29,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
  - 2026-08-04: open, the AI Omnibus is now in force and the Commission's own framework page lists 2 December 2027 as the Annex III application date, with no further deferral adopted or proposed as of this run (source: https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai, Aug 2026)
+ - 2026-09-25: open, the Commission's AI framework page (last updated 3 Aug 2026) still lists 2 December 2027 as the Annex III application date and practitioner coverage dated 23 Sep 2026 reports no proposed or adopted deferral beyond it, so the date is holding but cannot resolve before Dec 2027 (source: https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai, Aug 2026)
 
 ### trust-2026-07-02
 - Claim: At least one enforcement action or formal warning is issued under the AI Act's Aug 2026 transparency obligations against a named deployer within 12 months of entry into force.
@@ -37,6 +38,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
  - 2026-08-04: open, the Article 50 transparency obligations became applicable only on 2 August 2026 (two days before this run), with enforcement assigned to national market surveillance authorities, the AI Office and the EDPS and fines up to 15M EUR or 3% of turnover, so no action could yet have issued (source: https://commission.europa.eu/news-and-media/news/safer-and-more-transparent-ai-2026-08-02_en, Aug 2026)
+ - 2026-09-25: open, searched English and Spanish (AESIA) coverage for any Article 50 warning or enforcement action against a named deployer and found none; practitioner analysis dated 17 Sep 2026 describes enforcement as resting with national market surveillance authorities with no cases yet reported (source: https://www.claytonutz.com/insights/2026/september/no-hiding-in-plain-text-the-eu-ai-acts-transparency-rules-are-now-in-force, Sep 2026)
 
 ### trust-2026-08-01
 - Claim: The FTC issues a final policy statement on AI accuracy under docket FTC-2026-0859, as distinct from the proposed statement put out for comment on 1 Jul 2026.
@@ -45,6 +47,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - 2026-08-13: open, the statement remains proposed only: published in the Federal Register on 7 Jul 2026 under docket FTC-2026-0859 with comments closing 31 Jul 2026, and no final statement or Commission vote has been announced as of this run (source: https://www.federalregister.gov/documents/2026/07/07/2026-13628/policy-statement-concerning-the-suppression-of-accuracy-in-artificial-intelligence-systems, Jul 2026)
+  - 2026-09-25: open, the FTC press release index for Aug and Sep 2026 shows no final AI accuracy policy statement, the Federal Register lists only the 7 Jul 2026 proposed notice under this docket, and PYMNTS reported on 2 Sep 2026 that the FTC has not said whether or when it will finalize (source: https://www.pymnts.com/news/artificial-intelligence/2026/the-ftc-is-coming-for-ais-honesty-problem/, Sep 2026)
 
 ### trust-2026-08-03
 - Claim: NIST publishes the first public AITE (Artificial Intelligence Technology Evaluation) results, leaderboard or scoring report.
@@ -53,6 +56,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - 2026-08-13: open, the AITE results pages exist but carry only placeholder rows ("Example Model 1", submitted 1 May 2026) across all three use cases (quantum dot control, genome variant curation, public safety visual event recognition), with no real submitting organizations, models or scores posted and the site last updated 24 Jul 2026 (source: https://pages.nist.gov/ai-technology-evaluation/ai_component_results/, Jul 2026)
+  - 2026-09-25: open, the AITE results pages still carry only the "Example Model 1" placeholder row (submitted 1 May 2026) for all three use cases and remain last updated 24 Jul 2026, so no real results have been published although NIST said first evaluations would start in Aug 2026 (source: https://pages.nist.gov/ai-technology-evaluation/ai_component_results/, Jul 2026)
 
 ### trust-2026-08-04
 - Claim: The AI Kill Switch Act (Reps. Ted Lieu and Nathaniel Moran, introduced 23 Jul 2026) receives a House committee hearing or markup.
@@ -61,24 +65,15 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - 2026-08-13: open, the bill is H.R. 9917, introduced 23 Jul 2026, referred to House Homeland Security the same day and to the Subcommittee on Cybersecurity and Infrastructure Protection on 24 Jul 2026, with no hearing, markup or other committee consideration recorded in the official bill status as of this run (source: https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr9917.xml, Aug 2026)
-
-### trust-2026-08-05
-- Claim: Anthropic publishes technical documentation, a specification, or a working detector that lets a third party detect the Claude text watermark, through any public channel (help center, research paper, API, or standalone tool).
-- Horizon: 0-12 months (logged 2026-08, resolve by 2027-02)
-- Source: https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content, Aug 2026
-- Status: open
-
-### trust-2026-08-06
-- Claim: OpenAI or Google publicly documents machine-readable marking of text output from ChatGPT or Gemini, as distinct from the image-level C2PA and SynthID marking already in place, on or before the 2 Dec 2026 Article 50(2) transition date for systems already on the market.
-- Horizon: 0-12 months (logged 2026-08, resolve by 2027-01)
-- Source: https://digital-strategy.ec.europa.eu/en/news/strong-backing-code-practice-transparency-ai-generated-content, Jul 2026
-- Status: open
+  - 2026-09-25: open, the official bill status (record updated 16 Sep 2026) still shows only introduction and referral to the Homeland Security subcommittee on 24 Jul 2026, with no hearing or markup, while kill-switch activity in Sep 2026 moved to a failed Senate push and a California executive order instead (source: https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr9917.xml, Sep 2026)
 
 ### trust-2026-08-07
 - Claim: The UK AI Security Institute publicly reports, through any channel (incident report, blog, evaluation policy, or published control standard), that real-time monitoring able to block out-of-scope agent actions mid-evaluation is in place, or discloses a further evaluation containment incident.
 - Horizon: 0-12 months (logged 2026-08, resolve by 2027-02)
 - Source: https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing, Aug 2026
 - Status: open
+- Grades:
+  - 2026-09-25: open, the AISI blog shows no post after the 4 Aug 2026 incident report except a 27 Aug 2026 compute-allocation tool, and the incident report still describes real-time monitoring as being introduced rather than in place, with no further containment incident disclosed (source: https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing, Aug 2026)
 
 ## Resolved claims
 
@@ -114,3 +109,19 @@ Format: see ledger/README.md. Append-only.
 - Status: decayed
 - Grades:
  - 2026-08-04: decayed, standard commercial lines moved the opposite way, with carriers filing the ISO generative AI exclusions (CG 40 47, CG 40 48, CG 35 08) and Berkley's absolute AI exclusion for D&O, E&O and fiduciary lines, while affirmative AI wording stays concentrated in Lloyd's market specialists such as CFC and in MGAs, and AXA, Allianz and Zurich still have no dedicated AI agent line (source: https://www.insurancejournal.com/news/national/2026/07/22/878480.htm, Jul 2026)
+
+### trust-2026-08-05
+- Claim: Anthropic publishes technical documentation, a specification, or a working detector that lets a third party detect the Claude text watermark, through any public channel (help center, research paper, API, or standalone tool).
+- Horizon: 0-12 months (logged 2026-08, resolve by 2027-02)
+- Source: https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content, Aug 2026
+- Status: confirmed
+- Grades:
+  - 2026-09-25: confirmed, Anthropic's 14 Aug 2026 post (updated 1 Sep 2026) and its help center now state that a Claude watermark detection API is live in private preview for eligible third parties such as regulators, media, fact-checkers and independent researchers, with an access request form, which is a working detector through an API channel even though access is gated and no full technical specification is published (source: https://www.anthropic.com/news/claude-text-watermark, Sep 2026)
+
+### trust-2026-08-06
+- Claim: OpenAI or Google publicly documents machine-readable marking of text output from ChatGPT or Gemini, as distinct from the image-level C2PA and SynthID marking already in place, on or before the 2 Dec 2026 Article 50(2) transition date for systems already on the market.
+- Horizon: 0-12 months (logged 2026-08, resolve by 2027-01)
+- Source: https://digital-strategy.ec.europa.eu/en/news/strong-backing-code-practice-transparency-ai-generated-content, Jul 2026
+- Status: confirmed
+- Grades:
+  - 2026-09-25: confirmed, but as a retrodiction: Google DeepMind documented SynthID watermarking of text generated in the Gemini app and web experience on 14 May 2024 and restated Gemini text marking when signing the Article 50 Code of Practice in Jul 2026, so the claim's premise that only image-level marking was in place was wrong at logging (OpenAI still documents no ChatGPT text marking) (source: https://deepmind.google/discover/blog/watermarking-ai-generated-text-and-video-with-synthid/, May 2024)

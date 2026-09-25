@@ -30,6 +30,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
  - none yet
  - 2026-08-04: open, no named bank or payment network has publicly deprecated voice or video verification; the observable movement is additive rather than subtractive, with Barclays, HSBC, Lloyds, Nationwide, NatWest and Santander backing a reusable digital ID network still only at controlled live pilot (source: https://www.biometricupdate.com/202606/major-uk-banks-back-reusable-digital-id-network-for-financial-services, Jun 2026)
+ - 2026-09-25: open, still no named bank or payment network has publicly deprecated voice or video verification; Aug and Sep 2026 coverage describes banks stacking behavioural, device and liveness checks on top of voice rather than retiring it (source: https://infosecfederation.com/banks-fighting-deepfake-voice-scams-2026/, Aug 2026)
 
 ### identity-2026-07-03
 - Claim: A data-protection authority opens a formal inquiry into persistent AI memory profiles by mid-2027.
@@ -39,6 +40,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
  - none yet
  - 2026-08-04: open, adjacent but not on point: the Belgian APD investigated an AI conversational app (May 2026) covering free-text sensitive data, storage periods, transparency on internal processing and model retraining, but no DPA has yet framed an inquiry specifically around persistent memory profiles (source: https://www.gibsondunn.com/gibson-dunn-europe-data-protection-july-2026/, Jul 2026)
+ - 2026-09-25: open, checked English and Italian sources (Garante decisions through 3 Sep 2026, Irish DPC, a 24 Sep 2026 EU data-and-AI enforcement roundup) and found AI chatbot enforcement on consent, age and deepfakes but no inquiry framed around persistent memory profiles (source: https://www.stephensonharwood.com/insights/neural-network-september-2026/, Sep 2026)
 
 ### identity-2026-08-01
 - Claim: OpenID Foundation members approve OpenID Connect Ephemeral Subject Identifier 1.0 as a Final Specification in the vote scheduled for 16 to 30 Sep 2026.
@@ -47,6 +49,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-09-25: open, the OIDF notice of 2 Sep 2026 confirms the member vote runs 16 to 30 Sep 2026 and no result has been announced on openid.net/news as of 25 Sep 2026, so the vote is in progress (source: https://openid.net/notice-of-vote-for-proposed-openid-connect-ephemeral-subject-identifier-1-0-final-specification/, Sep 2026)
 
 ### identity-2026-08-02
 - Claim: The OpenID Foundation AI Identity Management Community Group publishes consolidated MCP security interoperability results naming at least three participating vendors.
@@ -55,6 +58,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-09-25: open, no consolidated MCP interoperability results or participant list published; the call for participation still sets 16 Oct 2026 for the first cross-partner test and presentation at the Gartner IAM Summit (source: https://openid.net/call-for-participation-demonstrate-mcp-based-ai-agent-security-with-open-identity-standards-2/, Jul 2026)
 
 ### identity-2026-08-03
 - Claim: Okta moves Agent Gateway from research release to general availability.
@@ -63,6 +67,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-09-25: open, as of 22 Sep 2026 Okta Agent Gateway is still not generally available; Okta says it is planned for GA in Q3 2026 with the gateway kill switch in Q4, while only Agent SSO, Agent-to-Agent Connections and Resource Access Certifications are GA today (source: https://siliconangle.com/2026/09/22/okta-adds-ai-agent-runtime-gateway-forms-blueprint-alliance-with-aws-and-crowdstrike/, Sep 2026)
 
 ### identity-2026-08-04
 - Claim: The EDPB adopts final versions of its guidelines on anonymisation and on web scraping for generative AI after the consultation closing 30 Oct 2026.
@@ -71,30 +76,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
-
-### identity-2026-08-05
-- Claim: OpenID Foundation members approve the proposed Implementer's Draft of OpenID Connect Key Binding in the vote running 24 Aug to 7 Sep 2026.
-- Horizon: 0–12 months (logged 2026-08, resolve by 2026-10)
-- Source: https://openid.net/notice-of-vote-for-proposed-implementers-draft-of-openid-connect-key-binding/, Aug 2026
-- Status: open
-- Grades:
-  - none yet
-
-### identity-2026-08-06
-- Claim: The Czech Digital and Information Agency publicly reports the outcome of the 13 Aug 2026 eDoklady simultaneous-login stress test, stating whether the system sustained the simulated surge.
-- Horizon: 0–12 months (logged 2026-08, resolve by 2026-11)
-- Source: https://www.biometricupdate.com/202608/czechia-enlists-citizens-to-stress-test-digital-id-ahead-of-elections, Aug 2026
-- Status: open
-- Grades:
-  - none yet
-
-### identity-2026-08-07
-- Claim: At least one organisation is publicly listed by the OpenID Foundation as having self-certified conformance to OpenID4VP or OpenID4VCI under the High Assurance Interoperability Profile.
-- Horizon: 0–12 months (logged 2026-08, resolve by 2027-02)
-- Source: https://openid.net/openid4vp-and-openid4vci-conformance-tests-are-complete-and-open-for-self-certification/, Aug 2026
-- Status: open
-- Grades:
-  - none yet
+  - 2026-09-25: open, the EDPB consultation page for Guidelines 03/2026 still shows the 8 Jul to 30 Oct 2026 feedback window open and no final version, so the claim cannot resolve before Nov 2026 (source: https://www.edpb.europa.eu/public-consultations/guidelines-032026-on-web-scraping-in-the-context-of-generative-ai_en, Jul 2026)
 
 ### identity-2026-08-08
 - Claim: Microsoft moves the New agent blueprint wizard in the Microsoft Entra admin center out of Preview to general availability.
@@ -103,6 +85,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-09-25: open, the Microsoft Learn blueprint page still labels the admin center action "New agent blueprint (Preview)" and the Agent ID what's-new page (updated 13 Aug 2026) still lists the wizard as Preview (source: https://learn.microsoft.com/en-us/entra/agent-id/whats-new-agent-id, Aug 2026)
 
 ## Resolved claims
 
@@ -129,3 +112,30 @@ Format: see ledger/README.md. Append-only.
 - Status: confirmed
 - Grades:
  - 2026-07: confirmed, procurement routinely requires governance evidence and audit rights; 77% of orgs building formal AI governance programs; same vagueness caveat (source: https://prefactor.tech/learn/ai-governance-compliance-statistics, 2026)
+
+### identity-2026-08-05
+- Claim: OpenID Foundation members approve the proposed Implementer's Draft of OpenID Connect Key Binding in the vote running 24 Aug to 7 Sep 2026.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2026-10)
+- Source: https://openid.net/notice-of-vote-for-proposed-implementers-draft-of-openid-connect-key-binding/, Aug 2026
+- Status: confirmed
+- Grades:
+  - none yet
+  - 2026-09-25: confirmed, the OIDF announced on 10 Sep 2026 that members approved OpenID Connect Key Binding 1.0 as its first Implementer's Draft, 73 approve, 5 object, 20 abstain, quorum met at 23.6% of 414 members (source: https://openid.net/implementers-draft-of-openid-connect-key-binding-approved/, Sep 2026)
+
+### identity-2026-08-06
+- Claim: The Czech Digital and Information Agency publicly reports the outcome of the 13 Aug 2026 eDoklady simultaneous-login stress test, stating whether the system sustained the simulated surge.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2026-11)
+- Source: https://www.biometricupdate.com/202608/czechia-enlists-citizens-to-stress-test-digital-id-ahead-of-elections, Aug 2026
+- Status: confirmed
+- Grades:
+  - none yet
+  - 2026-09-25: confirmed, the DIA reported on 13 Aug 2026 that about 30,000 users joined the test and the system withstood the surge with longer response times, then published a fuller analysis on 18 Aug 2026 naming the Application Gateway's slow scaling as the bottleneck (source: https://www.dia.gov.cz/cs/aktuality/verejneho-testu-edokladu-se-zucastnilo-30-tisic-uzivatelu-aplikace-vykazovala-delsi-odezvy-ale-system-napor-ustal, Aug 2026)
+
+### identity-2026-08-07
+- Claim: At least one organisation is publicly listed by the OpenID Foundation as having self-certified conformance to OpenID4VP or OpenID4VCI under the High Assurance Interoperability Profile.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-02)
+- Source: https://openid.net/openid4vp-and-openid4vci-conformance-tests-are-complete-and-open-for-self-certification/, Aug 2026
+- Status: confirmed
+- Grades:
+  - none yet
+  - 2026-09-25: confirmed, the OIDF certification listing for OpenID4VP plus HAIP names 14 organisations including Hopae (8 Aug 2026), ProtocolSoup, Meeco, Lissi GmbH, Scytales AB and WebID Solutions, announced by OIDF on 24 Sep 2026 (source: https://openid.net/certification/certified-oid4vp-haip-final/, Sep 2026)

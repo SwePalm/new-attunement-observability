@@ -29,6 +29,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
  - 2026-08-04: open, Article 50's core transparency duties applied on schedule on 2 Aug 2026 and the 2 Dec 2026 machine-readable marking runway stands with no further deferral proposed, but the 2 Dec date has not yet arrived (source: https://labs.cloudsecurityalliance.org/research/csa-research-note-eu-ai-act-article-50-transparency-20260729/, Jul 2026)
+ - 2026-09-25: open, the European AI Board's ninth plenary on 17 Sep 2026 set no new deadline and granted no further relief on watermarking, so the 2 Dec 2026 Article 50(2) date still stands but has not yet arrived (source: https://labs.cloudsecurityalliance.org/research/csa-research-note-eu-ai-act-article50-watermarking-deadline/, Sep 2026)
 
 ### perception-2026-07-03
 - Claim: A deepfake incident causes a documented market-moving or election-affecting event that mainstream postmortems attribute materially to synthetic media, by mid-2027.
@@ -37,6 +38,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
  - 2026-08-04: open, deepfake incidents keep accumulating but no mainstream postmortem yet attributes a market-moving or election-affecting outcome materially to synthetic media; the Nov 2026 US midterms are the near-term test and the resolve-by month is 2027-09
+ - 2026-09-25: open, no mainstream postmortem yet attributes a market-moving or election-affecting outcome to synthetic media; the most visible election-information scare of the interval, fabricated polls exposed in Aug 2026, involved no AI-generated media and moved prediction-market odds only for seconds (source: https://www.mainepublic.org/npr-news/2026-08-28/what-a-fake-poll-reveals-about-worries-around-prediction-markets-and-the-midterms, Aug 2026)
 
 ### perception-2026-08-01
 - Claim: The Oregon Secretary of State's Elections Division issues a written determination (civil penalty, referral, or dismissal) in the SB 1571 synthetic media investigation of Jonathan Lockwood over unlabeled AI videos of Rep. Janelle Bynum.
@@ -45,6 +47,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-09-25: open, no written determination, court referral, or dismissal found; the newest reachable reporting describes an open investigation with no statutory decision deadline, and the 12 Aug 2026 Axios Portland update could not be opened (HTTP 403) (source: https://www.opb.org/article/2026/07/09/artificial-intelligence-ai-generated-political-advertisements-oregon/, Jul 2026)
 
 ### perception-2026-08-02
 - Claim: A designated EU national market surveillance authority or the European Commission AI Office publicly announces the first formal Article 50 investigation or enforcement action against a named provider or deployer for failing to mark or label AI-generated content.
@@ -53,6 +56,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-09-25: open, no Article 50 action against a named provider or deployer found; the Commission's Grok proceedings against X run under the Digital Services Act, and the 17 Sep 2026 AI Board plenary produced enforcement-coordination materials rather than an enforcement announcement (source: https://labs.cloudsecurityalliance.org/research/csa-research-note-eu-ai-act-article50-watermarking-deadline/, Sep 2026)
 
 ### perception-2026-08-03
 - Claim: Apple ships iOS 27 in general release (not beta) with SynthID watermarking active on Image Playground generations and Apple Intelligence photo edits, as announced on 8 Jun 2026.
@@ -61,6 +65,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-09-25: open, iOS 27 reached general release on 14 Sep 2026 without SynthID active at launch; Apple says SynthID identification will arrive in a software update later in 2026, which would still resolve the claim before 2027-01 (source: https://www.macworld.com/article/2986799/ios-27-features-compatiblity-siri-ai-updates.html, Sep 2026)
 
 ### perception-2026-08-04
 - Claim: TikTok, Meta, or YouTube announces or ships a friction-based treatment for AI-generated content (a full-screen or click-through interstitial, feed demotion, or distribution limit) for at least one content category, going beyond the small overlay label format.
@@ -69,22 +74,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
-
-### perception-2026-08-05
-- Claim: Anthropic publishes public technical documentation or a detection tool that enables third parties to detect the Claude text watermark, which its own help center listed as forthcoming and unshipped as of 13 Aug 2026.
-- Horizon: 0–12 months (logged 2026-08, resolve by 2027-02)
-- Source: https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content, Aug 2026
-- Status: open
-- Grades:
-  - none yet
-
-### perception-2026-08-06
-- Claim: Anthropic's own documentation states that machine-readable marking is active on at least one named Claude model released before 2 Aug 2026, completing the retrofit for a pre-cutoff model within the AI Act transition window that closes 2 Dec 2026.
-- Horizon: 0–12 months (logged 2026-08, resolve by 2027-01)
-- Source: https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content, Aug 2026
-- Status: open
-- Grades:
-  - none yet
+  - 2026-09-25: open, no new viewer-facing friction treatment for labeled AI content was announced in the interval; TikTok's user-controlled AI-content slider shipped in Nov 2025, before logging, and is a viewer opt-in rather than a platform-imposed treatment, so it was not counted (source: https://techcrunch.com/2025/11/18/tiktok-now-lets-you-choose-how-much-ai-generated-content-you-want-to-see/, Nov 2025)
 
 ### perception-2026-08-07
 - Claim: The Governor of New York signs or vetoes S6954B, the Stop Deepfakes Act, which requires synthetic content creation system providers to attach provenance data to AI-generated or substantially modified audio, images and video, and which passed both chambers on 3 Jun 2026 and had not been delivered to the Governor as of 13 Aug 2026.
@@ -93,6 +83,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-09-25: open, the S6954B action history still ends at Assembly passage on 4 Jun 2026 with no delivery to the Governor, chapter number, or veto memo (source: https://www.nysenate.gov/legislation/bills/2025/S6954/amendment/B, Jun 2026)
 
 ## Resolved claims
 
@@ -119,3 +110,21 @@ Format: see ledger/README.md. Append-only.
 - Status: confirmed
 - Grades:
  - 2026-07: confirmed, procurement routinely requires governance evidence and audit rights; 77% of orgs building formal AI governance programs; same vagueness caveat (source: https://prefactor.tech/learn/ai-governance-compliance-statistics, 2026)
+
+### perception-2026-08-05
+- Claim: Anthropic publishes public technical documentation or a detection tool that enables third parties to detect the Claude text watermark, which its own help center listed as forthcoming and unshipped as of 13 Aug 2026.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-02)
+- Source: https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content, Aug 2026
+- Status: confirmed
+- Grades:
+  - none yet
+  - 2026-09-25: confirmed, Anthropic's watermark explainer (updated 1 Sep 2026) states a watermark detection API is live in private preview for eligible third parties including regulators, media, fact-checkers and independent researchers, though access is gated and no public technical specification was published (forward: qualifying event between 23 Aug and 1 Sep 2026, after logging) (source: https://www.anthropic.com/news/claude-text-watermark, Sep 2026)
+
+### perception-2026-08-06
+- Claim: Anthropic's own documentation states that machine-readable marking is active on at least one named Claude model released before 2 Aug 2026, completing the retrofit for a pre-cutoff model within the AI Act transition window that closes 2 Dec 2026.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-01)
+- Source: https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content, Aug 2026
+- Status: confirmed
+- Grades:
+  - none yet
+  - 2026-09-25: confirmed, the Claude help center model table now lists text watermarking active on first-party surfaces for pre-cutoff models including Claude Opus 4.5, Sonnet 4.5, Haiku 4.5 and Opus 5 (forward: table updated between 2 Sep and 25 Sep 2026, after logging) (source: https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content, Sep 2026)
