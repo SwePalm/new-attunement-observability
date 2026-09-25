@@ -70,6 +70,30 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
 
+### perception-2026-08-05
+- Claim: Anthropic publishes public technical documentation or a detection tool that enables third parties to detect the Claude text watermark, which its own help center listed as forthcoming and unshipped as of 13 Aug 2026.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-02)
+- Source: https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### perception-2026-08-06
+- Claim: Anthropic's own documentation states that machine-readable marking is active on at least one named Claude model released before 2 Aug 2026, completing the retrofit for a pre-cutoff model within the AI Act transition window that closes 2 Dec 2026.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-01)
+- Source: https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### perception-2026-08-07
+- Claim: The Governor of New York signs or vetoes S6954B, the Stop Deepfakes Act, which requires synthetic content creation system providers to attach provenance data to AI-generated or substantially modified audio, images and video, and which passed both chambers on 3 Jun 2026 and had not been delivered to the Governor as of 13 Aug 2026.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-02)
+- Source: https://www.nysenate.gov/legislation/bills/2025/S6954, Jun 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### perception-2026-07-02

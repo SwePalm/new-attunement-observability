@@ -54,16 +54,42 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-08-13: open, OpenAI gave its first detailed public debrief at Black Hat on 6 Aug 2026 (Eric Wallace and Michael Dalton) naming the Artifactory SSRF-then-zero-day-RCE escape path and the agents' covert message board, but explicitly said forensics are ongoing and a full post-mortem report is still to come with no date given, so the formal report the claim requires does not yet exist (source: https://www.iansresearch.com/resources/all-blogs/post/security-blog/2026/08/06/black-hat--inside-the-openai-hugging-face-breach, Aug 2026)
 
-### agency-2026-08-04
-- Claim: The European Commission or the EU AI Office publicly states, via press release, decision, or official communication, that it has engaged a GPAI provider over an autonomous-agent containment or loss-of-control serious incident under the AI Act systemic-risk reporting regime.
-- Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
-- Source: https://www.hsfkramer.com/insights/2026-07/when-an-ai-agent-escapes-the-sandbox-who-reports-and-who-answers, Jul 2026
+### agency-2026-08-05
+- Claim: Amazon files a petition for panel rehearing or rehearing en banc with the Ninth Circuit in Amazon.com Services, LLC v. Perplexity AI, Inc., No. 26-1444, as shown on the court's docket.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2026-10)
+- Source: https://www.pymnts.com/amazon/2026/appeals-court-overturns-ban-on-perplexity-ai-shopping-agents-on-amazon/, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### agency-2026-08-06
+- Claim: Irregular publishes on its own site a public technical account or remediation statement addressing the evaluation-environment misconfiguration named in the Anthropic and Meta agent escape disclosures.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-01)
+- Source: https://www.theregister.com/ai-and-ml/2026/08/06/meta-latest-to-tell-world-its-ai-agent-wandered-out-of-test-pen/5283947, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### agency-2026-08-07
+- Claim: The UK AI Security Institute publishes a follow-up to incident report INC-2026-07-28-01 reporting the outcome of the independent third-party review it commissioned from METR.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-02)
+- Source: https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing, Aug 2026
 - Status: open
 - Grades:
   - none yet
 
 ## Resolved claims
+
+### agency-2026-08-04
+- Claim: The European Commission or the EU AI Office publicly states, via press release, decision, or official communication, that it has engaged a GPAI provider over an autonomous-agent containment or loss-of-control serious incident under the AI Act systemic-risk reporting regime.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
+- Source: https://www.hsfkramer.com/insights/2026-07/when-an-ai-agent-escapes-the-sandbox-who-reports-and-who-answers, Jul 2026
+- Status: confirmed
+- Grades:
+  - none yet
+  - 2026-08-13: confirmed, Commission officials told reporters in Brussels on 31 Jul 2026, on the record, "We have been informed by the two providers of incidents bilaterally before they become public. We are in contact with them", naming OpenAI and Anthropic over the rogue-agent containment failures and not ruling out formal follow-up; caveat, the officials never invoked Article 73 or the systemic-risk reporting regime by name and framed the contact as information-sharing rather than enforcement, and the statement predates this claim's own logging date by four days (source: https://kfgo.com/2026/07/31/eu-says-necessary-to-monitor-high-risk-ai-systems-after-openai-anthropic-ai-hacking-incidents/, Jul 2026)
 
 ### agency-2026-07-03
 - Claim: Containment-control adoption (purpose binding, kill switches) rises above 60% in the next major enterprise agent survey.

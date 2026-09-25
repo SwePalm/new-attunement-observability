@@ -29,6 +29,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
  - 2026-08-04: open, AI was cited in 101,743 US job cut announcements through June 2026 (about 23% of all cuts), on pace to clear the threshold but not resolvable before the 2027-02 date (source: https://www.challengergray.com/blog/challenger-report-june-layoffs-cool-to-45849-down-53-from-may-ai-leads-reasons-for-fourth-consecutive-month/, Jul 2026)
+ - 2026-08-13: open, the July report published 6 Aug 2026 raises the year-to-date AI-cited total to 112,713 US job cut announcements (about 24% of all cuts), still on pace for 150,000 but with July's AI-cited volume down to 10,970 as overall cuts hit a two-year low (source: https://www.challengergray.com/blog/challenger-report-layoffs-fall-hiring-picks-up-ai-leads-for-fifth-straight-month/, Aug 2026)
 
 ### labor-2026-07-02
 - Claim: US entry-level postings remain at least 25% below the early-2023 baseline through mid-2027 (no recovery), per S&P Global or equivalent tracking.
@@ -76,12 +77,44 @@ Format: see ledger/README.md. Append-only.
 - Source: https://www.challengergray.com/blog/challenger-report-june-layoffs-cool-to-45849-down-53-from-may-ai-leads-reasons-for-fourth-consecutive-month/, Jul 2026
 - Status: open
 - Grades:
-  - none yet
+  - 2026-08-13: open, the first of the three required months is satisfied (July 2026 report, published 6 Aug 2026, names AI the leading reason at 10,970 cuts or 33% of the month's total, a fifth consecutive month), with the August and September reports still outstanding (source: https://www.challengergray.com/blog/challenger-report-layoffs-fall-hiring-picks-up-ai-leads-for-fifth-straight-month/, Aug 2026)
 
 ### labor-2026-08-04
 - Claim: The European Commission opens non-communication infringement proceedings against at least ten EU member states for failure to transpose the Platform Work Directive (EU) 2024/2831 by its 2 Dec 2026 deadline.
 - Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
 - Source: https://iuslaboris.com/insights/eu-platform-work-directive-which-countries-have-implemented/, Jun 2026
+- Status: open
+- Grades:
+  - none yet
+
+### labor-2026-08-05
+- Claim: Challenger, Gray & Christmas's monthly report covering August 2026 records artificial intelligence at or above 30% of stated job-cut reasons while total announced cuts for that month remain below 50,000, confirming that attribution share and cut volume have decoupled.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2026-10)
+- Source: https://www.challengergray.com/wp-content/uploads/2026/08/Challenger-Report-July-2026.pdf, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### labor-2026-08-06
+- Claim: Challenger, Gray & Christmas publishes a monthly figure for its "Technological Update (possibly AI)" category alongside its artificial intelligence figure in at least one monthly job-cut report covering August through December 2026.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-01)
+- Source: https://www.challengergray.com/wp-content/uploads/2026/08/Challenger-Report-July-2026.pdf, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### labor-2026-08-07
+- Claim: The New York State Nurses Association's 2026 class-action grievance against Montefiore Medical Center over the elimination of 12 utilization review nursing positions reaches a published arbitration decision, or a settlement or reinstatement announced by NYSNA or Montefiore.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-03)
+- Source: https://www.nysna.org/press/bronx-needs-real-nurses-not-ai, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### labor-2026-08-08
+- Claim: Challenger, Gray & Christmas's full-year 2026 report records total announced hiring plans above the full-year 2025 total, sustaining the year-to-date 25% increase through year end.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-02)
+- Source: https://finance.yahoo.com/economy/policy/article/july-layoffs-plunged-to-lowest-monthly-level-in-two-years-challenger-093000310.html, Aug 2026
 - Status: open
 - Grades:
   - none yet

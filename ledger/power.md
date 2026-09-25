@@ -60,12 +60,44 @@ Format: see ledger/README.md. Append-only.
 - Source: https://www.nortonrosefulbright.com/en-us/knowledge/publications/de3ad9de/xai-sues-doj-intervenes-enforcement-of-colorado-ai-act-suspended, May 2026
 - Status: open
 - Grades:
-  - none yet
+  - 2026-08-13: open, the Colorado Department of Law filed proposed ADMT draft rules with the Secretary of State on 11 Aug 2026 and opened a formal comment period running to 26 Oct 2026, so the rulemaking that starts the stipulated 28-day clock for xAI's preliminary injunction motion cannot conclude before late 2026 and the case remains stayed (source: https://coag.gov/ai/, Aug 2026)
 
 ### power-2026-08-04
 - Claim: The Council of the EU adopts a general approach on the Cloud and AI Development Act, or the European Parliament's lead committee adopts its report.
 - Horizon: 0–12 months (logged 2026-08, resolve by 2027-06)
 - Source: https://digital-strategy.ec.europa.eu/en/policies/cloud-and-ai-development-act, Jun 2026
+- Status: open
+- Grades:
+  - none yet
+
+### power-2026-08-05
+- Claim: PJM Interconnection's response filing in FERC Docket EL26-67, due 17 Aug 2026, proposes tariff revisions that include ride-through, voltage-disturbance or disconnection-performance requirements for large computational loads.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2026-10)
+- Source: https://insidelines.pjm.com/pjm-dominion-review-large-load-transfer-event/, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### power-2026-08-06
+- Claim: New York Empire State Development publishes the Community Investment Framework and the Department of Public Service establishes the Data Center Interconnection Working Group, both required within 60 days of Executive Order 62 signed 14 Jul 2026.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2026-10)
+- Source: https://www.governor.ny.gov/executive-order/no-62-establishing-temporary-moratorium-data-centers-new-york-while-state-develops, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### power-2026-08-07
+- Claim: NERC submits to FERC the first phase of enforceable large load reliability standards on or before the directed date of 31 Dec 2026.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-02)
+- Source: https://insidelines.pjm.com/pjm-dominion-review-large-load-transfer-event/, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### power-2026-08-08
+- Claim: The Public Utility Commission of Texas opens a rulemaking or project making Governor Abbott's Data Center Standards binding conditions of large load interconnection approval, rather than voluntary company commitments.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-03)
+- Source: https://gov.texas.gov/news/post/governor-abbott-announces-google-rowan-and-cleanspark-commit-to-comply-with-his-data-center-standards, Aug 2026
 - Status: open
 - Grades:
   - none yet

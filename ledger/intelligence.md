@@ -62,6 +62,30 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
 
+### intelligence-2026-08-05
+- Claim: ARC Prize publishes an ARC-AGI-3 result for a SpaceXAI Grok-family model first released on or after 2026-08-12, on its verified leaderboard at arcprize.org (reasoning-systems track), by 2027-01.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-01)
+- Source: https://benchlm.ai/benchmarks/arcagi3, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### intelligence-2026-08-06
+- Claim: Artificial Analysis reports an Intelligence Index score of 64 or higher for at least one model on artificialanalysis.ai/leaderboards/models, in any reasoning configuration, by 2027-01. The verified maximum on 2026-08-13 is 63 (Claude Opus 5, max and xhigh).
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-01)
+- Source: https://artificialanalysis.ai/leaderboards/models, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### intelligence-2026-08-07
+- Claim: METR publishes an updated task-completion time-horizon measurement at metr.org/time-horizons/ that includes at least one model first released on or after 2026-06-01, by 2027-02. The page has been dated 8 May 2026 since before the June and July 2026 model wave.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-02)
+- Source: https://metr.org/time-horizons/, May 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### intelligence-2026-07-01

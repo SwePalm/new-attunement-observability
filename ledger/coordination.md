@@ -51,15 +51,7 @@ Format: see ledger/README.md. Append-only.
 - Source: https://ucpchecker.com/blog/state-of-agentic-commerce-july-2026, Jul 2026
 - Status: open
 - Grades:
-  - none yet
-
-### coordination-2026-08-03
-- Claim: Senator Mark Warner formally introduces the AI AGENT Act as a numbered bill in the US Senate, with a congress.gov record, by 2027-03.
-- Horizon: 0-12 months (logged 2026-08, resolve by 2027-03)
-- Source: https://www.warner.senate.gov/newsroom/press-releases/warner-unveils-discussion-draft-of-legislation-to-create-innovative-market-for-secure-artificial-intelligence-agents/, Jun 2026
-- Status: open
-- Grades:
-  - none yet
+  - 2026-08-13: open, the monitor's live capability table now shows the stable payment capability on 1 store (first non-zero reading, up from zero on 7 Jul 2026) against a verified base grown to roughly 14,400 stores, so the direction is right but the 100-store threshold is far off and resolve-by 2027-02 is six months away (source: https://ucpchecker.com/capabilities, Aug 2026)
 
 ### coordination-2026-08-04
 - Claim: NIST publishes on csrc.nist.gov a draft Special Publication or Internal Report on software and AI agent identity and authorization that supersedes the 5 Feb 2026 concept paper, by 2027-03.
@@ -69,7 +61,48 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
 
+### coordination-2026-08-05
+- Claim: Rep. Greg Casar's office or a signatory member publicly confirms receipt of, or publishes, a written response from OpenAI or Anthropic to the 10 Aug 2026 oversight letters on AI agent containment incidents, by 2026-10.
+- Horizon: 0-12 months (logged 2026-08, resolve by 2026-10)
+- Source: https://thenextweb.com/news/casar-house-democrats-ai-ceos-testify-johnson-hearing, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### coordination-2026-08-06
+- Claim: The govinfo BILLSTATUS record for S.5051 (AI AGENT Act of 2026) shows a Senate Commerce, Science, and Transportation Committee action beyond the 21 Jul 2026 referral (hearing, markup, or ordered to be reported), by 2027-03.
+- Horizon: 0-12 months (logged 2026-08, resolve by 2027-03)
+- Source: https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s5051.xml, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### coordination-2026-08-07
+- Claim: A revised agentproto draft charter, textually distinct from the version presented at the IETF 126 BoF on 23 Jul 2026, is posted publicly on datatracker.ietf.org or the group's draft-charter repository, by 2026-12.
+- Horizon: 0-12 months (logged 2026-08, resolve by 2026-12)
+- Source: https://datatracker.ietf.org/group/agentproto/about/, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### coordination-2026-08-08
+- Claim: The A2A project publishes a release newer than v1.0.1 (28 May 2026) on github.com/a2aproject/A2A/releases, by 2026-12.
+- Horizon: 0-12 months (logged 2026-08, resolve by 2026-12)
+- Source: https://github.com/a2aproject/A2A/releases, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
+
+### coordination-2026-08-03
+- Claim: Senator Mark Warner formally introduces the AI AGENT Act as a numbered bill in the US Senate, with a congress.gov record, by 2027-03.
+- Horizon: 0-12 months (logged 2026-08, resolve by 2027-03)
+- Source: https://www.warner.senate.gov/newsroom/press-releases/warner-unveils-discussion-draft-of-legislation-to-create-innovative-market-for-secure-artificial-intelligence-agents/, Jun 2026
+- Status: confirmed
+- Grades:
+  - none yet
+  - 2026-08-13: confirmed, the AI AGENT Act was introduced as S.5051 on 21 Jul 2026 and read twice and referred to the Committee on Commerce, Science, and Transportation, two weeks before the claim was logged, so this is a retrodiction rather than a forecast; an earlier grading pass this same run recorded it as open on the basis of press language about the discussion draft, and the govinfo BILLSTATUS primary record corrects that (source: https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s5051.xml, Jul 2026)
 
 ### coordination-2026-02-04
 - Claim: Oversight roles and escalation pathways become formalized in operating models rather than ad hoc responses.
