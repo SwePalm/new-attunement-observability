@@ -63,7 +63,11 @@ Dedupe and ledger append: 34 candidates proposed, 0 dropped as duplicates, 34 ap
 
 ## Phase D, deep dive
 Steps per theme in order: structural-question, theme-exploration, pestle-analysis, forces-feelings, scenario-generator, scenario-eval.
-- [ ] meaning
-- [ ] dependency
-- [ ] creativity
-- [ ] trust
+- [x] meaning (eval 7.1)
+- [x] dependency (eval 7.5)
+- [x] creativity (eval 7.3)
+- [x] trust (eval 6.7)
+
+Phase D result: all 24 steps done, citation gate and em-dash scan clean. Mean deep-dive eval score 7.15 (7.1, 7.5, 7.3, 6.7). No [!] items. Combined with 2026-10-01 (6.7, 7.8, 6.8, 6.9) the month's eight dives average 7.10.
+Flags for instrument-review: scenario convergence persisted despite an explicit instruction to avoid yesterday's motifs (every eval capped Distinctiveness at 5-6; a low-power person declining something at private cost closes all four scenarios this run; clinical setting repeated in meaning and trust); inferences presented as settled in scenarios (meaning attestation and override logging, creativity Section 3 mechanics, trust portal details, dependency rehearsal premise); the AISI 1 Oct 2026 post confirmed claims in two themes on consecutive runs because cohort dedupe cannot see across cohorts (CAL-008); cohort A and B ran 24 hours apart this month, so the 4-week cadence will pair them again around 29-30 Oct and the four 08-04 themes (alignment, authority, coordination, responsibility) will be at 87 days then and forced the run after; theme-selection contradiction density needs reading judgment.
+Run note: the session started on 2026-10-02, one day after cohort A (not the usual two-week gap), at the user's request.
