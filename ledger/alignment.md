@@ -131,6 +131,14 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-10-01: open, OpenAI has still named no partner: reporting dated 22 Sep 2026 says it is only 'in talks' with groups including METR and Redwood Research, with 'no partner named and no access terms set'; the Verge item that Apollo had three days on GPT-6 Astra concerns a past release evaluation, not the new in-training programme (source: https://thenextweb.com/news/openai-evaluators-training-phase, Sep 2026)
 
+### alignment-2026-10-01
+- Claim: The Senate Homeland Security subcommittee chaired by Sen. Hawley issues a subpoena to OpenAI for documents or testimony about the Hugging Face and related agent incidents, by 2027-01.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-01)
+- Source: https://cryptobriefing.com/us-senate-hearing-rogue-ai-agents/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### alignment-2026-02-01

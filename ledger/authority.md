@@ -153,6 +153,22 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-10-01: open, Newsom's Executive Order N-9-26 (18 Sep 2026) only asks the Government Operations Agency for kill-switch recommendations by 16 Nov 2026, and no legislator has introduced a 2027-28 kill-switch bill (source: https://ppc.land/newsom-sets-november-16-deadline-to-study-frontier-ai-kill-switch/, Sep 2026)
 
+### authority-2026-10-01
+- Claim: OpenAI or Anthropic publicly confirms that it has received a civil investigative demand from the FTC in the frontier AI safety probe opened 30 Sep 2026 (company statement, spokesperson on the record, or court or SEC filing), by 2026-12.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2026-12)
+- Source: https://www.yahoo.com/news/politics/articles/ftc-probes-openai-anthropic-metr-185130332.html, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### authority-2026-10-02
+- Claim: An OpenAI officer or employee testifies under oath or as a named witness at a US Senate committee or subcommittee hearing about the 2026 agent incidents (Hugging Face or the Australian Medicare portal), by 2027-02.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-02)
+- Source: https://www.aa.com.tr/en/americas/openai-ceo-sam-altman-refused-to-attend-hearing-on-risks-of-rogue-ai-senator/4074344, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### authority-2026-02-01

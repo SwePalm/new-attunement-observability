@@ -131,6 +131,38 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-10-01: open, searched for a California bill on emergency shutdown or onsite verification and found only Newsom's executive order with recommendations due 16 Nov 2026, and the 2027-28 session has not begun, so no bill exists
 
+### governance-2026-10-01
+- Claim: A company other than Anthropic, Google, Meta, OpenAI, Nvidia and xAI (for example Microsoft, Amazon, Apple or Mistral) is publicly confirmed, by the White House or by the company itself, as a signatory to or adherent of the "Joint Commitment on Frontier Responsibilities".
+- Horizon: 0–12 months (logged 2026-10, resolve by 2026-12)
+- Source: https://www.aitechdaily.com/trump-ai-joint-commitment-frontier-responsibilities/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### governance-2026-10-02
+- Claim: The White House publicly names a specific individual to a newly created AI czar, "AI Force" lead, or Joint Commitment compliance-oversight role, by press release, Truth Social post or executive order text.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2026-12)
+- Source: https://www.aitechdaily.com/trump-ai-joint-commitment-frontier-responsibilities/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### governance-2026-10-03
+- Claim: The US or Chinese government publishes an official readout stating that a first session of the US-China "Dialogue on Superintelligence" has been held, or that the AI incident communication channel has been established with named participating agencies on each side., covering the two further Trump-Xi meetings planned for November.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2026-12)
+- Source: https://en.mercopress.com/2026/09/25/trump-and-xi-end-the-state-visit-with-the-trade-truce-extended-and-no-substantive-deals, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### governance-2026-10-04
+- Claim: A Republican member of the US Senate is added as a cosponsor of the Warner/Schatz frontier-AI testing bill introduced on 24 Sep 2026 (45-day pre-release access for a Commerce Department safety committee), as shown on its congress.gov record.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2026-12)
+- Source: https://www.mlex.com/mlex/articles/2529863, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### governance-2026-07-01

@@ -118,6 +118,31 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-10-01: open, only Oracle's 24 Sep 2026 notice on Project Jupiter (the original claim trigger, excluded) is reported; no Bloomberg, Reuters, WSJ or FT report of a force majeure or delay-clause invocation by Microsoft, Meta, Alphabet, Amazon, OpenAI, CoreWeave or xAI on a US lease citing power or fuel (CoreWeave third-party developer delays and Microsoft pullback stories predate the claim and cite construction or power delivery, not a notice)
+
+### power-2026-10-01
+- Claim: PJM files a revised Reliability Backstop Procurement proposal at FERC (a refiling or compliance filing in docket ER26-3380 or a successor docket) that changes at least one of the three items FERC flagged (cost allocation, transmission owner exit rules, load-serving entity collateral), by 2026-12.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2026-12)
+- Source: https://finance.yahoo.com/energy/articles/biggest-us-grid-data-center-043445216.html, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### power-2026-10-02
+- Claim: Governor Abbott or TCEQ publicly lifts or narrows the 21 Sep 2026 statewide halt on data center permits, by authorizing issuance of at least one data center air or water permit or by announcing a partial resumption, before ERCOT's audit is complete, by 2026-12.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2026-12)
+- Source: https://www.sacurrent.com/news/abbott-orders-pause-of-air-permits-for-data-centers-experts-question-whether-he-has-the-authority/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### power-2026-10-03
+- Claim: A third US state, other than New York and Texas, imposes a statewide pause on new data center permits, approvals or grid interconnections through a governor's executive order or an enacted statute (a vetoed bill, like Maine's, does not count), by 2027-03.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-03)
+- Source: https://www.jonesday.com/es/insights/2026/07/new-york-enacts-first-statewide-data-center-moratorium, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### power-2026-07-03

@@ -92,6 +92,30 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-10-01: open, searched Chinese-language coverage (cnfin 1 Sep 2026, Xinhua, others) and found the covenant issued 24 Aug 2026 but no institution stating it completed the filing and no association list of filings.
 
+### agency-2026-10-01
+- Claim: EMVCo publishes a non-draft version of its agentic payments framework, or a first specification, bulletin or draft covering Know Your Agent or an Agentic Transaction Indicator, on emvco.com.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-03)
+- Source: https://www.emvco.com/?p=134726, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### agency-2026-10-02
+- Claim: Mastercard, or a named issuer or acquirer, announces that the Agent Pay Probability Score is live in production (generally available or in commercial use with at least one named financial institution), not testing.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-01)
+- Source: https://finance.yahoo.com/technology/ai/articles/mastercard-advances-agentic-commerce-trust-130000009.html, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### agency-2026-10-03
+- Claim: The Federal Reserve Board, OCC, FDIC, CFPB or FinCEN publishes a request for information, proposed guidance, supervisory statement or interagency statement that specifically addresses payments initiated by AI agents. A speech or testimony does not count.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-03)
+- Source: https://www.federalreserve.gov/newsevents/speech/waller20260928a.htm, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### agency-2026-08-03

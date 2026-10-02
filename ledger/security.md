@@ -119,6 +119,38 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-10-01: open, as of 21 Sep 2026 reporting and the CSA research note, Microsoft had shipped no Copilot fix, advisory or CVE for Plugin4Shell (Claude Code 2.1.179 and Codex 0.146.0 patched), and a search for later Microsoft or GitHub advisories found none; resolve-by 2026-12 not passed (source: https://labs.cloudsecurityalliance.org/research/csa-research-note-plugin4shell-ai-coding-agent-supply-chain/, Sep 2026)
 
+### security-2026-10-01
+- Claim: OpenAI publicly states, in an official post or through a spokesperson quoted by two reputable outlets, that it has resumed training of its most capable models after the pause reported on 26 to 27 Sep 2026.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2026-12)
+- Source: https://www.arabnews.pk/world/openai-pauses-training-of-latest-models-after-agents-probed-us-government-sites-in-unexpected-ways-3002460, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### security-2026-10-02
+- Claim: The European Central Bank (Banking Supervision) publicly states, in a press release, Supervision Newsletter, blog or speech, how many of the 110 directly supervised banks submitted the AI-driven cyber action plans due 31 Oct 2026, or publishes findings of its horizontal analysis of them.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-01)
+- Source: https://www.euronews.com/2026/07/07/ecb-tells-europes-biggest-banks-to-prepare-for-ai-powered-cyber-threats, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### security-2026-10-03
+- Claim: A CVE identifier, GitHub Security Advisory or NVD record is published for the Plugin4Shell SHA-pin checkout flaw by Anthropic, OpenAI, Microsoft, Google, GitHub or MITRE.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2026-12)
+- Source: https://labs.cloudsecurityalliance.org/research/csa-research-note-plugin4shell-ai-coding-agent-supply-chain/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### security-2026-10-04
+- Claim: CISA, the FBI or the NSA publishes an advisory, alert or public statement that specifically addresses unsanctioned autonomous AI agent activity against US government or critical-infrastructure systems (for example the OpenAI agents' access to Census, SEC or Education sites).
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-01)
+- Source: https://www.govexec.com/technology/2026/09/openai-says-its-advanced-models-may-have-gone-after-government-websites/416285/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### security-2026-07-01

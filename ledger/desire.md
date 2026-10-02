@@ -109,6 +109,30 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-10-01: open, NetChoice's litigation page (now reachable) lists only NetChoice v. Bonta cases on the Speech Code, SB 976 and INFORM Act, none on SB 1119; no CCIA, Chamber of Progress or operator suit found (checked: https://www.netchoice.org/litigation/, Oct 2026)
 
+### desire-2026-10-01
+- Claim: Google (Alphabet) announces or begins serving paid advertising placements inside the standalone Gemini app (not AI Mode or AI Overviews), documented by Google or two reputable outlets, by 2027-03.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-03)
+- Source: https://www.androidauthority.com/google-gemini-could-soon-get-ads-3662450/, Apr 2026
+- Status: open
+- Grades:
+  - none yet
+
+### desire-2026-10-02
+- Claim: OpenAI makes a public advertisement repository for ChatGPT ads (content, advertiser paying, run period, targeting parameters, reach) accessible online, as required of a designated VLOSE under the DSA, documented by OpenAI or the Commission or two reputable outlets, by 2027-02.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-02)
+- Source: https://thenextweb.com/news/chatgpt-ads-1bn-run-rate-self-service-europe-dsa-vlose-designation, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### desire-2026-10-03
+- Claim: Meta publicly states the specific fee rate (a percentage or per-transaction amount) it charges on purchases completed through Muse, in Meta Newsroom, Muse or Meta for Business documentation, or reported by two reputable outlets, by 2027-03.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-03)
+- Source: https://finance.yahoo.com/technology/ai/articles/meta-maps-muse-monetization-strategy-110000882.html, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### desire-2026-08-04

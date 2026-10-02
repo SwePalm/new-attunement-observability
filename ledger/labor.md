@@ -141,6 +141,38 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-10-01: open, no BMAS Referentenentwurf found on bmas.de or in German outlets; a 3 Sep 2026 German trade piece states none had been published, and the Bundestag answer of 24 Apr 2026 says only that BMAS is preparing one (source: https://www.bundestag.de/presse/hib/kurzmeldungen-1167478, Apr 2026)
 
+### labor-2026-10-01
+- Claim: Challenger, Gray & Christmas's October 2026 job cuts report (released November 2026) records artificial intelligence as the cited reason for at least 6,000 announced US job cuts in October 2026.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2026-11)
+- Source: https://www.challengergray.com/wp-content/uploads/2026/10/Challenger-Report-September-2026.pdf, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
+### labor-2026-10-02
+- Claim: Challenger, Gray & Christmas's October 2026 report puts year-to-date Technology-sector announced cuts for 2026 at 175,000 or more, requiring at least about 9,100 Technology cuts in October.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2026-11)
+- Source: https://www.challengergray.com/wp-content/uploads/2026/10/Challenger-Report-September-2026.pdf, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
+### labor-2026-10-03
+- Claim: The first regional or pilot collective agreement of IG Metall's 2026 metal and electrical round, concluded by 31 Dec 2026, contains an explicit provision or side declaration on Künstliche Intelligenz (AI) in its text or in IG Metall's or Gesamtmetall's announcement of the deal.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-01)
+- Source: https://www.igmetall.de/presse/pressemitteilungen/2026/ig-metall-beschliesst-forderungspaket-5-prozent-mehr-geld-sichere-jobs-und-gewinnbeteiligung, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### labor-2026-10-04
+- Claim: A business group, trade association or employer files a court challenge (state or federal) to California SB 947, SB 951 or AB 1883, as shown on a court docket or reported by two reputable outlets.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2026-12)
+- Source: https://www.upi.com/Top_News/US/2026/10/01/california-artificial-intelligence/5411790881596, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### labor-2026-02-01

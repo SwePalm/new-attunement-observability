@@ -119,6 +119,31 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-10-01: open, the ACP repository still lists 2026-04-17 as the latest dated spec directory, with only an unreleased/ directory beyond it (source: https://github.com/agentic-commerce-protocol/agentic-commerce-protocol, Oct 2026)
+
+### coordination-2026-10-01
+- Claim: The Agentic AI Foundation (Linux Foundation) lists a seventh hosted project on aaif.io/projects or announces one in an aaif.io blog post, after the six currently listed (MCP, goose, AGENTS.md, agentgateway, A2A, Agent Router), by 2026-12.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2026-12)
+- Source: https://aaif.io/projects/, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
+### coordination-2026-10-02
+- Claim: The MCP maintainers add the Triggers and Events mechanism (events/subscribe) as an official extension, shown by an ext- repository under github.com/modelcontextprotocol or a listing on modelcontextprotocol.io/extensions/overview, by 2027-03.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-03)
+- Source: https://github.com/modelcontextprotocol/experimental-ext-triggers-events, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### coordination-2026-10-03
+- Claim: The UCP maintainers (Universal-Commerce-Protocol/ucp) publish a tagged GitHub release dated after v2026-08-25, by 2026-12.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2026-12)
+- Source: http://ucp.dev/documentation/announcements/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### coordination-2026-08-03

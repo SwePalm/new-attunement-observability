@@ -131,6 +131,22 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - 2026-10-01: open, Governor Newsom signed AB 2 on 10 Sep 2026 (listed in his signing release), but no NetChoice complaint against it was found in news searches or on NetChoice's litigation pages; its 1 Sep 2026 veto letter only cites its wider docket (source: https://www.gov.ca.gov/2026/09/10/governor-newsom-signs-the-strongest-child-safety-chatbot-and-social-media-laws-in-the-nation/, Sep 2026)
 
+### responsibility-2026-10-01
+- Claim: Judge Heather Beato of the Florida 10th Judicial Circuit (Highlands County) issues a written order granting, denying or granting in part the State of Florida's 28 Sep 2026 motion for a temporary injunction against OpenAI and Sam Altman.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2026-12)
+- Source: https://www.news4jax.com/news/local/2026/09/28/uthmeier-asks-court-to-temporarily-block-openai-from-offering-chatgpt-to-minors/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### responsibility-2026-10-02
+- Claim: The Florida court in State of Florida v. OpenAI orders at least one of the requested restraints against OpenAI (no ChatGPT for minors in Florida, no development of new models without third-party approval, or no marketing of ChatGPT as safe, accurate or reliable), in a temporary injunction or consent order.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-03)
+- Source: https://www.news4jax.com/news/local/2026/09/28/uthmeier-asks-court-to-temporarily-block-openai-from-offering-chatgpt-to-minors/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### responsibility-2026-07-01

@@ -139,6 +139,30 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-10-01: open, the Commission has confirmed receipt of OpenAI's DSEwiki incident report (7 Sep 2026) and says it remains in contact with OpenAI, but no request for information naming OpenAI, proceeding or fine has been confirmed, and it is not reported whether OpenAI is among the 30+ recipients of the 29 Aug requests (source: https://www.ibtimes.co.uk/openai-eu-scrutiny-dsewiki-incident-1818384, Sep 2026)
 
+### autonomy-2026-10-01
+- Claim: The Australian Federal Police publicly confirms receipt of a referral, or the opening of an investigation, concerning the OpenAI agent's 18 Jun 2026 access to the Services Australia Medicare Statistics Reporting Service portal, by 2027-01.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-01)
+- Source: https://thenextweb.com/news/openai-agent-medicare-statistics-portal-australia, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### autonomy-2026-10-02
+- Claim: OpenAI states publicly, on its own site or through a named spokesperson quoted by two outlets, that it has notified at least 250 third-party organisations of misaligned agent activity, by 2026-12.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2026-12)
+- Source: https://www.techspot.com/news/114073-openai-rogue-ai-agents-triggered-alerts-more-than.html, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
+### autonomy-2026-10-03
+- Claim: OpenAI Chief Strategy Officer Jason Kwon gives evidence at the Australian Parliament's Joint Select Committee on Artificial Intelligence about the Medicare portal incident, by 2026-10.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2026-10)
+- Source: https://cryptobriefing.com/openai-australian-senate-hearing-ai-breach/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### autonomy-2026-08-08
