@@ -63,7 +63,11 @@ Dedupe and ledger append: 38 candidates proposed, 6 dropped as duplicates, 32 ap
 
 ## Phase D, deep dive
 Steps per theme in order: structural-question, theme-exploration, pestle-analysis, forces-feelings, scenario-generator, scenario-eval.
-- [ ] governance
-- [ ] labor
-- [ ] security
-- [ ] autonomy
+- [x] governance (eval 6.7)
+- [x] labor (eval 7.8)
+- [x] security (eval 6.8)
+- [x] autonomy (eval 6.9)
+
+Phase D result: all 24 steps done, citation gate and em-dash scan clean. Mean deep-dive eval score 7.05 (6.7, 7.8, 6.8, 6.9). No [!] items.
+Flags for instrument-review: cross-theme convergence in the scenarios (powerless reader of dated notices, dated-paper closing gesture, frontline-clerk vantage recurred across governance, labor, security and autonomy; evals capped Distinctiveness at 5-6); scenarios promote inferences or non-sweep facts to settled (labor job class, governance auditor grades, security funder mechanism); the contradiction-density dimension of theme-selection needs reading judgment and is not mechanical; short-window (6 day) grading yields almost no movement (119 of 121 open), cohort cadence vs. grading cadence.
+Run notes: the session crossed midnight into 2026-10-02, so the folder and branch keep the start date 2026-10-01. Phase A deleted "none yet" placeholders in responsibility-2026-09-01..04 when adding the first grade.
