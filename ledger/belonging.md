@@ -30,6 +30,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
  - 2026-08-04: open, no new companion-specific national wave with a comparable regular-use figure; the June 2026 Common Sense census reports general AI use (67% chatbot use) but not companion regular use, and resolve-by is 2027-07
  - 2026-09-25: open, no new companion-specific national wave appeared since 2026-08-13; the only Common Sense Media publication since the 2025 wave is the 8 Jun 2026 census, which still reports no companion regular-use share, so the latest comparable figure remains 52% (Apr-May 2025 fieldwork) (source: https://www.commonsensemedia.org/research/a-comprehensive-report-on-teens-tweens-and-ai, Jun 2026)
+ - 2026-10-02: open, a search for a new Common Sense Media or other national companion-specific teen survey wave returned only coverage of the 2025 wave (52% regular users), so no comparable new figure exists; resolve-by 2027-07
 
 ### belonging-2026-08-01
 - Claim: New York Governor Hochul signs S9051B (the AI companion minor-safety bill) into law, with or without chapter amendments. As of 2026-08-04 the bill's last recorded action is 5 Jun 2026 and it has not been delivered to the governor.
@@ -39,6 +40,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-09-25: open, the NY Senate primary record still shows the last action as the 5 Jun 2026 return to the Senate after Assembly passage, with no delivery to the governor, signature, veto or chapter number; the governor has until 31 Dec 2026 to act (source: https://www.nysenate.gov/legislation/bills/2025/S9051/amendment/B, Sep 2026)
+  - 2026-10-02: open, the NY Senate primary record (opened 2026-10-02) still shows the 5 Jun 2026 return to the Senate as the final action, with no delivery to the governor, signature, veto or chapter number; resolve-by 2026-12
 
 ### belonging-2026-08-02
 - Claim: Ofcom publishes the findings of its AI chatbot persona research covering ChatGPT, Grok, SnapMyAI and Talkie, including age-differentiated safety results for 13-17 accounts. Fieldwork was announced 22 Jun 2026 with completion expected end of 2026 and no findings published as of 2026-08-04.
@@ -48,6 +50,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-09-25: open, no published findings from the ChatGPT, Grok, SnapMyAI and Talkie persona research were found in secondary coverage; the Ofcom transparency-notice page returned HTTP 403 to automated fetching and had no archived snapshot, so the primary page could not be opened, and fieldwork was signalled to complete end of 2026
+  - 2026-10-02: open, a fresh search found no Ofcom publication of the ChatGPT, Grok, SnapMyAI and Talkie persona findings; the Ofcom transparency-notice page was not re-opened (it returned HTTP 403 on 2026-09-25 with no archive snapshot, so it remains the unopened page) and fieldwork is signalled to end 2026
 
 ### belonging-2026-08-04
 - Claim: The European Commission publishes its Digital Fairness Act proposal and the text contains at least one provision expressly reaching conversational AI, AI companions, or AI-simulated relationships. No proposal had been adopted as of 2026-08-04; expected Q3-Q4 2026.
@@ -57,6 +60,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-09-25: open, the Parliament legislative train (updated 1 Aug 2026) still lists the Digital Fairness Act as "Announced" with indicative timing Q4 2026 and no Commission proposal adopted, and no tabled text reaching conversational AI or companions was found (source: https://www.europarl.europa.eu/legislative-train/theme-protecting-our-democracy-upholding-our-values/file-digital-fairness-act, Aug 2026)
+  - 2026-10-02: open, the Parliament legislative train page (reopened 2026-10-02) still shows the Digital Fairness Act as "Announced" with expected timing Q4 2026, and no Commission proposal text has been adopted to test for conversational AI or companion provisions; resolve-by 2027-06
 
 ### belonging-2026-08-07
 - Claim: The US Federal Trade Commission publishes a staff report, study, or public summary of findings from its Section 6(b) inquiry into AI companion chatbots. Baseline verified 2026-08-13: 6(b) orders were issued 11 Sep 2025 to Alphabet, Character Technologies, Instagram, Meta Platforms, OpenAI OpCo, Snap and X.AI on a 3-0 Commission vote, no study output has been published, and the orders set no publication timetable.
@@ -66,6 +70,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-09-25: open, the FTC 6(b) AI companion report page still lists only the three Sep 2025 documents (resolution, model order, cover letter) with no staff report, study or summary of findings, and no news coverage of a release was found (source: https://www.ftc.gov/reports/6b-orders-file-special-report-regarding-advertising-safety-data-handling-practices-companies, Sep 2026)
+  - 2026-10-02: open, the FTC 6(b) report page (reopened 2026-10-02) still carries only the resolution, model order and cover letter from Sep 2025, with no staff report or summary of findings, and a news search found no release; resolve-by 2027-06
 
 ### belonging-2026-09-01
 - Claim: NetChoice (alone or jointly with CCIA) files a federal lawsuit challenging California SB 1119 (Adam's Law, companion chatbot child safety), in whole or in part, before its 1 Jul 2027 operative date. Baseline checked 2026-09-25: SB 1119 was signed 10 Sep 2026, NetChoice issued a statement the same day raising First Amendment concerns about the signed package, and no complaint naming SB 1119 was found.
@@ -74,6 +79,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-10-02: open, searches for a NetChoice or CCIA complaint naming SB 1119 found only the older SB 976 and Age-Appropriate Design Code litigation and Daily Journal coverage of the signing amid warnings of legal challenges, so no complaint is evidenced; the court docket was not directly searched, and the operative date is 1 Jul 2027
 
 ### belonging-2026-09-02
 - Claim: At least one chamber of an EU member-state national parliament adopts a reasoned opinion under Protocol No 2 (subsidiarity) against the European Commission's EU KIDS Act proposal (IP/26/1890), as recorded on IPEX or the Commission's subsidiarity-control listing. Baseline checked 2026-09-25: the proposal was adopted 17 Sep 2026, the Czech and Estonian governments publicly opposed blanket bans, and no reasoned opinion was found.
@@ -82,11 +88,37 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-10-02: open, coverage of the 17 Sep 2026 EU KIDS Act proposal (Lewis Silkin, TNW, Brussels Times) mentions no national-parliament reasoned opinion; IPEX itself was not opened, and the eight-week Protocol No 2 window from transmission runs into November 2026
 
 ### belonging-2026-09-03
 - Claim: OpenAI publishes at least one quantitative accuracy figure for its ChatGPT age-prediction system (for example the share of under-18 users correctly routed to ChatGPT for Teens, or a false-positive rate for adults) in a blog post, help-center article, system card, transparency report or regulatory filing. Baseline checked 2026-09-25: the Jan 2026 age-prediction rollout and the 18 Aug 2026 ChatGPT for Teens launch described the signals used but disclosed no accuracy figures.
 - Horizon: 0–12 months (logged 2026-09, resolve by 2027-03)
 - Source: https://thenextweb.com/news/chatgpt-for-teens-openai-age-prediction-study-mode, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+  - 2026-10-02: open, a search for OpenAI age-prediction accuracy or false-positive figures found only press noting OpenAI has not disclosed them (The Register, TechRadar on misfiring adult accounts); OpenAI's own help-center and system-card pages were not opened
+
+### belonging-2026-10-01
+- Claim: Pennsylvania Governor Josh Shapiro signs a companion-chatbot bill for minors (S.B. 1090 or H.B. 2006, or a merged vehicle) into law.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2026-12)
+- Source: https://www.mychesco.com/a/news/government/pennsylvania-house-passes-ai-chatbot-safeguards-sending-bill-to-senate/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### belonging-2026-10-02
+- Claim: Meta makes its revamped AI characters available again to accounts it identifies as teens, with the parental controls it announced in January 2026 (blocking individual characters, topic visibility), as stated in a Meta newsroom post or reported by two major outlets.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-03)
+- Source: https://techcrunch.com/2026/01/23/meta-pauses-teen-access-to-ai-characters-ahead-of-new-version/, Jan 2026
+- Status: open
+- Grades:
+  - none yet
+
+### belonging-2026-10-03
+- Claim: A Senate companion to the House "Protecting Kids from Human-Like Chatbots Act" (Whitesides, Kennedy, Matsui, Miller-Meeks) is introduced, with at least one senator as lead sponsor, as recorded on Congress.gov.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-01)
+- Source: https://www.hometownstation.com/santa-clarita-news/politics/rep-whitesides-introduces-bipartisan-legislation-to-protect-children-from-human-like-chatbots-612129, Oct 2026
 - Status: open
 - Grades:
   - none yet

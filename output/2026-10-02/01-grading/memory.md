@@ -1,0 +1,41 @@
+# Signal grading, memory, 2026-10-02
+
+Scorecard:
+- open: 13, confirmed: 0, decayed: 0, falsified: 0, expired: 0
+
+Scope notes:
+- The scorecard counts the 13 live method-v2 claims in Open claims: memory-2026-07-01, memory-2026-07-03, memory-2026-08-02 through memory-2026-08-08, and memory-2026-09-01 through memory-2026-09-04.
+- memory-2026-02-03 and memory-2026-02-04 are retired method-v1 seed claims. They were not researched, not graded and not counted, and were left untouched.
+- Already-resolved claims (memory-2026-08-01, memory-2026-07-02, memory-2026-02-01, memory-2026-02-02) were not re-graded.
+- The last pass was 2026-09-25 (7 days ago), so movement was not expected. The four claims logged 2026-09 (09-01 to 09-04) received their first grade. No claim has a resolve-by earlier than 2026-12 (memory-2026-08-06).
+- No claim resolved, so no block was moved and no Status line changed.
+- No non-open grades, so there are no retrodiction or forward timing tags to assign this pass.
+
+Grade Details:
+- memory-2026-07-01: open, re-checked EU DPA, EDPB, Garante and state AG channels for 26 Sep to 2 Oct 2026 and found no new action; the nearest instrument is the CNIL and CIANum note on agentic AI (20 Jul 2026, within the claim's logging month), which treats persistent memory as one risk among several (purpose limitation, minimisation, storage limitation) and so is not guidance specifically on assistant memory, and the 42-state AG matter stays general; resolve-by 2027-09 (source: https://www.globalpolicywatch.com/2026/08/french-cnil-publishes-note-on-agentic-ai-and-data-protection/, Aug 2026; page itself returned 403 on the insideprivacy mirror, content taken from search snippets)
+- memory-2026-07-03: open, no documented case of leaked or subpoenaed assistant memory data harming a named individual surfaced in a search for 25 Sep to 2 Oct 2026; the Alabama and 16-state AG actions against OpenAI concern the Hugging Face lab breach, not user memory, and no memory-layer vendor disclosed a breach, resolve-by 2027-09 (checked: web news search; no qualifying source to cite)
+- memory-2026-08-02: open, Claude's help centre still states that when a conversation expires or is deleted related memory entries are not removed, and OpenAI's help results still advise deleting both the saved memory and the source chat (OpenAI pages not opened, search snippets only, CAL-005); no guarantee documented, resolve-by 2027-06 (source: https://support.claude.com/en/articles/11817273-use-claude-s-chat-search-and-memory-to-build-on-previous-context, Oct 2026)
+- memory-2026-08-03: open, the MCP GitHub releases list still ends at 2026-07-28, the blog index shows nothing after the 22 Aug 2026 roadmap post, and no memory or persistent-state extension exists (source: https://blog.modelcontextprotocol.io/, Oct 2026)
+- memory-2026-08-04: open, GitHub advisory lists for mem0ai/mem0, getzep/zep and supermemoryai/supermemory are still empty via the API on 2026-10-02, and CISA KEV additions from 25 Sep to 2 Oct 2026 (Zammad, FortiMail, Cisco SD-WAN, Apple, Citrix, MikroTik, SharePoint, WordPress) include no memory-layer component (source: https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json, Oct 2026)
+- memory-2026-08-05: open, the Compliance Apps API reference has no memory endpoint (categories: chats, files, generated files, projects, artifacts, local and remote sessions), and platform release notes of 24 Sep 2026 extend compliance to Office agent sessions and strip file and artifact names from the Activity Feed, with no memory-store coverage (source: https://platform.claude.com/docs/en/release-notes/overview, Sep 2026)
+- memory-2026-08-06: open, no new strands-agents/tools advisory since GHSA-qc8m-4887-8wwh (25 Aug 2026, python_repl); the memory-scoped advisory (GHSA-mpxq-953j-42m4, 6 Aug 2026, memory tool namespace isolation) predates this pass, so the count stays unchanged with resolve-by 2026-12 (source: https://github.com/strands-agents/tools/security/advisories, Oct 2026)
+- memory-2026-08-07: open, letta-ai/letta and langchain-ai/langmem still show zero published security advisories via the GitHub API on 2026-10-02 (source: https://github.com/letta-ai/letta/security/advisories, Oct 2026)
+- memory-2026-08-08: open, the Claude help centre export flow is unchanged on 2026-10-02: ask Claude to write out memories verbatim and copy into a local file, no downloadable file or account data export path (source: https://support.claude.com/en/articles/12123587-import-and-export-your-memory-from-claude, Oct 2026)
+- memory-2026-09-01: open, Google's 23 Sep 2026 DeepMind post says it "will bring" private server-side memory to Private AI Compute with no availability statement or dated rollout, and coverage (Help Net Security, TechRepublic) confirms no ship date or product named; no Google help page documents the feature (source: https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/, Sep 2026)
+- memory-2026-09-02: open, Meta's 8 Sep 2026 newsroom post still says Muse Confidential VM arrives "later this year" and trade coverage describes it as not available at launch; no availability notice found by 2 Oct 2026, forward, pre-announced, resolve-by 2027-03 (source: https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/, Sep 2026)
+- memory-2026-09-03: open, Darktrace's post (24 Sep 2026, disclosure to the three vendors on 18 Aug 2026) documents no vendor response, fix or CVE; anthropics/claude-code advisories through 29 Sep 2026 and openai/codex advisories (last one Sep 2025) include nothing on conversation history integrity, and no Kiro-CLI advisory or signing announcement was found (Kiro advisory page not opened)
+- memory-2026-09-04: open, searches in English and German found no vzbv, Verbraucherzentrale or BEUC lawsuit, Abmahnung or complaint targeting a persistent memory feature; the Verbraucherzentrale NRW Abmahnung found concerns a medical practice chatbot's false titles (OLG Hamm), not memory (source: https://www.otto-schmidt.de/news/wirtschaftsrecht/zurechnung-von-falschangaben-eines-ki-chatbots-2026-05-13.html, May 2026)
+
+Qualifying Events:
+- none. No event this pass resolved any claim in any theme.
+
+Surprises:
+- The CNIL and CIANum agentic AI note (20 Jul 2026) names persistent memory as a distinct GDPR risk ("memory" versus "context", memory ringfencing) and was not recorded in the 2026-08-04 or 2026-09-25 passes for memory-2026-07-01. It is a near miss: a DPA publication in the claim's own logging month that treats memory as one topic among several, not as the specific subject. It is the closest instrument yet and a sign that a memory-specific DPA output is plausible, but it is not a match under the literal text.
+- Google's server-side memory (memory-2026-09-01) was announced on 23 Sep 2026 in strictly future tense, with no product named and no date, so the claim's availability condition remains unmet by design.
+- The 7-day interval again produced zero movement across 13 live claims, consistent with the low-frequency observables flagged on 2026-09-25.
+
+Calibration Observations:
+- Supports the 2026-09-25 candidate (extends CAL-007): low-frequency or negative-baseline observables do not move over short intervals. Evidence: memory-2026-08-03 (open, no spec release), memory-2026-08-07 (open, zero advisories), memory-2026-08-04 (open, empty advisory lists), memory-2026-08-08 (open, export unchanged).
+- Pre-announced claims (CAL-009): memory-2026-09-02 (Meta, "later this year") and memory-2026-09-01 (Google, future tense) both sit at announce-but-not-ship; neither has moved since logging.
+- Candidate (new, weak): near-miss instruments published inside a claim's logging month (CNIL note for memory-2026-07-01) were missed by earlier grading passes because searches targeted "memory"-titled outputs. Evidence: memory-2026-07-01 (open).
+- Unreachable sources (CAL-005, no negative inferred): insideprivacy.com CNIL article (HTTP 403, content from search snippets and globalpolicywatch mirror listing); help.openai.com memory pages (not opened, search snippets only); Kiro-CLI advisory page (not opened); Anthropic compliance reference was read in full. WebSearch budget was sufficient; the GitHub API and CISA KEV JSON were queried directly.

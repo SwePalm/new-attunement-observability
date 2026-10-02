@@ -30,6 +30,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
  - 2026-08-04: open, Article 50's core transparency duties applied on schedule on 2 Aug 2026 and the 2 Dec 2026 machine-readable marking runway stands with no further deferral proposed, but the 2 Dec date has not yet arrived (source: https://labs.cloudsecurityalliance.org/research/csa-research-note-eu-ai-act-article-50-transparency-20260729/, Jul 2026)
  - 2026-09-25: open, the European AI Board's ninth plenary on 17 Sep 2026 set no new deadline and granted no further relief on watermarking, so the 2 Dec 2026 Article 50(2) date still stands but has not yet arrived (source: https://labs.cloudsecurityalliance.org/research/csa-research-note-eu-ai-act-article50-watermarking-deadline/, Sep 2026)
+  - 2026-10-02: open, no further deferral proposal found for the 2 Dec 2026 Article 50(2) marking date for pre-2 Aug systems (CSA note updated 21 Sep 2026 still treats it as fixed), but the date has not yet arrived (source: https://labs.cloudsecurityalliance.org/research/csa-research-note-eu-ai-act-article50-watermarking-deadline/, Sep 2026)
 
 ### perception-2026-07-03
 - Claim: A deepfake incident causes a documented market-moving or election-affecting event that mainstream postmortems attribute materially to synthetic media, by mid-2027.
@@ -39,6 +40,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
  - 2026-08-04: open, deepfake incidents keep accumulating but no mainstream postmortem yet attributes a market-moving or election-affecting outcome materially to synthetic media; the Nov 2026 US midterms are the near-term test and the resolve-by month is 2027-09
  - 2026-09-25: open, no mainstream postmortem yet attributes a market-moving or election-affecting outcome to synthetic media; the most visible election-information scare of the interval, fabricated polls exposed in Aug 2026, involved no AI-generated media and moved prediction-market odds only for seconds (source: https://www.mainepublic.org/npr-news/2026-08-28/what-a-fake-poll-reveals-about-worries-around-prediction-markets-and-the-midterms, Aug 2026)
+  - 2026-10-02: open, searched for midterm deepfake incidents; reporting lists several deepfake ads and a Jan 2026 cloned-voice robocall but no mainstream postmortem attributing a market-moving or election-affecting outcome materially to synthetic media; Nov 2026 midterms still the test (source: https://www.breakingnews.ie/world/ai-deepfakes-blur-reality-in-2026-us-midterm-campaigns-1880460.html, Mar 2026)
 
 ### perception-2026-08-01
 - Claim: The Oregon Secretary of State's Elections Division issues a written determination (civil penalty, referral, or dismissal) in the SB 1571 synthetic media investigation of Jonathan Lockwood over unlabeled AI videos of Rep. Janelle Bynum.
@@ -48,6 +50,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-09-25: open, no written determination, court referral, or dismissal found; the newest reachable reporting describes an open investigation with no statutory decision deadline, and the 12 Aug 2026 Axios Portland update could not be opened (HTTP 403) (source: https://www.opb.org/article/2026/07/09/artificial-intelligence-ai-generated-political-advertisements-oregon/, Jul 2026)
+  - 2026-10-02: open, no determination, referral, or dismissal found; the newest reachable reporting (Hoodline relaying Axios Portland, 12 Aug 2026) says the investigation is ongoing with no timeline for resolution; the original Axios page was not opened (source: https://hoodline.com/2026/08/oregon-probes-ai-attack-ads-showing-bynum-with-glowing-red-eyes/, Aug 2026)
 
 ### perception-2026-08-02
 - Claim: A designated EU national market surveillance authority or the European Commission AI Office publicly announces the first formal Article 50 investigation or enforcement action against a named provider or deployer for failing to mark or label AI-generated content.
@@ -57,6 +60,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-09-25: open, no Article 50 action against a named provider or deployer found; the Commission's Grok proceedings against X run under the Digital Services Act, and the 17 Sep 2026 AI Board plenary produced enforcement-coordination materials rather than an enforcement announcement (source: https://labs.cloudsecurityalliance.org/research/csa-research-note-eu-ai-act-article50-watermarking-deadline/, Sep 2026)
+  - 2026-10-02: open, no national market surveillance authority or AI Office Article 50 investigation or enforcement action against a named provider or deployer found; secondary coverage five weeks after enforceability reports zero Article 50 actions (source: https://techjacksolutions.com/ai-brief/eu-ai-act-article-50-agent-enforcement-gap/, Sep 2026)
 
 ### perception-2026-08-03
 - Claim: Apple ships iOS 27 in general release (not beta) with SynthID watermarking active on Image Playground generations and Apple Intelligence photo edits, as announced on 8 Jun 2026.
@@ -66,6 +70,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-09-25: open, iOS 27 reached general release on 14 Sep 2026 without SynthID active at launch; Apple says SynthID identification will arrive in a software update later in 2026, which would still resolve the claim before 2027-01 (source: https://www.macworld.com/article/2986799/ios-27-features-compatiblity-siri-ai-updates.html, Sep 2026)
+  - 2026-10-02: open, iOS 27.0.1 shipped 28 Sep 2026 as a Face ID and display bug-fix release with no SynthID activation reported, and the MacRumors preview page mentions no SynthID; Apple's stated later-2026 software update for SynthID has not yet appeared (source: https://www.iphoneincanada.ca/2026/09/28/you-can-now-download-ios-27-0-1-for-iphone-and-more/, Sep 2026)
 
 ### perception-2026-08-07
 - Claim: The Governor of New York signs or vetoes S6954B, the Stop Deepfakes Act, which requires synthetic content creation system providers to attach provenance data to AI-generated or substantially modified audio, images and video, and which passed both chambers on 3 Jun 2026 and had not been delivered to the Governor as of 13 Aug 2026.
@@ -75,6 +80,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-09-25: open, the S6954B action history still ends at Assembly passage on 4 Jun 2026 with no delivery to the Governor, chapter number, or veto memo (source: https://www.nysenate.gov/legislation/bills/2025/S6954/amendment/B, Jun 2026)
+  - 2026-10-02: open, the nysenate.gov S6954B action history still ends at Assembly passage on 4 Jun 2026 (verbatim lines re-read; a summarizer header said 'delivered to the Governor' but no such action line exists), with no delivery, chapter number, or veto memo (source: https://www.nysenate.gov/legislation/bills/2025/S6954/amendment/B, Jun 2026)
 
 ### perception-2026-09-01
 - Claim: The bill-review subcommittee of South Korea's National Assembly Science, ICT, Broadcasting and Communications Committee votes to approve at least one AI Basic Act or Network Act amendment that sanctions intentional removal, forgery or alteration of AI-generated content marks, which it held for continued review on 15 Sep 2026.
@@ -83,6 +89,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-10-02: open, the subcommittee decided on continued review on 15 Sep 2026 and no approval vote occurred; Maeil reports final review postponed to the next regular session in November (source: https://www.imaeil.com/page/view/2026092412193369072, Sep 2026)
 
 ### perception-2026-09-02
 - Claim: Meta extends the "AI-generated profile" label, with a recommendation reach limit for undisclosed profiles, from Instagram (launched 31 Aug 2026) to Facebook or Threads, as announced by Meta or reported by a reputable outlet.
@@ -91,11 +98,37 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-10-02: open, searched for an extension of the AI-generated profile label or reach limit to Facebook or Threads; coverage describes the 31 Aug 2026 rollout as Instagram-only and U.S.-only while Meta monitors impact, with no Facebook or Threads announcement found (source: https://betanews.com/article/meta-will-limit-the-reach-of-ai-profiles-on-instagram-that-are-not-transparent/, Sep 2026)
 
 ### perception-2026-09-03
 - Claim: Anthropic or Google DeepMind publishes an evaluation (system card section, blog, or paper) of whether SynthID-Text-based watermarking changes refusal behavior or tool-call outputs, or a public response to Lasso Security's 17 Sep 2026 "sampling drift" study, dated after 17 Sep 2026.
 - Horizon: 0–12 months (logged 2026-09, resolve by 2027-03)
 - Source: https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+  - 2026-10-02: open, Lasso's 17 Sep 2026 study page carries no update or vendor reply, and no Anthropic or Google DeepMind evaluation or public response dated after 17 Sep 2026 was found (source: https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior, Sep 2026)
+
+### perception-2026-10-01
+- Claim: YouTube ships voice detection inside its likeness detection tool for enrolled creators (a YouTube blog, help-center page or Creator Insider post stating voice matching is live, in beta or rolling out).
+- Horizon: 0–12 months (logged 2026-10, resolve by 2026-12)
+- Source: https://www.medianama.com/2026/09/223-youtube-likeness-detection-voices-clones/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### perception-2026-10-02
+- Claim: A member of the International Gene Synthesis Consortium (for example Twist Bioscience, IDT or GenScript) or the screening nonprofit IBBIS publicly states it will check for or accept SynthID Bio watermarks in sequence screening.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-03)
+- Source: https://www.helpnetsecurity.com/2026/10/01/synthid-bio-watermark/, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
+### perception-2026-10-03
+- Claim: A deepfake or synthetic-media detection vendor (for example Reality Defender, GetReal Security, Pindrop, Resemble AI, Hive or Modulate) announces a single equity round of at least USD 50M.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-01)
+- Source: https://www.securityweek.com/modulate-raises-25-million-to-advance-deepfake-detection/, Sep 2026
 - Status: open
 - Grades:
   - none yet

@@ -31,6 +31,7 @@ Format: see ledger/README.md. Append-only.
  - none yet
  - 2026-08-04: open, no named bank or payment network has publicly deprecated voice or video verification; the observable movement is additive rather than subtractive, with Barclays, HSBC, Lloyds, Nationwide, NatWest and Santander backing a reusable digital ID network still only at controlled live pilot (source: https://www.biometricupdate.com/202606/major-uk-banks-back-reusable-digital-id-network-for-financial-services, Jun 2026)
  - 2026-09-25: open, still no named bank or payment network has publicly deprecated voice or video verification; Aug and Sep 2026 coverage describes banks stacking behavioural, device and liveness checks on top of voice rather than retiring it (source: https://infosecfederation.com/banks-fighting-deepfake-voice-scams-2026/, Aug 2026)
+ - 2026-10-02: open, no named bank or payment network has publicly deprecated voice or video verification; searches for new announcements since 25 Sep 2026 found only the layered-controls coverage already graded (source checked: https://infosecfederation.com/banks-fighting-deepfake-voice-scams-2026/, Aug 2026)
 
 ### identity-2026-07-03
 - Claim: A data-protection authority opens a formal inquiry into persistent AI memory profiles by mid-2027.
@@ -41,6 +42,7 @@ Format: see ledger/README.md. Append-only.
  - none yet
  - 2026-08-04: open, adjacent but not on point: the Belgian APD investigated an AI conversational app (May 2026) covering free-text sensitive data, storage periods, transparency on internal processing and model retraining, but no DPA has yet framed an inquiry specifically around persistent memory profiles (source: https://www.gibsondunn.com/gibson-dunn-europe-data-protection-july-2026/, Jul 2026)
  - 2026-09-25: open, checked English and Italian sources (Garante decisions through 3 Sep 2026, Irish DPC, a 24 Sep 2026 EU data-and-AI enforcement roundup) and found AI chatbot enforcement on consent, age and deepfakes but no inquiry framed around persistent memory profiles (source: https://www.stephensonharwood.com/insights/neural-network-september-2026/, Sep 2026)
+ - 2026-10-02: open, no DPA inquiry framed around persistent AI memory profiles; found only commentary that the ICO and EU regulators are interested in chatbot memory and a Korean PIPC adequacy review of Naver's AI search agent (27 May 2026), neither a formal inquiry into memory profiles
 
 ### identity-2026-08-01
 - Claim: OpenID Foundation members approve OpenID Connect Ephemeral Subject Identifier 1.0 as a Final Specification in the vote scheduled for 16 to 30 Sep 2026.
@@ -50,6 +52,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-09-25: open, the OIDF notice of 2 Sep 2026 confirms the member vote runs 16 to 30 Sep 2026 and no result has been announced on openid.net/news as of 25 Sep 2026, so the vote is in progress (source: https://openid.net/notice-of-vote-for-proposed-openid-connect-ephemeral-subject-identifier-1-0-final-specification/, Sep 2026)
+  - 2026-10-02: open, the OIDF notice still shows the vote window 16 to 30 Sep 2026 and the openid.net news list (latest item 29 Sep 2026) carries no result announcement yet; the vote closed 2 days ago, so the result is likely pending (checked https://openid.net/notice-of-vote-for-proposed-openid-connect-ephemeral-subject-identifier-1-0-final-specification/ and https://openid.net/news/)
 
 ### identity-2026-08-02
 - Claim: The OpenID Foundation AI Identity Management Community Group publishes consolidated MCP security interoperability results naming at least three participating vendors.
@@ -59,6 +62,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-09-25: open, no consolidated MCP interoperability results or participant list published; the call for participation still sets 16 Oct 2026 for the first cross-partner test and presentation at the Gartner IAM Summit (source: https://openid.net/call-for-participation-demonstrate-mcp-based-ai-agent-security-with-open-identity-standards-2/, Jul 2026)
+  - 2026-10-02: open, openid.net news list shows no MCP interoperability results or participant list; the first cross-partner test deadline of 16 Oct 2026 has not arrived (checked https://openid.net/news/)
 
 ### identity-2026-08-03
 - Claim: Okta moves Agent Gateway from research release to general availability.
@@ -68,6 +72,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-09-25: open, as of 22 Sep 2026 Okta Agent Gateway is still not generally available; Okta says it is planned for GA in Q3 2026 with the gateway kill switch in Q4, while only Agent SSO, Agent-to-Agent Connections and Resource Access Certifications are GA today (source: https://siliconangle.com/2026/09/22/okta-adds-ai-agent-runtime-gateway-forms-blueprint-alliance-with-aws-and-crowdstrike/, Sep 2026)
+  - 2026-10-02: open, no GA announcement found; the latest dated Okta material located still describes Agent Gateway as research release (Jul 2026) or planned for GA in Q3 2026 (22 Sep 2026), and the Okta newsroom pages could not be confirmed as updated; Q3 ended 30 Sep so a GA notice may be imminent (checked https://www.okta.com/newsroom/articles/okta-july-2026-product-innovations/)
 
 ### identity-2026-08-04
 - Claim: The EDPB adopts final versions of its guidelines on anonymisation and on web scraping for generative AI after the consultation closing 30 Oct 2026.
@@ -77,6 +82,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-09-25: open, the EDPB consultation page for Guidelines 03/2026 still shows the 8 Jul to 30 Oct 2026 feedback window open and no final version, so the claim cannot resolve before Nov 2026 (source: https://www.edpb.europa.eu/public-consultations/guidelines-032026-on-web-scraping-in-the-context-of-generative-ai_en, Jul 2026)
+  - 2026-10-02: open, the EDPB consultation window runs to 30 Oct 2026, so the claim cannot resolve before Nov 2026; no new EDPB final-version news found
 
 ### identity-2026-08-08
 - Claim: Microsoft moves the New agent blueprint wizard in the Microsoft Entra admin center out of Preview to general availability.
@@ -86,6 +92,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-09-25: open, the Microsoft Learn blueprint page still labels the admin center action "New agent blueprint (Preview)" and the Agent ID what's-new page (updated 13 Aug 2026) still lists the wizard as Preview (source: https://learn.microsoft.com/en-us/entra/agent-id/whats-new-agent-id, Aug 2026)
+  - 2026-10-02: open, the Microsoft Learn Agent ID what's-new page (updated 13 Aug 2026) still lists the blueprint and identity creation wizard in the admin center as Preview (checked https://learn.microsoft.com/en-us/entra/agent-id/whats-new-agent-id)
 
 ### identity-2026-09-01
 - Claim: Microsoft publicly joins the Blueprint Alliance (the Okta-led agent security reference architecture coalition formed 22 Sep 2026 without Microsoft), shown by a Microsoft, Okta or alliance announcement or member listing.
@@ -94,6 +101,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-10-02: open, coverage of the Blueprint Alliance (22 Sep 2026) lists founding members AWS, CrowdStrike, Databricks, Docker, Google Cloud, Lovable, Okta, Proofpoint, Salesforce, ServiceNow, Wiz and Zscaler, with no Microsoft (checked https://itbrief.com.au/story/okta-led-alliance-unveils-blueprint-for-ai-agent-security via search summary)
 
 ### identity-2026-09-02
 - Claim: At least one of Tesco, Sainsbury's, Asda, Morrisons, Aldi, Lidl, Co-op or Waitrose publicly confirms that its stores in England or Wales accept DVS-certified digital ID for alcohol age checks at tills or self-checkouts, following SI 2026/1022 (in force 15 Sep 2026).
@@ -102,6 +110,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-10-02: open, the Biometric Update piece (Sep 2026) and retailer-guidance coverage name no supermarket confirming acceptance of DVS digital ID at tills; large licence holders are still consulting lawyers (checked https://www.biometricupdate.com/202609/policy-intention-is-becoming-much-clearer-on-digital-id-for-uk-alcohol-sales)
 
 ### identity-2026-09-03
 - Claim: An Australian Government body (ASD/ACSC, the Digital Transformation Agency, Services Australia or the Medicare incident taskforce) publishes guidance, policy or findings calling for AI agents accessing Australian government online services to identify or authenticate themselves as agents, distinct from the internal-agent controls ISM-2133 to ISM-2135.
@@ -110,11 +119,37 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-10-02: open, an ACS Information Age piece of 15 Sep 2026 quotes Services Australia saying the plumbing for agentic identity does not yet exist but reports no call for external agents to identify themselves; ASD/ACSC agent-identity guidance found (1 May 2026 joint guidance, ISM agent controls) concerns agents an organisation operates, i.e. the excluded internal-agent scope; the DTA agentic AI addendum page timed out and was not opened (checked https://ia.acs.org.au/article/2026/can-you-do-my-tax-ato-services-australia-prep-for-ai-agents.html)
 
 ### identity-2026-09-04
 - Claim: The German Federal Ministry for Digital Affairs and State Modernisation (BMDS) or the d-you project publicly reports at least 1 million d-you wallet users, activations or downloads.
 - Horizon: 0–12 months (logged 2026-09, resolve by 2027-06)
 - Source: https://www.computerbase.de/news/apps/ausweis-fuehrerschein-und-co-deutschlands-digitale-wallet-d-you-startet-im-januar.99337/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+  - 2026-10-02: open, d-you launches 2 Jan 2027 so no user, activation or download figure can exist yet; searches in German found only launch coverage (checked https://www.bundesregierung.de/breg-de/aktuelles/digital-wallet-2452384)
+
+### identity-2026-10-01
+- Claim: Apple launches driver's licence and state ID support in Apple Wallet in Utah, shown by an Apple, Utah Driver License Division or major-outlet launch report.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2026-12)
+- Source: https://www.macrumors.com/2026/09/02/apple-wallet-id-feature-16th-us-state/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### identity-2026-10-02
+- Claim: At least one of JPMorgan Chase, Bank of America, Citi, Wells Fargo or Capital One publicly confirms (press release, newsroom, help page or named spokesperson) that it accepts a mobile driver's licence or verifiable digital credential for customer identification at account opening, following the 8 Sep 2026 FinCEN and bank-regulator FAQs.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-06)
+- Source: https://www.americanbanker.com/news/five-agencies-say-banks-may-accept-mobile-drivers-licenses, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### identity-2026-10-03
+- Claim: South Africa's Department of Home Affairs begins issuing the smartphone digital ID credential to members of the public beyond ministers and officials (a pilot counts), shown by a Home Affairs, gov.za or major South African outlet report.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-06)
+- Source: https://techcentral.co.za/south-africa-digital-id-schreiber-demo/286764/, Oct 2026
 - Status: open
 - Grades:
   - none yet

@@ -30,6 +30,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
  - 2026-08-04: open, the disruption leg is already met (Anthropic's 12 Jun 2026 suspension of Claude Fable 5 and Mythos 5 under a US export-control directive hit enterprises with embedded production integrations, and OpenAI degraded for 17 days in Jul 2026) but no provider or affected enterprise has published a post-mortem, which is the leg the claim rests on (source: https://www.gtlaw.com/en/insights/2026/6/ai-company-anthropic-suspends-access-to-claude-fable-5-claude-mythos-5-following-us-export-control-directive, Jun 2026)
  - 2026-09-25: open, no provider or affected enterprise post-mortem found for the Fable 5 and Mythos 5 suspension or OpenAI's July degradation; coverage remains survey and analyst material (VentureBeat's 145-enterprise survey of 2 Jul 2026 names no post-mortem), and Anthropic's status page through 22 Sep 2026 still shows only impact-and-resolution notices (source: https://venturebeat.com/orchestration/enterprises-lost-claude-fable-5-for-a-few-weeks-new-data-shows-two-thirds-had-already-built-their-hedge, Jul 2026)
+  - 2026-10-02: open, re-searched for a provider or affected-enterprise post-mortem on the Fable 5 and Mythos 5 suspension or OpenAI's July degradation and found none; Anthropic's status API incidents of 29 Sep and 1 Oct 2026 are again resolution-only notices.
 
 ### dependency-2026-08-01
 - Claim: HM Treasury designates at least one AI model provider (for example OpenAI, Anthropic, Google DeepMind, or Mistral) as a Critical Third Party under the UK CTP regime, extending the 10 Jul 2026 cloud-only list.
@@ -39,6 +40,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-09-25: open, HM Treasury's gov.uk publication feed shows no CTP designation after the 10 Jul 2026 announcement of the four cloud providers, so no AI model provider has been added (source: https://www.gov.uk/government/news/uk-financial-system-strengthened-with-new-safeguards-for-major-technology-providers, Jul 2026)
+  - 2026-10-02: open, law-firm coverage (Mofo, Lewis Silkin, Jul 2026) still lists only AWS, Google Cloud, Microsoft and Oracle as designated, and no later HM Treasury designation was found; the Treasury Committee's end-of-2026 recommendation remains unmet.
 
 ### dependency-2026-08-02
 - Claim: The FSB publishes its final Sound Practices for Responsible Adoption of AI report and it explicitly addresses concentration or substitutability of AI service providers, beyond the generic third-party risk framing of the 10 Jun 2026 consultation.
@@ -48,6 +50,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-09-25: open, the FSB has published consultation responses (6 Aug 2026) and a Chair's G20 letter warning on frontier-AI cyber risk (31 Aug 2026), but the final sound practices report is still due October 2026 and neither item addresses AI provider concentration or substitutability (source: https://www.fsb.org/2026/08/fsb-chairs-letter-to-g20-finance-ministers-and-central-bank-governors-august-2026/, Aug 2026)
+  - 2026-10-02: open, no final report found yet (search still gives the 10 Jun 2026 consultation and an October 2026 target); the consultation's third-party practice already names supply chain concentration, so grade the final text once published.
 
 ### dependency-2026-08-03
 - Claim: At least one Agentic AI Foundation platinum member (Anthropic, OpenAI, Microsoft, Google, AWS, Block, Bloomberg, or Cloudflare) publicly announces a dated end-of-support in its own MCP client or hosted platform for HTTP+SSE transport or Dynamic Client Registration, converting the 2026-07-28 spec deprecations into an enforced migration deadline for third-party server operators.
@@ -57,6 +60,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - 2026-08-13: open, the first post-spec statement by a platinum member (Cloudflare, 6 Aug 2026) reaffirms backward compatibility and cites only the protocol's own 12-month lifecycle floor (DCR "slated for removal after summer 2027"), setting no end-of-support date in Cloudflare's own Agents SDK, Workers OAuth Provider, or hosted MCP endpoints (source: https://blog.cloudflare.com/mcp-v2/, Aug 2026)
   - 2026-09-25: open, no post-spec dated end-of-support from a platinum member found; Microsoft Copilot Studio documentation states SSE has not been supported since August 2025, but that predates and was not driven by the 2026-07-28 deprecations, so it does not meet the claim's conversion condition (source: https://learn.microsoft.com/en-us/microsoft-copilot-studio/mcp-add-existing-server-to-agent, May 2026)
+  - 2026-10-02: open, a search for a dated SSE or DCR end-of-support from any platinum member found only non-member notices (Keboola, Atlassian), nothing new from Anthropic, OpenAI, Microsoft, Google, AWS, Block, Bloomberg or Cloudflare.
 
 ### dependency-2026-08-04
 - Claim: The Cyberspace Administration of China or a provincial cyberspace regulator publishes an enforcement action (fine, service suspension, or rectification order) naming a specific provider under the anthropomorphic-AI measures that took effect 15 Jul 2026.
@@ -66,6 +70,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-09-25: open, CAC and Chinese-language searches found no published enforcement action naming a provider under the anthropomorphic-AI measures; only the measures' own penalty and interview provisions and commentary surfaced (source: https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm, Apr 2026)
+  - 2026-10-02: open, a Chinese-language search (including news.cn and CAC pages) again surfaced only the measures' graded penalty provisions (warning to fines of CNY 10,000–200,000) and no enforcement action naming a provider.
 
 ### dependency-2026-08-06
 - Claim: Anthropic publishes a root-cause account of a named 2026 availability incident (for example the 29-30 Jul, 5 Aug or 12 Aug 2026 degradations) on status.claude.com or its engineering blog, going beyond the impact-and-resolution notices currently posted.
@@ -75,6 +80,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-09-25: open, Anthropic's status API shows more than twenty further incidents from 13 Aug to 22 Sep 2026, each closed with impact-and-resolution text only, and the engineering blog index holds no availability post-mortem beyond the Apr 2026 Claude Code quality account (source: https://status.claude.com/api/v2/incidents.json, Sep 2026)
+  - 2026-10-02: open, the status API's newest incidents (29 Sep elevated errors, 1 Oct delayed credits) carry no root cause and the engineering blog index still lists only the Apr 2026 Claude Code account; a webpronews item asserting a blog post-mortem after the 23 Jun 2026 outage could not be corroborated at Anthropic's own pages (status API, engineering index) and is not relied on.
 
 ### dependency-2026-09-01
 - Claim: OpenAI postpones the 14 Oct 2026 retirement of GPT-5.5 in ChatGPT, ChatGPT Work or Codex, or restores GPT-5.5 as a selectable model for any paid ChatGPT plan after that date.
@@ -83,6 +89,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-10-02: open, the 14 Oct 2026 retirement has not arrived and no postponement or restoration was found in coverage (newsbytes, borncity, aiidelist); openai.com pages were not opened directly.
 
 ### dependency-2026-09-02
 - Claim: OpenAI posts a new API deprecation notice dated after 2026-09-25 on its deprecations page (developers.openai.com/api/docs/deprecations) whose shutdown date falls fewer than 30 days after the notice date.
@@ -91,11 +98,37 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-10-02: open, the deprecations page shows two notices dated 1 Oct 2026 but with shutdowns on 1 Apr 2027 (GPT-5.3-Codex, GPT-5.1, GPT-5.4-Nano) and 6 Jan 2027 (four TTS models), both far beyond 30 days, so neither meets the short-notice condition.
 
 ### dependency-2026-09-03
 - Claim: The European Supervisory Authorities (EBA, EIOPA, ESMA) publish their next list of designated critical ICT third-party providers under DORA and it includes at least one entity whose principal designated service is a foundation-model API (for example OpenAI, Anthropic, Mistral AI, Cohere or xAI).
 - Horizon: 0–12 months (logged 2026-09, resolve by 2027-02)
 - Source: https://www.esma.europa.eu/press-news/esma-news/eba-eiopa-and-esma-call-enhanced-governance-and-consistent-supervision, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+  - 2026-10-02: open, search found only the 19 Nov 2025 first list of 19 providers (cloud and platform firms, no foundation-model API provider) and no second list or announced date.
+
+### dependency-2026-10-01
+- Claim: OpenAI and Cursor (or SpaceX on Cursor's behalf) publicly announce an agreement, extension or reversal that keeps OpenAI first-party models available inside Cursor beyond 12 Nov 2026 (beyond BYOK), by 2026-11.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2026-11)
+- Source: https://bdtechtalks.com/2026/09/04/openai-cursor-ban/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### dependency-2026-10-02
+- Claim: Google's Vertex AI / Gemini Enterprise Agent Platform model-versions page (docs.cloud.google.com) replaces the 20 Oct 2026 retirement date for gemini-2.5-pro with a later date or "no shutdown date announced", by 2026-11.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2026-11)
+- Source: https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
+### dependency-2026-10-03
+- Claim: Anthropic marks claude-haiku-4-5-20251001 or claude-opus-4-5-20251101 as Deprecated, with a dated retirement, on its model-deprecations page, by 2026-12. Sonnet 4.5 was notified the day after its stated 29 Sep floor, which makes the 15 Oct (Haiku) and 24 Nov (Opus) floors live.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2026-12)
+- Source: https://platform.claude.com/docs/en/about-claude/model-deprecations, Oct 2026
 - Status: open
 - Grades:
   - none yet
