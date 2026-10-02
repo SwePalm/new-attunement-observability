@@ -30,6 +30,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
  - 2026-08-04: open, a first-half 2026 antitrust review finds no formal US, EU or UK inquiry opened specifically into AI infrastructure concentration; the UK CMA instead closed its cloud market investigation on 31 Mar 2026 by accepting AWS and Microsoft commitments, and EU AI-related cases target content access rather than compute (source: https://www.goodwinlaw.com/en/insights/publications/2026/07/insights-technology-antc-antitrust-competition-technology-1h-2026, Jul 2026)
  - 2026-09-25: open, a re-check of US, EU and UK enforcement coverage through Sep 2026 found no new formal inquiry specific to AI compute, datacenter tenancy or energy cooperation; enforcement attention remains on DMA cloud and AI priorities and pre-existing Microsoft and AI-partnership probes, none of which is a new infrastructure concentration case
+ - 2026-10-01: open, re-searched US, EU and UK antitrust coverage (FTC/DOJ, Commission DMA cloud, CMA) and found no formal inquiry opened since 25 Sep specifically into compute, datacenter tenancy or energy cooperation; only pre-existing Microsoft/OpenAI-type probes surface
 
 ### power-2026-07-02
 - Claim: Announced 2026 hyperscaler capex (~$700B) is materially realized: reported combined datacenter capex for 2026 lands above $600B.
@@ -39,6 +40,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
  - 2026-08-04: open, full-year 2026 capex is not reportable until early 2027, but Q2 2026 results moved guidance up rather than down (Amazon to $220B, Alphabet to $195-205B, Meta narrowed to $130-145B), so the big four are on plan well above the $600B threshold (source: https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Second-Quarter-2026-Results/default.aspx, Jul 2026)
  - 2026-09-25: open, no new full-year figures exist and Q3 2026 results are not due until late Oct 2026; September coverage still carries the Q2 2026 guidance (Amazon about $200-220B, Alphabet up to $205B, Meta up to $145B, Microsoft well above $120B), so the big four remain on plan above the $600B threshold
+ - 2026-10-01: open, no new full-year figures and Q3 2026 results are not due until late Oct 2026; coverage still carries the roughly $700B combined 2026 plan, so the $600B threshold looks safely met on guidance
 
 ### power-2026-08-01
 - Claim: FERC issues a merits order in at least one of the six Section 206 large load dockets (EL26-67 through EL26-72) accepting, rejecting or directing modification of an RTO/ISO large load tariff proposal.
@@ -48,6 +50,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-09-25: open, FERC placed the PJM (EL26-67) and MISO (EL26-70) Section 206 proceedings in abeyance on 14 Aug 2026 to allow Section 205 filings, MISO filed a Section 205 proposal on 28 Aug 2026 seeking a 4 Dec 2026 effective date, and no merits order was found in any of the six dockets as of 2026-09-25 (FERC eLibrary docket sheets not opened) (source: https://groundtogrid.substack.com/p/when-large-load-solutions-meet-the, Sep 2026)
+  - 2026-10-01: open, no merits order found in any of EL26-67 to EL26-72; PJM filed for abeyance on 28 Jul and the other five on 3 Aug, and FERC capped CAISO's abeyance at 90 days with a 16 Nov 2026 Section 205 filing deadline, so merits orders cannot precede mid-Nov at the earliest (FERC eLibrary not opened) (source: https://www.huschblackwell.com/newsandinsights/ferc-issues-show-cause-orders-to-all-six-rtos/isos-on-large-load-interconnection, Jun 2026 for docket list; abeyance dates from secondary search coverage)
 
 ### power-2026-08-03
 - Claim: The US District Court for the District of Colorado rules on xAI's preliminary injunction motion in X.AI LLC v. Weiser (1:26-cv-01515), or the case is otherwise disposed of by dismissal, settlement or repeal of the Colorado AI Act.
@@ -57,6 +60,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - 2026-08-13: open, the Colorado Department of Law filed proposed ADMT draft rules with the Secretary of State on 11 Aug 2026 and opened a formal comment period running to 26 Oct 2026, so the rulemaking that starts the stipulated 28-day clock for xAI's preliminary injunction motion cannot conclude before late 2026 and the case remains stayed (source: https://coag.gov/ai/, Aug 2026)
   - 2026-09-25: open, no docket activity after the 27 Apr 2026 suspension order was found, and the Colorado ADMT comment period runs to 26 Oct 2026, so the 28-day clock for xAI's preliminary injunction motion has not started (clearinghouse.net case page returned 403 and coag.gov/ai returned an empty page) (source: https://aichallengewatch.com/cases/xai-v-weiser/, 2026)
+  - 2026-10-01: open, no new docket activity or Colorado legislation/rulemaking adoption found; the Apr 2026 stay order ties xAI's preliminary injunction motion to Colorado adopting rules or replacement legislation, and the ADMT comment period runs to 26 Oct 2026 (source pages checked: Denver Gazette Apr 2026 and Bloomberg Law via search; docket pages not opened)
 
 ### power-2026-08-04
 - Claim: The Council of the EU adopts a general approach on the Cloud and AI Development Act, or the European Parliament's lead committee adopts its report.
@@ -66,6 +70,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-09-25: open, ECR member Diego Solier was reported appointed Parliament rapporteur on 4 Sep 2026 with a stated target of a plenary vote in June or July 2027; no draft report, lead committee vote (ITRE and IMCO) or Council general approach exists yet, so the committee limb is plausible but tight against the 2027-06 resolve-by (source: https://www.techtimes.com/articles/326756/20260905/cloud-ai-development-act-gets-lead-drafter-via-party-vote-not-public-process.htm, Sep 2026)
+  - 2026-10-01: open, search found no Council general approach and no published Parliament draft report or ITRE/IMCO committee vote on the Cloud and AI Development Act (2026/0138(COD)); the 4 Sep 2026 rapporteur appointment remains the latest step
 
 ### power-2026-08-07
 - Claim: NERC submits to FERC the first phase of enforceable large load reliability standards on or before the directed date of 31 Dec 2026.
@@ -75,6 +80,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-09-25: open, five proposed computational load standards under NERC Project 2026-02 (CLO-001, CLO-002, CLO-003, FAC-001, FAC-002) passed their first industry ballot, keeping the 31 Dec 2026 FERC filing on track but not yet made (source: https://www.rtoinsider.com/145328-nerc-large-load-standards-pass-first-ballot/, Sep 2026)
+  - 2026-10-01: open, NERC Project 2026-02 timeline still shows a second comment period and ballot in Q4 with Board adoption in December 2026 and a filing to FERC by the 31 Dec 2026 deadline; no filing made yet
 
 ### power-2026-08-08
 - Claim: The Public Utility Commission of Texas opens a rulemaking or project making Governor Abbott's Data Center Standards binding conditions of large load interconnection approval, rather than voluntary company commitments.
@@ -84,6 +90,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-09-25: open, the PUCT adopted its SB 6 large load interconnection standards (16 TAC 25.194, Project 58481) in mid-Sep 2026 in a softened form that does not incorporate the Governor's Data Center Standards, and no separate PUCT project to make those standards binding was found (PUCT press release PDF returned 403) (source: https://www.utilitydive.com/news/texas-puc-adopts-data-center-interconnection-rules/830899/, Sep 2026)
+  - 2026-10-01: open, no PUCT project making the Governor's Data Center Standards binding was found; coverage still shows the standards operating as company commitments (Meta, Google and others) and the Sep 2026 SB 6 rule did not incorporate them
 
 ### power-2026-09-01
 - Claim: A data center developer, operator, crypto miner or industry association files suit in Texas state or federal court challenging Governor Abbott's data center approval pauses (the 3 Aug 2026 ERCOT interconnection pause or the 21 Sep 2026 TCEQ permit halt).
@@ -92,6 +99,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-10-01: open, no lawsuit by a developer, operator, miner or association against the 3 Aug ERCOT pause or the 21 Sep TCEQ halt found; the Data Center Coalition publicly urged regulators to complete the audit swiftly rather than sue, and the TCEQ freeze is tied to an ERCOT audit expected mid-Dec 2026
 
 ### power-2026-09-02
 - Claim: The US Senate passes the Ratepayer Protection Act (H.R. 9340), by recorded vote or unanimous consent, before the 119th Congress ends.
@@ -100,11 +108,37 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-10-01: open, the Senate has not passed H.R. 9340: Sen. Husted's unanimous consent request on 17 Sep 2026 failed when Sen. Heinrich objected that the bill is only voluntary, and no recorded vote or new UC attempt has been found (source: https://www.alreporter.com/2026/09/18/ratepayer-protection-act-stalls-in-senate-after-house-passage/, Sep 2026)
 
 ### power-2026-09-03
 - Claim: Bloomberg, Reuters, WSJ or FT reports that a hyperscale or AI tenant other than Oracle (Microsoft, Meta, Alphabet, Amazon, OpenAI, CoreWeave or xAI) has issued a force majeure notice or invoked a delay clause on a US data center lease or development agreement, citing power or fuel supply.
 - Horizon: 0–12 months (logged 2026-09, resolve by 2027-06)
 - Source: https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/09/24/oracle-triggers-force-majeure-on-data-centre-project-over-power-delays-source-says/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+  - 2026-10-01: open, only Oracle's 24 Sep 2026 notice on Project Jupiter (the original claim trigger, excluded) is reported; no Bloomberg, Reuters, WSJ or FT report of a force majeure or delay-clause invocation by Microsoft, Meta, Alphabet, Amazon, OpenAI, CoreWeave or xAI on a US lease citing power or fuel (CoreWeave third-party developer delays and Microsoft pullback stories predate the claim and cite construction or power delivery, not a notice)
+
+### power-2026-10-01
+- Claim: PJM files a revised Reliability Backstop Procurement proposal at FERC (a refiling or compliance filing in docket ER26-3380 or a successor docket) that changes at least one of the three items FERC flagged (cost allocation, transmission owner exit rules, load-serving entity collateral), by 2026-12.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2026-12)
+- Source: https://finance.yahoo.com/energy/articles/biggest-us-grid-data-center-043445216.html, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### power-2026-10-02
+- Claim: Governor Abbott or TCEQ publicly lifts or narrows the 21 Sep 2026 statewide halt on data center permits, by authorizing issuance of at least one data center air or water permit or by announcing a partial resumption, before ERCOT's audit is complete, by 2026-12.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2026-12)
+- Source: https://www.sacurrent.com/news/abbott-orders-pause-of-air-permits-for-data-centers-experts-question-whether-he-has-the-authority/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### power-2026-10-03
+- Claim: A third US state, other than New York and Texas, imposes a statewide pause on new data center permits, approvals or grid interconnections through a governor's executive order or an enacted statute (a vetoed bill, like Maine's, does not count), by 2027-03.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-03)
+- Source: https://www.jonesday.com/es/insights/2026/07/new-york-enacts-first-statewide-data-center-moratorium, Jul 2026
 - Status: open
 - Grades:
   - none yet

@@ -30,6 +30,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
  - 2026-08-04: open, component-part liability is still confined to Google in Garcia; newer actions such as Florida's 1 Jun 2026 suit against OpenAI and Sam Altman plead strict product liability against the model provider directly rather than as a component supplier, and no new court application has issued (source: https://natlawreview.com/article/florida-just-pulled-pin-ai-liability-now-everyone-holding-grenade, Jun 2026)
  - 2026-09-25: open, a check of the coordinated JCCP 5431 proceeding, the N.D. Cal. and Florida actions and September 2026 legal news found no new court decision applying component-part liability to a frontier model provider; Lawsuit Informer (updated 24 Sep 2026) reports no court has yet decided whether OpenAI did anything wrong (source: https://lawsuitinformer.com/openai-lawsuits, Sep 2026)
+ - 2026-10-01: open, no new court decision applying component-part liability to a frontier model provider; the JCCP 5431 and Florida actions are still pre-merits (discovery just opened) and Lawsuit Informer (30 Sep 2026) reports no court ruling on OpenAI's liability (source: https://lawsuitinformer.com/openai-lawsuits, Sep 2026)
 
 ### responsibility-2026-08-01
 - Claim: The California Superior Court in In re: ChatGPT Product Liability Cases (JCCP 5431) issues a ruling on a demurrer or other dispositive motion that addresses whether ChatGPT is a "product" for strict product liability purposes.
@@ -39,6 +40,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - 2026-08-13: open, no ruling on whether ChatGPT is a "product" has issued; the coordinated proceeding is still organizing, with Judge Ethan P. Schulman entering Case Management Order No. 1 on 4 Aug 2026 designating co-lead counsel and a steering committee, the next case management conference set for 23 Sep 2026, and motion-to-dismiss decisions expected mid to late 2026 (source: https://lawsuitinformer.com/openai-lawsuits, Aug 2026)
   - 2026-09-25: open, no ruling on whether ChatGPT is a "product" has issued; as of 24 Sep 2026 the coordinated proceeding had no dispositive ruling and its next case management conference was 23 Sep 2026, whose outcome was not yet reported and whose register (webapps.sftc.org) returned HTTP 403 (source: https://lawsuitinformer.com/openai-lawsuits, Sep 2026)
+  - 2026-10-01: open, no ruling on whether ChatGPT is a "product" has issued; Lawsuit Informer (30 Sep 2026) reports Judge Schulman's Case Management Order No. 2 opened discovery (conversation histories due 30 Oct, amended complaints due 16 Nov, next hearing 13 Nov 2026) and no demurrer ruling, while the court register (webapps.sftc.org) remained unopened (HTTP 403 on the prior pass) (source: https://lawsuitinformer.com/openai-lawsuits, Sep 2026)
 
 ### responsibility-2026-08-02
 - Claim: The US Department of Justice AI Litigation Task Force files suit against, or moves to intervene in litigation challenging, a state AI law other than Colorado's SB 24-205.
@@ -48,6 +50,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - 2026-08-13: open, the DOJ complaint in intervention in the xAI challenge to Colorado SB 24-205 (filed 24 Apr 2026) remains the Task Force's only federal action against a state AI law, with no suit or intervention filed against California, Texas or Illinois AI statutes despite all three being in effect since 1 Jan 2026 (source: https://consilium.law/sparkpoint/doj-ai-litigation-task-force/, Jun 2026)
   - 2026-09-25: open, the 24 Apr 2026 complaint in intervention in the xAI challenge to Colorado SB 24-205 remains the only Task Force action against a state AI law, with no new filing located through 7 Sep 2026 and September DOJ AI activity limited to a fair-use statement of interest in the New York Times copyright case, which is not a state-law challenge (source: https://vorplabs.com/ai-regulatory-updates/united-states/2026-09/colorado-admt-rules-california-ai-bills-ftc-cmg-order, Sep 2026)
+  - 2026-10-01: open, news searches through 1 Oct 2026 surface only the DOJ's 2 Sep 2026 fair-use statement of interest in New York Times v. OpenAI and no new Task Force suit or intervention against a state AI law; justice.gov was not opened
 
 ### responsibility-2026-08-03
 - Claim: The European Commission publishes the final, non-draft version of its Article 73 serious-incident reporting guidance and incident report template.
@@ -57,6 +60,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - 2026-08-13: open, the Article 73 guidance and reporting template remain the consultation draft; the Commission had signalled a final version applying from 2 Aug 2026, that date has now passed with no final, non-draft version listed on the Commission's AI Act policy page, and the resolve-by runs to 2027-06 (source: https://www.lw.com/en/insights/european-commission-publishes-draft-guidance-reporting-serious-ai-incidents, Oct 2025)
   - 2026-09-25: open, the Commission's AI Act policy page lists no final Article 73 guidance or template, and 8 Sep 2026 coverage still refers to the Commission's draft guidance even though the Article 73 obligation itself took effect on 2 Aug 2026 outside the Digital Omnibus deferral (source: https://www.cio.com/article/4218777/the-eu-ai-act-just-gave-you-a-breach-notification-clock-you-didnt-know-about.html, Sep 2026)
+  - 2026-10-01: open, the Commission's AI Act policy page (news through 1 Oct 2026) still lists no final Article 73 guidance or template; the AI Act Service Desk platform was not opened
 
 ### responsibility-2026-08-04
 - Claim: Verisk/ISO or a top-10 US commercial liability carrier (AIG, Chubb, Travelers, Berkley, Liberty Mutual) files or publicly announces an affirmative AI liability coverage form for the US market, reversing the exclusion-only posture documented across Jan to Jul 2026.
@@ -66,6 +70,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - 2026-08-13: open, the US admitted market remains exclusion-only (ISO CG 40 47, CG 40 48 and CG 35 08 effective Jan 2026, with W.R. Berkley, AIG and Great American adding their own AI exclusions) and affirmative AI cover is still confined to specialty, reinsurance and Lloyd's channels such as Armilla, Relm, Munich Re and HSB rather than Verisk or a top-10 US commercial carrier (source: https://vorplabs.com/ai-insurance-exclusions, Jul 2026)
   - 2026-09-25: open, no affirmative AI liability form from Verisk/ISO or a named top-10 US carrier found; September 2026 affirmative moves came again from specialty players (CFC IP policy on 23 Sep 2026, Armilla/Chaucer, Counterpart, Coalition), and Chubb appears only as a 2025 partner in a Google Cloud customer cyber program that predates the claim's Jan to Jul 2026 baseline (source: https://www.insurancebusinessmag.com/ca/news/professional-liability/that-ai-endorsement-on-your-clients-eando-policy-may-be-worth-less-than-it-looks-590478.aspx, Sep 2026)
+  - 2026-10-01: open, a search for an affirmative AI liability form from Verisk/ISO, AIG, Chubb, Travelers, Berkley or Liberty Mutual found only continued exclusions and affirmative cover from specialty players (Munich Re, Coalition, Armilla, Vouch); no filing or announcement by a named actor
 
 ### responsibility-2026-08-05
 - Claim: OpenAI files a demurrer, motion to strike, or motion for judgment on the pleadings in In re: ChatGPT Product Liability Cases (JCCP 5431) that raises whether ChatGPT is a "product" rather than a service or speech, as reflected in the coordinated proceeding's docket or a case management order.
@@ -74,6 +79,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - 2026-09-25: open, no OpenAI demurrer, motion to strike or motion for judgment on the pleadings in JCCP 5431 is reported as of 24 Sep 2026, the proceeding being in its organizational phase (ESI protocol and protective order ahead of the 23 Sep 2026 conference); the court register (webapps.sftc.org) returned HTTP 403 so the docket itself could not be checked (source: https://airecoverycollective.substack.com/p/where-things-stand-the-chatgpt-product, Aug 2026)
+  - 2026-10-01: open, no OpenAI demurrer, motion to strike or motion for judgment on the pleadings is reported; Lawsuit Informer (30 Sep 2026) describes Case Management Order No. 2 opening discovery with amended complaints due 16 Nov 2026 and the next hearing on 13 Nov, so responsive pleadings are not yet due, and the court register (webapps.sftc.org) stayed unopened (source: https://lawsuitinformer.com/openai-lawsuits, Sep 2026)
 
 ### responsibility-2026-08-06
 - Claim: Governor Kathy Hochul signs New York S9051B into law.
@@ -82,6 +88,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - 2026-09-25: open, the NY Senate record shows S9051B passed both chambers on 4 and 5 Jun 2026 with no signature, veto or chapter number, and no report of gubernatorial action was found; the Governor has until 31 Dec 2026 (source: https://www.nysenate.gov/legislation/bills/2025/S9051, Sep 2026)
+  - 2026-10-01: open, the NY Senate action history still ends at passage on 5 Jun 2026 with no delivery to the Governor, signature or chapter entry, and the Transparency Coalition 4 Sep 2026 update and Pluribus News describe the bill as awaiting action by 31 Dec 2026 (source: https://www.nysenate.gov/legislation/bills/2025/S9051, Oct 2026)
 
 ### responsibility-2026-08-08
 - Claim: The United States District Court for the Northern District of California, on remand in Amazon.com Services, LLC v. Perplexity AI, Inc., enters an order addressing Amazon's remaining non-CFAA claims (contract, trespass, or trademark) against Perplexity.
@@ -90,6 +97,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - 2026-09-25: open, no order addressing the merits of Amazon's non-CFAA claims has entered: the Ninth Circuit mandate issued 18 Sep 2026, Perplexity moved to dismiss on 11 Sep 2026, the hearing was reset to 20 Nov 2026, and Amazon filed an amended complaint on 21 Sep 2026 (N.D. Cal. docket 3:25-cv-09514-MMC, entries 118 to 122) (source: https://www.courtlistener.com/docket/71874820/amazoncom-services-llc-v-perplexity-ai-inc/, Sep 2026)
+  - 2026-10-01: open, no order on the merits of Amazon's non-CFAA claims has been reported since the 21 Sep 2026 amended complaint (TNW coverage of 22 Sep 2026 describes only the amended complaint); the CourtListener docket page returned HTTP 403 and its API returned unusable dates, so the docket was not checked directly (source: https://thenextweb.com/news/amazon-blocks-muse-perplexity-amended-complaint, Sep 2026)
 
 ### responsibility-2026-09-01
 - Claim: Amazon files a lawsuit against Meta Platforms concerning the Muse agent's access to amazon.com.
@@ -97,7 +105,7 @@ Format: see ledger/README.md. Append-only.
 - Source: https://thenextweb.com/news/amazon-blocks-muse-perplexity-amended-complaint, Sep 2026
 - Status: open
 - Grades:
-  - none yet
+  - 2026-10-01: open, Amazon has blocked Muse from amazon.com (from 20 Sep 2026, citing its Conditions of Use) but this is a technical and contractual block, not a lawsuit, and no complaint, demand letter or court filing against Meta was found (source: https://gizmodo.com/amazon-brings-down-the-hammer-on-metas-muse-ai-agent-2000814878, Sep 2026)
 
 ### responsibility-2026-09-02
 - Claim: A US state attorney general files a civil enforcement action in court against OpenAI arising from the July 2026 Hugging Face incident, or publicly announces a settlement or assurance of voluntary compliance with OpenAI resolving such an investigation.
@@ -105,7 +113,7 @@ Format: see ledger/README.md. Append-only.
 - Source: https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/, Aug 2026
 - Status: open
 - Grades:
-  - none yet
+  - 2026-10-01: open, Alabama's 24 Aug 2026 subpoena and a 15-state Republican AG coalition investigation led by Montana remain investigations, with no civil enforcement action filed and no settlement or assurance of voluntary compliance reported (source: https://www.insurancejournal.com/news/southeast/2026/08/26/882967.htm, Aug 2026)
 
 ### responsibility-2026-09-03
 - Claim: Germany's Gesetz zur Modernisierung des Produkthaftungsrechts (BT-Drs. 21/4297), transposing Directive (EU) 2024/2853, is promulgated in the Bundesgesetzblatt on or before 9 Dec 2026.
@@ -113,12 +121,28 @@ Format: see ledger/README.md. Append-only.
 - Source: https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/produkthaftung-fuer-ki-software-was-hersteller-wissen-muessen-accg-201205083.html, Sep 2026
 - Status: open
 - Grades:
-  - none yet
+  - 2026-10-01: open, the bill (BT-Drs. 21/4297) had its first reading on 4 Mar 2026 and a committee hearing on 13 Apr 2026, and coverage as of 25 Aug 2026 says second and third Bundestag readings had not taken place; no passage or Bundesgesetzblatt promulgation found, and the 9 Dec 2026 deadline has not passed (source: https://www.bundestag.de/ausschuesse/recht-verbraucherschutz/sitzungen/1156420-1156420, Apr 2026)
 
 ### responsibility-2026-09-04
 - Claim: NetChoice files a lawsuit challenging California AB 2 (2026, Lowenthal, child-injury liability for large social media platforms).
 - Horizon: 0–12 months (logged 2026-09, resolve by 2027-03)
 - Source: https://netchoice.org/netchoice-veto-request-letter-to-gov-newsom-on-ca-ab-2/, Sep 2026
+- Status: open
+- Grades:
+  - 2026-10-01: open, Governor Newsom signed AB 2 on 10 Sep 2026 (listed in his signing release), but no NetChoice complaint against it was found in news searches or on NetChoice's litigation pages; its 1 Sep 2026 veto letter only cites its wider docket (source: https://www.gov.ca.gov/2026/09/10/governor-newsom-signs-the-strongest-child-safety-chatbot-and-social-media-laws-in-the-nation/, Sep 2026)
+
+### responsibility-2026-10-01
+- Claim: Judge Heather Beato of the Florida 10th Judicial Circuit (Highlands County) issues a written order granting, denying or granting in part the State of Florida's 28 Sep 2026 motion for a temporary injunction against OpenAI and Sam Altman.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2026-12)
+- Source: https://www.news4jax.com/news/local/2026/09/28/uthmeier-asks-court-to-temporarily-block-openai-from-offering-chatgpt-to-minors/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### responsibility-2026-10-02
+- Claim: The Florida court in State of Florida v. OpenAI orders at least one of the requested restraints against OpenAI (no ChatGPT for minors in Florida, no development of new models without third-party approval, or no marketing of ChatGPT as safe, accurate or reliable), in a temporary injunction or consent order.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-03)
+- Source: https://www.news4jax.com/news/local/2026/09/28/uthmeier-asks-court-to-temporarily-block-openai-from-offering-chatgpt-to-minors/, Sep 2026
 - Status: open
 - Grades:
   - none yet

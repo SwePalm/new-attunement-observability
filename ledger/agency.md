@@ -22,6 +22,7 @@ Format: see ledger/README.md. Append-only.
  - none yet
  - 2026-08-04: open, resolve-by 2027-09 has not passed and neither named tracker publishes an agent share of US e-commerce; the nearest measured figure has AI-driven sessions below 0.2% of e-commerce traffic and Morgan Stanley's own published range is 10-20% by 2030, so the 25% threshold is far off trajectory
  - 2026-09-25: open, checked Adobe Digital Insights and Morgan Stanley for a new agent-share figure: Adobe still reports only AI-referred traffic growth (well under 1% of US retail traffic in its Q1 2026 data) and neither tracker publishes an agent-mediated share of US e-commerce, so the 25% threshold remains far off trajectory (source: https://techcrunch.com/2026/04/16/ai-traffic-to-us-retailers-rose-393-in-q1-and-its-boosting-their-revenue-too/, Apr 2026)
+  - 2026-10-01: open, checked Adobe Digital Insights and Morgan Stanley coverage again and found no agent-mediated share of US e-commerce published by either tracker, so the 25% threshold stays far off trajectory with resolve-by 2027-09 not passed.
 
 ### agency-2026-07-02
 - Claim: A major card network publicly reports its first significant fraud/dispute wave specific to registered agent purchases, forcing protection-term revisions, by mid-2027.
@@ -32,6 +33,7 @@ Format: see ledger/README.md. Append-only.
  - none yet
  - 2026-08-04: open, resolve-by 2027-09 has not passed and no network has reported an agent-specific fraud or dispute wave; Visa and Mastercard coverage through mid-2026 is still framework-building (Agent Score, Verifiable Intent, existing chargeback rails) with no revised protection terms
  - 2026-09-25: open, checked Visa and Mastercard newsroom and trade coverage through Sep 2026: no network has reported an agent-specific fraud or dispute wave, disputed agent purchases still file under existing reason codes with no agent flag, and Visa's CEO said on 8 Sep 2026 that autonomous agent payments have not yet been adopted, so the volume needed for a reportable wave does not yet exist (source: https://www.pymnts.com/visa/2026/visa-ceo-says-ai-shopping-has-arrived-but-agentic-payments-havent/, Sep 2026)
+  - 2026-10-01: open, searched Visa and Mastercard coverage through 1 Oct 2026 and found no agent-specific fraud or dispute wave or revised protection terms, with resolve-by 2027-09 not passed.
 
 ### agency-2026-08-01
 - Claim: HM Treasury publishes a formal response or policy statement to the "Modernising Payment Services Regulation" consultation (closed 6 Oct 2026) that sets out specific proposals on agentic payment consent scope, when an agent-initiated transaction is treated as authorised, or allocation of liability for an AI agent acting outside its mandate.
@@ -41,6 +43,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-09-25: open, the gov.uk consultation page still shows the consultation open until 11:59pm on 6 Oct 2026 with no response published, so the claim cannot move before the next run (source: https://www.gov.uk/government/consultations/modernising-payment-services-regulation, Jul 2026)
+  - 2026-10-01: open, the gov.uk consultation page (published 14 Jul 2026) still shows the consultation open until 11:59pm on 6 Oct 2026 with no response published (source: https://www.gov.uk/government/consultations/modernising-payment-services-regulation, Jul 2026)
 
 ### agency-2026-08-02
 - Claim: Visa or Mastercard discloses a quantified agent-initiated transaction metric (a count, a dollar volume, or a share of payments volume) in a quarterly earnings release, earnings call, or investor presentation, rather than partner counts and qualitative commentary.
@@ -50,6 +53,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-09-25: open, Visa's only investor appearance in the window (Goldman Sachs Communacopia, 8 Sep 2026) offered consumer-trust survey figures (75% distrust, 61% would trust with Visa involved) and the statement that autonomous agent payments are not yet adopted, but no agent-initiated transaction count, volume, or share; Mastercard disclosed none either, and the next earnings cycle is late Oct 2026 (source: https://www.pymnts.com/visa/2026/visa-ceo-says-ai-shopping-has-arrived-but-agentic-payments-havent/, Sep 2026)
+  - 2026-10-01: open, found no quantified agent-initiated transaction count, volume or share from Visa or Mastercard (only qualitative commentary such as Mastercard saying nearly all its cards are Agent Pay enabled), and the next earnings cycle is late Oct 2026.
 
 ### agency-2026-08-07
 - Claim: The UK AI Security Institute publishes a follow-up to incident report INC-2026-07-28-01 reporting the outcome of the independent third-party review it commissioned from METR.
@@ -59,6 +63,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-09-25: open, the AISI blog lists no post after 27 Aug 2026 and the 4 Aug report still says the METR review scope is being worked out; METR's Aug-Sep 2026 publications cover the OpenAI/Hugging Face incident and pre-deployment evaluations, not the AISI incident (source: https://www.aisi.gov.uk/blog, Sep 2026)
+  - 2026-10-01: open, the AISI blog now lists posts dated 28 Sep 2026 (GPT-6 Astra supply-chain attack simulations) and 1 Oct 2026 (a security update on its evaluation environment that resumes most evaluations), neither mentioning METR or a review outcome, and the 4 Aug incident report still says the METR review scope is being worked out (source: https://www.aisi.gov.uk/blog/building-a-more-secure-environment-for-evaluating-dangerous-capabilities, Oct 2026)
 
 ### agency-2026-09-01
 - Claim: Amazon or Meta files a lawsuit (including a declaratory judgment action) against the other in a US federal or state court concerning the Muse agent's access to Amazon.com, following Amazon's Conditions of Use block of Muse in Sep 2026.
@@ -67,6 +72,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-10-01: open, Amazon blocked Muse from 20 Sep 2026 and told GeekWire it was in direct conversation with Meta while declining to say whether it would sue, and no complaint or declaratory action by either company was found (source: https://thenextweb.com/news/amazon-blocks-muse-perplexity-amended-complaint, Sep 2026)
 
 ### agency-2026-09-02
 - Claim: Visa, Mastercard, Ant International, or MAS's BuildFin.ai platform publishes a Know Your Agent (KYA) framework document containing certification requirements, or announces a named pilot of the KYA framework with at least one named participating merchant or financial institution.
@@ -75,11 +81,37 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-10-01: open, the Ant International, Mastercard and Visa KYA collaboration announced 10 Sep 2026 describes shared principles to be advanced through BuildFin.ai but publishes no certification requirements and names no KYA pilot merchant or institution (the Alipay, GCash, DANA and Adyen names refer to the separate agentic mobile protocol rollout); the BuildFin.ai page was not opened (source: https://www.theasianbanker.com/press-releases/ant-international-expands-agentic-mobile-protocol-rollout-begins-kya-interoperability-framework-collaboration-with-mastercard-and-visa, Sep 2026)
 
 ### agency-2026-09-03
 - Claim: The China Payment and Clearing Association, or a member institution (such as Alipay, WeChat Pay/Tenpay or UnionPay), publicly states that an autonomous agent payment product has completed the association filing (报备) required by the 24 Aug 2026 Intelligent Agent Payment Application Self-Regulatory Convention, or the association publishes a list of such filings.
 - Horizon: 0–12 months (logged 2026-09, resolve by 2027-03)
 - Source: https://www.news.cn/20260824/4efa360edc8a486dbf0b19d0fb37ef41/c.html, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+  - 2026-10-01: open, searched Chinese-language coverage (cnfin 1 Sep 2026, Xinhua, others) and found the covenant issued 24 Aug 2026 but no institution stating it completed the filing and no association list of filings.
+
+### agency-2026-10-01
+- Claim: EMVCo publishes a non-draft version of its agentic payments framework, or a first specification, bulletin or draft covering Know Your Agent or an Agentic Transaction Indicator, on emvco.com.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-03)
+- Source: https://www.emvco.com/?p=134726, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### agency-2026-10-02
+- Claim: Mastercard, or a named issuer or acquirer, announces that the Agent Pay Probability Score is live in production (generally available or in commercial use with at least one named financial institution), not testing.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-01)
+- Source: https://finance.yahoo.com/technology/ai/articles/mastercard-advances-agentic-commerce-trust-130000009.html, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### agency-2026-10-03
+- Claim: The Federal Reserve Board, OCC, FDIC, CFPB or FinCEN publishes a request for information, proposed guidance, supervisory statement or interagency statement that specifically addresses payments initiated by AI agents. A speech or testimony does not count.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-03)
+- Source: https://www.federalreserve.gov/newsevents/speech/waller20260928a.htm, Sep 2026
 - Status: open
 - Grades:
   - none yet
