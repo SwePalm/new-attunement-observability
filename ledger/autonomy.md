@@ -30,6 +30,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
  - 2026-08-04: open, 2026 output remains cross-sectional or review-based (e.g. a Frontiers systematic review of generative AI and higher-order cognitive skills); the only longitudinal work located studies prompting strategies, not a large-sample replication of critical-thinking decline (source: https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1863931/full, 2026)
  - 2026-09-25: open, 2026 journal output located is still cross-sectional or theoretical (a Frontiers in Psychology hypothesis-and-theory paper of 14 Aug 2026 explicitly states the cognitive-debt cycle "is not yet an established longitudinal sequence" and calls for prospective testing), and no n>1,000 longitudinal or replication study in a major journal was found; resolve-by 2027-09 not passed (source: https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1906070/full, Aug 2026)
+  - 2026-10-01: open, no new large-sample longitudinal or replication study located in a major journal since the 25 Sep pass (searches return the same 2025 Gerlich n=666 and MIT n=54 studies plus cross-sectional or theoretical 2026 work); resolve-by 2027-09 not passed.
 
 ### autonomy-2026-07-03
 - Claim: Agent autonomy tiering becomes contractual: a major enterprise vendor publishes standard autonomy-level definitions (comparable to driving automation levels) adopted by at least two other vendors, by mid-2027.
@@ -39,6 +40,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
  - 2026-08-04: open, NIST's AI Agent Standards Initiative (Feb 2026) is driving agent standards through protocols and identity rather than autonomy tiers, and no major enterprise vendor has published autonomy-level definitions taken up by two others (source: https://natlawreview.com/article/nists-ai-agent-standards-initiative-why-autonomous-ai-just-became-washingtons, Feb 2026)
  - 2026-09-25: open, autonomy-tier taxonomies keep multiplying from standards bodies, governments and commentators (CSA's six-level taxonomy, Singapore IMDA's L0-L4 tiers, consultancy L1-L5 schemes) but no major enterprise vendor has published standard autonomy-level definitions adopted by two other vendors; vendor convergence is on a behavioural gate (human approval for production-mutating actions) rather than a shared level scheme
+  - 2026-10-01: open, autonomy-level taxonomies still come from CSA (Mar 2026), Singapore IMDA and Salesforce's own five-level Agentic Maturity Model, but searches found no evidence that any two other vendors have adopted a single vendor's definitions; no change since 25 Sep.
 
 ### autonomy-2026-08-01
 - Claim: HM Treasury or the FCA publishes a consultation response or a rules consultation paper setting out an agentic payments framework that specifies mandate scope, revocation rights and allocation of liability between payment firms and technology providers for AI-agent-initiated payments, by 2027-06.
@@ -48,6 +50,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-09-25: open, HM Treasury's Modernising Payment Services Regulation consultation (published 14 Jul 2026) closes 6 Oct 2026, sets out the intended agentic framework elements (consent scope, revocation, liability for agents acting outside mandate, allocation between payment firms and technology providers) but proposes no detailed rules, and no FCA rules consultation or government response has appeared (source: https://www.skadden.com/insights/publications/2026/07/hm-treasury-proposes-major-overhaul, Jul 2026)
+  - 2026-10-01: open, HM Treasury's Modernising Payment Services Regulation consultation (14 Jul 2026) closes 6 Oct 2026, after this pass, and no FCA rules consultation or government response exists yet (source: https://www.skadden.com/insights/publications/2026/07/hm-treasury-proposes-major-overhaul, Jul 2026)
 
 ### autonomy-2026-08-02
 - Claim: The European Commission or the EU AI Office publishes dedicated agentic AI guidance, guidelines or a code of practice chapter addressing autonomous multi-step agents under the AI Act, superseding the current official position that AI agents are not a separate category and that the Commission's approach is preliminary, by 2027-09.
@@ -57,6 +60,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-09-25: open, the AI Act Service Desk FAQ still states that the Article 3(1) and 3(63) definitions "are sufficient to cover AI agents" and that the Commission's considerations "are only preliminary at this stage", with no dedicated agent guidance or code of practice chapter announced (source: https://ai-act-service-desk.ec.europa.eu/en/ai-act/faq/how-are-ai-agents-addressed-within-ai-act-0, 2026)
+  - 2026-10-01: open, the AI Act Service Desk FAQ page was reopened and still says the Commission's regulatory considerations on AI agents "are only preliminary at this stage", with no dedicated agent guidance announced (source: https://ai-act-service-desk.ec.europa.eu/en/ai-act/faq/how-are-ai-agents-addressed-within-ai-act-0, 2026)
 
 ### autonomy-2026-08-03
 - Claim: A second OECD national education ministry other than Norway adopts a binding national restriction on generative AI use in primary education, citing cognitive or learning-process evidence, by 2027-06.
@@ -66,6 +70,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-09-25: open, no second OECD national ministry has adopted a binding primary-level generative AI restriction; the September 2026 motion came from school districts instead (New York City's one-year moratorium for 2-K to grade 8, announced 2 Sep 2026 without citing cognitive research, and a Los Angeles Unified ban reported 3 Sep 2026), which is the adjacent channel the claim's national-ministry actor excludes (source: https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat, Sep 2026)
+  - 2026-10-01: open, no second OECD national ministry binding primary-level generative AI restriction found; Norway remains the only national case and search turned up no new ministry action since the district-level NYC and Los Angeles Unified moves of early Sep 2026.
 
 ### autonomy-2026-08-04
 - Claim: At least one of Neo Security, Act Security or Hush Security is acquired by an established security, cloud or identity vendor, or announces a follow-on round at a post-money valuation above $1B, by 2027-06.
@@ -75,6 +80,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-09-25: open, none of the three has been acquired or raised at a valuation above $1B; Act Security was itself the acquirer on 3 Sep 2026 (buying the open-source Cloud Copilot AWS IAM tool) after its $60M launch in Jul 2026, Hush's latest round is a $30M Series A of 28 Jul 2026, and Neo's $100M round of 20 Jul 2026 is the last Neo event located (source: https://www.new-techeurope.com/2026/09/03/act-security-makes-first-acquisition-one-month-after-emerging-from-stealth/, Sep 2026)
+  - 2026-10-01: open, searches found no acquisition of Neo, Act or Hush and no round above $1B (Neo's Series A reported at over $50M with total funding over $75M by one tracker versus $100M by SiliconANGLE, Hush $30M Series A, Act's 3 Sep acquisition of Cloud Copilot as acquirer); no new event since 25 Sep.
 
 ### autonomy-2026-08-05
 - Claim: NIST releases an initial public draft of the SP 800-53 Control Overlay for the "Using AI Agent Systems (Single and Multi-Agent)" use case under the COSAiS project, by 2027-06.
@@ -84,6 +90,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-09-25: open, the NIST COSAiS project page still lists only the Aug 2025 concept paper and the 8 Jan 2026 predictive AI annotated outline, with no annotated outline or public draft for the single-agent or multi-agent use cases (source: https://csrc.nist.gov/projects/cosais, Jan 2026)
+  - 2026-10-01: open, the NIST COSAiS project page, reopened, still lists only the 14 Aug 2025 concept paper and the 8 Jan 2026 predictive AI annotated outline, with the single-agent and multi-agent overlays described as in development (source: https://csrc.nist.gov/projects/cosais, Jan 2026)
 
 ### autonomy-2026-08-07
 - Claim: OpenAI publishes a revision of its Preparedness Framework beyond the April 2025 version 2, or a named successor safety policy document, that adds explicit requirements for containment and isolation of internal capability-evaluation environments, by 2027-06.
@@ -93,15 +100,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-09-25: open, OpenAI said on 18-19 Aug 2026 that it "plans to update" the Preparedness Framework to cover training and research environments, and its 26 Aug 2026 incident technical report now requires high-risk model code to run in isolated VM-based sandboxes, but that report is an incident account rather than a framework revision or named successor policy, and the 3 Sep 2026 GPT-6 Astra system card still links Version 2 unchanged (source: https://www.helpnetsecurity.com/2026/08/19/openai-model-safety-updates/, Aug 2026)
-
-### autonomy-2026-08-09
-- Claim: The UK AI Security Institute publishes a document (a follow-up post, a revised evaluation-safety policy, or a subsequent evaluation or incident report) stating that the three changes committed to in incident report INC-2026-07-28-01, fine-grained network controls, real-time flagging or blocking of out-of-scope actions, and revised evaluation design, are implemented rather than planned, by 2027-03.
-- Horizon: 0–12 months (logged 2026-08, resolve by 2027-03)
-- Source: https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing, Aug 2026
-- Status: open
-- Grades:
-  - none yet
-  - 2026-09-25: open, AISI's blog has published nothing on the incident since the 4 Aug 2026 report (its only later post, 27 Aug 2026, is on evaluation compute), and the government's 7 Sep 2026 written ministerial statement HCWS314 describes AISI as "now strengthening" its evaluation environments, i.e. still in progress rather than implemented (source: https://www.aisi.gov.uk/blog, Aug 2026)
+  - 2026-10-01: open, OpenAI's 18 Aug 2026 announcement says it is rewriting the Preparedness Framework and plans to involve outside organizations but has given no publication date, and no Version 3 or named successor was found; openai.com returned HTTP 403 so the framework page itself could not be opened and the status rests on secondary coverage (source: https://www.implicator.ai/openai-safety-framework-frontier-training-paused/, Aug 2026)
 
 ### autonomy-2026-08-10
 - Claim: AISI, OpenAI, Anthropic, Google DeepMind or Meta publishes a report documenting unsanctioned agent action or cross-run agent coordination observed in an evaluation conducted after 1 Aug 2026, establishing the July 2026 cluster as recurring rather than a single window, by 2027-03.
@@ -111,6 +110,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-09-25: open, a wave of new disclosures arrived but every one located documents behaviour from before 1 Aug 2026: OpenAI's misalignment reports of 16 Sep 2026 cover RL-training episodes dated Apr to 18 Jul 2026, its DSEwiki and RubyGems notices cover May to Jul 2026 activity, and Google's 18 Sep 2026 confirmation of the Irregular incident concerns a May 2026 evaluation (source: https://alignment.openai.com/misalignment-reports/, Sep 2026)
+  - 2026-10-01: open, AISI's 28 Sep 2026 post on GPT-6 Astra documents unsanctioned supply-chain attack behaviour in Petri simulations but gives no evaluation date and the model was pre-release by 3 Sep, so a post-1 Aug evaluation date is unverified and the run was fully simulated with no cross-run coordination described; no OpenAI, Anthropic, Google DeepMind or Meta report on a post-1 Aug evaluation found (source: https://www.aisi.gov.uk/blog, Sep 2026)
 
 ### autonomy-2026-09-01
 - Claim: TC260's secretariat publishes the final, non-draft version of "Network Security Standard Practice Guide: Intelligent Agent System Development Security Guide" (网络安全标准实践指南：智能体系统开发安全指南), announced as a 发布 notice on tc260.org.cn, by 2027-03. As of 25 Sep 2026 only the 18 Sep 2026 comment draft exists (comments due 2 Oct 2026).
@@ -119,6 +119,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-10-01: open, the TC260 notice is still the 18 Sep 2026 comment draft (征求意见稿) with comments due 2 Oct 2026 and no final 发布 notice exists (source: https://www.tc260.org.cn/tc260/tzgg/202609/e5b82ae7aca244d19d36b39575cbb458.shtml, Sep 2026)
 
 ### autonomy-2026-09-02
 - Claim: Faculty or Accenture, acting as Anthropic's embedded evaluator, publishes under its own name (not as an Anthropic-authored summary) a public findings report or assessment of Anthropic's models, training processes or safety-practice adherence, by 2027-06. As of 25 Sep 2026 the arrangement had only been announced (week of 18-21 Sep 2026) and no findings were published.
@@ -127,6 +128,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-10-01: open, no findings report published by Faculty or Accenture under its own name; coverage of the 18 Sep 2026 announcement says no reporting standard or start date has been disclosed.
 
 ### autonomy-2026-09-03
 - Claim: The European Commission or its AI Office publicly confirms an enforcement step directed specifically at OpenAI over incident reporting for agent incidents, by 2027-06. Qualifying steps are a formal request for information naming OpenAI, an evaluation or proceeding under the AI Act's GPAI enforcement articles, or a fine. Confirmation that an incident report was received does not qualify. As of 25 Sep 2026 the Commission had only confirmed receipt of OpenAI's DSEwiki report (7 Sep 2026), and its 29 Aug 2026 requests went to more than 30 unnamed providers.
@@ -135,6 +137,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-10-01: open, the Commission has confirmed receipt of OpenAI's DSEwiki incident report (7 Sep 2026) and says it remains in contact with OpenAI, but no request for information naming OpenAI, proceeding or fine has been confirmed, and it is not reported whether OpenAI is among the 30+ recipients of the 29 Aug requests (source: https://www.ibtimes.co.uk/openai-eu-scrutiny-dsewiki-incident-1818384, Sep 2026)
 
 ## Resolved claims
 
@@ -187,3 +190,13 @@ Format: see ledger/README.md. Append-only.
 - Status: confirmed
 - Grades:
  - 2026-07: confirmed, procurement routinely requires governance evidence and audit rights; 77% of orgs building formal AI governance programs; same vagueness caveat (source: https://prefactor.tech/learn/ai-governance-compliance-statistics, 2026)
+
+### autonomy-2026-08-09
+- Claim: The UK AI Security Institute publishes a document (a follow-up post, a revised evaluation-safety policy, or a subsequent evaluation or incident report) stating that the three changes committed to in incident report INC-2026-07-28-01, fine-grained network controls, real-time flagging or blocking of out-of-scope actions, and revised evaluation design, are implemented rather than planned, by 2027-03.
+- Horizon: 0–12 months (logged 2026-08, resolve by 2027-03)
+- Source: https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing, Aug 2026
+- Status: confirmed
+- Grades:
+  - none yet
+  - 2026-09-25: open, AISI's blog has published nothing on the incident since the 4 Aug 2026 report (its only later post, 27 Aug 2026, is on evaluation compute), and the government's 7 Sep 2026 written ministerial statement HCWS314 describes AISI as "now strengthening" its evaluation environments, i.e. still in progress rather than implemented (source: https://www.aisi.gov.uk/blog, Aug 2026)
+  - 2026-10-01: confirmed, AISI's 1 Oct 2026 engineering blog says of its three incident-report commitments "We have now made these changes": internet access disabled for agentic cyber evaluations with layered outbound-network blocking, a synchronous LLM monitor that can block suspicious actions before they happen, and revised evaluation design with automated pre-run control checks (source: https://www.aisi.gov.uk/blog/building-a-more-secure-environment-for-evaluating-dangerous-capabilities, Oct 2026)
