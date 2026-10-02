@@ -30,6 +30,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
  - 2026-08-04: open, national mandates exist (China MoE "AI Plus Education" action plan, Apr 2026, nationwide and compulsory to 2030; India AI and computational thinking from Grade 3 in 2026-27; UAE K-12 mandatory subject) but none carries a documented dedicated education-AI budget line, so the funding conjunct is unmet and the resolve-by (2027-09) has not passed (source: https://wtlgovernance.com/insights/updates/china-moe-ai-plus-education-action-plan-2030/, Apr 2026)
  - 2026-09-25: open, rechecked ministry-level AI literacy mandates after 2026-08-13 and found no new national mandate carrying a documented dedicated curriculum appropriation; the new funding instruments located are US federal grant priorities rather than a ministry curriculum mandate, and resolve-by 2027-09 has not passed
+ - 2026-10-02: open, UAE Cabinet approved an AI curriculum for all public and private schools on 2 Sep 2026 with about 22,000 teachers to be trained, but the announcement discloses no dedicated budget, so the funding conjunct remains unmet and resolve-by 2027-09 has not passed (source: https://www.khaleejtimes.com/uae/uae-to-roll-out-ai-curriculum-across-all-schools-22000-teachers-to-be-trained, Sep 2026)
 
 ### learning-2026-07-02
 - Claim: A randomized controlled trial of a production AI tutor (n>1,000) reports effect sizes in a peer-reviewed venue by mid-2027, moving evidence beyond quasi-experimental designs.
@@ -39,6 +40,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
  - 2026-08-04: open, no peer-reviewed RCT of a production AI tutor with n greater than 1,000 located; 2026 publications found (Journal of Economic Education structured AI tutoring RCT, Scientific Reports AI tutoring RCT) are course-scale with unverified or sub-threshold samples, and the resolve-by (2027-09) has not passed
  - 2026-09-25: open, no peer-reviewed RCT of a production AI tutor with n greater than 1,000 located; the nearest new candidate, a two-year cluster-randomized Khanmigo trial in 18 Tennessee middle schools (about 0.06 to 0.08 SD), appeared in Aug 2026 only as NBER Working Paper 35620, not a peer-reviewed venue, and resolve-by 2027-09 has not passed (source: https://www.nber.org/papers/w35620, Aug 2026)
+ - 2026-10-02: open, no peer-reviewed RCT of a production AI tutor with n greater than 1,000 located since 2026-09-25; the Khanmigo trial is still only NBER Working Paper 35620 and resolve-by 2027-09 has not passed (source: https://www.nber.org/papers/w35620, Aug 2026)
 
 ### learning-2026-07-03
 - Claim: At least one major university system introduces AI-free assessment requirements citing cognitive-offloading research by mid-2027.
@@ -48,6 +50,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
  - 2026-08-04: open, secured-assessment moves are real and accelerating (Princeton ended 133 years of unproctored exams effective 1 Jul 2026; Bath, Cardiff, Birkbeck and Swansea shifting to invigilated in-person formats) but all are single institutions rather than systems and every stated rationale is academic integrity, not cognitive-offloading research; SUNY's systemwide policy (May 2026) mandates governance, not AI-free assessment (source: https://www.universityherald.com/articles/80380/20260623/princeton-university-now-requires-supervised-person-exams-amid-ai-cheating-concerns.htm, Jun 2026)
  - 2026-09-25: open, the Florida State Board of Education on 16 Sep 2026 approved new Rule 6A-14.0719 requiring all 28 Florida College System institutions to bar AI on graded assignments unless the instructor permits it, a system-level move but a default-prohibition with instructor override rather than an AI-free assessment requirement, and neither the notice nor coverage cites cognitive-offloading research (source: https://www.cfpublic.org/education/2026-09-16/florida-approves-statewide-ai-rules-for-k-12-schools-and-colleges, Sep 2026)
+ - 2026-10-02: open, searched for new university-system AI-free assessment requirements citing cognitive-offloading research and found none beyond the Florida College System default-prohibition rule already graded; resolve-by 2027-09 has not passed
 
 ### learning-2026-08-01
 - Claim: Digital Promise announces the single recipient of the up-to-$8,000,000 Gates Foundation-backed EDU AI open-source K-12 math tutoring model grant, with a grant start in November 2026.
@@ -57,6 +60,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-09-25: open, no EDU AI recipient announced; the RFP page still lists one anticipated award with an estimated November 2026 start, and Digital Promise's 21 Sep 2026 grantee announcement named eight dataset and benchmark grantees but not the EDU AI model award (source: https://digitalpromise.org/2026/09/21/new-grantees-awarded-by-the-k-12-ai-infrastructure-program/, Sep 2026)
+  - 2026-10-02: open, the RFP page at k12-ai-infrastructure.org still lists one anticipated award with an estimated November 2026 start and no recipient is announced (source: https://k12-ai-infrastructure.org/edu-ai-rfp/, Jun 2026)
 
 ### learning-2026-08-02
 - Claim: All 24 Maryland local school systems adopt an AI policy aligned to MSDE guidance and designate an AI coordinator within the statutory 120-day window under the Artificial Intelligence Ready Schools Act.
@@ -66,6 +70,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-09-25: open, the 120-day window is still running (Frederick County reports a state deadline of 22 Oct 2026 and on 16 Sep 2026 had only advanced its draft AI policy to second review), and no count of the 24 systems or of designated AI coordinators has been published (source: https://www.yahoo.com/news/politics/articles/school-board-look-banning-ai-035900995.html, Sep 2026)
+  - 2026-10-02: open, the 120-day window is still running (Frederick County deadline 22 Oct 2026 per the previous pass) and no MSDE count of compliant systems or designated coordinators was found; MACo's 10 Sep 2026 report remains the latest status (source: https://conduitstreet.mdcounties.org/2026/09/10/deadline-for-ai-policies-in-local-schools-approaches-in-maryland/, Sep 2026)
 
 ### learning-2026-08-03
 - Claim: The full US House of Representatives holds a floor vote on H.R. 8747, the K-12 AI Literacy and Readiness Act of 2026.
@@ -75,6 +80,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-09-25: open, the official bill status record (updated 19 Sep 2026) still ends at the 21 Jul 2026 committee vote ordering H.R. 8747 reported as amended, with no report number, calendar placement or floor vote (source: https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr8747.xml, Sep 2026)
+  - 2026-10-02: open, the bill status record (updated 19 Sep 2026) still ends at the 21 Jul 2026 committee vote (18-15) with no floor action; Senate companion S. 5225 was referred 4 Aug 2026 (source: https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr8747.xml, Sep 2026)
 
 ### learning-2026-08-07
 - Claim: Eedi publishes results of its second AI tutor RCT, the four-arm trial of 1,525 students across 10 UK secondary schools run with Google DeepMind that began in April 2026.
@@ -84,6 +90,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-09-25: open, no results published; the AEA registry entry (AEARCTR-0018079, last updated 30 Jun 2026) lists the intervention as 13 Apr to 21 Jun 2026 with trial end 31 Aug 2026 and no posted results, and Eedi's news page shows no results item (source: https://www.socialscienceregistry.org/trials/18079, Jun 2026)
+  - 2026-10-02: open, no results published; the AEA registry entry (AEARCTR-0018079) still shows last update 30 Jun 2026, status in development, no results, and no Eedi results item was found (source: https://www.socialscienceregistry.org/trials/18079, Jun 2026)
 
 ### learning-2026-09-01
 - Claim: The Chicago Board of Education (the first fully elected 21-member board, elected 3 Nov 2026) or Chicago Public Schools adopts a moratorium, ban or default prohibition on student-facing generative AI covering at least grades K-8.
@@ -92,6 +99,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-10-02: open, 24 of 42 candidates have signed the three-year moratorium pledge but it is a candidate pledge, not board or CPS action; the board is elected 3 Nov 2026 and CPS separately dropped its high school Gemini rollout (Aug 2026), which is not a K-8 ban or default prohibition (source: https://www.govtech.com/education/k-12/majority-of-chicago-school-board-candidates-back-3-year-pause-on-ai, Sep 2026)
 
 ### learning-2026-09-02
 - Claim: Google changes Gemini in Google Classroom so that access for students under 18 (or under 13) is off by default and requires affirmative admin enablement, reversing the Aug 2026 default-on expansion to students of all ages.
@@ -100,6 +108,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-10-02: open, Google's Workspace Updates post for the expansion (effective 10 Aug 2026 web, 17 Aug mobile) still says Gemini in Classroom is On by default for students of all ages, with admins able to restrict an OU; no reversal found (source: https://workspaceupdates.googleblog.com/2026/08/gemini-in-google-classroom-is-expanding-to-users-of-all-ages-with-contextualized-Gemini-starter-prompts-for-students.html, Aug 2026)
 
 ### learning-2026-09-03
 - Claim: The University of Sydney and the NTEU reach an in-principle enterprise agreement that contains a clause on AI (consultation, human oversight or job protection), rather than leaving AI governance solely to university policy.
@@ -108,6 +117,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-10-02: open, the latest NTEU Sydney branch bargaining update is Week 13 (8-9 Sep 2026) with a stop-work meeting set for 13 Oct 2026, and no in-principle agreement was found; earlier updates report little progress on the union's AI proposal (source: https://nsw.nteu.au/sydney/, Sep 2026)
 
 ## Resolved claims
 

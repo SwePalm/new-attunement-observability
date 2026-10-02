@@ -30,6 +30,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
  - 2026-08-04: open, no audit yet reports frontier production success above 80%, and the largest new telemetry sample points the other way (56.6% success across 4.5M runs on 6,259 deployed agents), but 13 months remain on the horizon (source: https://www.foundra.ai/key-reads/ai-agent-production-reliability-testing-2026, Jul 2026)
  - 2026-09-25: open, no credible audit reports frontier-model production success above 80%; the closest new figure found is a Salesforce optimization study lifting enterprise task success from 29.2% to 78.0% on an open-weights model under tuned conditions, which is neither frontier nor a production audit (source: https://404kresearch.substack.com/p/404k-semi-ai-ai-model-weekly-2026-472, Sep 2026)
+ - 2026-10-02: open, a search for new production-reliability audits of frontier models found no figure above 80% (the latest circulating numbers remain the ~67% VentureBeat figure and the 56.6% deployed-agent telemetry), and 11 months remain on the horizon
 
 ### intelligence-2026-08-02
 - Claim: The US federal government publicly publishes the EO 14409 covered-frontier-model designation framework or its criteria, via Federal Register notice or an official NSA, NIST, CISA or OSTP publication, by 2027-02.
@@ -39,6 +40,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-09-25: open, a Federal Register API query for "frontier model" and for "14409" over documents published since 2026-08-01 returns zero results, and the CAISI page carries no designation framework or criteria through 25 Sep 2026 (source: https://www.federalregister.gov/api/v1/documents.json, Sep 2026)
+  - 2026-10-02: open, the Federal Register API again returns zero documents for "frontier model" published since 2026-08-01, the CAISI page lists nothing after its 17 Sep 2026 GLM-5.3 item, and coverage through Oct 2026 still describes the EO 14409 designation process and criteria as classified and unpublished (NSA, CISA and OSTP pages not checked directly)
 
 ### intelligence-2026-08-03
 - Claim: The US Department of Commerce or BIS imposes a new export-control access restriction on a named frontier AI model that is first released after 2026-08-04, by 2027-05.
@@ -48,6 +50,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-09-25: open, BIS press releases for Aug and Sep 2026 contain no AI model action, and the post-2026-08-04 frontier releases checked (Claude Opus 5.5 on 22 Sep 2026, GPT-6 Astra on 3 Sep 2026) launched with no reported access restriction (source: https://www.bis.gov/news-updates, Sep 2026)
+  - 2026-10-02: open, no Commerce or BIS access restriction on a post-2026-08-04 model was found; the 28 Sep 2026 White House (Office of the National Cyber Director) request that OpenAI and Anthropic hold new models back from the UK AI Security Institute is not a Commerce or BIS action, and Gemini 4 Argon (30 Sep 2026) is limited to trusted cyber defenders by Google itself
 
 ### intelligence-2026-08-04
 - Claim: The European AI Office takes its first publicly reported formal enforcement step against a named GPAI provider (a Commission-decision request for information, a compelled model evaluation, or an opened proceeding) by 2027-05.
@@ -57,6 +60,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-09-25: open, no formal AI Act enforcement step against a named GPAI provider has been reported; the 31 Aug 2026 designation of ChatGPT is under the Digital Services Act, not the AI Act, and the AI Board's 17 Sep 2026 meeting named no provider (source: https://digital-strategy.ec.europa.eu/en/news/ai-board-holds-its-ninth-meeting, Sep 2026)
+  - 2026-10-02: open, near-miss found that the 25 Sep grade missed: the AI Office issued its first formal AI Act requests for information to GPAI providers on 29 Aug 2026 (more than 30 providers), but the Commission has not publicly named any recipient and law-firm analysis describes them as information requests, not a Commission decision; press reports (Euractiv, via secondary coverage) name OpenAI, Anthropic and Google, yet Euractiv could not be opened and no company or Commission confirmation was found, so the claim's named-provider and decision wording is not clearly met (source checked: https://www.matheson.com/insights/the-european-commissions-first-use-of-ai-act-enforcement-powers/, Sep 2026)
 
 ### intelligence-2026-08-07
 - Claim: METR publishes an updated task-completion time-horizon measurement at metr.org/time-horizons/ that includes at least one model first released on or after 2026-06-01, by 2027-02. The page has been dated 8 May 2026 since before the June and July 2026 model wave.
@@ -66,6 +70,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-09-25: open, metr.org/time-horizons/ is still marked last updated 8 May 2026 with no post-June model; METR published a predeployment summary of Claude Opus 5.5 on 22 Sep 2026 on its blog but it gives no time-horizon figure (source: https://metr.org/blog/2026-09-22-claude-opus-5-5/, Sep 2026)
+  - 2026-10-02: open, metr.org/time-horizons/ still reads last updated 8 May 2026 with Claude Mythos Preview as the newest model, and no post-June model has been added
 
 ### intelligence-2026-09-01
 - Claim: ARC Prize publishes an "ARC Prize Verified" ARC-AGI-3 Semi-Private score of 80% or higher under its Standard harness (not the Provider Adapter harness) for any model, on arcprize.org, by 2027-03. Verified Standard-harness maximum on 2026-09-25: 62.7% (GPT-6 Astra).
@@ -74,6 +79,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-10-02: open, ARC Prize verified GPT-6.1 Sol on 29 Sep 2026 at 52.7% under the Standard harness (max reasoning) and 96.4% under the Provider Adapter harness, so the Standard-harness maximum is still 62.7% (GPT-6 Astra), below the 80% threshold (source checked: https://arcprize.org/results/openai-gpt-6-1-sol, Sep 2026)
 
 ### intelligence-2026-09-02
 - Claim: NIST's Center for AI Standards and Innovation (CAISI) publishes on nist.gov an assessment or evaluation of a model developed by a US company (for example OpenAI, Anthropic, Google, SpaceXAI or Meta), by 2027-03. Every CAISI model assessment published in 2026 through 2026-09-25 covers a PRC model.
@@ -82,6 +88,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-10-02: open, the CAISI page lists no assessment of a US-company model through 2 Oct 2026 (latest items: GLM-5.3 on 17 Sep, Kimi K3 on 23 Jul, GLM-5.2 on 17 Jul, all PRC models), and CAISI reportedly has no permanent director since July 2026
 
 ### intelligence-2026-09-03
 - Claim: Google or Google DeepMind publishes, through an official Google or DeepMind channel (blog, report, or executive statement carried by two reputable outlets), a quantified measure of how much of its own AI R&D is performed or led by AI systems (a percentage, an agent-to-human effort ratio, or an automation-level share), by 2027-03. OpenAI (6 Sep 2026) and Anthropic (Sep 2026) have published such measures; no Google figure was found on 2026-09-25.
@@ -90,6 +97,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-10-02: open, no Google or DeepMind quantified AI-R&D-by-AI measure found; Gemini 4 Argon coverage (30 Sep 2026) and August leadership-reshuffle coverage contain none (Google blog pages not exhaustively checked)
 
 ## Resolved claims
 
