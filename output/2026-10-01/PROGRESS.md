@@ -59,7 +59,11 @@ Dedupe and ledger append: 38 candidates proposed, 6 dropped as duplicates, 32 ap
 - Overlap with existing open claims: labor-2026-10-01/02 reuse the Challenger series (labor-2026-07-01 and the volatile-series watch-list item).
 
 ## Phase C, theme-selection
-- [ ] SELECTION.md
+- [x] SELECTION.md written. Selected: governance (forced), labor (forced), security (forced), autonomy (by score, 9). Forced themes: 90 days since the 2026-07-03 dives.
 
 ## Phase D, deep dive
-Filled in after selection.
+Steps per theme in order: structural-question, theme-exploration, pestle-analysis, forces-feelings, scenario-generator, scenario-eval.
+- [ ] governance
+- [ ] labor
+- [ ] security
+- [ ] autonomy
