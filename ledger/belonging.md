@@ -99,6 +99,30 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-10-02: open, a search for OpenAI age-prediction accuracy or false-positive figures found only press noting OpenAI has not disclosed them (The Register, TechRadar on misfiring adult accounts); OpenAI's own help-center and system-card pages were not opened
 
+### belonging-2026-10-01
+- Claim: Pennsylvania Governor Josh Shapiro signs a companion-chatbot bill for minors (S.B. 1090 or H.B. 2006, or a merged vehicle) into law.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2026-12)
+- Source: https://www.mychesco.com/a/news/government/pennsylvania-house-passes-ai-chatbot-safeguards-sending-bill-to-senate/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### belonging-2026-10-02
+- Claim: Meta makes its revamped AI characters available again to accounts it identifies as teens, with the parental controls it announced in January 2026 (blocking individual characters, topic visibility), as stated in a Meta newsroom post or reported by two major outlets.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-03)
+- Source: https://techcrunch.com/2026/01/23/meta-pauses-teen-access-to-ai-characters-ahead-of-new-version/, Jan 2026
+- Status: open
+- Grades:
+  - none yet
+
+### belonging-2026-10-03
+- Claim: A Senate companion to the House "Protecting Kids from Human-Like Chatbots Act" (Whitesides, Kennedy, Matsui, Miller-Meeks) is introduced, with at least one senator as lead sponsor, as recorded on Congress.gov.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-01)
+- Source: https://www.hometownstation.com/santa-clarita-news/politics/rep-whitesides-introduces-bipartisan-legislation-to-protect-children-from-human-like-chatbots-612129, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### belonging-2026-07-01

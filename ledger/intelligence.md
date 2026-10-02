@@ -99,6 +99,38 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-10-02: open, no Google or DeepMind quantified AI-R&D-by-AI measure found; Gemini 4 Argon coverage (30 Sep 2026) and August leadership-reshuffle coverage contain none (Google blog pages not exhaustively checked)
 
+### intelligence-2026-10-01
+- Claim: Artificial Analysis lists a model from a developer other than Anthropic with an Intelligence Index score strictly higher than the best Anthropic model's score, as the top entry on artificialanalysis.ai/evaluations/artificial-analysis-intelligence-index, by 2026-12.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2026-12)
+- Source: https://artificialanalysis.ai/evaluations/artificial-analysis-intelligence-index, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
+### intelligence-2026-10-02
+- Claim: ARC Prize publishes a verified ARC-AGI-3 result for a Google Gemini 4 family model (for example Gemini 4 Argon) on arcprize.org, by 2027-01.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-01)
+- Source: https://neuraltrust.ai/blog/gemini-4-argon, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### intelligence-2026-10-03
+- Claim: Artificial Analysis publishes an article announcing a release named "Intelligence Index v5" (the full v5, not v4.x), on artificialanalysis.ai, by 2026-12.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2026-12)
+- Source: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-3, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### intelligence-2026-10-04
+- Claim: Mirendil announces, or two reputable outlets report as completed, a funding round of at least $1B, by 2026-12.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2026-12)
+- Source: https://aiweekly.co/alerts/ex-anthropic-duos-self-improving-ai-startup-mirendil-in-talks-for-1b-round-at, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### intelligence-2026-07-01

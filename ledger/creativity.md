@@ -170,6 +170,30 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-10-02: open, no settlement, licence, content-policy agreement or voluntary dismissal between UMG and DistroKid found; coverage through 24 Sep 2026 shows the suit (filed 15 Sep 2026) proceeding and publicising evidence (source: https://www.musicbusinessworldwide.com/over-50-of-a-major-streaming-services-tracks-come-from-distrokid/, Sep 2026)
 
+### creativity-2026-10-01
+- Claim: Ross Intelligence files a petition for rehearing en banc in the Third Circuit or a petition for certiorari in the US Supreme Court in Thomson Reuters v. Ross, as shown on the Third Circuit docket or the Supreme Court docket.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-01)
+- Source: https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101414-aap-authors-guild-applaud-decision-in-ross-copyright-infringement-case.html, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
+### creativity-2026-10-02
+- Claim: Suno publicly launches an opt-in product built around individual named artists in which participating artists are paid, announced on suno.com or reported by two reputable outlets.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-03)
+- Source: https://suno.com/blog/introducing-v6, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### creativity-2026-10-03
+- Claim: Deezer publishes a count or percentage of fully AI-generated tracks it has removed under its July 2026 policy to take down AI tracks used for streaming fraud or unstreamed for six months, in a newsroom post, results release or reputable outlet.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-01)
+- Source: https://newsroom-deezer.com/2026/07/ai-music-exceeds-50-percent-daily-uploads-deezer/, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### creativity-2026-02-01

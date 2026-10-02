@@ -99,6 +99,30 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-10-02: open, govinfo BILLSTATUS for S. 5417 (record updated 1 Oct 2026) shows only introduction and referral to Commerce on 16 Sep 2026; the Senate floor request was blocked by Sen. Rand Paul (objection, not a further recorded action) and no NDAA amendment was found
 
+### trust-2026-10-01
+- Claim: At least one of xAI, Mistral AI, Midjourney or HeyGen (the four providers an independent review found without a public detection tool) publicly launches a free, public tool that lets users check whether content was created or altered by that provider's own system, documented on the provider's site or reported by two reputable outlets.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-01)
+- Source: http://www.kqed.org/news/12095398/new-california-law-requires-ai-companies-to-publish-detection-tools-are-they-complying, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
+### trust-2026-10-02
+- Claim: The US Court of Appeals for the Ninth Circuit issues an opinion or order deciding xAI's appeal of the denied preliminary injunction against California's AI training data transparency law (X.AI LLC v. Bonta, No. 26-1591).
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-03)
+- Source: https://www.caidp.org/cases/training-data-transparency/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### trust-2026-10-03
+- Claim: NVIDIA makes Sentry (the BlueField-4 agent watchdog) available as a shippable product or software release, shown by a nvidia.com or GitHub release, or by Dell, HPE or Cisco announcing a Sentry-enabled system with a ship date.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-03)
+- Source: https://www.storagereview.com/news/nvidia-open-agent-safety-platform-openshell-sentry-bluefield-4, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### trust-2026-08-02

@@ -36,21 +36,34 @@ Scorecard: 2 confirmed, 0 decayed, 1 falsified, 0 expired, 114 open.
 - Calibration pass: CAL-005, CAL-007, CAL-008, CAL-009 re-confirmed; no new heuristics, none retired.
 
 ## Phase B, evidence-sweep (cohort B)
-- [ ] belonging
-- [ ] creativity
-- [ ] dependency
-- [ ] identity
-- [ ] intelligence
-- [ ] learning
-- [ ] meaning
-- [ ] memory
-- [ ] perception
-- [ ] trust
-- [ ] truth
-- [ ] dedupe and ledger append
+- [x] belonging
+- [x] creativity
+- [x] dependency
+- [x] identity
+- [x] intelligence
+- [x] learning
+- [x] meaning
+- [x] memory
+- [x] perception
+- [x] trust
+- [x] truth
+- [x] dedupe and ledger append
 
-## Phase C, theme-selection
-- [ ] SELECTION.md
+
+Citation gate (scripted, plus em-dash scan): 10 of 11 sweeps passed on first check; dependency.md had a dated assertion without a source tag in Regulatory Shifts, fixed by the agent (retry 1 of 2; bullet reduced to None). All 11 pass.
+
+Dedupe and ledger append: 34 candidates proposed, 0 dropped as duplicates, 34 appended.
+- Each candidate was compared with the other 10 cohort B sweeps and with every open claim in all 22 ledgers (keyword check on Claim lines, including the 32 claims appended on 2026-10-01 by cohort A). No same-actor same-event pair was found.
+- Near-overlaps kept, flagged for CAL-008: meaning-2026-10-03 (Challenger October report, AI no longer the leading year-to-date reason) is resolved by the same release as labor-2026-10-01 and labor-2026-10-02 (different thresholds) and labor-2026-07-01; trust-2026-10-02 (Ninth Circuit decision in X.AI v. Bonta, No. 26-1591) concerns the appeal governance's sweep recorded on 2026-10-01 but no governance claim watches it.
+- Appended per theme: belonging 3, creativity 3, dependency 3, identity 3, intelligence 4, learning 3, meaning 3, memory 3, perception 3, trust 3, truth 3 (IDs <theme>-2026-10-NN). Append-only, no deletions.
+- Pre-announced tags among appended: creativity 1, identity 1, intelligence 1, learning 1, meaning 1, memory 1, perception 1.
+
+## Phase C## Phase C, theme-selection
+- [x] SELECTION.md written. Selected: meaning (forced), dependency (forced), creativity (forced), trust (by score, 9). Forced themes: 91 days since the 2026-07-03 clock start.
 
 ## Phase D, deep dive
-Filled in after selection.
+Steps per theme in order: structural-question, theme-exploration, pestle-analysis, forces-feelings, scenario-generator, scenario-eval.
+- [ ] meaning
+- [ ] dependency
+- [ ] creativity
+- [ ] trust

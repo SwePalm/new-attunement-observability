@@ -109,6 +109,30 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-10-02: open, search found only the 19 Nov 2025 first list of 19 providers (cloud and platform firms, no foundation-model API provider) and no second list or announced date.
 
+### dependency-2026-10-01
+- Claim: OpenAI and Cursor (or SpaceX on Cursor's behalf) publicly announce an agreement, extension or reversal that keeps OpenAI first-party models available inside Cursor beyond 12 Nov 2026 (beyond BYOK), by 2026-11.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2026-11)
+- Source: https://bdtechtalks.com/2026/09/04/openai-cursor-ban/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### dependency-2026-10-02
+- Claim: Google's Vertex AI / Gemini Enterprise Agent Platform model-versions page (docs.cloud.google.com) replaces the 20 Oct 2026 retirement date for gemini-2.5-pro with a later date or "no shutdown date announced", by 2026-11.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2026-11)
+- Source: https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
+### dependency-2026-10-03
+- Claim: Anthropic marks claude-haiku-4-5-20251001 or claude-opus-4-5-20251101 as Deprecated, with a dated retirement, on its model-deprecations page, by 2026-12. Sonnet 4.5 was notified the day after its stated 29 Sep floor, which makes the 15 Oct (Haiku) and 24 Nov (Opus) floors live.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2026-12)
+- Source: https://platform.claude.com/docs/en/about-claude/model-deprecations, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### dependency-2026-07-01

@@ -119,6 +119,30 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-10-02: open, the latest NTEU Sydney branch bargaining update is Week 13 (8-9 Sep 2026) with a stop-work meeting set for 13 Oct 2026, and no in-principle agreement was found; earlier updates report little progress on the union's AI proposal (source: https://nsw.nteu.au/sydney/, Sep 2026)
 
+### learning-2026-10-01
+- Claim: OpenAI or Anthropic signs the AFT-linked legally binding National AI Safety & Privacy Standard (the memorandum of agreement Microsoft signed on 9 Sep 2026) or an equivalent contractually enforceable student-data agreement with the AFT or its National Academy for AI Instruction, shown by an AFT, OpenAI or Anthropic announcement.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2026-12)
+- Source: https://www.edweek.org/technology/microsoft-agrees-to-new-student-privacy-protections-for-ai-how-ironclad-are-they/2026/09, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### learning-2026-10-02
+- Claim: Google publicly commits to the AFT-negotiated standard or to a legally binding, audit-backed student-data agreement with a US teachers union for Gemini in Google Classroom or Workspace for Education.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-03)
+- Source: https://www.yahoo.com/news/politics/articles/microsoft-commits-sweeping-ai-privacy-040237964.html, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### learning-2026-10-03
+- Claim: Japan's MEXT publishes a revised "Guideline for the Use of Generative AI in Primary and Secondary Education" (a version after Ver.2.0, final text, not a committee draft).
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-03)
+- Source: https://www.mext.go.jp/a_menu/other/mext_02412.html, Dec 2024
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### learning-2026-02-01

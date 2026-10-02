@@ -109,6 +109,30 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-10-02: open, Lasso's 17 Sep 2026 study page carries no update or vendor reply, and no Anthropic or Google DeepMind evaluation or public response dated after 17 Sep 2026 was found (source: https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior, Sep 2026)
 
+### perception-2026-10-01
+- Claim: YouTube ships voice detection inside its likeness detection tool for enrolled creators (a YouTube blog, help-center page or Creator Insider post stating voice matching is live, in beta or rolling out).
+- Horizon: 0–12 months (logged 2026-10, resolve by 2026-12)
+- Source: https://www.medianama.com/2026/09/223-youtube-likeness-detection-voices-clones/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### perception-2026-10-02
+- Claim: A member of the International Gene Synthesis Consortium (for example Twist Bioscience, IDT or GenScript) or the screening nonprofit IBBIS publicly states it will check for or accept SynthID Bio watermarks in sequence screening.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-03)
+- Source: https://www.helpnetsecurity.com/2026/10/01/synthid-bio-watermark/, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
+### perception-2026-10-03
+- Claim: A deepfake or synthetic-media detection vendor (for example Reality Defender, GetReal Security, Pindrop, Resemble AI, Hive or Modulate) announces a single equity round of at least USD 50M.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-01)
+- Source: https://www.securityweek.com/modulate-raises-25-million-to-advance-deepfake-detection/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### perception-2026-08-04

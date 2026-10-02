@@ -130,6 +130,30 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-10-02: open, d-you launches 2 Jan 2027 so no user, activation or download figure can exist yet; searches in German found only launch coverage (checked https://www.bundesregierung.de/breg-de/aktuelles/digital-wallet-2452384)
 
+### identity-2026-10-01
+- Claim: Apple launches driver's licence and state ID support in Apple Wallet in Utah, shown by an Apple, Utah Driver License Division or major-outlet launch report.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2026-12)
+- Source: https://www.macrumors.com/2026/09/02/apple-wallet-id-feature-16th-us-state/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### identity-2026-10-02
+- Claim: At least one of JPMorgan Chase, Bank of America, Citi, Wells Fargo or Capital One publicly confirms (press release, newsroom, help page or named spokesperson) that it accepts a mobile driver's licence or verifiable digital credential for customer identification at account opening, following the 8 Sep 2026 FinCEN and bank-regulator FAQs.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-06)
+- Source: https://www.americanbanker.com/news/five-agencies-say-banks-may-accept-mobile-drivers-licenses, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### identity-2026-10-03
+- Claim: South Africa's Department of Home Affairs begins issuing the smartphone digital ID credential to members of the public beyond ministers and officials (a pilot counts), shown by a Home Affairs, gov.za or major South African outlet report.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-06)
+- Source: https://techcentral.co.za/south-africa-digital-id-schreiber-demo/286764/, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### identity-2026-07-02

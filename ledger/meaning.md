@@ -121,6 +121,30 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-10-02: open, searched for a CNA/NNU Kaiser strike authorization vote, strike notice or strike after 25 Sep 2026 and found none; the latest NNU press list opened shows no Kaiser strike item through 30 Sep 2026
 
+### meaning-2026-10-01
+- Claim: California Assemblymember Liz Ortega (or any member carrying CNA-sponsored language) introduces a bill in the 2027-28 session that again seeks employer retaliation protection for health care workers who override or rely on clinical AI output, as shown by a bill number on leginfo.legislature.ca.gov or NNU/CNA announcement, by 2027-01.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-01)
+- Source: https://www.gov.ca.gov/2026/09/30/governor-newsom-issues-legislative-update-9-30-2026/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### meaning-2026-10-02
+- Claim: UFCW Local 5 reports that Verve Coffee Roasters workers ratified their first contract, including the clause that AI cannot be used to make decisions about employees, by 2026-11.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2026-11)
+- Source: https://lookout.co/inside-verve-coffee-workers-tentative-union-contract-higher-sick-pay-ai-limits-and-guaranteed-hours/story, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### meaning-2026-10-03
+- Claim: Challenger, Gray & Christmas's October 2026 report (released November 2026) shows Artificial Intelligence no longer the leading cited reason for 2026 year-to-date job cuts, with Market/Economic Conditions ahead of it, by 2026-11.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2026-11)
+- Source: https://www.challengergray.com/wp-content/uploads/2026/10/Challenger-Report-September-2026.pdf, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### meaning-2026-07-02

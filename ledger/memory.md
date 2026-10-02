@@ -150,6 +150,30 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-10-02: open, searches in English and German found no vzbv, Verbraucherzentrale or BEUC lawsuit, Abmahnung or complaint targeting a persistent memory feature; the Verbraucherzentrale NRW Abmahnung found concerns a medical practice chatbot's false titles (OLG Hamm), not memory (source: https://www.otto-schmidt.de/news/wirtschaftsrecht/zurechnung-von-falschangaben-eines-ki-chatbots-2026-05-13.html, May 2026)
 
+### memory-2026-10-01
+- Claim: Microsoft updates its Microsoft Learn page "Manage Copilot personalization and memory" (or a successor page) to state that Copilot memory actions (a memory being saved, updated or deleted) generate Purview audit log entries, by 2027-03. Actor chosen because Microsoft, not OpenAI or Anthropic, is the vendor moving first on enterprise memory compliance.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-03)
+- Source: https://learn.microsoft.com/en-us/microsoft-365/copilot/copilot-personalization-memory, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### memory-2026-10-02
+- Claim: Microsoft Learn documentation states that Purview retention policies or retention labels apply to Microsoft 365 Copilot memory (retention of inactive memory versions), by 2026-12.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2026-12)
+- Source: https://mc.merill.net/message/MC1478965, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### memory-2026-10-03
+- Claim: GitHub announces that Copilot Memory is generally available (no longer public preview), in a github.blog changelog entry or the GitHub Docs Copilot Memory page, by 2027-03.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-03)
+- Source: https://docs.github.com/en/copilot/concepts/agents/copilot-memory, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### memory-2026-08-01

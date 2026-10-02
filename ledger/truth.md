@@ -149,6 +149,30 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-10-02: open, Anthropic's support article still lists the Watermark Detection API as private preview for eligible organizations; the only public checker (claude.com/check-content, opened 2 Sep 2026) verifies C2PA credentials on files, not the text watermark, so it does not qualify (source: https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content, Oct 2026)
 
+### truth-2026-10-01
+- Claim: The Académie Goncourt (its president or a communiqué on academiegoncourt.com) publicly announces a written rule or procedure on AI use in prize eligibility, such as a mandatory author or publisher declaration, a stated detector screening protocol applied to all selected titles, or an explicit AI exclusion clause in its regulations. Reporting in at least one major outlet must confirm it.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-03)
+- Source: https://rezonodwes.com/2026/09/le-goncourt-face-a-lia-une-decision-forte-des-questions-en-suspens/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### truth-2026-10-02
+- Claim: Thélyson Orélien, Éditions Grasset or Éditions du Boréal publicly releases primary authorship evidence for "C'était ça ou mourir", meaning dated manuscript files or drafts, or a named independent forensic or linguistic expert report, and at least one major outlet (Le Monde, La Presse, Radio-Canada, Libération or Le Figaro) reports on its content. A statement that evidence exists does not qualify.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2026-12)
+- Source: https://haitiantimes.com/2026/09/28/thelyson-orelien-ai-allegations-novel/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### truth-2026-10-03
+- Claim: Hugging Face or Civitai publishes a policy, documentation page or announcement stating how it will meet the California duty not to knowingly host non-compliant generative AI model weights (Section 22757.3.2, in force 1 Jan 2027), such as an attestation requirement, provenance-metadata requirement, California geoblocking or a removal process.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2027-01)
+- Source: https://thebuild.com/blog/sb-1000-everyone-is-a-covered-provider-now/, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### truth-2026-07-03
