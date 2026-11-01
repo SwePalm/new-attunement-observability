@@ -162,6 +162,30 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-11-01: open, OpenAI's count remains 'over 100' organisations as of 26 Sep 2026 (reported 2 Oct 2026) and no statement of 250 or more was found; resolve-by 2026-12 not passed (source: https://gizmodo.com/openai-has-sent-notices-of-sketchy-ai-behavior-to-over-100-organizations-so-far-2000820702, Oct 2026)
 
+### autonomy-2026-11-01
+- Claim: The FTC, OpenAI, or two reputable outlets citing an FTC spokesperson publicly confirm that the FTC has demanded testimony from at least one named or unnamed OpenAI executive or employee in its AI-agent consumer-harm investigation, by 2026-12. Baseline as of 2026-11-01: the FTC spokesperson confirmed testimony demands only for Anthropic executives on 26 Oct 2026, and whether OpenAI received a matching demand is unconfirmed.
+- Horizon: 0–12 months (logged 2026-11, resolve by 2026-12)
+- Source: https://aiweekly.co/alerts/ftc-demands-anthropic-executives-testify-in-ai-safety-probe, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
+### autonomy-2026-11-02
+- Claim: The White House Super Intelligence Force, or Defense Under Secretary Emil Michael's working group, publishes a written frontier-lab incident-reporting protocol that states at least one concrete notification deadline or reportable-incident threshold, by 2027-02 (pre-announced). Baseline as of 2026-11-01: the 15 Oct 2026 charter assigns the protocols to Michael on a 120-day clock (to about mid-Feb 2027) and thresholds, notification speed and receiving agency are unwritten; a slower clock is used because the charter sets the 120-day window.
+- Horizon: 0–12 months (logged 2026-11, resolve by 2027-02)
+- Source: https://magica.com/news/trump-ai-task-force-orders-pcast-report-and-new-breach-protocol, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
+### autonomy-2026-11-03
+- Claim: The Dutch Minister of Education, or the Dutch cabinet in a letter to the Tweede Kamer, publicly commits to introduce a restriction on pupils' generative AI use in primary education, by 2027-03. Baseline as of 2026-11-01: only the Volt and CDA motion asking the government to arrange a ban has been reported (29 Oct 2026), with no vote date and no ministerial response in the pages opened.
+- Horizon: 0–12 months (logged 2026-11, resolve by 2027-03)
+- Source: https://nltimes.nl/2026/10/29/dutch-mps-want-ban-primary-school-children-using-generative-ai, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### autonomy-2026-09-03

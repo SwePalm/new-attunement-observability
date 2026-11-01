@@ -131,6 +131,38 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - 2026-11-01: open, no temporary injunction or consent order against OpenAI has issued in State of Florida v. OpenAI and no hearing date was found; Lawsuit Informer (28 Oct 2026) reports no injunction ruling (source: https://lawsuitinformer.com/openai-lawsuits, Oct 2026)
 
+### responsibility-2026-11-01
+- Claim: Senators Josh Hawley and Chris Murphy formally introduce the AI Agent Accountability Act as a numbered Senate bill (congress.gov record). Resolve by 2027-01. (pre-announced) Baseline as of 2026-11-01: the bill was announced on 1 Oct 2026 with no bill number or text in the pages opened; congress.gov returned HTTP 403 and was not checked.
+- Horizon: 0–12 months (logged 2026-11, resolve by 2027-01)
+- Source: https://digitalpolicyalert.org/change/22003-ai-agent-accountability-act, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
+### responsibility-2026-11-02
+- Claim: Rep. Lori Trahan formally introduces the Clear Liability for Artificial Intelligence Misconduct (CLAIM) Act as a numbered House bill (congress.gov record). Resolve by 2027-01. (pre-announced) Baseline as of 2026-11-01: the text is a 7 Oct 2026 discussion draft with no introduction date or cosponsors stated.
+- Horizon: 0–12 months (logged 2026-11, resolve by 2027-01)
+- Source: https://www.semafor.com/article/10/07/2026/democrat-rolls-out-ai-liability-proposal, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
+### responsibility-2026-11-03
+- Claim: A state attorney general, or another US state or municipal government body, publicly announces an investigation, subpoena, civil investigative demand or lawsuit against Anthropic concerning conduct of its models or agents. Resolve by 2027-01. Baseline as of 2026-11-01: the announced actions on 2026 agent incidents (Alabama, California, Florida, the eight-state suits) name OpenAI, and a search found no state action naming Anthropic; Philadelphia police criticised Anthropic's reporting delay but announced no inquiry.
+- Horizon: 0–12 months (logged 2026-11, resolve by 2027-01)
+- Source: https://www.news4jax.com/business/2026/10/10/anthropics-claude-ai-submits-a-false-tip-on-a-philadelphia-unsolved-homicide-case/, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
+### responsibility-2026-11-04
+- Claim: OpenAI files a demurrer, motion to strike, special motion to strike or other responsive motion challenging the complaint in LASST v. OpenAI in San Francisco Superior Court, as reported by a named outlet or shown on the docket. Resolve by 2027-01. Baseline as of 2026-11-01: the complaint was filed 29 Sep 2026; coverage reports OpenAI's "without merit" statement but no hearing, responsive motion or ruling.
+- Horizon: 0–12 months (logged 2026-11, resolve by 2027-01)
+- Source: https://thenextweb.com/news/openai-lawsuit-lasst-hugging-face-hack, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### responsibility-2026-07-01

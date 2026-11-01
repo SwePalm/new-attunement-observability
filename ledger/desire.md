@@ -145,6 +145,38 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-11-01: open, Meta has described a small business-paid transaction fee but stated no rate; articles of 23 Sep, 30 Sep and 23 Oct 2026 all give no percentage or amount (source: https://thenextweb.com/news/meta-muse-10-million-users-stripe-limits-profit, Oct 2026)
 
+### desire-2026-11-01
+- Claim: OpenAI states, or two reputable outlets report from OpenAI statements or filings, an annualized run rate for ChatGPT ads revenue of at least USD 2 billion, in a document dated after 2026-11-01, by 2027-01. Baseline as of 2026-11-01: the latest OpenAI-stated figure is USD 1 billion annualized in August 2026, repeated by CNBC on 21 Oct 2026; no figure at or above USD 2 billion was found.
+- Horizon: 0–12 months (logged 2026-11, resolve by 2027-01)
+- Source: https://www.cnbc.com/2026/10/21/openai-chatgpt-ads-26-countries.html, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
+### desire-2026-11-02
+- Claim: A European consumer organisation (vzbv, a Verbraucherzentrale, BEUC or another BEUC member) publicly announces a lawsuit, formal warning (Abmahnung) or complaint to an authority that specifically targets OpenAI's ChatGPT advertising (labelling, personalisation or separation of ads from answers), by 2027-02. Baseline as of 2026-11-01: Verbraucherzentrale NRW's guidance of 22 Oct 2026 mentions no complaint or legal action, and searches in German and English found no vzbv, Verbraucherzentrale or BEUC action on ChatGPT ads.
+- Horizon: 0–12 months (logged 2026-11, resolve by 2027-02)
+- Source: https://www.verbraucherzentrale.nrw/wissen/digitale-welt/onlinedienste/werbung-in-chatgpt-worauf-sie-jetzt-achten-sollten-126563, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
+### desire-2026-11-03
+- Claim: Meta announces or begins serving paid advertising placements inside Muse conversations (not Meta's existing feed ads, and not the transaction fee), documented by Meta or two reputable outlets, by 2027-03. Baseline as of 2026-11-01: on the 21 Oct 2026 Q3 call Meta named transaction fees and subscriptions as Muse revenue, and Muse data is not shared with ad systems; no Muse ad placement was found.
+- Horizon: 0–12 months (logged 2026-11, resolve by 2027-03)
+- Source: https://magica.com/news/meta-muse-commerce-revenue-per-user-bet, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
+### desire-2026-11-04
+- Claim: A US Bankruptcy Court order approves a sale of the Character.AI consumer platform (app, website and user accounts) to a named buyer, entered in Character Technologies' Chapter 11 case, by 2027-01. (pre-announced) Baseline as of 2026-11-01: the Disney stalking-horse bid covers only an IP licence and claims, not the platform or accounts, and no buyer for the platform is named.
+- Horizon: 0–12 months (logged 2026-11, resolve by 2027-01)
+- Source: https://www.techtimes.com/articles/328969/20261014/characterai-files-bankruptcy-12-million-users-private-conversations-now-disneys-bid.htm, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### desire-2026-08-04

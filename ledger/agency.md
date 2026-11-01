@@ -127,6 +127,30 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-11-01: open, Governor Waller's Sibos speech (29 Sep 2026) is a speech and announces no RFI or guidance, and searches found no agentic-payments RFI, guidance or interagency statement from the Fed, OCC, FDIC, CFPB or FinCEN (the April 2026 model-risk guidance excludes agentic AI and a promised AI RFI had not been confirmed issued) (source: https://www.federalreserve.gov/newsevents/speech/waller20260928a.htm, Sep 2026)
 
+### agency-2026-11-01
+- Claim: At least one of Bank of America, Wells Fargo, BBVA or Synchrony publicly announces that customers can connect an external AI agent to their account in production through a Poppy-based (Personal Agent Protocol) connection, shown by a bank, Sierra or Meta announcement or two reputable outlets; a demo or design-partner listing does not count. Resolve by 2027-02. Baseline as of 2026-11-01: Poppy is a draft (v0.1) with no 1.0 date, payments are deferred, and the four banks are described as exploring it with no live customer connection reported.
+- Horizon: 0–12 months (logged 2026-11, resolve by 2027-02)
+- Source: https://forkast.news/the-same-banks-writing-the-rules-for-ai-agents-are-the-ones-locking-them-out/, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
+### agency-2026-11-02
+- Claim: JPMorganChase, Bank of America, Citi or Wells Fargo publicly names at least one external AI agent or assistant (for example Muse, dots, ChatGPT or Claude) that its customers may authorise through a bank-controlled mechanism (not credential log-in) to initiate a payment or transfer, shown by a bank statement or two reputable outlets. Resolve by 2027-03. Baseline as of 2026-11-01: JPMorgan allows outside agents read-only data via connectors with no timeline for money movement, Citi allows read-only access for authorised providers, and Bank of America gave no date for its agent protocols.
+- Horizon: 0–12 months (logged 2026-11, resolve by 2027-03)
+- Source: https://www.pymnts.com/news/artificial-intelligence/2026/big-banks-will-not-let-outside-ai-agents-move-money/, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
+### agency-2026-11-03
+- Claim: Walmart makes Agent Profiles with customer spending limits generally available to customers (live in the Walmart account, documented by Walmart or two reputable outlets). Resolve by 2026-12. (pre-announced: Walmart said on 21 Oct 2026 it would launch within about a month) Baseline as of 2026-11-01: Agent Profiles are described as "due within the next month" and not live, and the Agent Gateway is beta by invitation.
+- Horizon: 0–12 months (logged 2026-11, resolve by 2026-12)
+- Source: https://thenextweb.com/news/walmart-ai-agents-shop-agent-profiles, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### agency-2026-08-03

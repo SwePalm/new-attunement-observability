@@ -163,6 +163,22 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-11-01: open, 29 and 30 Sep 2026 reports name only Democratic senators (Warner, Schatz, Kim) behind the Artificial Intelligence Risk Management and Security Act of 2026, with Cruz blocking it and no Republican support reported, and an 18 Oct 2026 report still calls it a Democratic-sponsored bill; congress.gov returned HTTP 403, so the cosponsor record itself was not opened (source: https://cryptobriefing.com/cruz-blocks-ai-safety-bill/, Sep 2026)
 
+### governance-2026-11-01
+- Claim: The New York Department of Financial Services (or its DIGIT office) publishes in the New York State Register or on dfs.ny.gov a proposed, emergency or adopted regulation implementing the RAISE Act's frontier-developer provisions. Resolve by 2027-01. Baseline as of 2026-11-01: the 21 Sep 2026 announcement describes registration from November and reporting from January 2027 but names no rule text, and a search on 1 Nov 2026 found no proposed or emergency regulation.
+- Horizon: 0–12 months (logged 2026-11, resolve by 2027-01)
+- Source: https://www.dfs.ny.gov/reports_and_publications/press_releases/pr20260921, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### governance-2026-11-02
+- Claim: The White House or a member of Congress publicly releases the text of the proposed statutory definition of "Super Intelligence" that Executive Order 14434 section 3(b) requires the science adviser to submit by 28 Nov 2026. (pre-announced) Resolve by 2027-01. Baseline as of 2026-11-01: the deadline has not passed, the order currently ties the term to the existing 15 U.S.C. 9401(3) definition, and no draft or bill was found.
+- Horizon: 0–12 months (logged 2026-11, resolve by 2027-01)
+- Source: https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### governance-2026-07-01

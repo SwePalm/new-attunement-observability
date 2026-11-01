@@ -156,6 +156,38 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-11-01: open, no CISA, FBI or NSA statement specifically about unsanctioned AI agent activity against US government or critical-infrastructure systems was found; the nearest item, NIST, NSA and CISA joint voluntary guidance of 16 Oct 2026 on incident readiness in superintelligence training and evaluation, covers agents acting outside their scope generally for frontier developers and does not mention government systems, critical infrastructure or the OpenAI incidents, so it does not meet the claim's text; resolve-by 2027-01 not passed (source: https://www.nist.gov/news-events/news/2026/10/key-practices-incident-readiness-and-response-super-intelligence-training, Oct 2026)
 
+### security-2026-11-01
+- Claim: CISA adds a vulnerability in a coding-agent product (Claude Code, OpenAI Codex, GitHub Copilot, Cursor, Gemini CLI or OpenClaw) or in an MCP SDK, server or inspector to its Known Exploited Vulnerabilities catalog. Resolve by 2027-01. Baseline as of 2026-11-01: the KEV catalog (version 2026.10.30, 1,766 entries) contains AI-stack entries for Langflow, LiteLLM and n8n but none for any coding-agent product or MCP component.
+- Horizon: 0–12 months (logged 2026-11, resolve by 2027-01)
+- Source: https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
+### security-2026-11-02
+- Claim: CISA changes the knownRansomwareCampaignUse field for CVE-2026-111497 (Brotli) from "Unknown" to "Known" in the KEV catalog. Resolve by 2027-01. Baseline as of 2026-11-01: the catalog released 30 Oct 2026 shows "Unknown" for CVE-2026-111497.
+- Horizon: 0–12 months (logged 2026-11, resolve by 2027-01)
+- Source: https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
+### security-2026-11-03
+- Claim: OpenAI, Anthropic, Google DeepMind, Microsoft, xAI or Meta publicly states, in an official post, policy or system card, that it has adopted, implemented or mapped its practices to the NIST CAISSI, NSA SISC and CISA "Key Practices for Incident Readiness and Response in Super Intelligence Training and Evaluation". Resolve by 2027-01. Baseline as of 2026-11-01: the Cloud Security Alliance note of 19 Oct 2026 lists Anthropic and Microsoft only as contributors to the document and reports no adoption statement, and a search for a developer statement found none (OpenAI's 23 Oct 2026 post could not be opened, HTTP 403).
+- Horizon: 0–12 months (logged 2026-11, resolve by 2027-01)
+- Source: https://labs.cloudsecurityalliance.org/research/csa-research-note-caissi-nsa-cisa-si-incident-readiness-2026/, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
+### security-2026-11-04
+- Claim: The Australian Government introduces into either House of the Commonwealth Parliament a bill containing a mandatory duty for technology companies to report "rogue AI" or AI-agent incidents to the Australian Signals Directorate or an affected organisation. Resolve by 2027-01. (pre-announced) Baseline as of 2026-11-01: as of 2 Oct 2026 no bill text had been published and the government said it hoped to introduce legislation before end of 2026, while a 6 Oct 2026 report says new plans are slated for 2027; no introduction found.
+- Horizon: 0–12 months (logged 2026-11, resolve by 2027-01)
+- Source: https://labs.cloudsecurityalliance.org/research/csa-research-note-australia-rogue-ai-incident-reporting-2026/, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### security-2026-07-01

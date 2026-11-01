@@ -175,6 +175,30 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-11-01: open, the 30 Sep 2026 Senate Homeland Security subcommittee hearing on rogue AI agents had no OpenAI witness (Sam Altman declined, per Sen. Hawley) and the article names no scheduled follow-up hearing; resolve-by 2027-02 (source: https://techpolicy.press/senate-hearing-weighs-threats-from-unrestrained-ai-agents-after-openai-hack, Oct 2026)
 
+### authority-2026-11-01
+- Claim: The California Government Operations Agency or the expert group convened under Executive Order N-9-26 publishes its recommendations for strengthening state AI safety law (including onsite independent verification organizations and a frontier-model "kill switch") on a state website, by 2026-12. (pre-announced) Baseline as of 2026-11-01: the order requires the guide "within two months" of 18 Sep 2026 (about 18 Nov 2026), and searches on 2026-11-01 found no published recommendations.
+- Horizon: 0–12 months (logged 2026-11, resolve by 2026-12)
+- Source: https://www.gov.ca.gov/2026/09/18/governor-newsom-issues-executive-order-to-accelerate-independent-oversight-and-advance-the-creation-of-an-ai-kill-switch/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### authority-2026-11-02
+- Claim: OpenAI files a notice of removal moving at least one state attorney-general consumer-protection suit (any of the Florida, Texas, Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho or Montana cases) from state court to a US federal court, shown on a federal docket or reported by two reputable outlets, by 2026-12. Baseline as of 2026-11-01: CNBC reports each of the eight states sued in its own state court and the Texas petition sits in Collin County district court, and searches found no removal notice or report of one.
+- Horizon: 0–12 months (logged 2026-11, resolve by 2026-12)
+- Source: https://www.cnbc.com/2026/10/14/openai-sued-by-8-states-over-chatgpt-safety-concerns-.html, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
+### authority-2026-11-03
+- Claim: An attorney general of a state other than Arizona, Arkansas, Florida, Idaho, Iowa, Kansas, Montana, Nebraska, Texas and West Virginia files a lawsuit against OpenAI over ChatGPT safety or deceptive safety claims, by 2027-01. Baseline as of 2026-11-01: ten states have sued (eight on 14 Oct 2026, Texas on 23 Oct 2026, Florida in June 2026) and a search for an eleventh state found none.
+- Horizon: 0–12 months (logged 2026-11, resolve by 2027-01)
+- Source: https://www.cnbc.com/2026/10/14/openai-sued-by-8-states-over-chatgpt-safety-concerns-.html, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### authority-2026-02-01

@@ -138,6 +138,38 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-11-01: open, the UCP releases page still shows v2026-08-25 as the latest tag and the announcements page lists no newer or scheduled release; resolve-by 2026-12 is next month (source: http://ucp.dev/documentation/announcements/, Sep 2026)
 
+### coordination-2026-11-01
+- Claim: The Agentic AI Foundation (Linux Foundation) lists an eleventh hosted project on aaif.io/projects or announces one in an aaif.io news or blog post, after the ten currently listed (A2A, Agent Router, Agent Skills, AGENTS.md, agentgateway, goose, MCP, Open Responses, OpenEnv, OpenSandbox), by 2027-01. Resolve by 2027-01. Baseline as of 2026-11-01: aaif.io/projects lists exactly ten projects, none labelled proposed or incubating, and searches of AAIF news found nothing after the 22 Oct 2026 announcement.
+- Horizon: 0–12 months (logged 2026-11, resolve by 2027-01)
+- Source: https://aaif.io/projects/, Nov 2026
+- Status: open
+- Grades:
+  - none yet
+
+### coordination-2026-11-02
+- Claim: The agentskills/agentskills repository (the Agent Skills standard donated to AAIF) publishes its first git tag or GitHub release, visible on github.com/agentskills/agentskills/releases or /tags, by 2027-01. Resolve by 2027-01. Baseline as of 2026-11-01: the repository's tags and releases lists are empty and the last commit to main is dated 9 Aug 2026; the 22 Oct 2026 AAIF release says nothing about versioning.
+- Horizon: 0–12 months (logged 2026-11, resolve by 2027-01)
+- Source: https://github.com/agentskills/agentskills, Nov 2026
+- Status: open
+- Grades:
+  - none yet
+
+### coordination-2026-11-03
+- Claim: The Open Responses project (openresponses/openresponses) publishes a dated specification snapshot after 2026-04-24, shown as a new dated entry in its CHANGELOG.md and a new folder under public/openapi/, by 2027-01. Resolve by 2027-01. Baseline as of 2026-11-01: CHANGELOG.md lists only 2026-04-24 and 2026-01-15, and public/openapi/ contains only those two dated folders plus openapi.json; commits through 29 Oct 2026 (charter, TypeSpec, docs layout) are not a published snapshot.
+- Horizon: 0–12 months (logged 2026-11, resolve by 2027-01)
+- Source: https://github.com/openresponses/openresponses, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
+### coordination-2026-11-04
+- Claim: The MCP project merges a charter for a working group or interest group dedicated to agent identity (for example "Agent Identity"), visible as a new page under modelcontextprotocol.io/community/working-groups/ or /interest-groups/, by 2027-01. Resolve by 2027-01. (pre-announced) Baseline as of 2026-11-01: the roadmap says the Agent Identity WG is "forming during this roadmap period", while llms.txt lists 14 working-group and 8 interest-group charters with none for agent identity and the guessed charter paths return HTTP 404.
+- Horizon: 0–12 months (logged 2026-11, resolve by 2027-01)
+- Source: https://modelcontextprotocol.io/development/roadmap, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### coordination-2026-08-03

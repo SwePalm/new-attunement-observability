@@ -191,6 +191,30 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-11-01: open, no court challenge to SB 947, SB 951 or AB 1883 found in legal press or coverage of the 30 Sep signings; reporting notes only a Meta class action that is not a challenge to the statutes (source: https://www.reedsmith.com/our-insights/blogs/employment-law-watch/102o52b/whats-new-in-california-a-closer-look-at-recently-enacted-senate-bill-947no-r/, Oct 2026)
 
+### labor-2026-11-01
+- Claim: Microsoft's Form 10-Q or earnings release for the quarter ending 31 Dec 2026, filed by 31 Jan 2027, discloses a charge of at least $500 million attributed to its voluntary exit (separation) program for about 60,000 eligible employees. Resolve by 2027-01. Slower clock risk: the filing date falls at the very end of January. Baseline as of 2026-11-01: employees have until early December to decide and Microsoft has not said how many it expects to accept or what the program will cost; no charge for the new program is disclosed.
+- Horizon: 0–12 months (logged 2026-11, resolve by 2027-01)
+- Source: https://www.fox29.com/news/microsoft-offers-voluntary-buyouts-60000-employees-tech-giant-reshapes-its-workforce, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
+### labor-2026-11-02
+- Claim: IG Metall announces a Urabstimmung (strike ballot of members) in at least one bargaining district of the 2026 metal and electrical round, as reported on igmetall.de or by two reputable German outlets. Resolve by 2027-01. Baseline as of 2026-11-01: only warning strikes were announced (from 1 Nov 2026) after the first employer offer was rejected on 27 Oct 2026; no 2026 Urabstimmung was found in searches run 1 Nov 2026.
+- Horizon: 0–12 months (logged 2026-11, resolve by 2027-01)
+- Source: https://www.boerse-online.de/dpa-afx/roundup-2-ig-metall-lehnt-erstes-angebot-ab-warnstreiks-kommen-561208.html, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
+### labor-2026-11-03
+- Claim: The Dutch government submits the Wet platformwerk (transposing Directive (EU) 2024/2831) to the Tweede Kamer, as shown by a Kamerstuk on tweedekamer.nl or officielebekendmakingen.nl. Resolve by 2027-03. Slower clock: the bill must first obtain Council of State advice after the consultation that closed 24 Aug 2026. (pre-announced) Baseline as of 2026-11-01: the draft completed consultation on 24 Aug 2026 and awaits Council of State advice; no submission to Parliament found, and the 2 Dec 2026 deadline will be missed.
+- Horizon: 0–12 months (logged 2026-11, resolve by 2027-03)
+- Source: https://remoteworkeurope.eu/news/2026/netherlands-platform-work-act-consultation-closes, Aug 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### labor-2026-02-01

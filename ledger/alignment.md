@@ -132,6 +132,38 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-11-01: open, reporting describes Hawley's 9 Sep 2026 letter with a 1 Oct deadline for 16 questions and documents as a document request, not compulsory process, and no coverage dated after 1 Oct reports a subpoena to OpenAI; resolve-by 2027-01 not passed
 
+### alignment-2026-11-01
+- Claim: METR publishes its independent investigation report on Anthropic's four cybersecurity-evaluation incidents (the engagement announced 9 Sep 2026), on metr.org or via Anthropic, by 2027-01. Baseline as of 2026-11-01: METR's blog index lists posts through 22 Oct 2026 and none is an investigation of Anthropic's incidents (its 20 Oct post reviews the Anthropic Risk Report, a different document); the initial eight-week agreement from 9 Sep is extendable.
+- Horizon: 0–12 months (logged 2026-11, resolve by 2027-01)
+- Source: https://metr.org/blog/, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
+### alignment-2026-11-02
+- Claim: Anthropic publishes its policy proposal on embedded third-party evaluators (the goal its roadmap dates 15 Dec 2026) on anthropic.com, by 2026-12. (pre-announced) Baseline as of 2026-11-01: the roadmap page, last updated 19 Oct 2026, lists the proposal as a future goal due 15 Dec 2026 and no proposal has been published.
+- Horizon: 0–12 months (logged 2026-11, resolve by 2026-12)
+- Source: https://www.anthropic.com/responsible-scaling-policy/updates, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
+### alignment-2026-11-03
+- Claim: OpenAI makes GPT-6.1 Astra generally available in ChatGPT, Codex or the API, or publishes a system card for it, by 2027-01. Baseline as of 2026-11-01: OpenAI cancelled the planned October release on 28 Sep 2026 after the model fell short on scope and authorization, no replacement date was stated, and searches found no release (a "coming soon" reply from an OpenAI Codex lead on social media is not an announcement).
+- Horizon: 0–12 months (logged 2026-11, resolve by 2027-01)
+- Source: https://aiweekly.co/alerts/openai-cancels-gpt-61-astra-launch-says-model-failed-scope-and-authorization, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
+### alignment-2026-11-04
+- Claim: OpenAI publishes a safety case document (an argued, evidence-based case for a named model or training run, not the generic 28 Sep 2026 framework), on openai.com or alignment.openai.com, by 2027-03. Slower clock because the framework is self-described as aspirational and no schedule exists. Baseline as of 2026-11-01: the only published material is the 28 Sep 2026 proposal, which OpenAI calls an "aspirational north star" with no follow-up publication schedule; no run-specific safety case has been published.
+- Horizon: 0–12 months (logged 2026-11, resolve by 2027-03)
+- Source: https://aiweekly.co/alerts/openai-outlines-safety-case-framework-for-frontier-training, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### alignment-2026-02-01

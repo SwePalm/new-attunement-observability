@@ -146,6 +146,39 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-11-01: open, no third state has imposed a statewide pause: Pennsylvania's Shapiro order requires local elected-official support rather than halting approvals, Oregon's Kotek is reported to support a moratorium without an order found, and a Virginia 3-year moratorium bill was only filed on 15 Oct 2026 (source: https://www.yahoo.com/news/politics/articles/election-2026-shapiro-says-data-224500809.html, Oct 2026)
+
+### power-2026-11-01
+- Claim: The Loudoun County Board of Supervisors (Virginia) adopts a resolution pausing consideration of legislative applications for data centers and substations, for up to 12 months, at or after its 17 Nov 2026 meeting, by 2026-12. (pre-announced) Baseline as of 2026-11-01: the Board voted 7-1-1 on 15 Sep 2026 only to have staff draft the resolution, and deferred it from 20 Oct to 17 Nov 2026; no pause is in force.
+- Horizon: 0–12 months (logged 2026-11, resolve by 2026-12)
+- Source: https://www.loudoun.gov/CivicAlerts.aspx?AID=10938, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
+### power-2026-11-02
+- Claim: A member of the 90th Texas Legislature (Sen. Joan Huffman or any other) files a bill that repeals or ends the state sales and use tax exemption for data centers, shown on Texas Legislature Online, by 2027-01. (pre-announced) Baseline as of 2026-11-01: Huffman had only "publicly committed to filing legislation" and no repeal bill was reported filed; the session begins in January 2027 (Texas Legislature Online not opened).
+- Horizon: 0–12 months (logged 2026-11, resolve by 2027-01)
+- Source: https://communityimpact.com/central-austin/texas-legislature/texas-spends-billions-on-tax-breaks-for-data-centers-theres-a-bipartisan-legislative-push-to-repeal-them/, Jul 2026
+- Status: open
+- Grades:
+  - none yet
+
+### power-2026-11-03
+- Claim: FERC issues an order on PJM's 29 Oct 2026 amended Reliability Backstop Procurement filing (accepting, rejecting in part or setting it for hearing), before the end of FERC's suspension on 28 Feb 2027, by 2027-01. (pre-announced) Baseline as of 2026-11-01: PJM filed on 29 Oct 2026 and no FERC order on the amended filing exists; PJM plans a bidding window opening 1 Mar 2027.
+- Horizon: 0–12 months (logged 2026-11, resolve by 2027-01)
+- Source: https://www.publicpower.org/periodical/article/pjm-files-amended-reliability-backstop-proposal-ferc, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
+### power-2026-11-04
+- Claim: Public Citizen, FracTracker Alliance, Environment Texas or another environmental or watchdog group files a lawsuit or mandamus petition in a Texas state or federal court against TCEQ or the State of Texas over data center permit processing or approvals under the 21 Sep 2026 halt, by 2027-01. Baseline as of 2026-11-01: the groups have published a report and one has requested a compliance inspection; coverage through 26 Oct 2026 mentions no lawsuit.
+- Horizon: 0–12 months (logged 2026-11, resolve by 2027-01)
+- Source: https://www.tpr.org/environment/2026-10-26/tceq-suspends-stormwater-approvals-other-data-center-related-reviews-appear-unchanged-after-watchdog-report, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
 ## Resolved claims
 
 ### power-2026-07-03
