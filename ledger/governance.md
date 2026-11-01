@@ -32,6 +32,7 @@ Format: see ledger/README.md. Append-only.
   - 2026-08-04: open, no comprehensive federal AI statute enacted; the bipartisan Great American AI Act remains an unintroduced discussion draft (released 4 Jun 2026) and the House moved only ten narrow AI bills, so the split landscape holds with resolve-by 2027-09 still ahead (source: https://www.mintz.com/insights-center/viewpoints/54941/2026-07-08-ai-washington-report-july-2026-edition, Jul 2026)
   - 2026-09-25: open, still no comprehensive federal AI statute: a 25 Sep 2026 state-law roundup reports Congress has yet to advance a general AI law while the administration continues to back preemption, so the split between state laws, executive action and courts holds with resolve-by 2027-09 ahead (source: https://natlawreview.com/article/us-ai-law-2026-midyear-state-update, Sep 2026)
   - 2026-10-01: open, checked 29 Sep 2026 Roll Call and early-Oct coverage: no comprehensive federal AI statute enacted, Congress still only drafting, so the split landscape holds with resolve-by 2027-09 ahead (source: https://rollcall.com/2026/09/29/congress-continues-back-seat-role-as-ai-execs-feted-at-white-house/, Sep 2026)
+  - 2026-11-01: open, checked Roll Call (29 Sep 2026) and Implicator (30 Sep 2026): no comprehensive federal AI statute enacted, the Warner AI safety board bill died on a Cruz objection to unanimous consent on 29 Sep, and the Cruz/Thune/Klobuchar bill is unintroduced, so the split between state laws, executive action and courts holds with resolve-by 2027-09 ahead (source: https://www.implicator.ai/cruz-blocks-ai-bill-requiring-45-day-model-access-as-trump-backs-voluntary-accord/, Sep 2026)
 
 ### governance-2026-07-03
 - Claim: At least three more jurisdictions globally adopt "simplification" packages that delay announced AI obligations by mid-2027, confirming CAL-002 as a general pattern.
@@ -43,8 +44,7 @@ Format: see ledger/README.md. Append-only.
   - 2026-08-04: open, the EU omnibus itself entered into force in July 2026 but no further jurisdiction adopted a new simplification package in the month since logging (Korea's penalty deferral and Colorado's delay both predate the claim window), so the count of qualifying post-Jun-2026 packages is zero of three with resolve-by 2027-09 (source: https://www.freshfields.com/en/our-thinking/blogs/technology-quotient/eu-ai-act-unpacked-34-the-final-digital-omnibus-on-ai-key-amendments-to-the-a-102nber, Jul 2026)
   - 2026-09-25: open, checked EU, US state and Asia-Pacific coverage for any new package adopted since Jun 2026 that delays announced AI obligations and found none (the only delay events on record, Colorado's Aug 2025 postponement and its May 2026 repeal-and-replace, predate the claim window), so the count stays at zero of three (source: https://natlawreview.com/article/us-ai-law-2026-midyear-state-update, Sep 2026)
   - 2026-10-01: open, searched EU, Asia-Pacific and Latin America coverage for any new package delaying announced AI obligations adopted since Jun 2026 and found none (only the EU omnibus itself, predating the claim), count stays zero of three
-
-### governance-2026-08-01
+  - 2026-11-01: open, searched for any jurisdiction other than the EU adopting a package that delays announced AI obligations since Jun 2026 (Korea, Japan, Brazil, UK, Canada, Australia and US states) and found none (only Colorado's earlier delays and the EU omnibus itself, both predating the claim, and Australia's Oct 2026 chatbot law, which adds obligations), so the count stays zero of three; the WebSearch budget ran out before a country-by-country re-check, so this is a not-found reading
 - Claim: The Article 50(2) machine-readable marking obligation for generative AI systems placed on the EU market before 2 August 2026 takes effect on 2 December 2026 without further deferral by the Commission or co-legislators.
 - Horizon: 0–12 months (logged 2026-08, resolve by 2027-01)
 - Source: https://www.faegredrinker.com/en/insights/publications/2026/7/eu-ai-act-commission-confirms-transparency-code-of-practice-as-adequate-and-publishes-final-version-of-its-guidelines-on-transparency-obligations, Jul 2026
@@ -53,6 +53,7 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-09-25: open, the Commission's Article 50 FAQ (last updated 24 Jul 2026) still sets 2 Dec 2026 as the compliance date for marking and detection by generative systems already on the market, and a 24 Sep 2026 practitioner roundup restates that date with no deferral vehicle in sight (source: https://digital-strategy.ec.europa.eu/en/faqs/transparency-obligations-under-article-50-ai-act, Jul 2026)
   - 2026-10-01: open, Commission news feed through 2 Oct 2026 shows no item proposing a deferral of the 2 Dec 2026 Art. 50(2) date, and practitioner coverage still restates it (source: https://digital-strategy.ec.europa.eu/en/news, Oct 2026)
+  - 2026-11-01: open, the Commission's Article 50 FAQ (last updated 24 Jul 2026) still sets 2 Dec 2026 for marking by generative systems already on the market, and the digital-strategy news feed through 30 Oct 2026 lists no deferral proposal, so the date holds with the event itself still a month away (source: https://digital-strategy.ec.europa.eu/en/faqs/transparency-obligations-under-article-50-ai-act, Jul 2026)
 
 ### governance-2026-08-02
 - Claim: The European Commission's AI Office or a national market surveillance authority publicly announces its first named Article 50 non-compliance proceeding, formal information request, or fine against an identified provider or deployer.
@@ -63,6 +64,7 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-09-25: open, the Commission confirmed on 1 Sep 2026 that the AI Office sent its first AI Act requests for information to more than 30 providers, but these rest on the general-purpose AI model powers, cover safety, copyright and model transparency rather than Article 50, and name no recipient, so no named Article 50 action exists yet (source: https://agenceurope.eu/en/bulletin/article/13929/31/european-commission-sends-first-requests-for-information-to-more-than-30-ai-providers, Sep 2026)
   - 2026-10-01: open, no named Art. 50 proceeding, information request or fine found; Commission feed to 2 Oct 2026 lists none and a search for coverage found no named action (latest report: none as of 27 Aug, unchanged)
+  - 2026-11-01: open, the Commission digital-strategy news feed through 30 Oct 2026 lists no Article 50 proceeding, information request or fine (titles only were visible), and no national authority action was found; the final Art. 50 search could not run because the WebSearch budget ran out (source: https://digital-strategy.ec.europa.eu/en/news, Oct 2026)
 
 ### governance-2026-08-03
 - Claim: The DOJ AI Litigation Task Force files its first affirmative complaint (not an intervention in a private suit) challenging a state AI law, naming a state other than Colorado.
@@ -73,8 +75,7 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-09-25: open, a 7 Sep 2026 US tracker finds the DOJ's only visible state-AI court action is still its 24 Apr 2026 intervention in the xAI v. Colorado suit, with no affirmative complaint against any other state; justice.gov news search returned HTTP 403 and could not be checked directly (source: https://vorplabs.com/ai-regulatory-updates/united-states/2026-09/colorado-admt-rules-california-ai-bills-ftc-cmg-order, Sep 2026)
   - 2026-10-01: open, no affirmative DOJ complaint against a state found; the only additional DOJ activity is an 18 Aug 2026 brief supporting xAI against Minnesota's nudification law, which backs a private suit and does not qualify; justice.gov remains unchecked (HTTP 403 last pass)
-
-### governance-2026-08-04
+  - 2026-11-01: open, searched for a DOJ AI Litigation Task Force complaint against any state and found none (a secondary report describes the task force as having filed nothing, with a first filing expected in Q4 2026); justice.gov was not opened and a 5 Oct 2026 Politico item could not be fetched, so this is unverified rather than negative
 - Claim: Illinois SB 315's 1 January 2027 obligations for large frontier developers take effect without a federal court injunction and without a legislative amendment delaying the date.
 - Horizon: 0–12 months (logged 2026-08, resolve by 2027-03)
 - Source: https://www.nortonrosefulbright.com/en/knowledge/publications/68f0462c/illinois-enacts-artificial-intelligence-safety-measures-act, Jul 2026
@@ -83,6 +84,7 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-09-25: open, a 25 Sep 2026 roundup lists the Illinois AI Safety Measures Act as enacted 6 Jul 2026 and effective 1 Jan 2027 with no litigation or amending bill reported; the ILGA bill-status page refused the connection and could not be checked directly (source: https://natlawreview.com/article/us-ai-law-2026-midyear-state-update, Sep 2026)
   - 2026-10-01: open, search of legal coverage found no injunction suit, amending bill or delay for the Illinois AI Safety Measures Act (effective 1 Jan 2027); ilga.gov bill status was not re-opened (connection refused last pass)
+  - 2026-11-01: open, a 31 Jul 2026 practitioner article records SB 315 (signed 6 Jul 2026) as effective 1 Jan 2027 with no lawsuit and no delay, and a 27 Oct 2026 Transparency Coalition release reports no delay or injunction; ilga.gov was not opened (source: https://www.legalexaminer.com/all/technology/illinois-new-ai-law-starts-january-2027-but/, Jul 2026)
 
 ### governance-2026-08-06
 - Claim: The European Commission adopts a non-compliance decision against TikTok, or accepts binding commitments from TikTok, in the Digital Services Act Article 28(1) proceeding on minors' account visibility for which preliminary findings issued 24 July 2026.
@@ -93,6 +95,7 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-09-25: open, the Commission's digital-strategy news feed from 24 Jul to 24 Sep 2026 lists no non-compliance decision and no accepted commitments in the TikTok minors proceeding, and the 24 Sep 2026 Digital Services Board statement does not mention it (source: https://digital-strategy.ec.europa.eu/en/news, Sep 2026)
   - 2026-10-01: open, Commission digital-strategy news feed through 2 Oct 2026 shows no TikTok minors non-compliance decision or accepted commitments (source: https://digital-strategy.ec.europa.eu/en/news, Oct 2026)
+  - 2026-11-01: open, the Commission news feed through 30 Oct 2026 lists no TikTok minors non-compliance decision or accepted commitments (only Temu commitments on 26 Oct), and no later coverage than the 24 Jul 2026 preliminary findings was found (source: https://digital-strategy.ec.europa.eu/en/news, Oct 2026)
 
 ### governance-2026-08-07
 - Claim: The California Attorney General publicly announces an enforcement action, formal investigation, or settlement under the California AI Transparency Act (SB 942 as amended by AB 853) against a named covered generative AI provider.
@@ -103,6 +106,7 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-09-25: open, the California Attorney General's press-release list from 29 Jun to 24 Sep 2026 contains no enforcement action, investigation or settlement under the AI Transparency Act, while the pending SB 1000 amendment reached the Governor on 2 Sep 2026 (source: https://oag.ca.gov/media/news, Sep 2026)
   - 2026-10-01: open, California AG press list through 24 Sep 2026 (latest entries) shows no AI Transparency Act action, only a 24 Sep call on Congress about catastrophic AI risk (source: https://oag.ca.gov/media/news, Sep 2026)
+  - 2026-11-01: open, the Attorney General's 1 Oct 2026 release on an investigative subpoena served on OpenAI concerns cybersecurity incidents and cites no AI Transparency Act, SB 942 or AB 853 basis, and the press list for 19 to 30 Oct 2026 shows no AI Transparency Act action, so the literal text is not met (source: https://oag.ca.gov/node/630636, Oct 2026)
 
 ### governance-2026-09-01
 - Claim: Senator Ted Cruz, Senator John Thune, or Senator Amy Klobuchar formally introduces in the US Senate (assigned an S. bill number) a bill that imposes a duty of care on frontier AI developers or authorizes a federal agency to block a model's release; as of 25 Sep 2026 the text remains an unreleased draft.
@@ -112,6 +116,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-10-01: open, 29 Sep 2026 Roll Call reports Cruz is still working on the catastrophic-risk bill with Thune and Klobuchar, and other coverage says no text, no bill number, so no S. number exists yet (source: https://rollcall.com/2026/09/29/congress-continues-back-seat-role-as-ai-execs-feted-at-white-house/, Sep 2026)
+  - 2026-11-01: open, a 30 Sep 2026 report calls the Cruz/Thune/Klobuchar bill a work in progress that has not been introduced, and an 18 Oct 2026 PYMNTS report on Anthropic's draft lists only the three Democratic-sponsored and Cantwell and Hawley bills, with no S. number for a Cruz, Thune or Klobuchar bill found (source: https://www.implicator.ai/cruz-blocks-ai-bill-requiring-45-day-model-access-as-trump-backs-voluntary-accord/, Sep 2026)
 
 ### governance-2026-09-02
 - Claim: The European Commission publicly announces, on its digital-strategy news page, a Digital Services Act request for information to OpenAI concerning ChatGPT or the opening of formal DSA proceedings against OpenAI, following ChatGPT's 31 Aug 2026 designation as a Very Large Online Search Engine; none found as of 25 Sep 2026.
@@ -121,6 +126,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-10-01: open, Commission news feed through 2 Oct 2026 lists the 31 Aug ChatGPT designation but no DSA request for information or proceedings against OpenAI (source: https://digital-strategy.ec.europa.eu/en/news, Oct 2026)
+  - 2026-11-01: open, the news feed through 30 Oct 2026 lists no OpenAI request for information or proceedings, and a 29 Oct 2026 article on ChatGPT search's EU user numbers reports none, with OpenAI's risk assessment due about four months after the 31 Aug designation (source: https://cryptobriefing.com/chatgpt-search-eu-monthly-users-dsa/, Oct 2026)
 
 ### governance-2026-09-03
 - Claim: A California legislator introduces a bill in the 2027-28 session requiring frontier AI developers to maintain an emergency shutdown capability or to host onsite independent verification organizations, the measures Governor Newsom's September 2026 executive order put up for recommendation (recommendations due 16 Nov 2026); no such bill exists as of 25 Sep 2026.
@@ -130,22 +136,14 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-10-01: open, searched for a California bill on emergency shutdown or onsite verification and found only Newsom's executive order with recommendations due 16 Nov 2026, and the 2027-28 session has not begun, so no bill exists
-
-### governance-2026-10-01
+  - 2026-11-01: open, searched for a California bill on emergency shutdown or onsite verification and found only Executive Order N-9-26 of 18 Sep 2026 with recommendations due 16 Nov 2026, and the 2027-28 session has not begun, so no bill exists
 - Claim: A company other than Anthropic, Google, Meta, OpenAI, Nvidia and xAI (for example Microsoft, Amazon, Apple or Mistral) is publicly confirmed, by the White House or by the company itself, as a signatory to or adherent of the "Joint Commitment on Frontier Responsibilities".
 - Horizon: 0–12 months (logged 2026-10, resolve by 2026-12)
 - Source: https://www.aitechdaily.com/trump-ai-joint-commitment-frontier-responsibilities/, Sep 2026
 - Status: open
 - Grades:
   - none yet
-
-### governance-2026-10-02
-- Claim: The White House publicly names a specific individual to a newly created AI czar, "AI Force" lead, or Joint Commitment compliance-oversight role, by press release, Truth Social post or executive order text.
-- Horizon: 0–12 months (logged 2026-10, resolve by 2026-12)
-- Source: https://www.aitechdaily.com/trump-ai-joint-commitment-frontier-responsibilities/, Sep 2026
-- Status: open
-- Grades:
-  - none yet
+  - 2026-11-01: open, the accord's six signatories (Anthropic, OpenAI, Google, Meta, xAI, Nvidia) are unchanged as of 1 Oct 2026 and Microsoft and Amazon are reported as not having signed, and a 30 Oct 2026 CNBC piece shows only terminology use by other firms (IBM, Intel, Palo Alto Networks) with no confirmed signatory or adherent (source: https://thenextweb.com/news/trump-ai-accord-zuckerberg-microsoft-amazon-didnt-sign, Oct 2026)
 
 ### governance-2026-10-03
 - Claim: The US or Chinese government publishes an official readout stating that a first session of the US-China "Dialogue on Superintelligence" has been held, or that the AI incident communication channel has been established with named participating agencies on each side., covering the two further Trump-Xi meetings planned for November.
@@ -154,6 +152,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-11-01: open, a 28 Sep 2026 report says the US-China Super Intelligence Dialogue's next exchange is due by November 2026 and names no agencies for the incident channel, and searches through 29 Oct 2026 found no official readout of a first session or of an established channel (the Trump-Xi talks at APEC in Shenzhen are still ahead); resolve-by 2026-12 is still ahead (source: https://thenextweb.com/news/us-china-super-intelligence-dialogue-ai-incident-channel, Sep 2026)
 
 ### governance-2026-10-04
 - Claim: A Republican member of the US Senate is added as a cosponsor of the Warner/Schatz frontier-AI testing bill introduced on 24 Sep 2026 (45-day pre-release access for a Commerce Department safety committee), as shown on its congress.gov record.
@@ -162,6 +161,7 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-11-01: open, 29 and 30 Sep 2026 reports name only Democratic senators (Warner, Schatz, Kim) behind the Artificial Intelligence Risk Management and Security Act of 2026, with Cruz blocking it and no Republican support reported, and an 18 Oct 2026 report still calls it a Democratic-sponsored bill; congress.gov returned HTTP 403, so the cosponsor record itself was not opened (source: https://cryptobriefing.com/cruz-blocks-ai-safety-bill/, Sep 2026)
 
 ## Resolved claims
 
@@ -198,3 +198,12 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-09-25: confirmed, the Texas Attorney General's Consumer AI Rights page carries a "File An AI Complaint" link into the office's consumer complaint portal, and an Internet Archive capture shows the link already live on 2 Jul 2026, ahead of the 1 Sep 2026 statutory deadline and before this claim was logged (source: https://web.archive.org/web/20260702085451/https://www.texasattorneygeneral.gov/consumer-protection/file-consumer-complaint/consumer-ai-rights, Jul 2026)
+
+### governance-2026-10-02
+- Claim: The White House publicly names a specific individual to a newly created AI czar, "AI Force" lead, or Joint Commitment compliance-oversight role, by press release, Truth Social post or executive order text.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2026-12)
+- Source: https://www.aitechdaily.com/trump-ai-joint-commitment-frontier-responsibilities/, Sep 2026
+- Status: confirmed
+- Grades:
+  - none yet
+  - 2026-11-01: confirmed, Trump announced in a Truth Social post on 4 Oct 2026 that Director of National Intelligence Jay Clayton will lead the new "Super Intelligence Force" as White House AI czar (source: https://www.kuow.org/npr-news/2026-10-04/trump-names-national-intelligence-chief-jay-clayton-as-new-ai-czar, Oct 2026)
