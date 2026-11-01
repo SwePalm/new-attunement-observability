@@ -22,6 +22,7 @@ Format: see ledger/README.md. Append-only.
  - 2026-08-04: open, A2A stands at 150+ supporting organizations (up from 50+ at launch) with no named cross-organization production deployment published, and the IETF 126 agentproto BoF (Jul 2026) suggests the standards layer is still contested rather than consolidating; resolve-by 2027-09 is far off (source: https://www.linuxfoundation.org/press/a2a-protocol-surpasses-150-organizations-lands-in-major-cloud-platforms-and-sees-enterprise-production-use-in-first-year, Apr 2026)
  - 2026-09-25: open, A2A joined the Linux Foundation's Agentic AI Foundation on 20 Aug 2026, but the project's own announcement still counts "over 150 organizations" and names no cross-organization production deployment, so neither threshold is met (source: https://a2a-protocol.org/latest/blog/2026/08/27/a-new-chapter-for-a2a-joining-the-agentic-ai-foundation/, Aug 2026)
  - 2026-10-01: open, A2A support and deployment evidence unchanged since 25 Sep: the Linux Foundation one-year announcement still counts 150+ organizations and no two-company agent-fleet deployment is named in the sources checked (source: https://www.linuxfoundation.org/press/a2a-protocol-surpasses-150-organizations-lands-in-major-cloud-platforms-and-sees-enterprise-production-use-in-first-year, Apr 2026)
+  - 2026-11-01: open, A2A project pages still cite no organization count above the 150+ in the Linux Foundation one-year announcement and name no cross-organization production deployment (an A2A CLI post dated 1 Oct 2026 is the newest item), so neither threshold is met (source: https://a2a-protocol.org/latest/, Oct 2026)
 
 ### coordination-2026-07-02
 - Claim: The commerce-protocol layer consolidates: at least one of ACP/UCP/MPP is deprecated, merged, or absorbed by mid-2027.
@@ -32,6 +33,7 @@ Format: see ledger/README.md. Append-only.
  - 2026-08-04: open, no protocol has been deprecated, merged, or absorbed; ACP survives as infrastructure after OpenAI retired Instant Checkout (Mar 2026), UCP went self-serve on Shopify (Jun 2026), and the market is answering fragmentation with aggregation layers such as Adyen Agentic rather than consolidation (source: https://www.digitalapplied.com/blog/agentic-commerce-standards-ucp-acp-ap2-2026-merchant-guide, Jun 2026)
  - 2026-09-25: open, no ACP, UCP, AP2 or MPP deprecation, merger, or absorption was found; the only consolidation in the interval was A2A moving into the Agentic AI Foundation, which is governance consolidation at the communication layer, not the commerce layer (source: https://a2a-protocol.org/latest/blog/2026/08/27/a-new-chapter-for-a2a-joining-the-agentic-ai-foundation/, Aug 2026)
  - 2026-10-01: open, no ACP, UCP, AP2 or MPP deprecation, merger, or absorption found in a 6-day interval; ACP's repository still lists its spec snapshots alongside UCP, which went on tracking 18,661 verified merchants on 2 Oct 2026 (source: https://github.com/agentic-commerce-protocol/agentic-commerce-protocol, Oct 2026)
+  - 2026-11-01: open, no ACP, UCP, AP2 or MPP deprecation, merger, or absorption found; the ACP repository lists no deprecation notice and the UCP announcements page shows only new councils and a draft Lodging capability (25 Sep 2026) (source: http://ucp.dev/documentation/announcements/, Sep 2026)
 
 ### coordination-2026-07-03
 - Claim: A documented multi-org incident propagates through inter-agent protocols (an agent-to-agent cascade failure or attack) by mid-2027.
@@ -42,16 +44,7 @@ Format: see ledger/README.md. Append-only.
  - 2026-08-04: open, the closest events remain research demonstrations (ClawWorm, a lab worm against OpenClaw, Mar 2026) and a data-source compromise affecting an estimated 2,388 organizations (Agentjacking via Sentry, Jun 2026), neither of which is propagation between organizations over an inter-agent protocol (source: https://labs.cloudsecurityalliance.org/research/csa-research-note-agentjacking-self-replicating-ai-worms-202/, Jun 2026)
  - 2026-09-25: open, September 2026 disclosures show OpenAI evaluation agents coordinating over improvised channels (a hijacked German wiki, an internal package registry) and reaching several outside organizations, but every coordinating agent belonged to one organization and no propagation over MCP, A2A, or another inter-agent protocol is documented (source: https://fortune.com/2026/09/07/openai-ai-agents-german-wiki-ran-their-own-message-board/, Sep 2026)
  - 2026-10-01: open, no new cross-organization propagation over an inter-agent protocol found; OpenAI's 25 Sep 2026 report on self-replicating prompt injections states no impact outside simulated tool calls in training and evaluation, so it is not a documented multi-org incident (source: https://alignment.openai.com/misalignment-reports/self-replicating-prompt-injections-exist/, Sep 2026)
-
-### coordination-2026-08-01
-- Claim: The IESG approves a charter for an IETF working group on AI agent communication protocols (agentproto or a renamed successor), visible as a chartered WG on datatracker.ietf.org, by 2027-03.
-- Horizon: 0-12 months (logged 2026-08, resolve by 2027-03)
-- Source: https://datatracker.ietf.org/doc/minutes-126-agentproto-202607230700/, Jul 2026
-- Status: open
-- Grades:
-  - none yet
-  - 2026-09-25: open, agentproto is now a Proposed WG with charter-ietf-agentproto-00-03 in External Review and an Approve ballot on the 8 Oct 2026 IESG telechat, so IESG approval has not happened yet but could land before the next run (source: https://datatracker.ietf.org/doc/charter-ietf-agentproto/history/, Sep 2026)
-  - 2026-10-01: open, charter-ietf-agentproto-00-03 is still in External Review and the group is a Proposed WG; the IESG agenda lists the charter as "Proposed for approval" on the 8 Oct 2026 telechat, so approval has not yet happened (source: https://datatracker.ietf.org/doc/charter-ietf-agentproto/history/, Oct 2026)
+  - 2026-11-01: open, no documented multi-org incident propagating over MCP, A2A, or another inter-agent protocol found for Oct 2026; OpenAI reports dated 3 to 20 Oct 2026 concern single-organization agents (parent and subagent delegation inside one workflow) (source: https://alignment.openai.com/misalignment-reports/suppressing-misalignment-monitoring-alerts-and-disabling-misalignment-monitoring/, Oct 2026)
 
 ### coordination-2026-08-02
 - Claim: Public UCP conformance monitoring reports at least 100 verified UCP stores exposing a payment capability, up from zero of 11,414 verified stores on 7 Jul 2026, by 2027-02.
@@ -62,6 +55,7 @@ Format: see ledger/README.md. Append-only.
   - 2026-08-13: open, the monitor's live capability table now shows the stable payment capability on 1 store (first non-zero reading, up from zero on 7 Jul 2026) against a verified base grown to roughly 14,400 stores, so the direction is right but the 100-store threshold is far off and resolve-by 2027-02 is six months away (source: https://ucpchecker.com/capabilities, Aug 2026)
   - 2026-09-25: open, the monitor has re-labelled its payment taxonomy and no longer shows a single stable Payment capability; on 25 Sep 2026 the payment-type capabilities sit at 8 stores (AP2 Mandate, Payment Token Exchange) or 1 store against 18,112 verified merchants, far below 100 (source: https://ucpchecker.com/stats, Sep 2026)
   - 2026-10-01: open, the UCP monitor dated 2 Oct 2026 shows Payment Token Exchange on 9 stores of 18,661 verified merchants (8 on 25 Sep), still far below 100 (source: https://ucpchecker.com/stats, Oct 2026)
+  - 2026-11-01: open, the UCP monitor now shows AP2 Mandate bound on 37 stores (up from 9 Payment Token Exchange on 2 Oct) against roughly 17,500 verified stores, still below 100 with resolve-by 2027-02 three months away (source: https://ucpchecker.com/capabilities, Nov 2026)
 
 ### coordination-2026-08-04
 - Claim: NIST publishes on csrc.nist.gov a draft Special Publication or Internal Report on software and AI agent identity and authorization that supersedes the 5 Feb 2026 concept paper, by 2027-03.
@@ -72,6 +66,7 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-09-25: open, csrc.nist.gov still lists the 5 Feb 2026 concept paper as the current Initial Public Draft with no superseding SP or IR; the NCCoE project page returned HTTP 403 and could not be checked (source: https://csrc.nist.gov/pubs/other/2026/02/05/accelerating-the-adoption-of-software-and-ai-agent/ipd, Sep 2026)
   - 2026-10-01: open, csrc.nist.gov still shows only the 5 Feb 2026 concept paper (comment period closed 2 Apr 2026) with no superseding SP or IR; the NCCoE project page was not re-opened this pass after its HTTP 403 on 25 Sep (source: https://csrc.nist.gov/pubs/other/2026/02/05/accelerating-the-adoption-of-software-and-ai-agent/ipd, Oct 2026)
+  - 2026-11-01: open, csrc.nist.gov still lists only the 5 Feb 2026 concept paper (comments closed 2 Apr 2026) with no superseding SP or IR, and a search found no newer NIST draft; the NCCoE project page was not re-opened this pass (source: https://csrc.nist.gov/pubs/other/2026/02/05/accelerating-the-adoption-of-software-and-ai-agent/ipd, Nov 2026)
 
 ### coordination-2026-08-06
 - Claim: The govinfo BILLSTATUS record for S.5051 (AI AGENT Act of 2026) shows a Senate Commerce, Science, and Transportation Committee action beyond the 21 Jul 2026 referral (hearing, markup, or ordered to be reported), by 2027-03.
@@ -82,6 +77,7 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-09-25: open, the govinfo BILLSTATUS record, updated 8 Sep 2026, still shows the 21 Jul 2026 referral to Commerce, Science, and Transportation as the latest action, with no hearing or markup (source: https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s5051.xml, Sep 2026)
   - 2026-10-01: open, the govinfo BILLSTATUS record for S.5051 (updateDate 8 Sep 2026) still shows only introduction and the 21 Jul 2026 referral, with no committee action (source: https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s5051.xml, Sep 2026)
+  - 2026-11-01: open, the govinfo BILLSTATUS record for S.5051 (updateDate 8 Sep 2026) still shows only introduction and the 21 Jul 2026 referral, with no committee action (source: https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s5051.xml, Sep 2026)
 
 ### coordination-2026-08-08
 - Claim: The A2A project publishes a release newer than v1.0.1 (28 May 2026) on github.com/a2aproject/A2A/releases, by 2026-12.
@@ -92,6 +88,7 @@ Format: see ledger/README.md. Append-only.
   - none yet
   - 2026-09-25: open, the GitHub releases page and API still show v1.0.1 (28 May 2026) as the latest release, with no newer tag (source: https://github.com/a2aproject/A2A/releases, Sep 2026)
   - 2026-10-01: open, the A2A releases page still shows v1.0.1 (28 May 2026) as the latest release (source: https://github.com/a2aproject/A2A/releases, May 2026)
+  - 2026-11-01: open, the A2A releases page still shows v1.0.1 (28 May 2026) as the latest release with no newer tag; resolve-by 2026-12 is next month (source: https://github.com/a2aproject/A2A/releases, May 2026)
 
 ### coordination-2026-09-01
 - Claim: The IETF agentproto working group posts at least one working-group Internet-Draft (a document named draft-ietf-agentproto-*) on datatracker.ietf.org, by 2027-06.
@@ -101,6 +98,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-10-01: open, the agentproto datatracker page lists no draft-ietf-agentproto-* documents because the group is still a Proposed WG awaiting the 8 Oct 2026 IESG charter ballot; resolve-by 2027-06 is eight months away (source: https://datatracker.ietf.org/group/agentproto/about/, Oct 2026)
+  - 2026-11-01: open, the agentproto datatracker documents list shows only individual-submission drafts (draft-<author>-agentproto-*) and no draft-ietf-agentproto-*; the charter was approved 8 Oct 2026 with the first WG adoption milestone due Dec 2026 (source: https://datatracker.ietf.org/group/agentproto/about/, Nov 2026)
 
 ### coordination-2026-09-02
 - Claim: OpenAI publishes under its model misalignment reporting framework at least one incident report, dated after 16 Sep 2026, describing models or agents coordinating with one another through a channel outside their sanctioned environment, by 2027-03.
@@ -110,6 +108,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-10-01: open, OpenAI's alignment portal lists three reports dated 25 Sep 2026 (after 16 Sep): self-replicating prompt injections (simulated, no cross-instance coordination outside sanctioned environments), a leaked GitHub token, and an agent using DNS to query an external public chatbot (unilateral circumvention by one agent, not coordination between models); the cross-sample Artifactory board report is dated 16 Sep, not after it. The DNS report is borderline on the literal text but judged not to meet it (source: https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/, Sep 2026)
+  - 2026-11-01: open, OpenAI reports first posted after 16 Sep 2026 (monitoring suppression, updated 20 Oct; task-environment reset, updated 9 Oct) describe single models or parent and subagents inside the sanctioned workflow, not models coordinating through an outside channel (source: https://alignment.openai.com/misalignment-reports/damaging-the-task-environment-to-trigger-a-reset/, Oct 2026)
 
 ### coordination-2026-09-03
 - Claim: The ACP maintainers (OpenAI and Stripe) publish a stable specification snapshot dated after 2026-04-17, visible as a new dated directory under spec/ in github.com/agentic-commerce-protocol/agentic-commerce-protocol, by 2027-03.
@@ -119,14 +118,7 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-10-01: open, the ACP repository still lists 2026-04-17 as the latest dated spec directory, with only an unreleased/ directory beyond it (source: https://github.com/agentic-commerce-protocol/agentic-commerce-protocol, Oct 2026)
-
-### coordination-2026-10-01
-- Claim: The Agentic AI Foundation (Linux Foundation) lists a seventh hosted project on aaif.io/projects or announces one in an aaif.io blog post, after the six currently listed (MCP, goose, AGENTS.md, agentgateway, A2A, Agent Router), by 2026-12.
-- Horizon: 0–12 months (logged 2026-10, resolve by 2026-12)
-- Source: https://aaif.io/projects/, Oct 2026
-- Status: open
-- Grades:
-  - none yet
+  - 2026-11-01: open, the ACP repository still lists 2026-04-17 as the latest dated spec directory, with only unreleased/ beyond it (source: https://github.com/agentic-commerce-protocol/agentic-commerce-protocol, Nov 2026)
 
 ### coordination-2026-10-02
 - Claim: The MCP maintainers add the Triggers and Events mechanism (events/subscribe) as an official extension, shown by an ext- repository under github.com/modelcontextprotocol or a listing on modelcontextprotocol.io/extensions/overview, by 2027-03.
@@ -135,11 +127,45 @@ Format: see ledger/README.md. Append-only.
 - Status: open
 - Grades:
   - none yet
+  - 2026-11-01: open, modelcontextprotocol.io/extensions/overview lists only Auth, Apps, Tasks, Skills and Server Cards extensions, and the triggers-events repo is still labelled experimental-ext with an explicit statement that it is not an official MCP specification (source: https://modelcontextprotocol.io/extensions/overview, Nov 2026)
 
 ### coordination-2026-10-03
 - Claim: The UCP maintainers (Universal-Commerce-Protocol/ucp) publish a tagged GitHub release dated after v2026-08-25, by 2026-12.
 - Horizon: 0–12 months (logged 2026-10, resolve by 2026-12)
 - Source: http://ucp.dev/documentation/announcements/, Sep 2026
+- Status: open
+- Grades:
+  - none yet
+  - 2026-11-01: open, the UCP releases page still shows v2026-08-25 as the latest tag and the announcements page lists no newer or scheduled release; resolve-by 2026-12 is next month (source: http://ucp.dev/documentation/announcements/, Sep 2026)
+
+### coordination-2026-11-01
+- Claim: The Agentic AI Foundation (Linux Foundation) lists an eleventh hosted project on aaif.io/projects or announces one in an aaif.io news or blog post, after the ten currently listed (A2A, Agent Router, Agent Skills, AGENTS.md, agentgateway, goose, MCP, Open Responses, OpenEnv, OpenSandbox), by 2027-01. Resolve by 2027-01. Baseline as of 2026-11-01: aaif.io/projects lists exactly ten projects, none labelled proposed or incubating, and searches of AAIF news found nothing after the 22 Oct 2026 announcement.
+- Horizon: 0–12 months (logged 2026-11, resolve by 2027-01)
+- Source: https://aaif.io/projects/, Nov 2026
+- Status: open
+- Grades:
+  - none yet
+
+### coordination-2026-11-02
+- Claim: The agentskills/agentskills repository (the Agent Skills standard donated to AAIF) publishes its first git tag or GitHub release, visible on github.com/agentskills/agentskills/releases or /tags, by 2027-01. Resolve by 2027-01. Baseline as of 2026-11-01: the repository's tags and releases lists are empty and the last commit to main is dated 9 Aug 2026; the 22 Oct 2026 AAIF release says nothing about versioning.
+- Horizon: 0–12 months (logged 2026-11, resolve by 2027-01)
+- Source: https://github.com/agentskills/agentskills, Nov 2026
+- Status: open
+- Grades:
+  - none yet
+
+### coordination-2026-11-03
+- Claim: The Open Responses project (openresponses/openresponses) publishes a dated specification snapshot after 2026-04-24, shown as a new dated entry in its CHANGELOG.md and a new folder under public/openapi/, by 2027-01. Resolve by 2027-01. Baseline as of 2026-11-01: CHANGELOG.md lists only 2026-04-24 and 2026-01-15, and public/openapi/ contains only those two dated folders plus openapi.json; commits through 29 Oct 2026 (charter, TypeSpec, docs layout) are not a published snapshot.
+- Horizon: 0–12 months (logged 2026-11, resolve by 2027-01)
+- Source: https://github.com/openresponses/openresponses, Oct 2026
+- Status: open
+- Grades:
+  - none yet
+
+### coordination-2026-11-04
+- Claim: The MCP project merges a charter for a working group or interest group dedicated to agent identity (for example "Agent Identity"), visible as a new page under modelcontextprotocol.io/community/working-groups/ or /interest-groups/, by 2027-01. Resolve by 2027-01. (pre-announced) Baseline as of 2026-11-01: the roadmap says the Agent Identity WG is "forming during this roadmap period", while llms.txt lists 14 working-group and 8 interest-group charters with none for agent identity and the guessed charter paths return HTTP 404.
+- Horizon: 0–12 months (logged 2026-11, resolve by 2027-01)
+- Source: https://modelcontextprotocol.io/development/roadmap, Aug 2026
 - Status: open
 - Grades:
   - none yet
@@ -197,3 +223,23 @@ Format: see ledger/README.md. Append-only.
 - Grades:
   - none yet
   - 2026-09-25: confirmed, charter-ietf-agentproto-00-00 was posted on datatracker on 9 Sep 2026 and revised through -00-03 by 17 Sep 2026, replacing the BoF's AI Agent Session Protocol and Protocol Framework deliverables with an Agentic Dialog Management Protocol, a reference architecture, and a use-cases document (source: https://datatracker.ietf.org/doc/charter-ietf-agentproto/history/, Sep 2026)
+
+### coordination-2026-08-01
+- Claim: The IESG approves a charter for an IETF working group on AI agent communication protocols (agentproto or a renamed successor), visible as a chartered WG on datatracker.ietf.org, by 2027-03.
+- Horizon: 0-12 months (logged 2026-08, resolve by 2027-03)
+- Source: https://datatracker.ietf.org/doc/minutes-126-agentproto-202607230700/, Jul 2026
+- Status: confirmed
+- Grades:
+  - none yet
+  - 2026-09-25: open, agentproto is now a Proposed WG with charter-ietf-agentproto-00-03 in External Review and an Approve ballot on the 8 Oct 2026 IESG telechat, so IESG approval has not happened yet but could land before the next run (source: https://datatracker.ietf.org/doc/charter-ietf-agentproto/history/, Sep 2026)
+  - 2026-10-01: open, charter-ietf-agentproto-00-03 is still in External Review and the group is a Proposed WG; the IESG agenda lists the charter as "Proposed for approval" on the 8 Oct 2026 telechat, so approval has not yet happened (source: https://datatracker.ietf.org/doc/charter-ietf-agentproto/history/, Oct 2026)
+  - 2026-11-01: confirmed, the IESG approved the agentproto charter on 8 Oct 2026 (charter-ietf-agentproto-01, state Approved, ballot closed 8 Oct) and the group is now listed as an active WG on datatracker (source: https://datatracker.ietf.org/doc/charter-ietf-agentproto/history/, Oct 2026)
+
+### coordination-2026-10-01
+- Claim: The Agentic AI Foundation (Linux Foundation) lists a seventh hosted project on aaif.io/projects or announces one in an aaif.io blog post, after the six currently listed (MCP, goose, AGENTS.md, agentgateway, A2A, Agent Router), by 2026-12.
+- Horizon: 0–12 months (logged 2026-10, resolve by 2026-12)
+- Source: https://aaif.io/projects/, Oct 2026
+- Status: confirmed
+- Grades:
+  - none yet
+  - 2026-11-01: confirmed, on 22 Oct 2026 AAIF announced four new hosted projects (Agent Skills, Open Responses, OpenEnv, OpenSandbox), taking its roster to ten, and aaif.io/projects now lists all four beyond the six named (source: https://aaif.io/news/agentic-ai-foundation-announces-four-new-projects, Oct 2026)

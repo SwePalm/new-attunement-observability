@@ -1,0 +1,25 @@
+Scorecard:
+- open: 14, confirmed: 1, decayed: 0, falsified: 0, expired: 0
+
+Grade Details:
+- authority-2026-07-01: open, the Colorado Department of Law's revised draft of 6 Oct 2026 and 26 Oct 2026 hearing mean final rules (which start xAI's 28-day injunction clock) are not yet adopted, and searches found no ruling striking or enjoining a state AI law in any Task Force matter; the CourtListener docket returned HTTP 403 so it could not be opened (source: https://labs.cloudsecurityalliance.org/research/csa-research-note-colorado-admt-chatbot-rulemaking-20261020/, Oct 2026)
+- authority-2026-07-02: open, searches found no October 2026 chamber vote or introduced preemption statute, and the Thune, Cruz, Klobuchar text remains an unpublished draft; resolve-by 2027-09
+- authority-2026-07-03: open, searched for any state repeal or weakening tied to BEAD in October 2026 and found only the earlier Louisiana withdrawal and May 2026 reporting that NTIA's onerous-law guidance was pending; no new state action found, and the NTIA page was not opened
+- authority-2026-08-01: open, searches found no Commission or AI Office announcement naming a recipient of its general-purpose AI information requests, and no company has confirmed receipt, so the named-provider condition remains unmet
+- authority-2026-08-02: open, the Federal Register API (checked 2026-11-01) lists FTC documents through 26 Oct 2026 and still shows only the 7 Jul 2026 notice (document 2026-13628, comments closed 31 Jul 2026) for the statement, with no final, revised or withdrawn version (source: https://www.federalregister.gov/documents/2026/07/07/2026-13628/policy-statement-concerning-the-suppression-of-accuracy-in-artificial-intelligence-systems, Jul 2026)
+- authority-2026-08-03: open, searches for a DOJ or industry suit against Illinois SB 315 (effective 1 Jan 2027) found no filing, only commentary expecting challenges
+- authority-2026-08-04: open, the case cannot move to its injunction stage until Colorado finally adopts rules after the 26 Oct 2026 hearing, and no report of dismissal, withdrawal or mootness was found; the CourtListener docket returned HTTP 403 and could not be opened (source: https://labs.cloudsecurityalliance.org/research/csa-research-note-colorado-admt-chatbot-rulemaking-20261020/, Oct 2026)
+- authority-2026-08-06: open, no named-provider EU step under the DSA, GDPR or consumer law was found after the 31 Aug 2026 ChatGPT designation (the Commission's 1 Oct 2026 statement on regulator access to ChatGPT data is a legal clarification, not an enforcement step), and the AI Act requests remain unnamed
+- authority-2026-08-07: open, the hearing was held on 26 Oct 2026 and the Department of Law will draft final rules from comments received through that date, with no adoption found as of 2026-11-01, though adoption in November or December remains possible given the 1 Jan 2027 target (source: https://labs.cloudsecurityalliance.org/research/csa-research-note-colorado-admt-chatbot-rulemaking-20261020/, Oct 2026)
+- authority-2026-09-01: open, searches found no congress.gov record or bill number for the four-senator duty-of-care draft, which reporting still describes as under negotiation; resolve-by 2027-03
+- authority-2026-09-02: open, searches found no California AG civil action, settlement or penalty citing SB 53 against a named frontier developer, only the earlier consumer-protection investigation of OpenAI
+- authority-2026-09-03: open, searches found only investigative steps (Alabama subpoena, 15-state preservation letter, California and Montana probes) and no lawsuit, settlement or assurance concerning the Hugging Face incident
+- authority-2026-09-04: open, searches found no 2027-28 session kill-switch bill introduced by a California legislator, and Newsom's order sets recommendations for 16 Nov 2026; the 2027-28 session bill-introduction window is still ahead
+- authority-2026-10-02: open, the 30 Sep 2026 Senate Homeland Security subcommittee hearing on rogue AI agents had no OpenAI witness (Sam Altman declined, per Sen. Hawley) and the article names no scheduled follow-up hearing; resolve-by 2027-02 (source: https://techpolicy.press/senate-hearing-weighs-threats-from-unrestrained-ai-agents-after-openai-hack, Oct 2026)
+
+Qualifying Events:
+- Anthropic's public Form S-1 of 26 Oct 2026 disclosing an October 2026 FTC civil investigative demand (the FTC probe was announced 30 Sep 2026 and the demands were sent about 14 to 15 Oct 2026) resolves authority-2026-10-01 only. No other claim ID in any theme known to this pass watches that disclosure.
+
+Surprises:
+- authority-2026-10-01 confirmed within one month of logging, but the qualifying event (S-1 disclosure) postdates the logging date; the probe itself was pre-announced, the company-side confirmation was not. Tagged forward, not pre-announced, since no actor had announced it would disclose.
+- Primary pages could not be opened for the xAI v. Weiser docket (CourtListener HTTP 403) or coag.gov/ai (empty summary), so authority-2026-07-01 and authority-2026-08-04 rest on dated secondary notices; held open as unverified rather than inferred negative.

@@ -1,0 +1,21 @@
+Scorecard:
+- open: 11, confirmed: 0, decayed: 0, falsified: 0, expired: 0
+
+Grade Details:
+- agency-2026-07-01: open, no timing tag (not resolved), neither Adobe nor Morgan Stanley publishes an agent-mediated share of US e-commerce; Adobe's 2026 holiday forecast gives only AI-referred traffic growth (+130%), and resolve-by 2027-09 has not passed (Adobe forecast PDF not opened; found via search coverage).
+- agency-2026-07-02: open, no timing tag (not resolved), Visa's fiscal Q4 call (27 Oct 2026) and Mastercard's Q3 call (29 Oct 2026) both call agentic volume small or early and report no agent-specific fraud or dispute wave or revised protection terms (source: https://www.fool.com/earnings/call-transcripts/2026/10/28/visa-v-q4-2026-earnings-call-transcript/, Oct 2026)
+- agency-2026-08-01: open, no timing tag (not resolved), the gov.uk page is now "Closed consultation" (closed 6 Oct 2026) with HM Treasury "analysing your feedback" and no outcome published (source: https://www.gov.uk/government/consultations/modernising-payment-services-regulation, Jul 2026)
+- agency-2026-08-02: open, no timing tag (not resolved), literal-text check across both late-Oct 2026 earnings cycles found only partner counts ("nearly 50 AI partners live"), "weekly growth rates" without a number and "not yet significant" language, with no count, dollar volume or share (source: https://www.sec.gov/Archives/edgar/data/0001141391/000114139126000122/ma09302026-exx991xearnings.htm, Oct 2026)
+- agency-2026-08-07: open, no timing tag (not resolved), AISI's 23 Oct 2026 post says it is "sharing transcripts and relevant access with METR" for an independent review but reports no outcome; the post is a follow-up to the incident but not the one the claim requires (source: https://aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident, Oct 2026)
+- agency-2026-09-01: open, no timing tag (not resolved), no complaint or declaratory action found through Oct 2026; Forkast (12 Oct 2026) found no development since the 20 Sep block (source: https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/, Sep 2026)
+- agency-2026-09-02: open, no timing tag (not resolved), the 10 Sep 2026 KYA collaboration still publishes no certification requirements and names no pilot merchant or institution; BuildFin.ai and MAS pages were not opened (source: https://technode.com/2026/09/10/ant-international-visa-and-mastercard-develop-know-your-agent-framework-for-ai-payments/, Sep 2026)
+- agency-2026-09-03: open, no timing tag (not resolved), Chinese-language coverage (24 to 28 Aug 2026) shows the filing obligation but no institution stating a completed filing and no association list; the association's site was not opened.
+- agency-2026-10-01: open, no timing tag (not resolved), literal-text check on the 1 Sep 2026 v1.0 draft framework: it names KYA and Agentic Transaction Indicators only as items "under consideration" for future publications, so it is neither a non-draft version nor a draft covering them (source: https://www.emvco.com/?p=134726, Sep 2026)
+- agency-2026-10-02: open, no timing tag (not resolved), Mastercard's 30 Sep 2026 announcement describes US testing and the 29 Oct 2026 call does not say the score is live in production; the mastercard.com press page returned HTTP 403, so the testing status rests on secondary coverage (source: https://www.fool.com/earnings/call-transcripts/2026/10/29/mastercard-ma-q3-2026-earnings-call-transcript/, Oct 2026)
+- agency-2026-10-03: open, no timing tag (not resolved), Waller's Sibos speech (29 Sep 2026) is a speech and announces nothing, and no agentic-payments RFI, guidance or interagency statement from the Fed, OCC, FDIC, CFPB or FinCEN was found (source: https://www.federalreserve.gov/newsevents/speech/waller20260928a.htm, Sep 2026)
+
+Qualifying Events:
+- None. No claim resolved this run, so no event resolves any claim.
+
+Surprises:
+- None. All 11 live claims stayed open; the nearest-to-resolving items (agency-2026-08-02 and agency-2026-10-02, keyed to the late-Oct 2026 earnings cycle) yielded qualitative commentary only. Note for the calibration pass: agency-2026-10-01 is a CAL-006-style near miss, since EMVCo's actual 1 Sep draft mentions the claim's topics only as future items.

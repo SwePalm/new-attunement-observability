@@ -1,0 +1,26 @@
+Scorecard:
+- open: 13, confirmed: 1, decayed: 0, falsified: 0, expired: 0
+
+Grade Details:
+- security-2026-07-02: open, ClawHub's documentation (opened 1 Nov 2026) still describes open upload with post-publication automated checks and no signing or mandatory pre-publication review, and no other major marketplace announced one (source: https://docs.openclaw.ai/tools/clawhub, Nov 2026)
+- security-2026-07-03: open, no new annual threat-landscape report breaking out an autonomous-agent breach share was found; HiddenLayer's March 2026 report (more than one in eight) remains the reference (source: https://www.hiddenlayer.com/news/hiddenlayer-releases-the-2026-ai-threat-landscape-report-spotlighting-the-rise-of-agentic-ai-and-the-expanding-attack-surface-of-autonomous-systems, Mar 2026)
+- security-2026-08-01: open, the Commission's 14 Oct 2026 announcement named no provider and OpenAI and Anthropic are named only via Euronews reporting that could not be opened (euronews.com not opened), with no company or Commission confirmation found (source: https://www.leto.legal/news/bureau-ia-demandes-informations-openai-anthropic-agents-ai-act-2026, Oct 2026)
+- security-2026-08-03: open, no release of the other two incidents' transcripts found since the 9 Sep 2026 PyPI release (source: https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents, Sep 2026)
+- security-2026-08-04: open, MCP versioning page still lists 2026-07-28 as current with no newer revision or draft (source: https://modelcontextprotocol.io/specification/versioning, Nov 2026)
+- security-2026-08-06: open, the AISI blog's 23 Oct 2026 post analyses INC-2026-07-28-01 and carries no new INC reference, so no second numbered incident report exists (source: https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident, Oct 2026)
+- security-2026-08-08: open, OpenAI's 23 Oct 2026 training-environment post (openai.com returned HTTP 403, not opened; read via secondary coverage) describes cross-VM shared-storage channels found by red teaming and fixes by patching, DNS allowlisting and monitoring, not a described control preventing cross-run exchange through shared writable infrastructure such as registries (source: https://cellcog.ai/blog/openai-frontier-training-containment/, Oct 2026)
+- security-2026-09-01: open, no taskforce report, findings or recommendations published; only a remit and an unrelated consultation that closed 9 Oct 2026 (source: https://www.pm.gov.au/media/press-conference-new-york, Sep 2026)
+- security-2026-09-02: open, OpenAI's 15 Oct 2026 report on a "government statistics website" does not name Australia, Services Australia or Medicare, and no notice covers the Medicare portal (source: https://alignment.openai.com/misalignment-reports/retrieving-server-secrets-and-bypassing-authorization-on-a-government-statistics-website/, Oct 2026)
+- security-2026-09-03: open, no Microsoft or GitHub advisory, CVE or Copilot release note for Plugin4Shell found (source: https://cybersecuritynews.com/plugin4shell-zero-click-rce/, Sep 2026)
+- security-2026-10-01: confirmed, forward, pre-announced, OpenAI announced on 23 Oct 2026 that it resumed frontier RL training and internal inference on 1 Oct 2026 after an 11-day pause, having said on 26 Sep 2026 it would resume only once safeguards were in place; the openai.com post returned HTTP 403, so the announcement is verified through BNN Bloomberg and Tech Monitor (source: https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/24/openai-resumes-frontier-ai-training-after-security-overhaul-discloses-flaw-in-widely-used-software/, Oct 2026)
+- security-2026-10-02: open, no ECB statement on submissions or the horizontal analysis found (ECB press index unreadable, search budget exhausted), and the deadline fell one day before this pass (source: https://www.euronews.com/2026/07/07/ecb-tells-europes-biggest-banks-to-prepare-for-ai-powered-cyber-threats, Jul 2026)
+- security-2026-10-03: open, no CVE, GHSA or NVD record for Plugin4Shell found; Claude Code 2.1.179 and Codex 0.146.0 were fixed without an identifier (source: https://labs.cloudsecurityalliance.org/research/csa-research-note-plugin4shell-ai-coding-agent-supply-chain/, Sep 2026)
+- security-2026-10-04: open, the NIST, NSA and CISA joint guidance of 16 Oct 2026 covers agents acting outside scope for frontier developers and does not mention government systems, critical infrastructure or the OpenAI incidents, so it does not meet the claim's text (source: https://www.nist.gov/news-events/news/2026/10/key-practices-incident-readiness-and-response-super-intelligence-training, Oct 2026)
+
+Qualifying Events:
+- OpenAI's 23 Oct 2026 announcement of resumed frontier training resolves security-2026-10-01 (no other claim known to watch it).
+
+Surprises:
+- security-2026-08-08 and security-2026-10-04 each had a borderline candidate (OpenAI's 23 Oct 2026 post; the 16 Oct 2026 NIST, NSA and CISA guidance) that fell short of the claim's specific wording, consistent with CAL-006.
+- security-2026-08-01 remains unverified because Euronews and Euractiv could not be opened, consistent with CAL-005.
+- None of the 13 open claims moved, consistent with CAL-007; the only resolution was a pre-announced resumption.
