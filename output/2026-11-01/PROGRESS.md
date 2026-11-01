@@ -45,7 +45,10 @@ Citation gate: mechanical script passed after two regenerations (autonomy: neste
 Dedupe: 40 candidates proposed, 2 dropped as duplicates (governance 3 and authority 2, duplicates of the autonomy Super Intelligence Force incident-reporting protocol candidate), 38 appended (IDs <theme>-2026-11-NN).
 
 ## Phase C, theme-selection
-- [ ] SELECTION.md
+- [x] SELECTION.md (no forced themes; selected by score: responsibility 11, alignment 11, authority 11, coordination 10)
 
 ## Phase D, deep dive
-Filled after selection.
+- [ ] responsibility: structural-question, exploration, pestle, forces-feelings, scenario, evaluation
+- [ ] alignment: structural-question, exploration, pestle, forces-feelings, scenario, evaluation
+- [ ] authority: structural-question, exploration, pestle, forces-feelings, scenario, evaluation
+- [ ] coordination: structural-question, exploration, pestle, forces-feelings, scenario, evaluation
