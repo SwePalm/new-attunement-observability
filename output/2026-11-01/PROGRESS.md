@@ -48,7 +48,11 @@ Dedupe: 40 candidates proposed, 2 dropped as duplicates (governance 3 and author
 - [x] SELECTION.md (no forced themes; selected by score: responsibility 11, alignment 11, authority 11, coordination 10)
 
 ## Phase D, deep dive
-- [ ] responsibility: structural-question, exploration, pestle, forces-feelings, scenario, evaluation
-- [ ] alignment: structural-question, exploration, pestle, forces-feelings, scenario, evaluation
-- [ ] authority: structural-question, exploration, pestle, forces-feelings, scenario, evaluation
-- [ ] coordination: structural-question, exploration, pestle, forces-feelings, scenario, evaluation
+- [x] responsibility: structural-question, exploration, pestle, forces-feelings, scenario, evaluation
+- [x] alignment: structural-question, exploration, pestle, forces-feelings, scenario, evaluation
+- [x] authority: structural-question, exploration, pestle, forces-feelings, scenario, evaluation
+- [x] coordination: structural-question, exploration, pestle, forces-feelings, scenario, evaluation
+
+Phase D eval scores: responsibility 7.1, alignment 6.9, authority 7.1, coordination 6.6 (mean 6.93). Three agents were interrupted by a machine sleep after step 1 and resumed; all six steps completed for all four themes.
+Flags for instrument-review: high convergence across same-run scenarios (shared case-file form, vantage and 'declined offer' close in alignment, authority, coordination, and dependency); many HTTP 403 primary sources and exhausted WebSearch budget left several grades as unverified open.
+Run complete.
